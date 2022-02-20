@@ -1,4 +1,6 @@
-ent-FireExtinguisher = fire extinguisher
-    .desc = It extinguishes fires.
-ent-ExtinguisherSpray = extinguisher spray
+ent-FireExtinguisher = огнетушитель
+    .desc = Он тушит пожары.
+    .suffix = { "" }
+ent-ExtinguisherSpray = спрей огнетушителя
     .desc = { ent-Vapor.desc }
+    .suffix = { "" }
