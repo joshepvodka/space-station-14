@@ -24,8 +24,14 @@ ent-AirlockSecurity = { ent-Airlock }
     .desc = { ent-Airlock.desc }
 ent-AirlockMaint = maintenance hatch
     .desc = { ent-Airlock.desc }
+<<<<<<< HEAD
 ent-AirlockGlass = glass airlock
+=======
+    .suffix = { "" }
+ent-AirlockGlass = стеклянный шлюз
+>>>>>>> 2b67cb6424 (Update locale scripts & add new locale files (#106))
     .desc = { ent-Airlock.desc }
+    .suffix = { "" }
 ent-AirlockEngineeringGlass = { ent-AirlockGlass }
     .suffix = Engineering
     .desc = { ent-AirlockGlass.desc }
