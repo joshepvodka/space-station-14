@@ -6,6 +6,13 @@
   components:
   - type: Computer
     board: AlertsComputerCircuitboard
+  - type: AlertsConsole
+  - type: ActivatableUI
+    key: enum.AlertsConsoleUiKey.Key
+  - type: UserInterface
+    interfaces:
+      - key: enum.AlertsConsoleUiKey.Key
+        type: AlertsConsoleBoundUserInterface
   - type: Sprite
     layers:
     - map: ["computerLayerBody"]
