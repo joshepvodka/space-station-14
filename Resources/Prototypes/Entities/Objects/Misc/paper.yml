@@ -334,6 +334,7 @@
 #      white: "#e6e6e6"
 #      grey: "#999999"
 #      black: "#3f3f3f"
+#      green: "#488C40"
   - type: Item
     sprite: Objects/Misc/bureaucracy.rsi
     size: Small
@@ -436,6 +437,19 @@
     layers:
     - state: folder-colormap
       color: "#3f3f3f"
+    - state: folder-base
+
+- type: entity
+  id: BoxFolderGreen
+  parent: BoxFolderBase
+  suffix: Green
+  description: CentCom is said to hold pre-written faxes in these folders.
+  components:
+  - type: Sprite
+    sprite: Objects/Misc/bureaucracy.rsi
+    layers:
+    - state: folder-colormap
+      color: "#488C40"
     - state: folder-base
 
 - type: entity
