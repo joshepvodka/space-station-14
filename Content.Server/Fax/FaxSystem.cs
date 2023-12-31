@@ -62,6 +62,11 @@ public sealed class FaxSystem : EntitySystem
 
         // UI
         SubscribeLocalEvent<FaxMachineComponent, AfterActivatableUIOpenEvent>(OnToggleInterface);
+<<<<<<< HEAD
+=======
+        SubscribeLocalEvent<FaxMachineComponent, FaxFileMessage>(OnFileButtonPressed);
+        SubscribeLocalEvent<FaxMachineComponent, FaxCopyMessage>(OnCopyButtonPressed);
+>>>>>>> 0803f24bce (added)
         SubscribeLocalEvent<FaxMachineComponent, FaxSendMessage>(OnSendButtonPressed);
         SubscribeLocalEvent<FaxMachineComponent, FaxRefreshMessage>(OnRefreshButtonPressed);
         SubscribeLocalEvent<FaxMachineComponent, FaxDestinationMessage>(OnDestinationSelected);
@@ -290,6 +295,19 @@ public sealed class FaxSystem : EntitySystem
         UpdateUserInterface(uid, component);
     }
 
+<<<<<<< HEAD
+=======
+    private void OnFileButtonPressed(EntityUid uid, FaxMachineComponent component, FaxFileMessage args)
+    {
+        PrintFile(uid, component, args);
+    }
+
+    private void OnCopyButtonPressed(EntityUid uid, FaxMachineComponent component, FaxCopyMessage args)
+    {
+        Copy(uid, component);
+    }
+
+>>>>>>> 0803f24bce (added)
     private void OnSendButtonPressed(EntityUid uid, FaxMachineComponent component, FaxSendMessage args)
     {
         Send(uid, component, args.Session.AttachedEntity);
@@ -369,6 +387,61 @@ public sealed class FaxSystem : EntitySystem
     }
 
     /// <summary>
+<<<<<<< HEAD
+=======
+    ///     Makes fax print from a file from the computer. A timeout is set after copying,
+    ///     which is shared by the send button.
+    /// </summary>
+    public void PrintFile(EntityUid uid, FaxMachineComponent component, FaxFileMessage args)
+    {
+        string prototype;
+        if(args.OfficePaper)
+            prototype = "PaperOffice";
+        else
+            prototype = "Paper";
+        var printout = new FaxPrintout(args.Content, args.Name, prototype);
+
+        component.PrintingQueue.Enqueue(printout);
+        component.SendTimeoutRemaining += component.SendTimeout;
+
+        UpdateUserInterface(uid, component);
+    }
+
+    /// <summary>
+    ///     Copies the paper in the fax. A timeout is set after copying,
+    ///     which is shared by the send button.
+    /// </summary>
+    public void Copy(EntityUid uid, FaxMachineComponent? component = null)
+    {
+        if (!Resolve(uid, ref component))
+            return;
+
+        var sendEntity = component.PaperSlot.Item;
+        if (sendEntity == null)
+            return;
+
+        if (!TryComp<MetaDataComponent>(sendEntity, out var metadata) ||
+            !TryComp<PaperComponent>(sendEntity, out var paper))
+            return;
+
+        // TODO: See comment in 'Send()' about not being able to copy whole entities
+        var printout = new FaxPrintout(paper.Content,
+                                       metadata.EntityName,
+                                       metadata.EntityPrototype?.ID ?? DefaultPaperPrototypeId,
+                                       paper.StampState,
+                                       paper.StampedBy);
+
+        component.PrintingQueue.Enqueue(printout);
+        component.SendTimeoutRemaining += component.SendTimeout;
+
+        // Don't play component.SendSound - it clashes with the printing sound, which
+        // will start immediately.
+
+        UpdateUserInterface(uid, component);
+    }
+
+    /// <summary>
+>>>>>>> 0803f24bce (added)
     ///     Sends message to addressee if paper is set and a known fax is selected
     ///     A timeout is set after sending
     /// </summary>

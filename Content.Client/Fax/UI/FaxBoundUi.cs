@@ -1,12 +1,16 @@
 using Content.Shared.Fax;
 using JetBrains.Annotations;
 using Robust.Client.GameObjects;
+using Robust.Client.UserInterface;
 
 namespace Content.Client.Fax.UI;
 
 [UsedImplicitly]
 public sealed class FaxBoundUi : BoundUserInterface
 {
+    
+    [Dependency] public readonly IFileDialogManager FileDialogManager = default!;
+
     [ViewVariables]
     private FaxWindow? _window;
 
@@ -18,13 +22,18 @@ public sealed class FaxBoundUi : BoundUserInterface
     {
         base.Open();
 
-        _window = new FaxWindow();
+        _window = new FaxWindow(this);
         _window.OpenCentered();
 
         _window.OnClose += Close;
         _window.SendButtonPressed += OnSendButtonPressed;
         _window.RefreshButtonPressed += OnRefreshButtonPressed;
         _window.PeerSelected += OnPeerSelected;
+    }
+
+    public void PrintFile(string content, string name, bool officePaper)
+    {
+        SendMessage(new FaxFileMessage(content, name, officePaper));
     }
 
     private void OnSendButtonPressed()
