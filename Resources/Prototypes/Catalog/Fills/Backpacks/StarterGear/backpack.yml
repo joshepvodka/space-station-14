@@ -59,7 +59,7 @@
     contents:
       - id: BoxSurvival
       - id: Flash
-      - id: RubberStampCentcomInspector
+      - id: RubberStampInternalAffairs
 
 - type: entity
   noSpawn: true

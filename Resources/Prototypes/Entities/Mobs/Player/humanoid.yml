@@ -419,9 +419,9 @@
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
-      state: cci
+      state: iaa
     - type: RandomHumanoidSpawner
-      settings: InternalAffairsAgent
+      settings: CentcomInspector
 
 - type: randomHumanoidSettings
   id: CentcomInspector
@@ -429,10 +429,10 @@
     - type: MindShield
     - type: GhostRole
       name: ghost-role-information-centcom-inspector-name
-      description: ghost-role-information-centcom-inspeector-description
+      description: ghost-role-information-centcom-inspector-description
     - type: GhostTakeoverAvailable
     - type: Loadout
-      prototypes: [ CentcomInspectorGear ]
+      prototypes: [ InternalAffairsAgentGear ]
 
 ## Syndicate
 

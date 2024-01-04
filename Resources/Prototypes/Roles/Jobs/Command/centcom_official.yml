@@ -63,15 +63,15 @@
   id: InternalAffairsAgentGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomAgent
-    back: ClothingBackpackCentcomInspectorFilled
+    back: ClothingBackpackInternalAffairsFilled
     shoes: ClothingShoesBootsLaceup
     eyes: ClothingEyesGlassesSunglasses
     belt: BoxFolderCentComClipboard
-    id: CentcomInspectorPDA
+    id: InternalAffairsPDA
     ears: ClothingHeadsetAltCentCom
     pocket1: PenCentcom
     pocket2: BoxFolderGreen
   inhand:
     - BriefcaseBrownFilled
-  satchel: ClothingBackpackSatchelCentcomInspectorFilled
-  duffelbag: ClothingBackpackDuffelCentcomInspectorFilled
+  satchel: ClothingBackpackSatchelInternalAffairsFilled
+  duffelbag: ClothingBackpackDuffelInternalAffairsFilled

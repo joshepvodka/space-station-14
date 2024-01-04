@@ -671,18 +671,18 @@
     state: stamp-cap
 
 - type: entity
-  name: central inspector rubber stamp
+  name: internal affairs rubber stamp
   parent: RubberStampBase
-  id: RubberStampCentcomInspector
+  id: RubberStampInternalAffairs
   suffix: DO NOT MAP
   components:
   - type: Stamp
-    stampedName: stamp-component-stamped-name-centcom-inspector
+    stampedName: stamp-component-stamped-name-iaa
     stampedColor: "#006c47"
-    stampState: "paper_stamp-centcom-inspector"
+    stampState: "paper_stamp-internal-affairs"
   - type: Sprite
     sprite: Objects/Misc/bureaucracy.rsi
-    state: stamp-centcom-inspector
+    state: stamp-internal-affairs
 
 - type: entity
   name: CentCom rubber stamp
