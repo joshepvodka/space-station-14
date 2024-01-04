@@ -75,7 +75,7 @@
 - type: entity
   noSpawn: true
   parent: ClothingBackpackSatchelCaptain
-  id: ClothingBackpackSatchelCentcomInspectorFilled
+  id: ClothingBackpackSatchelInternalAffairsFilled
   components:
   - type: StorageFill
     contents:

@@ -26,10 +26,10 @@
     pocket2: PenCentcom
 
 - type: job
-  id: CentralCommandInspector
-  name: job-name-centcomins
-  description: job-description-centcomins
-  playTimeTracker: JobCentralCommandInspector
+  id: InternalAffairsAgent
+  name: job-name-iaa
+  description: job-description-iaa
+  playTimeTracker: JobInternalAffairsAgent
   requirements:
     - !type:RoleTimeRequirement
       role: JobCaptain
@@ -43,19 +43,15 @@
   setPreference: true
   requireAdminNotify: true
   weight: 20
-  startingGear: CentcomInspectorGear
-  icon: "JobIconCentralCommandInspector"
+  startingGear: InternalAffairsAgentGear
+  icon: "JobIconInternalAffairsAgent"
   supervisors: job-supervisors-centcom
   canBeAntag: false
   access:
   - Command
-  - Service
   - Maintenance
-  - Engineering
-  - Research
   - Brig
-  - Cargo
-  - Medical
+  - InternalAffairs
   special:
   - !type:AddImplantSpecial
     implants: [ MindShieldImplant ]
@@ -64,7 +60,7 @@
       - type: CommandStaff
 
 - type: startingGear
-  id: CentcomInspectorGear
+  id: InternalAffairsAgentGear
   equipment:
     jumpsuit: ClothingUniformJumpsuitCentcomAgent
     back: ClothingBackpackCentcomInspectorFilled

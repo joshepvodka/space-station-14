@@ -10,12 +10,17 @@
   id: HeadOfPersonnel
   name: id-card-access-level-head-of-personnel
 
+- type: accessLevel
+  id: InternalAffairs
+  name: id-card-access-level-internal-affairs
+
 - type: accessGroup
   id: Command
   tags:
   - Command
   - Captain
   - HeadOfPersonnel
+  - InternalAffairs
 
 - type: accessLevel
   id: EmergencyShuttleRepealAll

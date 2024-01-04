@@ -48,10 +48,10 @@
 
 - type: statusIcon
   parent: JobIcon
-  id: JobIconCentralCommandInspector
+  id: JobIconInternalAffairsAgent
   icon:
     sprite: Interface/Misc/job_icons.rsi
-    state: CentComInspector
+    state: InternalAffairsAgent
 
 - type: statusIcon
   parent: JobIcon

@@ -311,12 +311,12 @@
       - state: captain
 
 - type: entity
-  id: SpawnPointCentComInspector
+  id: SpawnPointInternalAffairs
   parent: SpawnPointJobBase
-  name: centcom inspector
+  name: internal affairs agent
   components:
   - type: SpawnPoint
-    job_id: CentralCommandInspector
+    job_id: InternalAffairsAgent
   - type: Sprite
     layers:
       - state: green

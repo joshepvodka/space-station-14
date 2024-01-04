@@ -440,17 +440,17 @@
 
 - type: entity
   parent: IDCardStandard
-  id: CentcomInspectorIDCard
-  name: central inspector ID card
+  id: InternalAffairsIDCard
+  name: internal affairs agent ID card
   components:
   - type: Sprite
     layers:
     - state: centcom
-    - state: idcentcominspector
+    - state: idinternalaffairs
   - type: Item
     heldPrefix: silver
   - type: PresetIdCard
-    job: CentralCommandInspector
+    job: InternalAffairsAgent
 
 - type: entity
   parent: IDCardStandard

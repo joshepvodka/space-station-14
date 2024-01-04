@@ -53,7 +53,7 @@
 - type: entity
   noSpawn: true
   parent: ClothingBackpackCaptain
-  id: ClothingBackpackCentcomInspectorFilled
+  id: ClothingBackpackInternalAffairsFilled
   components:
   - type: StorageFill
     contents:

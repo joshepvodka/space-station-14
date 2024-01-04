@@ -421,7 +421,7 @@
       sprite: Markers/jobs.rsi
       state: cci
     - type: RandomHumanoidSpawner
-      settings: CentcomInspector
+      settings: InternalAffairsAgent
 
 - type: randomHumanoidSettings
   id: CentcomInspector

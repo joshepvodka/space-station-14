@@ -632,13 +632,13 @@
 
 - type: entity
   parent: BasePDA
-  id: CentcomInspectorPDA
-  name: central inspector PDA
+  id: InternalAffairsPDA
+  name: internal affairs agent PDA
   description: The article for Space Law is bookmarked.
   components:
   - type: Pda
-    id: CentcomInspectorIDCard
-    state: pda-centcom-inspector
+    id: InternalAffairsIDCard
+    state: pda-internal-affairs
     penSlot:
       startingItem: PenCentcom
       whitelist:
@@ -647,7 +647,7 @@
   - type: PdaBorderColor
     borderColor: "#006c47"
   - type: Icon
-    state: pda-centcom-inspector
+    state: pda-internal-affairs
 
 - type: entity
   parent: BasePDA
