@@ -42,6 +42,18 @@ public sealed class FaxSystem : EntitySystem
 
     private const string PaperSlotId = "Paper";
 
+<<<<<<< HEAD
+=======
+    /// <summary>
+    ///     The prototype ID to use for faxed or copied entities if we can't get one from
+    ///     the paper entity for whatever reason.
+    /// </summary>
+    [ValidatePrototypeId<EntityPrototype>]
+    private const string DefaultPaperPrototypeId = "Paper";
+    [ValidatePrototypeId<EntityPrototype>]
+    private const string OfficePaperPrototypeId = "PaperOffice";
+
+>>>>>>> c91f6893fe (fixed what sloth wanted)
     public override void Initialize()
     {
         base.Initialize();
@@ -396,11 +408,11 @@ public sealed class FaxSystem : EntitySystem
     {
         string prototype;
         if(args.OfficePaper)
-            prototype = "PaperOffice";
+            prototype = OfficePaperPrototypeId;
         else
-            prototype = "Paper";
-        var printout = new FaxPrintout(args.Content, args.Name, prototype);
+            prototype = DefaultPaperPrototypeId;
 
+        var printout = new FaxPrintout(args.Content, args.Name, prototype);
         component.PrintingQueue.Enqueue(printout);
         component.SendTimeoutRemaining += component.SendTimeout;
 
