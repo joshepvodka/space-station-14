@@ -1,4 +1,5 @@
 1. executa o yamlextractor.py
 2. executa o keyfinder.py
 3. executa o fluentformatter.py
-4. pronto!
+4. deletar a pasta ss14_ru do en-US
+5. pronto!
