@@ -1,6 +1,5 @@
 ent-MaterialBase = { ent-BaseItem }
     .desc = A raw material.
-    .suffix = { "" }
 ent-MaterialBananium = bananium
     .suffix = Full
     .desc = { ent-MaterialBase.desc }
@@ -57,10 +56,7 @@ ent-MaterialWoodPlank1 = { ent-MaterialWoodPlank }
     .desc = { ent-MaterialWoodPlank.desc }
 ent-MaterialHideBear = bear hide
     .desc = { ent-MaterialBase.desc }
-    .suffix = { "" }
 ent-MaterialHideCat = cat hide
     .desc = { ent-MaterialBase.desc }
-    .suffix = { "" }
 ent-MaterialHideCorgi = corgi hide
     .desc = { ent-MaterialBase.desc }
-    .suffix = { "" }

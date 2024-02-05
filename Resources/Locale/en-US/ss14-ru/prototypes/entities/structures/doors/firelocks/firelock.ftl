@@ -1,9 +1,6 @@
 ent-Firelock = firelock
     .desc = Apply crowbar.
-    .suffix = { "" }
 ent-FirelockGlass = glass firelock
     .desc = { ent-Firelock.desc }
-    .suffix = { "" }
 ent-FirelockEdge = firelock
     .desc = { ent-Firelock.desc }
-    .suffix = { "" }

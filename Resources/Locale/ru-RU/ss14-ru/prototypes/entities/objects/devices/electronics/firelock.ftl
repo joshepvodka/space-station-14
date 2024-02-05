@@ -1,3 +1,2 @@
-ent-FirelockElectronics = микросхема пожарного шлюза
-    .desc = Продвинутая плата, используемая для обнаружения разницы в давлении, температуре и концентрации газов между двумя сторонами двери.
-    .suffix = { "" }
+ent-FirelockElectronics = firelock electronics
+    .desc = Advanced circuit board used to detect differences in pressure, temperature and gas concentrations between the two sides of the door.

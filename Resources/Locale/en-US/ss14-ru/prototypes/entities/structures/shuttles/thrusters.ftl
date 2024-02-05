@@ -1,9 +1,6 @@
 ent-BaseThruster = thruster
     .desc = It goes nyooooooom.
-    .suffix = { "" }
 ent-Thruster = thruster
     .desc = It goes nyooooooom.
-    .suffix = { "" }
 ent-Gyroscope = Gyroscope
     .desc = Increases the shuttle's potential angular rotation.
-    .suffix = { "" }

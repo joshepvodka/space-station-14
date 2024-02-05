@@ -1,9 +1,6 @@
-ent-Welder = сварочный аппарат
-    .desc = Плавит всё что угодно, пока заправлен, не забывайте о защите глаз!
-    .suffix = { "" }
-ent-WelderExperimental = экспериментальный сварочный аппарат
-    .desc = Экспериментальный сварочный аппарат, способный самостоятельно вырабатывать топливо, менее вреден для глаз.
-    .suffix = { "" }
-ent-WelderMini = аварийный сварочный аппарат
-    .desc = Миниатюрный сварочный аппарат, используемый во время чрезвычайных ситуаций.
-    .suffix = { "" }
+ent-Welder = welding tool
+    .desc = Melts anything as long as it's fueled, don't forget your eye protection!
+ent-WelderExperimental = experimental welding tool
+    .desc = An experimental welder capable of self-fuel generation and less harmful to the eyes.
+ent-WelderMini = emergency welding tool
+    .desc = A miniature welder used during emergencies.

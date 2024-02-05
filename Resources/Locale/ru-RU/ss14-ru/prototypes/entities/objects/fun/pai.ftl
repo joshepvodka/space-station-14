@@ -1,3 +1,2 @@
-ent-PersonalAI = персональный ИИ
-    .desc = Ваш электронный друг, с которым весело!
-    .suffix = { "" }
+ent-PersonalAI = personal ai device
+    .desc = Your electronic pal who's fun to be with!

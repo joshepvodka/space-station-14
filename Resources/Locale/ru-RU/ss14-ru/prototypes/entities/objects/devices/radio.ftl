@@ -1,6 +1,4 @@
-ent-RadioBase = рация
+ent-RadioBase = radio
     .desc = { ent-BaseItem.desc }
-    .suffix = { "" }
-ent-RadioHandheld = портативная рация
-    .desc = Удобная портативная рация.
-    .suffix = { "" }
+ent-RadioHandheld = handheld radio
+    .desc = A handy handheld radio.

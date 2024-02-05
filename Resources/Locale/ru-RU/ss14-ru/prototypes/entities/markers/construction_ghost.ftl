@@ -1,3 +1,1 @@
-ent-constructionghost = призрак конструкции
-    .desc = { "" }
-    .suffix = { "" }
+ent-constructionghost = construction ghost

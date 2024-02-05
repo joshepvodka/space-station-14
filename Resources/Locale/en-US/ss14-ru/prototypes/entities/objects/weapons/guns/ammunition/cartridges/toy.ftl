@@ -1,6 +1,4 @@
 ent-CartridgeCapBase = cartridge (cap)
-    .desc = { ent-BaseCartridge.desc }
-    .suffix = { "" }
+    .desc = { ent-BaseItem.desc }
 ent-CartridgeCap = cap gun cartridge
     .desc = { ent-CartridgeCapBase.desc }
-    .suffix = { "" }

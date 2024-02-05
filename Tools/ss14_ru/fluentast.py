@@ -75,17 +75,11 @@ class FluentSerializedMessage:
         if not value and not id and not parent_id:
             return None
 
-        if not attributes:
-            attributes = []
-
-        if len(list(filter(lambda attr: attr.id == 'desc', attributes))) == 0:
+        if not attributes or not len(attributes):
             if parent_id:
-                attributes.append(FluentAstAttribute('desc', '{ ' + FluentSerializedMessage.get_key(parent_id) + '.desc' + ' }'));
+                attributes = [FluentAstAttribute('desc', '{ ' + FluentSerializedMessage.get_key(parent_id) + '.desc' + ' }')]
             else:
-                attributes.append(FluentAstAttribute('desc', '{ "" }'))
-
-        if len(list(filter(lambda attr: attr.id == 'suffix', attributes))) == 0:
-            attributes.append(FluentAstAttribute('suffix', '{ "" }'))
+                return None
 
         message = f'{cls.get_key(id, raw_key)} = {cls.get_value(value, parent_id)}\n'
 
