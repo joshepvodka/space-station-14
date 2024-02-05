@@ -10,11 +10,11 @@ from project import Project
 from fluent.syntax import ast, FluentParser, FluentSerializer
 
 
-# Осуществляет актуализацию ключей. Находит файлы английского перевода, проверяет: есть ли русскоязычная пара
-# Если нет - создаёт файл с копией переводов из англоязычного
-# Далее, пофайлово проверяются ключи. Если в английском файле больше ключей - создает недостающие в русском, с английской копией перевода
-# Отмечает русские файлы, в которых есть те ключи, что нет в аналогичных английских
-# Отмечает русские файлы, у которых нет англоязычной пары
+# Atualiza chaves. Encontra arquivos de tradução em inglês, verifica se há um par que fala russo
+# Caso contrário, cria um arquivo com uma cópia das traduções do idioma inglês
+# A seguir, as chaves são verificadas arquivo por arquivo. Se houver mais chaves no arquivo em inglês, ele cria as que faltam em russo, com uma cópia em inglês da tradução
+# Marca arquivos russos que contêm chaves que não são encontradas em arquivos semelhantes em inglês
+# Marca arquivos em russo que não possuem par em inglês
 
 ######################################### Class defifitions ############################################################
 class RelativeFile:
@@ -165,7 +165,7 @@ class KeyFinder:
             en_message_analog = py_.find(en_file_parsed.body, lambda en_message: self.find_duplicate_message_id_name(ru_message, en_message))
 
             if not en_message_analog:
-                logging.warning(f'Ключ "{FluentAstAbstract.get_id_name(ru_message)}" не имеет английского аналога по пути {en_file.full_path}"')
+                logging.warning(f'Chave "{FluentAstAbstract.get_id_name(ru_message)}" não tem equivalente em inglês ao longo do caminho {en_file.full_path}"')
 
     def append_message(self, ru_file_parsed, en_message, en_message_idx):
         ru_message_part_1 = ru_file_parsed.body[0:en_message_idx]
@@ -182,7 +182,7 @@ class KeyFinder:
 
     def save_and_log_file(self, file, file_data, message):
         file.save_data(file_data)
-        logging.info(f'В файл {file.full_path} добавлен ключ "{FluentAstAbstract.get_id_name(message)}"')
+        logging.info(f'Arquivar {file.full_path} chave adicionada "{FluentAstAbstract.get_id_name(message)}"')
         self.changed_files.append(file)
 
     def find_duplicate_message_id_name(self, ru_message, en_message):
@@ -208,13 +208,13 @@ key_finder = KeyFinder(files_finder.get_files_pars())
 
 ########################################################################################################################
 
-print('Проверка актуальности файлов ...')
+print('Verificando a relevância dos arquivos...')
 created_files = files_finder.execute()
 if len(created_files):
-    print('Форматирование созданных файлов ...')
+    print('Formatando arquivos criados...')
     FluentFormatter.format(created_files)
-print('Проверка актуальности ключей ...')
+print('Verificando a relevância das chaves...')
 changed_files = key_finder.execute()
 if len(changed_files):
-    print('Форматирование изменённых файлов ...')
+    print('Formatando arquivos modificados...')
     FluentFormatter.format(changed_files)
