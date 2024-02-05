@@ -100,11 +100,11 @@ class FluentSerializedMessage:
 
         if len(list(filter(lambda attr: attr.id == 'desc', attributes))) == 0:
             if parent_id:
-                attributes.append(FluentAstAttribute('desc', '{ ' + FluentSerializedMessage.get_key(parent_id) + '.desc' + ' }'));
+                attributes.append(FluentAstAttribute('desc', '{ ' + FluentSerializedMessage.get_key(parent_id[0]) + '.desc' + ' }'));
             else:
                 attributes.append(FluentAstAttribute('desc', '{ "" }'))
 
-        message = f'{cls.get_key(id, raw_key)} = {cls.get_value(value, parent_id)}\n'
+        message = f'{cls.get_key(id, raw_key)} = {cls.get_value(value, parent_id[0])}\n'
 
         if attributes and len(attributes):
             full_message = message
@@ -174,7 +174,7 @@ class FluentSerializedMessage:
     @staticmethod
     def add_attr(message_str, attr_key, attr_value, raw_key = False):
         prefix = '' if raw_key else '.'
-        return f'{message_str}    {prefix}{attr_key} = {attr_value}'
+        return f'{message_str}    {prefix}{attr_key} = {attr_value}/n'
 
     @staticmethod
     def get_value(value, parent_id):
