@@ -115,7 +115,7 @@ class FluentSerializedMessage:
 
             desc_attr = py_.find(attributes, lambda a: a.id == 'desc')
             if not desc_attr and parent_id:
-                full_message = cls.add_attr(full_message, 'desc', '{ ' + FluentSerializedMessage.get_key(parent_id) + '.desc' + ' }')
+                full_message = cls.add_attr(full_message, 'desc', '{ ' + FluentSerializedMessage.get_key(parent_id[0]) + '.desc' + ' }')
 
             return full_message
 
@@ -174,7 +174,7 @@ class FluentSerializedMessage:
     @staticmethod
     def add_attr(message_str, attr_key, attr_value, raw_key = False):
         prefix = '' if raw_key else '.'
-        return f'{message_str}\n  {prefix}{attr_key} = {attr_value}'
+        return f'{message_str}    {prefix}{attr_key} = {attr_value}'
 
     @staticmethod
     def get_value(value, parent_id):
