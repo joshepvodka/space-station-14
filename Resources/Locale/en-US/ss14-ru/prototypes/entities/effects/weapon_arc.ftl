@@ -1,3 +1,0 @@
-ent-WeaponArc = { "" }
-    .desc = { "" }
-    .suffix = { "" }
