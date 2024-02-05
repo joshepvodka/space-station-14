@@ -1,9 +1,0 @@
-ent-ClosetEmergencyFilledRandom = { ent-ClosetEmergency }
-    .suffix = Filled, Random
-    .desc = { ent-ClosetEmergency.desc }
-ent-ClosetFireFilled = { ent-ClosetFire }
-    .suffix = Filled
-    .desc = { ent-ClosetFire.desc }
-ent-ClosetMaintenanceFilledRandom = { ent-ClosetMaintenance }
-    .suffix = Filled, Random
-    .desc = { ent-ClosetMaintenance.desc }
