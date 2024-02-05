@@ -85,12 +85,18 @@ class FluentAstJunk:
 
 class FluentSerializedMessage:
     @classmethod
-    def from_yaml_element(cls, id, value, attributes, parent_id = None, raw_key = False):
+    def from_yaml_element(cls, id, value, attributes, parent_id = None, abstract = None, raw_key = False):
         if not value and not id and not parent_id:
+            return None
+
+        if abstract is True:
             return None
 
         if not attributes:
             attributes = []
+        
+        if not value and not attributes:
+            return None
 
         if len(list(filter(lambda attr: attr.id == 'desc', attributes))) == 0:
             if parent_id:
@@ -128,7 +134,7 @@ class FluentSerializedMessage:
             if key.is_attr:
                 continue
             key_name = key.get_key_last_name(key.key_name)
-            key_value = key.get_translation('ru').data['translation']
+            key_value = key.get_translation('pt').data['translation']
             key_attributes = []
 
             if len(attributes_group):
@@ -152,7 +158,7 @@ class FluentSerializedMessage:
         if parent_id:
             return "{ " + parent_id + f'.{name}' + " }"
         else:
-            return k.get_translation('ru').data['translation']
+            return k.get_translation('pt').data['translation']
 
 
     @staticmethod

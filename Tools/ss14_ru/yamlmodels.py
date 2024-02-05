@@ -1,10 +1,11 @@
 class YAMLEntity:
-    def __init__(self, id, name, description, suffix, parent_id = None):
+    def __init__(self, id, name = None, description = None, suffix = None, parent_id = None, abstract = None):
         self.id = id
         self.name = name
         self.description = description
         self.suffix = suffix
         self.parent_id = parent_id
+        self.abstract = abstract
 
 
 class YAMLElements:
@@ -19,7 +20,8 @@ class YAMLElements:
             entity = YAMLEntity(item['id'], item['name'] if 'name' in item else None,
                                 item['description'] if 'description' in item else None,
                                 item['suffix'] if 'suffix' in item else None,
-                                item['parent'] if 'parent' in item else None
+                                item['parent'] if 'parent' in item else None,
+                                item['abstract'] if 'abstract' in item else None
                                 )
             return entity
         else:
