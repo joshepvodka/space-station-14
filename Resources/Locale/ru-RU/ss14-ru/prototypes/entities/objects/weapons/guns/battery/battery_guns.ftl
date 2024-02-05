@@ -1,0 +1,41 @@
+ent-BatteryGunBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+<<<<<<< HEAD
+ent-LaserGun = retro laser gun
+    .desc = A weapon using light amplified by the stimulated emission of radiation.
+ent-MakeshiftLaser = makeshift laser gun
+    .desc = Better pray it won't burn your hands off.
+ent-LaserPistolSvalinn = svalinn laser pistol
+    .desc = A cheap and widely used laser pistol.
+ent-LaserRifleCog = cog laser carbine
+    .desc = Favoured by Nanotrasen Security for being cheap and easy to use.
+ent-LaserCannon = laser cannon
+    .desc = A heavy duty, high powered laser weapon.
+ent-XrayCannon = x-ray cannon
+    .desc = An experimental weapon that uses concentrated x-ray energy against its target.
+ent-TaserGun = taser
+    .desc = A low-capacity, energy-based stun gun used by security teams to subdue targets at range.
+=======
+    .suffix = { "" }
+ent-LaserGun = устаревший лазерный пистолет
+    .desc = Оружие, использующее свет, усиленный излучением радиации.
+    .suffix = { "" }
+ent-MakeshiftLaser = самодельная лазерная винтовка
+    .desc = Молитесь, чтобы он не обжёг вам руки.
+    .suffix = { "" }
+ent-LaserPistolSvalinn = лазерный пистолет svalinn
+    .desc = Дешёвый и широко используемый лазерный пистолет.
+    .suffix = { "" }
+ent-LaserRifleCog = лазерный карабин
+    .desc = Предпочитается службой безопасности Nanotrasen за дешевизну и простоту использования.
+    .suffix = { "" }
+ent-LaserCannon = лазерная пушка
+    .desc = Сверхмощное мощное лазерное оружие.
+    .suffix = { "" }
+ent-XrayCannon = рентгеновская пушка
+    .desc = Экспериментальное оружие, использующее сконцентрированную энергию рентгеновского излучения.
+    .suffix = { "" }
+ent-TaserGun = электрошокер
+    .desc = Электрошокер малой мощности, используемый службой безопасности для подавления целей на расстоянии.
+    .suffix = { "" }
+>>>>>>> 2b67cb6424 (Update locale scripts & add new locale files (#106))

@@ -1,0 +1,42 @@
+ent-DisposalPipeBase = { "" }
+    .desc = { "" }
+    .suffix = { "" }
+ent-DisposalHolder = disposal holder
+    .desc = { "" }
+    .suffix = { "" }
+ent-DisposalPipeBroken = broken disposal pipe
+    .desc = A BBP (big broken pipe)
+    .suffix = { "" }
+ent-DisposalPipe = disposal pipe segment
+    .desc = A huge pipe segment used for constructing disposal systems
+    .suffix = { "" }
+ent-DisposalTagger = disposal pipe tagger
+    .desc = A pipe that tags entities for routing
+    .suffix = { "" }
+ent-DisposalTrunk = disposal trunk
+    .desc = A pipe trunk used as an entry point for disposal systems
+    .suffix = { "" }
+ent-DisposalRouter = disposal router
+    .desc = A three-way router. Entities with matching tags get routed to the side
+    .suffix = { "" }
+ent-DisposalRouterFlipped = { ent-DisposalRouter }
+    .suffix = flipped
+    .desc = { ent-DisposalRouter.desc }
+ent-DisposalJunction = disposal junction
+    .desc = A three-way junction. The arrow indicates where items exit
+    .suffix = { "" }
+ent-DisposalJunctionFlipped = { ent-DisposalJunction }
+    .suffix = flipped
+    .desc = { ent-DisposalJunction.desc }
+ent-DisposalYJunction = disposal y-junction
+<<<<<<< HEAD
+    .desc = A three-way junction with another exit point.
+ent-DisposalBend = disposal bend
+    .desc = A tube bent at a 90 degree angle.
+=======
+    .desc = Трёхсторонний перекрёсток с альтернативным местом выхода.
+    .suffix = { "" }
+ent-DisposalBend = отвод для утилизации
+    .desc = Труба, согнутая под углом 90 градусов.
+    .suffix = { "" }
+>>>>>>> 2b67cb6424 (Update locale scripts & add new locale files (#106))
