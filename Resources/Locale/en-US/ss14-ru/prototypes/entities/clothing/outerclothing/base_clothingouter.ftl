@@ -1,1 +1,0 @@
-ent-ClothingOuterHardsuitBase = base hardsuit

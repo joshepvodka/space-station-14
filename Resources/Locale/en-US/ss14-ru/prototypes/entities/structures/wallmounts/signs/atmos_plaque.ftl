@@ -1,1 +1,0 @@
-ent-PlaqueAtmos = atmos plaque

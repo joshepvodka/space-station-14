@@ -1,6 +1,0 @@
-ent-CartridgeLRifleBase = cartridge (.30 rifle)
-ent-CartridgeLRifle = cartridge (.30 rifle)
-ent-CartridgeLRifleFlash = cartridge (.30 rifle flash)
-ent-CartridgeLRifleHV = cartridge (.30 rifle high-velocity)
-ent-CartridgeLRiflePractice = cartridge (.30 rifle practice)
-ent-CartridgeLRifleRubber = cartridge (.30 rifle rubber)

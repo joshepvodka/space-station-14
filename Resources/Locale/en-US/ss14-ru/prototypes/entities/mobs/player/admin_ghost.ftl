@@ -1,1 +1,0 @@
-ent-AdminObserver = admin observer

@@ -1,5 +1,0 @@
-ent-BulletMagnum = bullet (.40 magnum)
-ent-BulletMagnumFlash = bullet (.40 magnum flash)
-ent-BulletMagnumHV = bullet (.40 magnum high-velocity)
-ent-BulletMagnumPractice = bullet (.40 magnum practice)
-ent-BulletMagnumRubber = bullet (.40 magnum rubber)

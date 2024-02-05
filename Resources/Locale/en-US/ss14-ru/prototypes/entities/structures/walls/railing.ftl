@@ -1,4 +1,0 @@
-ent-Railing = railing
-    .desc = Basic railing meant to protect idiots like you from falling.
-ent-RailingCorner = railing
-    .desc = Basic railing meant to protect idiots like you from falling.

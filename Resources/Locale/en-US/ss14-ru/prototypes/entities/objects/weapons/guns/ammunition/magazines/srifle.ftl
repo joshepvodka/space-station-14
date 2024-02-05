@@ -1,6 +1,0 @@
-ent-MagazineSRifleBase = magazine (.20 rifle)
-ent-MagazineSRifle = magazine (.20 rifle)
-ent-MagazineSRifleFlash = magazine (.20 rifle flash)
-ent-MagazineSRifleHV = magazine (.20 rifle high-velocity)
-ent-MagazineSRiflePractice = magazine (.20 rifle practice)
-ent-MagazineSRifleRubber = magazine (.20 rifle rubber)
