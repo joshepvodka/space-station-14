@@ -93,8 +93,7 @@ class FluentSerializedMessage:
             full_message = message
 
             for attr in attributes:
-                fluent_newlines = attr.value.replace("\n", "\n        ");
-                full_message = cls.add_attr(full_message, attr.id, fluent_newlines, raw_key=raw_key)
+                full_message = cls.add_attr(full_message, attr.id, attr.value, raw_key=raw_key)
 
             desc_attr = py_.find(attributes, lambda a: a.id == 'desc')
             if not desc_attr and parent_id:
