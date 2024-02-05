@@ -1,11 +1,8 @@
 ent-FireAxeCabinet = fire axe cabinet
     .desc = There is a small label that reads \"For Emergency use only\" along with details for safe use of the axe. As if.
-ent-FireAxeCabinetOpen = { ent-FireAxeCabinet }
+ent-FireAxeCabinetOpen = { "" }
     .suffix = Open
-    .desc = { ent-FireAxeCabinet.desc }
-ent-FireAxeCabinetFilled = { ent-FireAxeCabinet }
+ent-FireAxeCabinetFilled = { "" }
     .suffix = Filled
-    .desc = { ent-FireAxeCabinet.desc }
-ent-FireAxeCabinetFilledOpen = { ent-FireAxeCabinetFilled }
+ent-FireAxeCabinetFilledOpen = { "" }
     .suffix = Filled, Open
-    .desc = { ent-FireAxeCabinetFilled.desc }

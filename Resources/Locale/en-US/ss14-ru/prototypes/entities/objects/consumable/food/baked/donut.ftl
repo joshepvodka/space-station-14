@@ -1,11 +1,8 @@
-ent-FoodDonutBase = { ent-FoodInjectableBase }
+ent-FoodDonutBase = { "" }
     .desc = Goes great with robust coffee.
 ent-FoodDonutPlain = plain donut
-    .desc = { ent-FoodDonutBase.desc }
 ent-FoodDonutJellyPlain = plain jelly-donut
-    .desc = { ent-FoodDonutBase.desc }
 ent-FoodDonutHomer = donut
-    .desc = { ent-FoodDonutBase.desc }
 ent-FoodDonutChaos = chaos donut
     .desc = Like life, it never quite tastes the same.
 ent-FoodDonutMeat = meat donut

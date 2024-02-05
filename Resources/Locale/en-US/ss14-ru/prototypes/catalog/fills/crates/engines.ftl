@@ -15,6 +15,4 @@ ent-CrateEngineeringSingularityGenerator = singularity generator crate
 ent-CrateEngineeringParticleAccelerator = PA crate
     .desc = Complex to setup, but rewarding as fuck.
 ent-CrateEngineeringGenerator = generator crate
-    .desc = { ent-CrateEngineering.desc }
 ent-CrateEngineeringSolar = solar assembly crate
-    .desc = { ent-CrateEngineering.desc }

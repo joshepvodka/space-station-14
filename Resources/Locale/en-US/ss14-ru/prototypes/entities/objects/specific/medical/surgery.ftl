@@ -1,5 +1,3 @@
-ent-BaseToolSurgery = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
 ent-Cautery = cautery
     .desc = A surgical tool used to cauterize open wounds.
 ent-Drill = drill

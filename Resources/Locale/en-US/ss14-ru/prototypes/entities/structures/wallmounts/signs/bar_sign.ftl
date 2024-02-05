@@ -1,4 +1,3 @@
 ent-BarSign = bar sign
-    .desc = { ent-BaseStructure.desc }
+ent-LargeBarSign = large bar sign
 ent-BarSignEngineChange = The Engine Change
-    .desc = { ent-BarSign.desc }

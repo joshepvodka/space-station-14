@@ -1,5 +1,3 @@
-ent-GasTankBase = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
 ent-OxygenTank = oxygen tank
     .desc = A tank of oxygen.
 ent-YellowOxygenTank = oxygen tank
@@ -10,8 +8,6 @@ ent-EmergencyOxygenTank = extended-capacity emergency oxygen tank
     .desc = Used for emergencies. Contains very little oxygen, so try to conserve it until you actually need it.
 ent-ExtendedEmergencyOxygenTank = double emergency oxygen tank
     .desc = Used for emergencies. Contains little oxygen, so try to conserve it until you actually need it.
-ent-DoubleEmergencyOxygenTank = { ent-ExtendedEmergencyOxygenTank }
-    .desc = { ent-ExtendedEmergencyOxygenTank.desc }
 ent-AirTank = air tank
     .desc = Mixed anyone?
 ent-PlasmaTank = plasma tank

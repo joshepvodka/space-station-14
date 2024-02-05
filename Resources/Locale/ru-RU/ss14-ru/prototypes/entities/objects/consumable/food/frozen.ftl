@@ -1,5 +1,3 @@
-ent-FoodFrozenBase = { ent-FoodInjectableBase }
-    .desc = { ent-FoodInjectableBase.desc }
 ent-FoodFrozenSandwich = ice-cream sandwich
     .desc = Portable ice-cream in its own packaging.
 ent-FoodFrozenSandwichStrawberry = strawberry ice-cream sandwich

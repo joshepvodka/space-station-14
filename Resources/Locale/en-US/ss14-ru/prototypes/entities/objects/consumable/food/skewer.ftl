@@ -1,5 +1,3 @@
-ent-FoodSkewerBase = { ent-FoodInjectableBase }
-    .desc = { ent-FoodInjectableBase.desc }
 ent-FoodKebabSkewer = skewer
     .desc = A thin rod of metal used to skewer just about anything and cook it.
 ent-FoodMeatHawaiianKebab = Hawaiian kebab

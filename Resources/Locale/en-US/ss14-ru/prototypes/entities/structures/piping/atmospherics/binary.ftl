@@ -1,5 +1,3 @@
-ent-GasBinaryBase = { ent-GasPipeBase }
-    .desc = { ent-GasPipeBase.desc }
 ent-GasPressurePump = gas pump
     .desc = A pump that moves gas by pressure.
 ent-GasVolumePump = volumetric gas pump

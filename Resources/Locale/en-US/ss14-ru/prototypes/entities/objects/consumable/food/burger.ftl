@@ -1,7 +1,5 @@
 ent-FoodBreadBun = bun
     .desc = A hamburger bun. Round and convenient to hold.
-ent-FoodBurgerBase = { ent-FoodInjectableBase }
-    .desc = { ent-FoodInjectableBase.desc }
 ent-FoodBurgerJelly = jelly burger
     .desc = Culinary delight..?
 ent-FoodBurgerAppendix = appendix burger

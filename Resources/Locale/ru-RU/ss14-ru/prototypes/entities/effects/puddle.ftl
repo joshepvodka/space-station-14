@@ -1,5 +1,4 @@
 ent-PuddleGeneric = puddle
-    .desc = { ent-PuddleSmear.desc }
 ent-PuddleGibblet = gibblets
     .desc = Gross.
 ent-PuddleSmear = puddle

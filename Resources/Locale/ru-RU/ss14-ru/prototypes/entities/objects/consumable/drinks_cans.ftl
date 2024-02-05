@@ -1,5 +1,3 @@
-ent-DrinkCanBaseFull = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
 ent-DrinkColaCan = space cola
     .desc = A refreshing beverage.
 ent-DrinkIcedTeaCan = iced tea can
@@ -27,4 +25,3 @@ ent-DrinkDrGibbCan = Dr. Gibb can
 ent-DrinkEnergyDrinkCan = red bool energy drink
     .desc = A can of Red Bool, with enough caffeine to kill a horse.
 ent-DrinkCanPack = 6pack
-    .desc = { ent-BaseItem.desc }

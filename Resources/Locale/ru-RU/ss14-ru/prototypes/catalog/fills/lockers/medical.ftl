@@ -1,9 +1,6 @@
-ent-LockerMedicineFilled = { ent-LockerMedicine }
+ent-LockerMedicineFilled = { "" }
     .suffix = Filled
-    .desc = { ent-LockerMedicine.desc }
-ent-LockerMedicalFilled = { ent-LockerMedical }
+ent-LockerMedicalFilled = { "" }
     .suffix = Filled
-    .desc = { ent-LockerMedical.desc }
-ent-LockerChemistryFilled = { ent-LockerChemistry }
+ent-LockerChemistryFilled = { "" }
     .suffix = Filled
-    .desc = { ent-LockerChemistry.desc }

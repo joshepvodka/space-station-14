@@ -1,5 +1,3 @@
-ent-BatteryGunBase = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
 ent-LaserGun = retro laser gun
     .desc = A weapon using light amplified by the stimulated emission of radiation.
 ent-MakeshiftLaser = makeshift laser gun

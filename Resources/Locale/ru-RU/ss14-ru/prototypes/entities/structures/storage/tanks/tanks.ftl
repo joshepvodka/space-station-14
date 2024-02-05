@@ -7,6 +7,5 @@ ent-WeldingFuelTankFull = fuel tank
 ent-WaterTank = water tank
     .desc = A water tank. It is used to store high amounts of water.
     .suffix = Empty
-ent-WaterTankFull = { ent-WaterTank }
+ent-WaterTankFull = { "" }
     .suffix = Full
-    .desc = { ent-WaterTank.desc }

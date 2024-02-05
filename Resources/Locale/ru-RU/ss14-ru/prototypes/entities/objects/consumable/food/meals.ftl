@@ -1,4 +1,4 @@
-ent-FoodMealBase = { ent-FoodInjectableBase }
+ent-FoodMealBase = { "" }
     .desc = A delicious meal, cooked with love.
 ent-FoodMealPotatoLoaded = loaded baked potato
     .desc = Totally baked.
@@ -42,7 +42,3 @@ ent-FoodMealMemoryleek = memory leek
     .desc = This should refresh your memory.
 ent-DisgustingSweptSoup = salty sweet miso cola soup
     .desc = Jesus christ.
-ent-FoodMealQueso = queso
-    .desc = A classic dipping sauce that you can't go wrong with.
-ent-FoodMealEnchiladas = enchiladas
-    .desc = Viva La Mexico!

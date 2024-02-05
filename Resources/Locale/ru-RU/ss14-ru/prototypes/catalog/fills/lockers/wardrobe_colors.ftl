@@ -1,3 +1,2 @@
-ent-WardrobeWhiteFilled = { ent-WardrobeWhite }
+ent-WardrobeWhiteFilled = { "" }
     .suffix = Filled
-    .desc = { ent-WardrobeWhite.desc }

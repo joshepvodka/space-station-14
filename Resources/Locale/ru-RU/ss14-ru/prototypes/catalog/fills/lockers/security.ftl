@@ -1,12 +1,8 @@
-ent-LockerWardenFilled = { ent-LockerWarden }
+ent-LockerWardenFilled = { "" }
     .suffix = Filled
-    .desc = { ent-LockerWarden.desc }
-ent-LockerSecurityFilled = { ent-LockerSecurity }
+ent-LockerSecurityFilled = { "" }
     .suffix = Filled
-    .desc = { ent-LockerSecurity.desc }
-ent-LockerDetectiveFilled = { ent-LockerDetective }
+ent-LockerDetectiveFilled = { "" }
     .suffix = Filled
-    .desc = { ent-LockerDetective.desc }
-ent-ClosetBombFilled = { ent-ClosetBomb }
+ent-ClosetBombFilled = { "" }
     .suffix = Filled
-    .desc = { ent-ClosetBomb.desc }

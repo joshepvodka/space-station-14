@@ -1,4 +1,3 @@
-ent-DisposalUnitBase = { ent-BaseMachinePowered }
+ent-DisposalUnitBase = { "" }
     .desc = A pneumatic waste disposal unit.
 ent-DisposalUnit = disposal unit
-    .desc = { ent-DisposalUnitBase.desc }
