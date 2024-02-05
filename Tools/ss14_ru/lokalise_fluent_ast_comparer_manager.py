@@ -34,7 +34,7 @@ class LokaliseFluentAstComparerManager:
 
         if len(for_delete):
             keys = list(map(lambda el: el.get_id_name(), for_delete))
-            print(f'As seguintes chaves estão localizadas, mas não no arquivo. Eles podem precisar ser removidos do local: {keys}')
+            print(f'Следующие ключи есть в lokalise, но нет в файле. Возможно, их нужно удалить из lokalise: {keys}')
 
         return for_delete
 
@@ -43,6 +43,6 @@ class LokaliseFluentAstComparerManager:
 
         if len(for_create):
             keys = list(map(lambda el: el.get_id_name(), for_create))
-            print(f'As seguintes chaves de arquivo não estão localizadas. Precisa adicionar: {keys}')
+            print(f'Следующих ключей файла нет в lokalise. Необходимо добавить: {keys}')
 
         return for_create

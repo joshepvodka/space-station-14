@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Um formatador que alinha arquivos fluentes (.ftl) com o guia de estilo
-# path - caminho para a pasta que contém os arquivos a serem formatados. Para formatar todo o projeto, você precisa substituir o valor por root_dir_path
+# Форматтер, приводящий fluent-файлы (.ftl) в соответствие стайлгайду
+# path - путь к папке, содержащий форматируемые файлы. Для форматирования всего проекта, необходимо заменить значение на root_dir_path
 import typing
 
 from file import FluentFile
