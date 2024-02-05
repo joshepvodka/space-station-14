@@ -174,17 +174,17 @@ class FluentSerializedMessage:
     @staticmethod
     def add_attr(message_str, attr_key, attr_value, raw_key = False):
         prefix = '' if raw_key else '.'
-        return f'{message_str}    {prefix}{attr_key} = {attr_value}'
+        if attr_key == 'suffix':
+            return f'{message_str}    {prefix}{attr_key} = {attr_value}\n'
+        else:
+            return f'{message_str}    {prefix}{attr_key} = {attr_value}'
 
     @staticmethod
     def get_value(value, parent_id):
         if value:
             return value
         elif parent_id:
-            if type(parent_id) == list:
-                return '{ ' + FluentSerializedMessage.get_key(parent_id[0]) + ' }'
-            else:
-                return '{ ' + FluentSerializedMessage.get_key(parent_id) + ' }'
+            return '{ ' + FluentSerializedMessage.get_key(parent_id) + ' }'
         else:
             return '{ "" }'
 
@@ -192,5 +192,7 @@ class FluentSerializedMessage:
     def get_key(id, raw = False):
         if raw:
             return f'{id}'
+        elif type(id) != str:
+            return f'ent-{id[0]}'
         else:
             return f'ent-{id}'
