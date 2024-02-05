@@ -15,10 +15,10 @@ class FluentAstManager:
         try:
             source_element = self.sourse_parsed.body[index]
         except:
-            raise Exception(f'Нет элемента с индексом {index}')
+            raise Exception(f'Nenhum elemento com índice {index}')
 
         if not source_element:
-            raise Exception(f'Элемен с индексом {index} не существует')
+            raise Exception(f'Elemento com índice {index} não existe')
 
         self.sourse_parsed.body[index] = update_element
 
