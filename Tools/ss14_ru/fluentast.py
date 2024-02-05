@@ -100,7 +100,7 @@ class FluentSerializedMessage:
 
         if len(list(filter(lambda attr: attr.id == 'desc', attributes))) == 0:
             if parent_id:
-                attributes.append(FluentAstAttribute('desc', '{ ' + FluentSerializedMessage.get_key(parent_id[0]) + '.desc' + ' }'));
+                attributes.append(FluentAstAttribute('desc', '{ ' + FluentSerializedMessage.get_key(parent_id) + '.desc' + ' }'));
             else:
                 attributes.append(FluentAstAttribute('desc', '{ "" }'))
 
@@ -115,7 +115,7 @@ class FluentSerializedMessage:
 
             desc_attr = py_.find(attributes, lambda a: a.id == 'desc')
             if not desc_attr and parent_id:
-                full_message = cls.add_attr(full_message, 'desc', '{ ' + FluentSerializedMessage.get_key(parent_id[0]) + '.desc' + ' }')
+                full_message = cls.add_attr(full_message, 'desc', '{ ' + FluentSerializedMessage.get_key(parent_id) + '.desc' + ' }')
 
             return full_message
 
