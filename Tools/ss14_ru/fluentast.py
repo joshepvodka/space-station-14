@@ -174,7 +174,7 @@ class FluentSerializedMessage:
     @staticmethod
     def add_attr(message_str, attr_key, attr_value, raw_key = False):
         prefix = '' if raw_key else '.'
-        return f'{message_str}    {prefix}{attr_key} = {attr_value}\n'
+        return f'{message_str}    {prefix}{attr_key} = {attr_value}'
 
     @staticmethod
     def get_value(value, parent_id):
