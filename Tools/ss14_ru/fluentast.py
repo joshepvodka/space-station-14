@@ -104,7 +104,7 @@ class FluentSerializedMessage:
             else:
                 attributes.append(FluentAstAttribute('desc', '{ "" }'))
 
-        message = f'{cls.get_key(id, raw_key)} = {cls.get_value(value, parent_id[0])}\n'
+        message = f'{cls.get_key(id, raw_key)} = {cls.get_value(value, parent_id)}\n'
 
         if attributes and len(attributes):
             full_message = message
@@ -181,7 +181,7 @@ class FluentSerializedMessage:
         if value:
             return value
         elif parent_id:
-            return '{ ' + FluentSerializedMessage.get_key(parent_id) + ' }'
+            return '{ ' + FluentSerializedMessage.get_key(parent_id[0]) + ' }'
         else:
             return '{ "" }'
 
