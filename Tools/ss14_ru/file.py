@@ -18,7 +18,6 @@ class File:
         return file_data
 
     def save_data(self, file_data: typing.AnyStr):
-        os.makedirs(os.path.dirname(self.full_path), exist_ok=True)
         file = open(self.full_path, 'w')
         file.write(file_data)
         file.close()
