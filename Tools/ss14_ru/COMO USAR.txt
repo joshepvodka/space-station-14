@@ -1,0 +1,12 @@
+1. executa o yamlextractor.py
+2. executa o keyfinder.py
+3. executa o fluentformatter.py
+4. achar e substituir todos os 
+" =
+"
+por " = "
+(espaço + igual + nova linha) para (espaço + igual + espaço)
+5. pronto!
+
+nota: a 4 é por causa que a formatação dos locales é meio cagada e umas strings que são mais de uma linha costumam botar um nova linha antes por algum motivo.
+TODO: concertar isso
