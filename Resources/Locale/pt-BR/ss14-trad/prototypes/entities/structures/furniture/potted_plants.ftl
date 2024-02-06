@@ -5,8 +5,7 @@ ent-PottedPlantBioluminscent = bioluminescent potted plant
 ent-PottedPlant10 = { ent-PottedPlantBase }
     .desc = A pretty piece of nature contained in a pot.
 ent-PottedPlantRD = RD's potted plant
-    .desc =
-        A gift from the botanical staff, presented after the RD's reassignment. There's a tag on it that says "Y'all come back now, y'hear?"
+    .desc =         A gift from the botanical staff, presented after the RD's reassignment. There's a tag on it that says "Y'all come back now, y'hear?"
         It doesn't look very healthy...
 ent-PottedPlant26 = { ent-PottedPlantBase }
     .desc = Is it just me, or is it blinking?
