@@ -1,125 +1,184 @@
 ent-IDCardStandard = identification card
     .desc = A card necessary to access various areas aboard the station.
+
 ent-PassengerIDCard = passenger ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-TechnicalAssistantIDCard = technical assistant ID card
-    .desc = { ent-PassengerIDCard.desc }
+    .desc = { "" }
+
 ent-MedicalInternIDCard = medical intern ID card
-    .desc = { ent-PassengerIDCard.desc }
+    .desc = { "" }
+
 ent-ResearchAssistantIDCard = research assistant ID card
-    .desc = { ent-PassengerIDCard.desc }
+    .desc = { "" }
+
 ent-SecurityCadetIDCard = security cadet ID card
-    .desc = { ent-PassengerIDCard.desc }
+    .desc = { "" }
+
 ent-ServiceWorkerIDCard = service worker ID card
-    .desc = { ent-PassengerIDCard.desc }
+    .desc = { "" }
+
 ent-CaptainIDCard = captain ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-SecurityIDCard = security ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-WardenIDCard = warden ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-EngineeringIDCard = engineer ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-MedicalIDCard = medical ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-ParamedicIDCard = paramedic ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-ChemistIDCard = chemist ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-CargoIDCard = cargo ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-SalvageIDCard = salvage ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-QuartermasterIDCard = quartermaster ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-ResearchIDCard = research ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-ClownIDCard = clown ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-MimeIDCard = mime ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-ChaplainIDCard = chaplain ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-JanitorIDCard = janitor ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-BartenderIDCard = bartender ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-PunPunIDCard = pun pun ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-ChefIDCard = chef ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-BotanistIDCard = botanist ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-LibrarianIDCard = librarian ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-LawyerIDCard = lawyer ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-HoPIDCard = head of personnel ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-CEIDCard = chief engineer ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-CMOIDCard = chief medical officer ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-RDIDCard = research director ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-HoSIDCard = head of security ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-BrigmedicIDCard = brigmedic ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-CentcomIDCard = command officer ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-ERTLeaderIDCard = ERT leader ID card
-    .desc = { ent-CentcomIDCard.desc }
+    .desc = { "" }
+
 ent-ERTChaplainIDCard = ERT chaplain ID card
-    .desc = { ent-ERTLeaderIDCard.desc }
+    .desc = { "" }
+
 ent-ERTEngineerIDCard = ERT engineer ID card
-    .desc = { ent-ERTChaplainIDCard.desc }
+    .desc = { "" }
+
 ent-ERTJanitorIDCard = ERT janitor ID card
-    .desc = { ent-ERTChaplainIDCard.desc }
+    .desc = { "" }
+
 ent-ERTMedicIDCard = ERT medic ID card
-    .desc = { ent-ERTChaplainIDCard.desc }
+    .desc = { "" }
+
 ent-ERTSecurityIDCard = ERT security ID card
-    .desc = { ent-ERTChaplainIDCard.desc }
+    .desc = { "" }
+
 ent-CentcomIDCardSyndie = command officer ID card
+    .desc = { "" }
     .suffix = Fake
-    .desc = { ent-IDCardStandard.desc }
+
 ent-MusicianIDCard = musician ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-CentcomIDCardDeathsquad = death squad ID card
-    .desc = { ent-CentcomIDCard.desc }
+    .desc = { "" }
+
 ent-AgentIDCard = passenger ID card
+    .desc = { "" }
     .suffix = Agent
-    .desc = { ent-IDCardStandard.desc }
+
 ent-NukieAgentIDCard = passenger ID card
+    .desc = { "" }
     .suffix = Nukie
-    .desc = { ent-AgentIDCard.desc }
+
 ent-AtmosIDCard = atmospheric technician ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-SyndicateIDCard = syndicate ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-PirateIDCard = pirate ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-PsychologistIDCard = psychologist ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-ReporterIDCard = reporter ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-BoxerIDCard = boxer ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-ZookeeperIDCard = zookeeper ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-DetectiveIDCard = detective ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-CBURNIDcard = CBURN ID card
+    .desc = { "" }
     .suffix = CBURN
-    .desc = { ent-CentcomIDCard.desc }
+
 ent-CluwneIDCard = cluwne ID card
+    .desc = { "" }
     .suffix = Unremoveable
-    .desc = { ent-IDCardStandard.desc }
+
 ent-SeniorEngineerIDCard = senior engineer ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-SeniorResearcherIDCard = senior researcher ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-SeniorPhysicianIDCard = senior physician ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }
+
 ent-SeniorOfficerIDCard = senior officer ID card
-    .desc = { ent-IDCardStandard.desc }
+    .desc = { "" }

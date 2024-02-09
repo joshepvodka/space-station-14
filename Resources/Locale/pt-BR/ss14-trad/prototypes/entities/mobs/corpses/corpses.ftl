@@ -1,21 +1,27 @@
 ent-MobRandomServiceCorpse = { ent-SalvageHumanCorpse }
+    .desc = { "" }
     .suffix = Dead, Service
-    .desc = { ent-SalvageHumanCorpse.desc }
+
 ent-MobRandomEngineerCorpse = { ent-SalvageHumanCorpse }
+    .desc = { "" }
     .suffix = Dead, Engineer
-    .desc = { ent-SalvageHumanCorpse.desc }
+
 ent-MobRandomCargoCorpse = { ent-SalvageHumanCorpse }
+    .desc = { "" }
     .suffix = Dead, Cargo
-    .desc = { ent-SalvageHumanCorpse.desc }
+
 ent-MobRandomMedicCorpse = { ent-SalvageHumanCorpse }
+    .desc = { "" }
     .suffix = Dead, Medic
-    .desc = { ent-SalvageHumanCorpse.desc }
+
 ent-MobRandomScienceCorpse = { ent-SalvageHumanCorpse }
+    .desc = { "" }
     .suffix = Dead, Science
-    .desc = { ent-SalvageHumanCorpse.desc }
+
 ent-MobRandomSecurityCorpse = { ent-SalvageHumanCorpse }
+    .desc = { "" }
     .suffix = Dead, Security
-    .desc = { ent-SalvageHumanCorpse.desc }
+
 ent-MobRandomCommandCorpse = { ent-SalvageHumanCorpse }
+    .desc = { "" }
     .suffix = Dead, Command
-    .desc = { ent-SalvageHumanCorpse.desc }

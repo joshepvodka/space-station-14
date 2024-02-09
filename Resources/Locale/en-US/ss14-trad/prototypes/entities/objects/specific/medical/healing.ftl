@@ -1,123 +1,180 @@
 ent-Ointment = ointment
-    .desc = Used to treat those nasty burns. Less effective on caustic burns.    .suffix = Full
+    .desc = Used to treat those nasty burns. Less effective on caustic burns.
+    .suffix = Full
+
 ent-Ointment1 = { ent-Ointment }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-Ointment.desc }
+
 ent-Ointment10Lingering = { ent-Ointment }
+    .desc = { "" }
     .suffix = 10, Lingering
-    .desc = { ent-Ointment.desc }
+
 ent-RegenerativeMesh = regenerative mesh
     .desc = Used to treat even the nastiest burns. Also effective against caustic burns.
+
 ent-Brutepack = bruise pack
-    .desc = A therapeutic gel pack and bandages designed to treat blunt-force trauma.    .suffix = Full
+    .desc = A therapeutic gel pack and bandages designed to treat blunt-force trauma.
+    .suffix = Full
+
 ent-Brutepack1 = { ent-Brutepack }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-Brutepack.desc }
+
 ent-Brutepack10Lingering = { ent-Brutepack }
+    .desc = { "" }
     .suffix = 10, Lingering
-    .desc = { ent-Brutepack.desc }
+
 ent-MedicatedSuture = medicated suture
     .desc = A suture soaked in medicine, treats blunt-force trauma effectively and closes wounds.
+
 ent-Bloodpack = blood pack
-    .desc = Contains a groundbreaking universal blood replacement created by Nanotrasen's advanced medical science.    .suffix = Full
+    .desc = Contains a groundbreaking universal blood replacement created by Nanotrasen's advanced medical science.
+    .suffix = Full
+
 ent-Bloodpack10Lingering = { ent-Bloodpack }
+    .desc = { "" }
     .suffix = 10, Lingering
-    .desc = { ent-Bloodpack.desc }
+
 ent-Gauze = roll of gauze
-    .desc = Some sterile gauze to wrap around bloody stumps.    .suffix = Full
+    .desc = Some sterile gauze to wrap around bloody stumps.
+    .suffix = Full
+
 ent-Gauze1 = { ent-Gauze }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-Gauze.desc }
+
 ent-Gauze10Lingering = { ent-Gauze }
+    .desc = { "" }
     .suffix = 10, Lingering
-    .desc = { ent-Gauze.desc }
+
 ent-AloeCream = aloe cream
     .desc = A topical cream for burns.
+
 ent-HealingToolbox = healing toolbox
-    .desc = A powerful toolbox imbued with robust energy. It can heal your wounds and fill you with murderous intent.    .suffix = DO NOT MAP
+    .desc = A powerful toolbox imbued with robust energy. It can heal your wounds and fill you with murderous intent.
+    .suffix = DO NOT MAP
+
 ent-PillDexalin = dexalin pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCanisterDexalin = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Dexalin, 7
-    .desc = { ent-PillCanister.desc }
+
 ent-PillDylovene = dylovene pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCanisterDylovene = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Dylovene, 5
-    .desc = { ent-PillCanister.desc }
+
 ent-PillHyronalin = hyronalin pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCanisterHyronalin = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Hyronalin, 5
-    .desc = { ent-PillCanister.desc }
+
 ent-PillIron = iron pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCopper = copper pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCanisterIron = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Iron, 5
-    .desc = { ent-PillCanister.desc }
+
 ent-PillCanisterCopper = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Copper, 5
-    .desc = { ent-PillCanister.desc }
+
 ent-PillKelotane = kelotane pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCanisterKelotane = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Kelotane, 5
-    .desc = { ent-PillCanister.desc }
+
 ent-PillDermaline = dermaline pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCanisterDermaline = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Dermaline, 5
-    .desc = { ent-PillCanister.desc }
+
 ent-PillSpaceDrugs = space drugs
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillTricordrazine = tricordrazine pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCanisterTricordrazine = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Tricordrazine, 5
-    .desc = { ent-PillCanister.desc }
+
 ent-PillBicaridine = bicaridine pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCanisterBicaridine = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Bicaridine, 5
-    .desc = { ent-PillCanister.desc }
+
 ent-PillCharcoal = charcoal pill (10u)
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillCanisterCharcoal = { ent-PillCanister }
+    .desc = { "" }
     .suffix = Charcoal, 3
-    .desc = { ent-PillCanister.desc }
+
 ent-PillRomerol = romerol pill
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillAmbuzol = ambuzol pill
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-PillAmbuzolPlus = ambuzol plus pill
-    .desc = { ent-Pill.desc }
+    .desc = { "" }
+
 ent-SyringeEphedrine = ephedrine syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeInaprovaline = inaprovaline syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeTranexamicAcid = tranexamic acid syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeBicaridine = bicaridine syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeDermaline = dermaline syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeHyronalin = hyronalin syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeIpecac = ipecac syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeAmbuzol = ambuzol syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeSigynate = sigynate syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeEthylredoxrazine = ethylredoxrazine syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringePhalanximine = phalanximine syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeSaline = saline syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeRomerol = romerol syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }
+
 ent-SyringeStimulants = stimulants syringe
-    .desc = { ent-BaseSyringe.desc }
+    .desc = { "" }

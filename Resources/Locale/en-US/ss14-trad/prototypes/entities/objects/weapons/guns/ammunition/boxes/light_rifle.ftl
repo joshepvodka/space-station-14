@@ -1,14 +1,20 @@
 ent-BaseMagazineBoxLightRifle = ammunition box (.30 rifle)
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-MagazineBoxLightRifleBig = ammunition box (.30 rifle)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineBoxLightRifle = ammunition box (.30 rifle)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineBoxLightRiflePractice = ammunition box (.30 rifle practice)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineBoxLightRifleRubber = ammunition box (.30 rifle rubber)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineBoxLightRifleIncendiary = ammunition box (.30 rifle incendiary)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineBoxLightRifleUranium = ammunition box (.30 rifle uranium)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = { "" }

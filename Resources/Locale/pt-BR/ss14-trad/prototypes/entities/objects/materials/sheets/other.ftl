@@ -1,35 +1,46 @@
 ent-SheetOtherBase = { ent-BaseItem }
     .desc = A sheet of material, used often on the station in various applications.
+
 ent-SheetPaper = paper
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-SheetOtherBase.desc }
+
 ent-SheetPaper1 = paper
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-SheetPaper.desc }
+
 ent-SheetPlasma = plasma
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-SheetOtherBase.desc }
+
 ent-SheetPlasma1 = plasma
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-SheetPlasma.desc }
+
 ent-SheetPlastic = plastic
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-SheetOtherBase.desc }
+
 ent-SheetPlastic10 = plastic
+    .desc = { "" }
     .suffix = 10
-    .desc = { ent-SheetPlastic.desc }
+
 ent-SheetPlastic1 = plastic
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-SheetPlastic.desc }
+
 ent-SheetUranium = uranium
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-SheetOtherBase.desc }
+
 ent-SheetUranium1 = uranium
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-SheetUranium.desc }
+
 ent-MaterialSheetMeat = meat sheet
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-SheetOtherBase.desc }
+
 ent-MaterialSheetMeat1 = { ent-MaterialSheetMeat }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-MaterialSheetMeat.desc }

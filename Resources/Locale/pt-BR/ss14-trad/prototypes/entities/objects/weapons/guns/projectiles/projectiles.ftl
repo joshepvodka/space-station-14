@@ -1,64 +1,95 @@
 ent-BaseBullet = BaseBullet
     .desc = If you can see this you're probably dead!
+
 ent-BaseBulletPractice = base bullet practice
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BaseBulletRubber = base bullet rubber
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BaseBulletIncendiary = base bullet incendiary
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BaseBulletAP = base bullet armor-piercing
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BaseBulletUranium = base bullet uranium
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BulletTaser = taser bolt
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BulletDisabler = disabler bolt
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BulletDisablerPractice = disabler bolt practice
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-EmitterBolt = emitter bolt
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-WatcherBolt = watcher bolt
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-WatcherBoltMagmawing = magmawing watcher bolt
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BulletKinetic = kinetic bolt
     .desc = Not too bad, but you still don't want to get hit by it.
+
 ent-BulletCharge = charge bolt
     .desc = Marks a target for additional damage.
+
 ent-AnomalousParticleDelta = delta particles
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-AnomalousParticleEpsilon = epsilon particles
-    .desc = { ent-AnomalousParticleDelta.desc }
+    .desc = { "" }
+
 ent-AnomalousParticleZeta = zeta particles
-    .desc = { ent-AnomalousParticleDelta.desc }
+    .desc = { "" }
+
 ent-AnomalousParticleOmegaStrong = omega particles
-    .desc = { ent-AnomalousParticleDelta.desc }
+    .desc = { "" }
+
 ent-BulletRocket = rocket
-    .desc = { ent-BaseBulletTrigger.desc }
+    .desc = { "" }
+
 ent-BulletWeakRocket = weak rocket
-    .desc = { ent-BaseBulletTrigger.desc }
+    .desc = { "" }
+
 ent-BulletGrenadeBaton = baton grenade
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BulletGrenadeBlast = blast grenade
-    .desc = { ent-BaseBulletTrigger.desc }
+    .desc = { "" }
+
 ent-BulletGrenadeFlash = flash grenade
-    .desc = { ent-BaseBulletTrigger.desc }
+    .desc = { "" }
+
 ent-BulletGrenadeFrag = frag grenade
-    .desc = { ent-BaseBulletTrigger.desc }
+    .desc = { "" }
+
 ent-BulletGrenadeEMP = EMP rocket
-    .desc = { ent-BaseBulletTrigger.desc }
+    .desc = { "" }
+
 ent-BulletCap = cap bullet
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BulletAcid = acid spit
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BulletWaterShot = water
     .desc = { "" }
+
 ent-BulletCannonBall = cannonball
-    .desc = { ent-BaseBulletTrigger.desc }
+    .desc = { "" }
+
 ent-GrapplingHook = grappling hook
     .desc = { "" }
+
 ent-BulletDisablerSmg = disabler bolt smg
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-TeslaGunBullet = tesla gun lightning
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }

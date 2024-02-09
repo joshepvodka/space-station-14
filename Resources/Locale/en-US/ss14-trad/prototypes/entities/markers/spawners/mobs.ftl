@@ -1,122 +1,182 @@
 ent-SpawnMobMouse = Mouse Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCockroach = Cockroach Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCorgi = HoP Corgi Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobPossumMorty = Possum Morty Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobRaccoonMorticia = Raccoon Morticia Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobDrone = Drone Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobFoxRenault = Fox Renault Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCatRuntime = Runtime Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCatException = Exception Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCrabAtmos = Tropico Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCatFloppa = Floppa Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCatBingus = Bingus Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCatSpace = Space Cat Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCatKitten = Kitten Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCat = Cat Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCatGeneric = Generic Cat Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobBandito = Bandito Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobMcGriff = McGriff Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobSlothPaperwork = Sloth Paperwork Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobWalter = Walter Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobBear = Space Bear Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCarp = Space Carp Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCarpMagic = Magicarp Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCarpHolo = Holocarp Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobShark = Space Sharkminnow Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobHamsterHamlet = Hamster Hamlet Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobAlexander = Alexander Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobShiva = Shiva Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobKangarooWillow = Willow Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobKangaroo = Space Kangaroo Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobBoxingKangaroo = Boxing Kangaroo Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobSpaceSpider = Space Spider Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobSpaceCobra = Space Cobra Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobAdultSlimesBlue = Slimes Spawner Blue
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobAdultSlimesBlueAngry = Slimes Spawner Blue Angry
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobAdultSlimesGreen = Slimes Spawner Green
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobAdultSlimesGreenAngry = Slimes Spawner Green Angry
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobAdultSlimesYellow = Slimes Spawner Yellow
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobAdultSlimesYellowAngry = Slimes Spawner Yellow Angry
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobSmile = Smile Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobMonkeyPunpun = Pun Pun Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobBehonker = behonker Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobMonkey = Monkey Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobPurpleSnake = Purple Snake Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobSmallPurpleSnake = Small Purple Snake Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobSlug = Slug Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobLizard = Lizard Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCrab = Crab Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobGoat = Goat Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobFrog = Frog Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobBee = Bee Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobParrot = Parrot Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobButterfly = Butterfly Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCow = Cow Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobGorilla = Gorilla Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobPenguin = Penguin Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobHellspawn = Hellspawn Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobOreCrab = ore crab spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobLuminousPerson = luminous person spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobLuminousObject = luminous object spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobLuminousEntity = luminous entity spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }

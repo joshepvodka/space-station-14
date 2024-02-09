@@ -1,27 +1,35 @@
 ent-MedkitFilled = { ent-Medkit }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-Medkit.desc }
+
 ent-MedkitBurnFilled = { ent-MedkitBurn }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-MedkitBurn.desc }
+
 ent-MedkitBruteFilled = { ent-MedkitBrute }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-MedkitBrute.desc }
+
 ent-MedkitToxinFilled = { ent-MedkitToxin }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-MedkitToxin.desc }
+
 ent-MedkitOxygenFilled = { ent-MedkitO2 }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-MedkitO2.desc }
+
 ent-MedkitRadiationFilled = { ent-MedkitRadiation }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-MedkitRadiation.desc }
+
 ent-MedkitAdvancedFilled = { ent-MedkitAdvanced }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-MedkitAdvanced.desc }
+
 ent-MedkitCombatFilled = { ent-MedkitCombat }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-MedkitCombat.desc }
+
 ent-StimkitFilled = { ent-Medkit }
+    .desc = { "" }
     .suffix = Stimkit, Filled
-    .desc = { ent-Medkit.desc }

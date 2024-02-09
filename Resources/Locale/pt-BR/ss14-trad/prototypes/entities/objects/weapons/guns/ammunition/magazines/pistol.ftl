@@ -1,28 +1,41 @@
 ent-BaseMagazinePistol = pistol magazine (.35 auto)
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-BaseMagazinePistolHighCapacity = machine pistol magazine (.35 auto)
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-BaseMagazinePistolSubMachineGun = SMG magazine (.35 auto)
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-MagazinePistolSubMachineGunTopMounted = WT550 magazine (.35 auto top-mounted)
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-MagazinePistol = pistol magazine (.35 auto)
-    .desc = { ent-BaseMagazinePistol.desc }
+    .desc = { "" }
+
 ent-MagazinePistolPractice = pistol magazine (.35 auto practice)
-    .desc = { ent-BaseMagazinePistol.desc }
+    .desc = { "" }
+
 ent-MagazinePistolRubber = pistol magazine (.35 auto rubber)
-    .desc = { ent-BaseMagazinePistol.desc }
+    .desc = { "" }
+
 ent-MagazinePistolHighCapacity = machine pistol magazine (.35 auto)
-    .desc = { ent-BaseMagazinePistolHighCapacity.desc }
+    .desc = { "" }
+
 ent-MagazinePistolHighCapacityPractice = machine pistol magazine (.35 auto practice)
-    .desc = { ent-BaseMagazinePistolHighCapacity.desc }
+    .desc = { "" }
+
 ent-MagazinePistolHighCapacityRubber = machine pistol magazine (.35 auto rubber)
-    .desc = { ent-BaseMagazinePistolHighCapacity.desc }
+    .desc = { "" }
+
 ent-MagazinePistolSubMachineGun = SMG magazine (.35 auto)
-    .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
+    .desc = { "" }
+
 ent-MagazinePistolSubMachineGunPractice = SMG magazine (.35 auto practice)
-    .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
+    .desc = { "" }
+
 ent-MagazinePistolSubMachineGunRubber = SMG magazine (.35 auto rubber)
-    .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
+    .desc = { "" }
+
 ent-MagazinePistolSubMachineGunUranium = SMG magazine (.35 auto rubber)
-    .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
+    .desc = { "" }

@@ -1,18 +1,24 @@
 ent-BaseThruster = thruster
     .desc = A thruster that allows a shuttle to move.
+
 ent-Thruster = thruster
-    .desc = { ent-BaseThruster.desc }
+    .desc = { "" }
+
 ent-ThrusterUnanchored = { ent-Thruster }
+    .desc = { "" }
     .suffix = Unanchored
-    .desc = { ent-Thruster.desc }
+
 ent-DebugThruster = { ent-BaseThruster }
+    .desc = { "" }
     .suffix = DEBUG
-    .desc = { ent-BaseThruster.desc }
+
 ent-Gyroscope = gyroscope
     .desc = Increases the shuttle's potential angular rotation.
+
 ent-GyroscopeUnanchored = { ent-Gyroscope }
+    .desc = { "" }
     .suffix = Unanchored
-    .desc = { ent-Gyroscope.desc }
+
 ent-DebugGyroscope = { ent-BaseThruster }
+    .desc = { "" }
     .suffix = DEBUG
-    .desc = { ent-BaseThruster.desc }

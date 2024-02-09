@@ -1,3 +1,3 @@
 ent-RandomDrinkBottle = random drink spawner
+    .desc = { "" }
     .suffix = Bottle
-    .desc = { ent-MarkerBase.desc }

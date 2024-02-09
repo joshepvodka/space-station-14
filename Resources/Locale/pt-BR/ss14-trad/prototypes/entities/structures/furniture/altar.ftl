@@ -1,40 +1,59 @@
 ent-AltarBase = altar
     .desc = Altar of the Gods.
+
 ent-AltarNanotrasen = nanotrasen altar
-    .desc = { ent-AltarBase.desc }
+    .desc = { "" }
+
 ent-AltarChaos = chaos altar
-    .desc = { ent-AltarNanotrasen.desc }
+    .desc = { "" }
+
 ent-AltarDruid = druid altar
-    .desc = { ent-AltarNanotrasen.desc }
+    .desc = { "" }
+
 ent-AltarToolbox = toolbox altar
-    .desc = { ent-AltarNanotrasen.desc }
+    .desc = { "" }
+
 ent-AltarSpaceChristian = space-Christian altar
-    .desc = { ent-AltarNanotrasen.desc }
+    .desc = { "" }
+
 ent-AltarSatana = satanic altar
-    .desc = { ent-AltarNanotrasen.desc }
+    .desc = { "" }
+
 ent-AltarTechnology = technology altar
-    .desc = { ent-AltarNanotrasen.desc }
+    .desc = { "" }
+
 ent-AltarConvertFestival = festival altar
-    .desc = { ent-AltarBase.desc }
+    .desc = { "" }
+
 ent-AltarConvertMaint = maint altar
-    .desc = { ent-AltarConvertFestival.desc }
+    .desc = { "" }
+
 ent-AltarConvertBlue = blue altar
-    .desc = { ent-AltarConvertFestival.desc }
+    .desc = { "" }
+
 ent-AltarConvertBurden = burden altar
-    .desc = { ent-AltarConvertFestival.desc }
+    .desc = { "" }
+
 ent-AltarConvert = convert altar
-    .desc = { ent-AltarConvertFestival.desc }
+    .desc = { "" }
+
 ent-AltarConvertOrange = orange altar
-    .desc = { ent-AltarConvertFestival.desc }
+    .desc = { "" }
+
 ent-AltarConvertRed = red altar
-    .desc = { ent-AltarConvertFestival.desc }
+    .desc = { "" }
+
 ent-AltarConvertWhite = white altar
-    .desc = { ent-AltarConvertFestival.desc }
+    .desc = { "" }
+
 ent-AltarConvertYellow = yellow altar
-    .desc = { ent-AltarConvertFestival.desc }
+    .desc = { "" }
+
 ent-AltarHeaven = heaven altar
-    .desc = { ent-AltarBase.desc }
+    .desc = { "" }
+
 ent-AltarFangs = fanged altar
-    .desc = { ent-AltarHeaven.desc }
+    .desc = { "" }
+
 ent-AltarBananium = honkmother altar
     .desc = A bananium altar dedicated to the honkmother.

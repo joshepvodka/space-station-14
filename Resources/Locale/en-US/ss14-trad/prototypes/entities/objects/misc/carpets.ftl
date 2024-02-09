@@ -1,16 +1,23 @@
 ent-FloorCarpetItemRed = red carpet
-    .desc = { ent-FloorTileItemBase.desc }
+    .desc = { "" }
+
 ent-FloorCarpetItemBlack = black carpet
-    .desc = { ent-FloorTileItemBase.desc }
+    .desc = { "" }
+
 ent-FloorCarpetItemBlue = blue carpet
-    .desc = { ent-FloorTileItemBase.desc }
+    .desc = { "" }
+
 ent-FloorCarpetItemGreen = green carpet
-    .desc = { ent-FloorTileItemBase.desc }
+    .desc = { "" }
+
 ent-FloorCarpetItemOrange = orange carpet
-    .desc = { ent-FloorTileItemBase.desc }
+    .desc = { "" }
+
 ent-FloorCarpetItemSkyBlue = sky blue carpet
-    .desc = { ent-FloorTileItemBase.desc }
+    .desc = { "" }
+
 ent-FloorCarpetItemPurple = purple carpet
-    .desc = { ent-FloorTileItemBase.desc }
+    .desc = { "" }
+
 ent-FloorCarpetItemPink = pink carpet
-    .desc = { ent-FloorTileItemBase.desc }
+    .desc = { "" }

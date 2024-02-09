@@ -1,56 +1,74 @@
 ent-BaseAnomalyCore = anomaly core
     .desc = The core of a destroyed incomprehensible object.
+
 ent-AnomalyCorePyroclastic = { ent-BaseAnomalyCore }
+    .desc = { "" }
     .suffix = Pyroclastic
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-AnomalyCoreGravity = { ent-BaseAnomalyCore }
+    .desc = { "" }
     .suffix = Gravity
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-AnomalyCoreIce = { ent-BaseAnomalyCore }
+    .desc = { "" }
     .suffix = Ice
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-AnomalyCoreFlesh = { ent-BaseAnomalyCore }
+    .desc = { "" }
     .suffix = Flesh
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-AnomalyCoreRock = { ent-BaseAnomalyCore }
+    .desc = { "" }
     .suffix = Rock
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-AnomalyCoreLiquid = { ent-BaseAnomalyCore }
+    .desc = { "" }
     .suffix = Liquid
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-AnomalyCoreBluespace = { ent-BaseAnomalyCore }
+    .desc = { "" }
     .suffix = Bluespace
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-AnomalyCoreElectricity = { ent-BaseAnomalyCore }
+    .desc = { "" }
     .suffix = Electricity
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-AnomalyCoreFlora = { ent-BaseAnomalyCore }
+    .desc = { "" }
     .suffix = Flora
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-AnomalyCorePyroclasticInert = { ent-BaseAnomalyInertCore }
+    .desc = { "" }
     .suffix = Pyroclastic, Inert
-    .desc = { ent-BaseAnomalyInertCore.desc }
+
 ent-AnomalyCoreGravityInert = { ent-BaseAnomalyInertCore }
+    .desc = { "" }
     .suffix = Gravity, Inert
-    .desc = { ent-BaseAnomalyInertCore.desc }
+
 ent-AnomalyCoreIceInert = { ent-BaseAnomalyInertCore }
+    .desc = { "" }
     .suffix = Ice, Inert
-    .desc = { ent-BaseAnomalyInertCore.desc }
+
 ent-AnomalyCoreFleshInert = { ent-BaseAnomalyInertCore }
+    .desc = { "" }
     .suffix = Flesh, Inert
-    .desc = { ent-BaseAnomalyInertCore.desc }
+
 ent-AnomalyCoreRockInert = { ent-BaseAnomalyInertCore }
+    .desc = { "" }
     .suffix = Rock, Inert
-    .desc = { ent-BaseAnomalyInertCore.desc }
+
 ent-AnomalyCoreLiquidInert = { ent-BaseAnomalyInertCore }
+    .desc = { "" }
     .suffix = Liquid, Inert
-    .desc = { ent-BaseAnomalyInertCore.desc }
+
 ent-AnomalyCoreBluespaceInert = { ent-BaseAnomalyInertCore }
+    .desc = { "" }
     .suffix = Bluespace, Inert
-    .desc = { ent-BaseAnomalyInertCore.desc }
+
 ent-AnomalyCoreElectricityInert = { ent-BaseAnomalyInertCore }
+    .desc = { "" }
     .suffix = Electricity, Inert
-    .desc = { ent-BaseAnomalyInertCore.desc }
+
 ent-AnomalyCoreFloraInert = { ent-BaseAnomalyInertCore }
+    .desc = { "" }
     .suffix = Flora, Inert
-    .desc = { ent-BaseAnomalyInertCore.desc }

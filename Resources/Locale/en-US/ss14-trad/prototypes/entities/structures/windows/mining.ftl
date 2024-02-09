@@ -1,5 +1,6 @@
 ent-MiningWindow = mining window
-    .desc = { ent-Window.desc }
+    .desc = { "" }
+
 ent-MiningWindowDiagonal = { ent-ShuttleWindow }
+    .desc = { "" }
     .suffix = diagonal
-    .desc = { ent-ShuttleWindow.desc }

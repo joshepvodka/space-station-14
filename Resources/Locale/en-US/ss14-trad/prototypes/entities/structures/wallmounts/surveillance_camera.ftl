@@ -1,31 +1,41 @@
 ent-SurveillanceCameraBase = camera
     .desc = A surveillance camera. It's watching you. Kinda.
+
 ent-SurveillanceCameraConstructed = camera
+    .desc = { "" }
     .suffix = Constructed
-    .desc = { ent-SurveillanceCameraBase.desc }
+
 ent-SurveillanceCameraEngineering = camera
+    .desc = { "" }
     .suffix = Engineering
-    .desc = { ent-SurveillanceCameraBase.desc }
+
 ent-SurveillanceCameraSecurity = camera
+    .desc = { "" }
     .suffix = Security
-    .desc = { ent-SurveillanceCameraBase.desc }
+
 ent-SurveillanceCameraScience = camera
+    .desc = { "" }
     .suffix = Science
-    .desc = { ent-SurveillanceCameraBase.desc }
+
 ent-SurveillanceCameraSupply = camera
+    .desc = { "" }
     .suffix = Supply
-    .desc = { ent-SurveillanceCameraBase.desc }
+
 ent-SurveillanceCameraCommand = camera
+    .desc = { "" }
     .suffix = Command
-    .desc = { ent-SurveillanceCameraBase.desc }
+
 ent-SurveillanceCameraService = camera
+    .desc = { "" }
     .suffix = Service
-    .desc = { ent-SurveillanceCameraBase.desc }
+
 ent-SurveillanceCameraMedical = camera
+    .desc = { "" }
     .suffix = Medical
-    .desc = { ent-SurveillanceCameraBase.desc }
+
 ent-SurveillanceCameraGeneral = camera
+    .desc = { "" }
     .suffix = General
-    .desc = { ent-SurveillanceCameraBase.desc }
+
 ent-SurveillanceCameraAssembly = camera
     .desc = A surveillance camera. Doesn't seem to be watching anybody any time soon. Probably.

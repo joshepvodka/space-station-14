@@ -1,2 +1,3 @@
 ent-MobHumanPathDummy = pathfinding dummy
-    .desc = A miserable pile of secrets.    .suffix = AI
+    .desc = A miserable pile of secrets.
+    .suffix = AI

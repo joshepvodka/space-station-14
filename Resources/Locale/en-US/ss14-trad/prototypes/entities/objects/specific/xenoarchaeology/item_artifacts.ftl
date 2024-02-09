@@ -1,19 +1,25 @@
 ent-BaseXenoArtifactItem = alien artifact
     .desc = A strange handheld alien device.
+
 ent-SimpleXenoArtifactItem = { ent-BaseXenoArtifactItem }
+    .desc = { "" }
     .suffix = Simple
-    .desc = { ent-BaseXenoArtifactItem.desc }
+
 ent-MediumXenoArtifactItem = { ent-BaseXenoArtifactItem }
+    .desc = { "" }
     .suffix = Medium
-    .desc = { ent-BaseXenoArtifactItem.desc }
+
 ent-ComplexXenoArtifactItem = { ent-BaseXenoArtifactItem }
+    .desc = { "" }
     .suffix = Complex
-    .desc = { ent-BaseXenoArtifactItem.desc }
+
 ent-VariedXenoArtifactItem = { ent-BaseXenoArtifactItem }
+    .desc = { "" }
     .suffix = Varied
-    .desc = { ent-BaseXenoArtifactItem.desc }
+
 ent-ArtifactFragment = artifact fragment
     .desc = A broken piece of an artifact. You could probably repair it if you had more.
+
 ent-ArtifactFragment1 = { ent-ArtifactFragment }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-ArtifactFragment.desc }

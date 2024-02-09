@@ -1,3 +1,3 @@
 ent-RandomVending = random vending machine spawner
+    .desc = { "" }
     .suffix = Any
-    .desc = { ent-MarkerBase.desc }

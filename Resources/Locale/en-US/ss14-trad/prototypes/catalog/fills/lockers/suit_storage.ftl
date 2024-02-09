@@ -1,63 +1,83 @@
 ent-SuitStorageEVA = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = EVA
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageEVAAlternate = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = EVA, Large Helmet
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageEVAEmergency = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Emergency EVA
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageEVAPrisoner = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Prisoner EVA
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageEVASyndicate = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Syndicate EVA
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageEVAPirate = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Pirate EVA
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageNTSRA = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Ancient EVA
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageBasic = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Basic Hardsuit
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageEngi = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Station Engineer
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageAtmos = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Atmospheric Technician
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageSec = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Security
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageCE = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Chief Engineer
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageCMO = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Chief Medical Officer
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageRD = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Research Director
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageHOS = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Head of Security
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageWarden = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Warden
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageCaptain = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Captain
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageSalv = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Salvage
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageSyndie = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Syndicate Hardsuit
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStoragePirateCap = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Pirate Captain
-    .desc = { ent-SuitStorageBase.desc }
+
 ent-SuitStorageWizard = { ent-SuitStorageBase }
+    .desc = { "" }
     .suffix = Wizard
-    .desc = { ent-SuitStorageBase.desc }

@@ -1,23 +1,30 @@
 ent-AdminInstantEffectBase = instant effect
     .desc = { "" }
+
 ent-AdminInstantEffectEMP = { ent-AdminInstantEffectBase }
+    .desc = { "" }
     .suffix = EMP
-    .desc = { ent-AdminInstantEffectBase.desc }
+
 ent-AdminInstantEffectFlash = { ent-AdminInstantEffectBase }
+    .desc = { "" }
     .suffix = Flash
-    .desc = { ent-AdminInstantEffectBase.desc }
+
 ent-AdminInstantEffectSmoke3 = { ent-AdminInstantEffectBase }
+    .desc = { "" }
     .suffix = Smoke (03 sec)
-    .desc = { ent-AdminInstantEffectBase.desc }
+
 ent-AdminInstantEffectSmoke10 = { ent-AdminInstantEffectBase }
+    .desc = { "" }
     .suffix = Smoke (10 sec)
-    .desc = { ent-AdminInstantEffectBase.desc }
+
 ent-AdminInstantEffectSmoke30 = { ent-AdminInstantEffectBase }
+    .desc = { "" }
     .suffix = Smoke (30 sec)
-    .desc = { ent-AdminInstantEffectBase.desc }
+
 ent-AdminInstantEffectTearGas = { ent-AdminInstantEffectBase }
+    .desc = { "" }
     .suffix = Tear Gas
-    .desc = { ent-AdminInstantEffectBase.desc }
+
 ent-AdminInstantEffectGravityWell = { ent-AdminInstantEffectBase }
+    .desc = { "" }
     .suffix = Gravity Well
-    .desc = { ent-AdminInstantEffectBase.desc }

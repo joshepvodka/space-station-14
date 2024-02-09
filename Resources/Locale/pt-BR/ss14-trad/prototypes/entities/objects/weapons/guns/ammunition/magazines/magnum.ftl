@@ -1,24 +1,35 @@
 ent-BaseMagazineMagnum = pistol magazine (.45 magnum)
-    .desc = { ent-BaseMagazinePistol.desc }
+    .desc = { "" }
+
 ent-BaseMagazineMagnumSubMachineGun = Vector magazine (.45 magnum)
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-MagazineMagnum = pistol magazine (.45 magnum)
-    .desc = { ent-BaseMagazineMagnum.desc }
+    .desc = { "" }
+
 ent-MagazineMagnumPractice = pistol magazine (.45 magnum practice)
-    .desc = { ent-BaseMagazineMagnum.desc }
+    .desc = { "" }
+
 ent-MagazineMagnumRubber = pistol magazine (.45 magnum rubber)
-    .desc = { ent-BaseMagazineMagnum.desc }
+    .desc = { "" }
+
 ent-MagazineMagnumUranium = pistol magazine (.45 magnum uranium)
-    .desc = { ent-BaseMagazineMagnum.desc }
+    .desc = { "" }
+
 ent-MagazineMagnumAP = pistol magazine (.45 magnum armor-piercing)
-    .desc = { ent-BaseMagazineMagnum.desc }
+    .desc = { "" }
+
 ent-MagazineMagnumSubMachineGun = Vector magazine (.45 magnum)
-    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }
+    .desc = { "" }
+
 ent-MagazineMagnumSubMachineGunPractice = Vector magazine (.45 magnum practice)
-    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }
+    .desc = { "" }
+
 ent-MagazineMagnumSubMachineGunRubber = Vector magazine (.45 magnum rubber)
-    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }
+    .desc = { "" }
+
 ent-MagazineMagnumSubMachineGunUranium = Vector magazine (.45 magnum uranium)
-    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }
+    .desc = { "" }
+
 ent-MagazineMagnumSubMachineGunPiercing = Vector magazine (.45 magnum armor-piercing)
-    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }
+    .desc = { "" }

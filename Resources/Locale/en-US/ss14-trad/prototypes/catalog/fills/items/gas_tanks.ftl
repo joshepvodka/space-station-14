@@ -1,36 +1,47 @@
 ent-OxygenTankFilled = { ent-OxygenTank }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-OxygenTank.desc }
+
 ent-EmergencyOxygenTankFilled = { ent-EmergencyOxygenTank }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-EmergencyOxygenTank.desc }
+
 ent-EmergencyNitrogenTankFilled = { ent-EmergencyNitrogenTank }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-EmergencyNitrogenTank.desc }
+
 ent-ExtendedEmergencyOxygenTankFilled = { ent-ExtendedEmergencyOxygenTank }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ExtendedEmergencyOxygenTank.desc }
+
 ent-ExtendedEmergencyNitrogenTankFilled = { ent-ExtendedEmergencyNitrogenTank }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ExtendedEmergencyNitrogenTank.desc }
+
 ent-DoubleEmergencyOxygenTankFilled = { ent-DoubleEmergencyOxygenTank }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-DoubleEmergencyOxygenTank.desc }
+
 ent-DoubleEmergencyNitrogenTankFilled = { ent-DoubleEmergencyNitrogenTank }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-DoubleEmergencyNitrogenTank.desc }
+
 ent-EmergencyFunnyOxygenTankFilled = { ent-EmergencyFunnyOxygenTank }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-EmergencyFunnyOxygenTank.desc }
+
 ent-AirTankFilled = { ent-AirTank }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-AirTank.desc }
+
 ent-NitrogenTankFilled = nitrogen tank
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-NitrogenTank.desc }
+
 ent-NitrousOxideTankFilled = nitrous oxide tank
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-NitrousOxideTank.desc }
+
 ent-PlasmaTankFilled = plasma tank
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-PlasmaTank.desc }

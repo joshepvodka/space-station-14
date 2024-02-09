@@ -1,5 +1,6 @@
 ent-ShadowBasaltOne = shadowstone
     .desc = Cold rock
+
 ent-ShadowBasaltRandom = { ent-ShadowBasaltOne }
+    .desc = { "" }
     .suffix = Random
-    .desc = { ent-ShadowBasaltOne.desc }

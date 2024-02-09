@@ -1,22 +1,32 @@
 ent-PartGingerbread = gingerbead body part
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-TorsoGingerbread = gingerbread torso
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }
+
 ent-HeadGingerbread = gingerbread head
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }
+
 ent-LeftArmGingerbread = left gingerbread arm
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }
+
 ent-RightArmGingerbread = right gingerbread arm
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }
+
 ent-LeftHandGingerbread = left gingerbread hand
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }
+
 ent-RightHandGingerbread = right gingerbread hand
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }
+
 ent-LeftLegGingerbread = left gingerbread leg
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }
+
 ent-RightLegGingerbread = right gingerbread leg
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }
+
 ent-LeftFootGingerbread = left gingerbread foot
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }
+
 ent-RightFootGingerbread = right gingerbread foot
-    .desc = { ent-PartGingerbread.desc }
+    .desc = { "" }

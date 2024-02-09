@@ -1,50 +1,69 @@
 ent-MobOreCrab = ore crab
-    .desc = { ent-MobElementalBase.desc }
+    .desc = { "" }
+
 ent-MobQuartzCrab = { ent-MobOreCrab }
     .desc = An ore crab made from Quartz.
+
 ent-MobIronCrab = { ent-MobOreCrab }
     .desc = An ore crab made from iron.
+
 ent-MobUraniumCrab = { ent-MobOreCrab }
     .desc = An ore crab made from uranium.
+
 ent-MobSilverCrab = ore crab
     .desc = An ore crab made from silver.
+
 ent-ReagentSlime = Reagent slime
-    .desc = It consists of a liquid, and it wants to dissolve you in itself.    .suffix = Water
+    .desc = It consists of a liquid, and it wants to dissolve you in itself.
+    .suffix = Water
+
 ent-ReagentSlimeSpawner = Reagent Slime Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-ReagentSlimeBeer = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Beer
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimePax = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Pax
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeNocturine = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Nocturine
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeTHC = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = THC
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeBicaridine = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Bicaridine
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeToxin = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Toxin
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeNapalm = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Napalm
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeOmnizine = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Omnizine
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeMuteToxin = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Mute Toxin
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeNorepinephricAcid = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Norepinephric Acid
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeEphedrine = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Ephedrine
-    .desc = { ent-ReagentSlime.desc }
+
 ent-ReagentSlimeRobustHarvest = { ent-ReagentSlime }
+    .desc = { "" }
     .suffix = Robust Harvest
-    .desc = { ent-ReagentSlime.desc }

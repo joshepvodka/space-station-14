@@ -1,3 +1,3 @@
 ent-LockerOldAISat = closet
+    .desc = { "" }
     .suffix = NTSRA voidsuit locker
-    .desc = { ent-LockerSyndicate.desc }

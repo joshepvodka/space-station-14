@@ -1,26 +1,36 @@
 ent-SalvageMaterialCrateSpawner = Salvage Material Crate Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SalvageCanisterSpawner = Salvage Canister Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SalvageLootSpawner = salvage loot spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SalvageMobSpawner = Salvage Mob Spawner
+    .desc = { "" }
     .suffix = 25
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpaceTickSpawner = Salvage Space Tick Spawner
+    .desc = { "" }
     .suffix = 100
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnMobBearSalvage = Salvage Space Bear Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SalvageMobSpawner75 = { ent-SalvageMobSpawner }
+    .desc = { "" }
     .suffix = 75
-    .desc = { ent-SalvageMobSpawner.desc }
+
 ent-SpawnMobKangarooSalvage = Salvage Space Kangaroo Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobSpiderSalvage = Salvage Space Spider Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnMobCobraSalvage = Salvage Space Cobra Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SalvageFleshSpawner = Salvage Flesh Spawner
+    .desc = { "" }
     .suffix = 100
-    .desc = { ent-SalvageMobSpawner.desc }

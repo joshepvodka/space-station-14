@@ -1,35 +1,48 @@
 ent-LockerWardenFilledHardsuit = { ent-LockerWarden }
+    .desc = { "" }
     .suffix = Filled, Hardsuit
-    .desc = { ent-LockerWarden.desc }
+
 ent-LockerWardenFilled = { ent-LockerWarden }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerWarden.desc }
+
 ent-LockerSecurityFilled = { ent-LockerSecurity }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerSecurity.desc }
+
 ent-LockerBrigmedicFilled = { ent-LockerBrigmedic }
+    .desc = { "" }
     .suffix = Brigmedic, Filled
-    .desc = { ent-LockerBrigmedic.desc }
+
 ent-LockerDetectiveFilled = { ent-LockerDetective }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerDetective.desc }
+
 ent-ClosetBombFilled = { ent-ClosetBomb }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClosetBomb.desc }
+
 ent-GunSafeDisabler = disabler safe
-    .desc = { ent-GunSafe.desc }
+    .desc = { "" }
+
 ent-GunSafePistolMk58 = mk58 safe
-    .desc = { ent-GunSafe.desc }
+    .desc = { "" }
+
 ent-GunSafeRifleLecter = lecter safe
-    .desc = { ent-GunSafe.desc }
+    .desc = { "" }
+
 ent-GunSafeSubMachineGunDrozd = drozd safe
-    .desc = { ent-GunSafe.desc }
+    .desc = { "" }
+
 ent-GunSafeShotgunEnforcer = enforcer safe
-    .desc = { ent-GunSafe.desc }
+    .desc = { "" }
+
 ent-GunSafeShotgunKammerer = kammerer safe
-    .desc = { ent-GunSafe.desc }
+    .desc = { "" }
+
 ent-GunSafeSubMachineGunWt550 = wt550 safe
+    .desc = { "" }
     .suffix = Wt550
-    .desc = { ent-GunSafe.desc }
+
 ent-GunSafeLaserCarbine = laser safe
-    .desc = { ent-GunSafe.desc }
+    .desc = { "" }

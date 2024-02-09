@@ -1,24 +1,31 @@
 ent-DebugGenerator = { ent-BaseGenerator }
+    .desc = { "" }
     .suffix = DEBUG
-    .desc = { ent-BaseGenerator.desc }
+
 ent-DebugConsumer = consumer
-    .suffix = DEBUG
     .desc = { "" }
+    .suffix = DEBUG
+
 ent-DebugBatteryStorage = battery storage
-    .suffix = DEBUG
     .desc = { "" }
+    .suffix = DEBUG
+
 ent-DebugBatteryDischarger = battery discharger
-    .suffix = DEBUG
     .desc = { "" }
+    .suffix = DEBUG
+
 ent-DebugSMES = { ent-BaseSMES }
-    .suffix = DEBUG
-    .desc = { ent-BaseSMES.desc }
-ent-DebugSubstation = { ent-BaseSubstation }
-    .suffix = DEBUG
-    .desc = { ent-BaseSubstation.desc }
-ent-DebugAPC = { ent-BaseAPC }
-    .suffix = DEBUG
-    .desc = { ent-BaseAPC.desc }
-ent-DebugPowerReceiver = power receiver
-    .suffix = DEBUG
     .desc = { "" }
+    .suffix = DEBUG
+
+ent-DebugSubstation = { ent-BaseSubstation }
+    .desc = { "" }
+    .suffix = DEBUG
+
+ent-DebugAPC = { ent-BaseAPC }
+    .desc = { "" }
+    .suffix = DEBUG
+
+ent-DebugPowerReceiver = power receiver
+    .desc = { "" }
+    .suffix = DEBUG

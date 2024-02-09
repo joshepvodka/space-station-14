@@ -1,18 +1,23 @@
 ent-LockerMedicineFilled = { ent-LockerMedicine }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerMedicine.desc }
+
 ent-LockerWallMedicalFilled = medicine wall locker
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerWallMedical.desc }
+
 ent-LockerMedicalFilled = { ent-LockerMedical }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerMedical.desc }
+
 ent-LockerWallMedicalDoctorFilled = medical doctor's wall locker
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerWallMedical.desc }
+
 ent-LockerChemistryFilled = { ent-LockerChemistry }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerChemistry.desc }
+
 ent-LockerParamedicFilled = { ent-LockerParamedic }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerParamedic.desc }

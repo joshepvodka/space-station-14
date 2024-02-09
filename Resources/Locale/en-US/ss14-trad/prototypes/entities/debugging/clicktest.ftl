@@ -1,15 +1,21 @@
 ent-ClickTestBase = { "" }
-    .suffix = DEBUG
     .desc = { "" }
+    .suffix = DEBUG
+
 ent-ClickTestRotatingCornerVisible = ClickTestRotatingCornerVisible
-    .desc = { ent-ClickTestBase.desc }
+    .desc = { "" }
+
 ent-ClickTestRotatingCornerVisibleNoRot = ClickTestRotatingCornerVisibleNoRot
-    .desc = { ent-ClickTestRotatingCornerVisible.desc }
+    .desc = { "" }
+
 ent-ClickTestRotatingCornerInvisible = ClickTestRotatingCornerInvisible
-    .desc = { ent-ClickTestBase.desc }
+    .desc = { "" }
+
 ent-ClickTestRotatingCornerInvisibleNoRot = ClickTestRotatingCornerInvisibleNoRot
-    .desc = { ent-ClickTestRotatingCornerInvisible.desc }
+    .desc = { "" }
+
 ent-ClickTestFixedCornerVisible = ClickTestFixedCornerVisible
-    .desc = { ent-ClickTestBase.desc }
+    .desc = { "" }
+
 ent-ClickTestFixedCornerInvisible = ClickTestFixedCornerInvisible
-    .desc = { ent-ClickTestBase.desc }
+    .desc = { "" }

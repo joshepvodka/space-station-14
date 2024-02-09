@@ -1,26 +1,38 @@
 ent-BaseMagazineCaselessRifle = magazine (.25 caseless)
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-BaseMagazineCaselessRifleShort = caseless rifle short magazine (.25 caseless)
-    .desc = { ent-BaseMagazineCaselessRifle.desc }
+    .desc = { "" }
+
 ent-BaseMagazinePistolCaselessRifle = pistol magazine (.25 caseless)
-    .desc = { ent-BaseMagazineCaselessRifle.desc }
+    .desc = { "" }
+
 ent-MagazineCaselessRifle10x24 = box magazine (.25 caseless)
-    .desc = { ent-BaseMagazineCaselessRifle.desc }
+    .desc = { "" }
+
 ent-MagazinePistolCaselessRifle = pistol magazine (.25 caseless)
-    .desc = { ent-BaseMagazinePistolCaselessRifle.desc }
+    .desc = { "" }
+
 ent-MagazinePistolCaselessRiflePractice = pistol magazine (.25 caseless practice)
-    .desc = { ent-BaseMagazinePistolCaselessRifle.desc }
+    .desc = { "" }
+
 ent-MagazinePistolCaselessRifleRubber = pistol magazine (.25 caseless rubber)
-    .desc = { ent-BaseMagazinePistolCaselessRifle.desc }
+    .desc = { "" }
+
 ent-MagazineCaselessRifle = magazine (.25 caseless)
-    .desc = { ent-BaseMagazineCaselessRifle.desc }
+    .desc = { "" }
+
 ent-MagazineCaselessRiflePractice = magazine (.25 caseless practice)
-    .desc = { ent-BaseMagazineCaselessRifle.desc }
+    .desc = { "" }
+
 ent-MagazineCaselessRifleRubber = magazine (.25 caseless rubber)
-    .desc = { ent-BaseMagazineCaselessRifle.desc }
+    .desc = { "" }
+
 ent-MagazineCaselessRifleShort = short magazine (.25 caseless)
-    .desc = { ent-BaseMagazineCaselessRifleShort.desc }
+    .desc = { "" }
+
 ent-MagazineCaselessRifleShortPractice = short magazine (.25 caseless practice)
-    .desc = { ent-BaseMagazineCaselessRifleShort.desc }
+    .desc = { "" }
+
 ent-MagazineCaselessRifleShortRubber = short magazine (.25 caseless rubber)
-    .desc = { ent-BaseMagazineCaselessRifleShort.desc }
+    .desc = { "" }

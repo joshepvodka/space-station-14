@@ -1,196 +1,262 @@
 ent-DefaultStationBeacon = station beacon
-    .desc = A small device that transmits information to station maps. Can be configured.    .suffix = General
+    .desc = A small device that transmits information to station maps. Can be configured.
+    .suffix = General
+
 ent-DefaultStationBeaconUnanchored = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = General, Unanchored
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-StationBeaconPart = station beacon flatpack
     .desc = A flatpack used for constructing a station beacon.
+
 ent-DefaultStationBeaconCommand = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Command
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconBridge = { ent-DefaultStationBeaconCommand }
+    .desc = { "" }
     .suffix = Bridge
-    .desc = { ent-DefaultStationBeaconCommand.desc }
+
 ent-DefaultStationBeaconVault = { ent-DefaultStationBeaconCommand }
+    .desc = { "" }
     .suffix = Vault
-    .desc = { ent-DefaultStationBeaconCommand.desc }
+
 ent-DefaultStationBeaconCaptainsQuarters = { ent-DefaultStationBeaconCommand }
+    .desc = { "" }
     .suffix = Captain's Quarters
-    .desc = { ent-DefaultStationBeaconCommand.desc }
+
 ent-DefaultStationBeaconHOPOffice = { ent-DefaultStationBeaconCommand }
+    .desc = { "" }
     .suffix = HOP's Office
-    .desc = { ent-DefaultStationBeaconCommand.desc }
+
 ent-DefaultStationBeaconSecurity = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Security
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconBrig = { ent-DefaultStationBeaconSecurity }
+    .desc = { "" }
     .suffix = Brig
-    .desc = { ent-DefaultStationBeaconSecurity.desc }
+
 ent-DefaultStationBeaconWardensOffice = { ent-DefaultStationBeaconSecurity }
+    .desc = { "" }
     .suffix = Warden's Office
-    .desc = { ent-DefaultStationBeaconSecurity.desc }
+
 ent-DefaultStationBeaconHOSRoom = { ent-DefaultStationBeaconSecurity }
+    .desc = { "" }
     .suffix = HOS’s Room
-    .desc = { ent-DefaultStationBeaconSecurity.desc }
+
 ent-DefaultStationBeaconArmory = { ent-DefaultStationBeaconSecurity }
+    .desc = { "" }
     .suffix = Armory
-    .desc = { ent-DefaultStationBeaconSecurity.desc }
+
 ent-DefaultStationBeaconPermaBrig = { ent-DefaultStationBeaconSecurity }
+    .desc = { "" }
     .suffix = Perma Brig
-    .desc = { ent-DefaultStationBeaconSecurity.desc }
+
 ent-DefaultStationBeaconDetectiveRoom = { ent-DefaultStationBeaconSecurity }
+    .desc = { "" }
     .suffix = Detective's Room
-    .desc = { ent-DefaultStationBeaconSecurity.desc }
+
 ent-DefaultStationBeaconCourtroom = { ent-DefaultStationBeaconSecurity }
+    .desc = { "" }
     .suffix = Courtroom
-    .desc = { ent-DefaultStationBeaconSecurity.desc }
+
 ent-DefaultStationBeaconLawOffice = { ent-DefaultStationBeaconSecurity }
+    .desc = { "" }
     .suffix = Law Office
-    .desc = { ent-DefaultStationBeaconSecurity.desc }
+
 ent-DefaultStationBeaconSecurityCheckpoint = { ent-DefaultStationBeaconSecurity }
+    .desc = { "" }
     .suffix = Sec Checkpoint
-    .desc = { ent-DefaultStationBeaconSecurity.desc }
+
 ent-DefaultStationBeaconMedical = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Medical
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconMedbay = { ent-DefaultStationBeaconMedical }
+    .desc = { "" }
     .suffix = Medbay
-    .desc = { ent-DefaultStationBeaconMedical.desc }
+
 ent-DefaultStationBeaconChemistry = { ent-DefaultStationBeaconMedical }
+    .desc = { "" }
     .suffix = Chemistry
-    .desc = { ent-DefaultStationBeaconMedical.desc }
+
 ent-DefaultStationBeaconCryonics = { ent-DefaultStationBeaconMedical }
+    .desc = { "" }
     .suffix = Cryonics
-    .desc = { ent-DefaultStationBeaconMedical.desc }
+
 ent-DefaultStationBeaconCMORoom = { ent-DefaultStationBeaconMedical }
+    .desc = { "" }
     .suffix = CMO's room
-    .desc = { ent-DefaultStationBeaconMedical.desc }
+
 ent-DefaultStationBeaconMorgue = { ent-DefaultStationBeaconMedical }
+    .desc = { "" }
     .suffix = Morgue
-    .desc = { ent-DefaultStationBeaconMedical.desc }
+
 ent-DefaultStationBeaconSurgery = { ent-DefaultStationBeaconMedical }
+    .desc = { "" }
     .suffix = Surgery
-    .desc = { ent-DefaultStationBeaconMedical.desc }
+
 ent-DefaultStationBeaconScience = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Science
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconRND = { ent-DefaultStationBeaconScience }
+    .desc = { "" }
     .suffix = Research and Development
-    .desc = { ent-DefaultStationBeaconScience.desc }
+
 ent-DefaultStationBeaconServerRoom = { ent-DefaultStationBeaconScience }
+    .desc = { "" }
     .suffix = Research Server Room
-    .desc = { ent-DefaultStationBeaconScience.desc }
+
 ent-DefaultStationBeaconRDRoom = { ent-DefaultStationBeaconScience }
+    .desc = { "" }
     .suffix = RD's Room
-    .desc = { ent-DefaultStationBeaconScience.desc }
+
 ent-DefaultStationBeaconRobotics = { ent-DefaultStationBeaconScience }
+    .desc = { "" }
     .suffix = Robotics
-    .desc = { ent-DefaultStationBeaconScience.desc }
+
 ent-DefaultStationBeaconArtifactLab = { ent-DefaultStationBeaconScience }
+    .desc = { "" }
     .suffix = Artifact Lab
-    .desc = { ent-DefaultStationBeaconScience.desc }
+
 ent-DefaultStationBeaconAnomalyGenerator = { ent-DefaultStationBeaconScience }
+    .desc = { "" }
     .suffix = Anomaly Generator
-    .desc = { ent-DefaultStationBeaconScience.desc }
+
 ent-DefaultStationBeaconSupply = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Supply
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconCargoReception = { ent-DefaultStationBeaconSupply }
+    .desc = { "" }
     .suffix = Cargo Reception
-    .desc = { ent-DefaultStationBeaconSupply.desc }
+
 ent-DefaultStationBeaconCargoBay = { ent-DefaultStationBeaconSupply }
+    .desc = { "" }
     .suffix = Cargo Bay
-    .desc = { ent-DefaultStationBeaconSupply.desc }
+
 ent-DefaultStationBeaconQMRoom = { ent-DefaultStationBeaconSupply }
+    .desc = { "" }
     .suffix = QM's Room
-    .desc = { ent-DefaultStationBeaconSupply.desc }
+
 ent-DefaultStationBeaconSalvage = { ent-DefaultStationBeaconSupply }
+    .desc = { "" }
     .suffix = Salvage
-    .desc = { ent-DefaultStationBeaconSupply.desc }
+
 ent-DefaultStationBeaconEngineering = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Engineering
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconCERoom = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = CE's Room
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconAME = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = AME
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconSolars = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = Solars
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconGravGen = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = Grav Gen
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconSingularity = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = PA Control
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconPowerBank = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = SMES Power Bank
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconTelecoms = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = Telecoms
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconAtmospherics = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = Atmospherics
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconTEG = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = TEG
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconTechVault = { ent-DefaultStationBeaconEngineering }
+    .desc = { "" }
     .suffix = Tech Vault
-    .desc = { ent-DefaultStationBeaconEngineering.desc }
+
 ent-DefaultStationBeaconService = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Service
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconKitchen = { ent-DefaultStationBeaconService }
+    .desc = { "" }
     .suffix = Kitchen
-    .desc = { ent-DefaultStationBeaconService.desc }
+
 ent-DefaultStationBeaconBar = { ent-DefaultStationBeaconService }
+    .desc = { "" }
     .suffix = Bar
-    .desc = { ent-DefaultStationBeaconService.desc }
+
 ent-DefaultStationBeaconBotany = { ent-DefaultStationBeaconService }
+    .desc = { "" }
     .suffix = Botany
-    .desc = { ent-DefaultStationBeaconService.desc }
+
 ent-DefaultStationBeaconJanitorsCloset = { ent-DefaultStationBeaconService }
+    .desc = { "" }
     .suffix = Janitor's Closet
-    .desc = { ent-DefaultStationBeaconService.desc }
+
 ent-DefaultStationBeaconAI = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = AI
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconAISatellite = { ent-DefaultStationBeaconAI }
+    .desc = { "" }
     .suffix = AI Satellite
-    .desc = { ent-DefaultStationBeaconAI.desc }
+
 ent-DefaultStationBeaconAICore = { ent-DefaultStationBeaconAI }
+    .desc = { "" }
     .suffix = AI Core
-    .desc = { ent-DefaultStationBeaconAI.desc }
+
 ent-DefaultStationBeaconArrivals = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Arrivals
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconEvac = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Evac
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconEVAStorage = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = EVA Storage
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconChapel = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Chapel
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconLibrary = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Library
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconTheater = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Theater
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconDorms = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Dorms
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconToolRoom = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Tool Room
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconDisposals = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Disposals
-    .desc = { ent-DefaultStationBeacon.desc }
+
 ent-DefaultStationBeaconCryosleep = { ent-DefaultStationBeacon }
+    .desc = { "" }
     .suffix = Cryosleep
-    .desc = { ent-DefaultStationBeacon.desc }

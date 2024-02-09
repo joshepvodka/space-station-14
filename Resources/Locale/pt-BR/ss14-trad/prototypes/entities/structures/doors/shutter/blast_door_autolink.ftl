@@ -1,30 +1,39 @@
 ent-BlastDoorExterior1 = { ent-BlastDoor }
+    .desc = { "" }
     .suffix = Autolink, Ext1
-    .desc = { ent-BlastDoor.desc }
+
 ent-BlastDoorExterior1Open = { ent-BlastDoorOpen }
+    .desc = { "" }
     .suffix = Open, Autolink, Ext1
-    .desc = { ent-BlastDoorOpen.desc }
+
 ent-BlastDoorExterior2 = { ent-BlastDoor }
+    .desc = { "" }
     .suffix = Autolink, Ext2
-    .desc = { ent-BlastDoor.desc }
+
 ent-BlastDoorExterior2Open = { ent-BlastDoorOpen }
+    .desc = { "" }
     .suffix = Open, Autolink, Ext2
-    .desc = { ent-BlastDoorOpen.desc }
+
 ent-BlastDoorExterior3 = { ent-BlastDoor }
+    .desc = { "" }
     .suffix = Autolink, Ext3
-    .desc = { ent-BlastDoor.desc }
+
 ent-BlastDoorExterior3Open = { ent-BlastDoorOpen }
+    .desc = { "" }
     .suffix = Open, Autolink, Ext3
-    .desc = { ent-BlastDoorOpen.desc }
+
 ent-BlastDoorBridge = { ent-BlastDoor }
+    .desc = { "" }
     .suffix = Autolink, Bridge
-    .desc = { ent-BlastDoor.desc }
+
 ent-BlastDoorBridgeOpen = { ent-BlastDoorOpen }
+    .desc = { "" }
     .suffix = Open, Autolink, Bridge
-    .desc = { ent-BlastDoorOpen.desc }
+
 ent-BlastDoorWindows = { ent-BlastDoor }
+    .desc = { "" }
     .suffix = Autolink, Windows
-    .desc = { ent-BlastDoor.desc }
+
 ent-BlastDoorWindowsOpen = { ent-BlastDoorOpen }
+    .desc = { "" }
     .suffix = Open, Autolink, Windows
-    .desc = { ent-BlastDoorOpen.desc }

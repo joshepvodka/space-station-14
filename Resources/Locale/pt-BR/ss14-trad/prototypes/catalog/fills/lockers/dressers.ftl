@@ -1,24 +1,31 @@
 ent-DresserCaptainFilled = { ent-Dresser }
+    .desc = { "" }
     .suffix = Filled, Captain
-    .desc = { ent-Dresser.desc }
+
 ent-DresserChiefEngineerFilled = { ent-Dresser }
+    .desc = { "" }
     .suffix = Filled, Chief Engineer
-    .desc = { ent-Dresser.desc }
+
 ent-DresserChiefMedicalOfficerFilled = { ent-Dresser }
+    .desc = { "" }
     .suffix = Filled, Chief Medical Officer
-    .desc = { ent-Dresser.desc }
+
 ent-DresserHeadOfPersonnelFilled = { ent-Dresser }
+    .desc = { "" }
     .suffix = Filled, Head Of Personnel
-    .desc = { ent-Dresser.desc }
+
 ent-DresserHeadOfSecurityFilled = { ent-Dresser }
+    .desc = { "" }
     .suffix = Filled, Head Of Security
-    .desc = { ent-Dresser.desc }
+
 ent-DresserQuarterMasterFilled = { ent-Dresser }
+    .desc = { "" }
     .suffix = Filled, Quarter Master
-    .desc = { ent-Dresser.desc }
+
 ent-DresserResearchDirectorFilled = { ent-Dresser }
+    .desc = { "" }
     .suffix = Filled, Research Director
-    .desc = { ent-Dresser.desc }
+
 ent-DresserWardenFilled = { ent-Dresser }
+    .desc = { "" }
     .suffix = Filled, Warden
-    .desc = { ent-Dresser.desc }

@@ -1,15 +1,19 @@
 ent-SignalButtonExt1 = exterior button 1
+    .desc = { "" }
     .suffix = Autolink, Ext1
-    .desc = { ent-SignalButton.desc }
+
 ent-SignalButtonExt2 = exterior button 2
+    .desc = { "" }
     .suffix = Autolink, Ext2
-    .desc = { ent-SignalButton.desc }
+
 ent-SignalButtonExt3 = exterior button 3
+    .desc = { "" }
     .suffix = Autolink, Ext3
-    .desc = { ent-SignalButton.desc }
+
 ent-SignalButtonBridge = bridge windows button
+    .desc = { "" }
     .suffix = Autolink, Bridge
-    .desc = { ent-SignalButton.desc }
+
 ent-SignalButtonWindows = exterior windows button
+    .desc = { "" }
     .suffix = Autolink, Windows
-    .desc = { ent-SignalButton.desc }

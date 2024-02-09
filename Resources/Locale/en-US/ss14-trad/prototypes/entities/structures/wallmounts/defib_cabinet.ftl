@@ -1,11 +1,14 @@
 ent-DefibrillatorCabinet = defibrillator cabinet
     .desc = A small wall mounted cabinet designed to hold a defibrillator.
+
 ent-DefibrillatorCabinetOpen = { ent-DefibrillatorCabinet }
+    .desc = { "" }
     .suffix = Open
-    .desc = { ent-DefibrillatorCabinet.desc }
+
 ent-DefibrillatorCabinetFilled = { ent-DefibrillatorCabinet }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-DefibrillatorCabinet.desc }
+
 ent-DefibrillatorCabinetFilledOpen = { ent-DefibrillatorCabinetFilled }
+    .desc = { "" }
     .suffix = Filled, Open
-    .desc = { ent-DefibrillatorCabinetFilled.desc }

@@ -1,9 +1,11 @@
 ent-SpawnVendingMachineRestockFoodDrink = Vending Machine Restock
+    .desc = { "" }
     .suffix = food or drink
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnVendingMachineRestockFood = Vending Machine Restock
+    .desc = { "" }
     .suffix = food
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnVendingMachineRestockDrink = Vending Machine Restock
+    .desc = { "" }
     .suffix = drink
-    .desc = { ent-MarkerBase.desc }

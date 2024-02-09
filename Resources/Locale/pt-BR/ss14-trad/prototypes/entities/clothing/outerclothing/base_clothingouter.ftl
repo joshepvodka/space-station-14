@@ -1,6 +1,8 @@
 ent-ClothingOuterHardsuitBase = base hardsuit
-    .desc = { ent-ClothingOuterBase.desc }
+    .desc = { "" }
+
 ent-ClothingOuterEVASuitBase = base EVA Suit
-    .desc = { ent-ClothingOuterBase.desc }
+    .desc = { "" }
+
 ent-ClothingOuterBaseToggleable = hoodie with hood
-    .desc = { ent-ClothingOuterBase.desc }
+    .desc = { "" }

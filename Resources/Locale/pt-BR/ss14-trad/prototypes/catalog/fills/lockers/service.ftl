@@ -1,21 +1,27 @@
 ent-LockerBoozeFilled = { ent-LockerBooze }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerBooze.desc }
+
 ent-ClosetChefFilled = { ent-ClosetChef }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClosetChef.desc }
+
 ent-ClosetJanitorFilled = { ent-ClosetJanitor }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClosetJanitor.desc }
+
 ent-ClosetLegalFilled = { ent-ClosetLegal }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClosetLegal.desc }
+
 ent-LockerBotanistFilled = { ent-LockerBotanist }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerBotanist.desc }
+
 ent-LockerBotanistLoot = { ent-LockerBotanist }
+    .desc = { "" }
     .suffix = Loot
-    .desc = { ent-LockerBotanist.desc }
+
 ent-ClosetJanitorBombFilled = { ent-ClosetJanitorBomb }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClosetJanitorBomb.desc }

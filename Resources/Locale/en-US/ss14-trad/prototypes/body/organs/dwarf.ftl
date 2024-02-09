@@ -1,6 +1,8 @@
 ent-OrganDwarfHeart = dwarf heart
-    .desc = { ent-OrganHumanHeart.desc }
+    .desc = { "" }
+
 ent-OrganDwarfLiver = dwarf liver
-    .desc = { ent-OrganHumanLiver.desc }
+    .desc = { "" }
+
 ent-OrganDwarfStomach = dwarf stomach
-    .desc = { ent-OrganHumanStomach.desc }
+    .desc = { "" }

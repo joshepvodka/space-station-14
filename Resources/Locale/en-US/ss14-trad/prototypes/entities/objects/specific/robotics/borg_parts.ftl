@@ -1,56 +1,83 @@
 ent-LeftArmBorgEngineer = engineer cyborg left arm
-    .desc = { ent-BaseBorgArmLeft.desc }
+    .desc = { "" }
+
 ent-RightArmBorgEngineer = engineer cyborg right arm
-    .desc = { ent-BaseBorgArmRight.desc }
+    .desc = { "" }
+
 ent-LeftLegBorgEngineer = engineer cyborg left leg
-    .desc = { ent-BaseBorgLegLeft.desc }
+    .desc = { "" }
+
 ent-RightLegBorgEngineer = engineer cyborg right leg
-    .desc = { ent-BaseBorgLegRight.desc }
+    .desc = { "" }
+
 ent-HeadBorgEngineer = engineer cyborg head
-    .desc = { ent-BaseBorgHead.desc }
+    .desc = { "" }
+
 ent-TorsoBorgEngineer = engineer cyborg torso
-    .desc = { ent-BaseBorgTorso.desc }
+    .desc = { "" }
+
 ent-LeftLegBorgJanitor = janitor cyborg left leg
-    .desc = { ent-BaseBorgLegLeft.desc }
+    .desc = { "" }
+
 ent-RightLegBorgJanitor = janitor cyborg right leg
-    .desc = { ent-BaseBorgLegRight.desc }
+    .desc = { "" }
+
 ent-HeadBorgJanitor = janitor cyborg head
-    .desc = { ent-BaseBorgHead.desc }
+    .desc = { "" }
+
 ent-TorsoBorgJanitor = janitor cyborg torso
-    .desc = { ent-BaseBorgTorso.desc }
+    .desc = { "" }
+
 ent-LeftArmBorgMedical = medical cyborg left arm
-    .desc = { ent-BaseBorgArmLeft.desc }
+    .desc = { "" }
+
 ent-RightArmBorgMedical = medical cyborg right arm
-    .desc = { ent-BaseBorgArmRight.desc }
+    .desc = { "" }
+
 ent-LeftLegBorgMedical = medical cyborg left leg
-    .desc = { ent-BaseBorgLegLeft.desc }
+    .desc = { "" }
+
 ent-RightLegBorgMedical = medical cyborg right leg
-    .desc = { ent-BaseBorgLegRight.desc }
+    .desc = { "" }
+
 ent-HeadBorgMedical = medical cyborg head
-    .desc = { ent-BaseBorgHead.desc }
+    .desc = { "" }
+
 ent-TorsoBorgMedical = medical cyborg torso
-    .desc = { ent-BaseBorgTorso.desc }
+    .desc = { "" }
+
 ent-LeftArmBorgMining = mining cyborg left arm
-    .desc = { ent-BaseBorgArmLeft.desc }
+    .desc = { "" }
+
 ent-RightArmBorgMining = mining cyborg right arm
-    .desc = { ent-BaseBorgArmRight.desc }
+    .desc = { "" }
+
 ent-LeftLegBorgMining = mining cyborg left leg
-    .desc = { ent-BaseBorgLegLeft.desc }
+    .desc = { "" }
+
 ent-RightLegBorgMining = mining cyborg right leg
-    .desc = { ent-BaseBorgLegRight.desc }
+    .desc = { "" }
+
 ent-HeadBorgMining = mining cyborg head
-    .desc = { ent-BaseBorgHead.desc }
+    .desc = { "" }
+
 ent-TorsoBorgMining = mining cyborg torso
-    .desc = { ent-BaseBorgTorso.desc }
+    .desc = { "" }
+
 ent-LeftArmBorgService = service cyborg left arm
-    .desc = { ent-BaseBorgArmLeft.desc }
+    .desc = { "" }
+
 ent-RightArmBorgService = service cyborg right arm
-    .desc = { ent-BaseBorgArmRight.desc }
+    .desc = { "" }
+
 ent-LeftLegBorgService = service cyborg left leg
-    .desc = { ent-BaseBorgLegLeft.desc }
+    .desc = { "" }
+
 ent-RightLegBorgService = service cyborg right leg
-    .desc = { ent-BaseBorgLegRight.desc }
+    .desc = { "" }
+
 ent-HeadBorgService = service cyborg head
-    .desc = { ent-BaseBorgHead.desc }
+    .desc = { "" }
+
 ent-TorsoBorgService = service cyborg torso
-    .desc = { ent-BaseBorgTorso.desc }
+    .desc = { "" }

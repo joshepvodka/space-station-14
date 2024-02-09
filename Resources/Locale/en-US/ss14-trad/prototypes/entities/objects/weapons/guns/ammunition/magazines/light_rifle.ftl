@@ -1,16 +1,23 @@
 ent-BaseMagazineLightRifle = magazine (.30 rifle)
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-MagazineLightRifleBox = L6 SAW magazine box (.30 rifle)
-    .desc = { ent-BaseMagazineLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineLightRifle = magazine (.30 rifle)
-    .desc = { ent-BaseMagazineLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineLightRiflePractice = magazine (.30 rifle practice)
-    .desc = { ent-BaseMagazineLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineLightRifleRubber = magazine (.30 rifle rubber)
-    .desc = { ent-BaseMagazineLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineLightRifleUranium = magazine (.30 rifle uranium)
-    .desc = { ent-BaseMagazineLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineLightRifleMaxim = pan magazine (.30 rifle)
-    .desc = { ent-BaseMagazineLightRifle.desc }
+    .desc = { "" }
+
 ent-MagazineLightRiflePkBox = PK munitions box (.30 rifle)
-    .desc = { ent-BaseMagazineLightRifle.desc }
+    .desc = { "" }

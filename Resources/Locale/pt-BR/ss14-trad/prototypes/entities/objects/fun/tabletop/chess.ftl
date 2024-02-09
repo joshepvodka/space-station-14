@@ -1,28 +1,41 @@
 ent-ChessBoard = chessboard
     .desc = A chessboard. Pieces included!
+
 ent-ChessBoardTabletop = chessboard
-    .desc = { ent-BaseBoardTabletop.desc }
+    .desc = { "" }
+
 ent-WhiteKing = white king
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-WhiteQueen = white queen
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-WhiteRook = white rook
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-WhiteBishop = white bishop
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-WhiteKnight = white knight
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-WhitePawn = white pawn
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-BlackKing = black king
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-BlackQueen = black queen
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-BlackRook = black rook
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-BlackBishop = black bishop
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-BlackKnight = black knight
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }
+
 ent-BlackPawn = black pawn
-    .desc = { ent-BaseTabletopPiece.desc }
+    .desc = { "" }

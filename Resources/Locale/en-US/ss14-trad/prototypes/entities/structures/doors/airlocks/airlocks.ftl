@@ -1,86 +1,115 @@
 ent-AirlockFreezer = { ent-Airlock }
+    .desc = { "" }
     .suffix = Freezer
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockEngineering = { ent-Airlock }
+    .desc = { "" }
     .suffix = Engineering
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockAtmospherics = { ent-AirlockEngineering }
+    .desc = { "" }
     .suffix = Atmospherics
-    .desc = { ent-AirlockEngineering.desc }
+
 ent-AirlockCargo = { ent-Airlock }
+    .desc = { "" }
     .suffix = Cargo
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockMedical = { ent-Airlock }
+    .desc = { "" }
     .suffix = Medical
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockVirology = { ent-AirlockMedical }
+    .desc = { "" }
     .suffix = Virology
-    .desc = { ent-AirlockMedical.desc }
+
 ent-AirlockChemistry = { ent-AirlockMedical }
+    .desc = { "" }
     .suffix = Chemistry
-    .desc = { ent-AirlockMedical.desc }
+
 ent-AirlockScience = { ent-Airlock }
+    .desc = { "" }
     .suffix = Science
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockCommand = { ent-Airlock }
+    .desc = { "" }
     .suffix = Command
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockSecurity = { ent-Airlock }
+    .desc = { "" }
     .suffix = Security
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockMaint = maintenance access
-    .desc = { ent-Airlock.desc }
+    .desc = { "" }
+
 ent-AirlockSyndicate = { ent-AirlockSecurity }
+    .desc = { "" }
     .suffix = Syndicate
-    .desc = { ent-AirlockSecurity.desc }
+
 ent-AirlockMining = { ent-AirlockCargo }
+    .desc = { "" }
     .suffix = Mining(Salvage)
-    .desc = { ent-AirlockCargo.desc }
+
 ent-AirlockCentralCommand = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = Central Command
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockHatch = airtight hatch
-    .desc = { ent-Airlock.desc }
+    .desc = { "" }
+
 ent-AirlockHatchMaintenance = maintenance hatch
-    .desc = { ent-Airlock.desc }
+    .desc = { "" }
+
 ent-AirlockGlass = glass airlock
-    .desc = { ent-Airlock.desc }
+    .desc = { "" }
+
 ent-AirlockEngineeringGlass = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Engineering
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockMaintGlass = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Maintenance
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockAtmosphericsGlass = { ent-AirlockEngineeringGlass }
+    .desc = { "" }
     .suffix = Atmospherics
-    .desc = { ent-AirlockEngineeringGlass.desc }
+
 ent-AirlockCargoGlass = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Cargo
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockMedicalGlass = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Medical
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockChemistryGlass = { ent-AirlockMedicalGlass }
+    .desc = { "" }
     .suffix = Chemistry
-    .desc = { ent-AirlockMedicalGlass.desc }
+
 ent-AirlockVirologyGlass = { ent-AirlockMedicalGlass }
+    .desc = { "" }
     .suffix = Virology
-    .desc = { ent-AirlockMedicalGlass.desc }
+
 ent-AirlockScienceGlass = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Science
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockCommandGlass = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Command
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockSecurityGlass = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Security
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockSyndicateGlass = { ent-AirlockSecurityGlass }
+    .desc = { "" }
     .suffix = Syndicate
-    .desc = { ent-AirlockSecurityGlass.desc }
+
 ent-AirlockMiningGlass = { ent-AirlockCargoGlass }
+    .desc = { "" }
     .suffix = Mining(Salvage)
-    .desc = { ent-AirlockCargoGlass.desc }
+
 ent-AirlockCentralCommandGlass = { ent-AirlockCommandGlass }
+    .desc = { "" }
     .suffix = Central Command
-    .desc = { ent-AirlockCommandGlass.desc }

@@ -1,17 +1,23 @@
 ent-MobAdultSlimes = basic slime
     .desc = It looks so much like jelly. I wonder what it tastes like?
+
 ent-MobAdultSlimesBlue = blue slime
-    .desc = { ent-MobAdultSlimes.desc }
+    .desc = { "" }
+
 ent-MobAdultSlimesBlueAngry = blue slime
+    .desc = { "" }
     .suffix = Angry
-    .desc = { ent-MobAdultSlimesBlue.desc }
+
 ent-MobAdultSlimesGreen = green slime
-    .desc = { ent-MobAdultSlimes.desc }
+    .desc = { "" }
+
 ent-MobAdultSlimesGreenAngry = green slime
+    .desc = { "" }
     .suffix = Angry
-    .desc = { ent-MobAdultSlimesGreen.desc }
+
 ent-MobAdultSlimesYellow = yellow slime
-    .desc = { ent-MobAdultSlimes.desc }
+    .desc = { "" }
+
 ent-MobAdultSlimesYellowAngry = yellow slime
+    .desc = { "" }
     .suffix = Angry
-    .desc = { ent-MobAdultSlimesYellow.desc }

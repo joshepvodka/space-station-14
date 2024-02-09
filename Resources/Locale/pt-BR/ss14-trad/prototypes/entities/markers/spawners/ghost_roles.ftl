@@ -1,23 +1,30 @@
 ent-SpawnPointGhostRatKing = ghost role spawn point
+    .desc = { "" }
     .suffix = rat king
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnPointGhostRemilia = ghost role spawn point
+    .desc = { "" }
     .suffix = Remilia
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnPointGhostCerberus = ghost role spawn point
+    .desc = { "" }
     .suffix = cerberus
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnPointGhostNukeOperative = ghost role spawn point
+    .desc = { "" }
     .suffix = nukeops
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnPointLoneNukeOperative = ghost role spawn point
+    .desc = { "" }
     .suffix = loneops
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnPointGhostDragon = ghost role spawn point
+    .desc = { "" }
     .suffix = dragon
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnPointGhostSpaceNinja = ghost role spawn point
+    .desc = { "" }
     .suffix = space ninja
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnPointGhostTerminator = terminator spawn point
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }

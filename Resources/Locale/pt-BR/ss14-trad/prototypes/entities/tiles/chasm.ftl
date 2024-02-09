@@ -1,11 +1,14 @@
 ent-FloorChasmEntity = chasm
     .desc = You can't even see the bottom.
+
 ent-FloorChromiteChasm = { ent-FloorChasmEntity }
+    .desc = { "" }
     .suffix = Chromite
-    .desc = { ent-FloorChasmEntity.desc }
+
 ent-FloorDesertChasm = { ent-FloorChasmEntity }
+    .desc = { "" }
     .suffix = Desert
-    .desc = { ent-FloorChasmEntity.desc }
+
 ent-FloorSnowChasm = { ent-FloorChasmEntity }
+    .desc = { "" }
     .suffix = Snow
-    .desc = { ent-FloorChasmEntity.desc }

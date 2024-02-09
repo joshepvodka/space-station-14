@@ -1,52 +1,77 @@
 ent-DrinkBottleBaseEmpty = base empty bottle
     .desc = An empty bottle.
+
 ent-DrinkCartonBaseEmpty = base empty carton
     .desc = An empty carton.
+
 ent-DrinkBottleAbsinthe = Jailbreaker Verte bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleAlcoClear = alcohol bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleAle = ale bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleBeer = beer bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleCognac = cognac bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleGin = Griffeater gin bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleGoldschlager = goldschlager bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleCoffeeLiqueur = coffee liqueur bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleNTCahors = nt cahors bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottlePatron = patron bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottlePoisonWine = poison wine bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleRum = rum bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleTequila = tequila bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleVermouth = vermouth bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleVodka = vodka bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleWhiskey = whiskey bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkBottleWine = wine bottle
-    .desc = { ent-DrinkBottleBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkCartonLime = lime juice carton
-    .desc = { ent-DrinkCartonBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkCartonOrange = orange juice carton
-    .desc = { ent-DrinkCartonBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkCartonTomato = tomato juice carton
-    .desc = { ent-DrinkCartonBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkCartonCream = milk cream carton
-    .desc = { ent-DrinkCartonBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkCartonMilk = milk carton
-    .desc = { ent-DrinkCartonBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkCartonSoyMilk = soy milk carton
-    .desc = { ent-DrinkCartonBaseEmpty.desc }
+    .desc = { "" }
+
 ent-DrinkCartonOatMilk = oat milk carton
-    .desc = { ent-DrinkCartonBaseEmpty.desc }
+    .desc = { "" }

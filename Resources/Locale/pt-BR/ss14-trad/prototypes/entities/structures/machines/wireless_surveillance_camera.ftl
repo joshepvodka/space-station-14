@@ -1,20 +1,26 @@
 ent-SurveillanceWirelessCameraBase = wireless camera
     .desc = A camera. It's watching you. Kinda.
+
 ent-SurveillanceWirelessCameraAnchoredBase = { ent-SurveillanceWirelessCameraBase }
+    .desc = { "" }
     .suffix = Anchored
-    .desc = { ent-SurveillanceWirelessCameraBase.desc }
+
 ent-SurveillanceWirelessCameraMovableBase = { ent-SurveillanceWirelessCameraBase }
+    .desc = { "" }
     .suffix = Movable
-    .desc = { ent-SurveillanceWirelessCameraBase.desc }
+
 ent-SurveillanceWirelessCameraAnchoredConstructed = { ent-SurveillanceWirelessCameraAnchoredBase }
+    .desc = { "" }
     .suffix = Constructed, Anchored
-    .desc = { ent-SurveillanceWirelessCameraAnchoredBase.desc }
+
 ent-SurveillanceWirelessCameraMovableConstructed = { ent-SurveillanceWirelessCameraMovableBase }
+    .desc = { "" }
     .suffix = Constructed, Movable
-    .desc = { ent-SurveillanceWirelessCameraMovableBase.desc }
+
 ent-SurveillanceWirelessCameraAnchoredEntertainment = { ent-SurveillanceWirelessCameraAnchoredBase }
+    .desc = { "" }
     .suffix = Entertainment, Anchored
-    .desc = { ent-SurveillanceWirelessCameraAnchoredBase.desc }
+
 ent-SurveillanceWirelessCameraMovableEntertainment = { ent-SurveillanceWirelessCameraMovableBase }
+    .desc = { "" }
     .suffix = Entertainment, Movable
-    .desc = { ent-SurveillanceWirelessCameraMovableBase.desc }

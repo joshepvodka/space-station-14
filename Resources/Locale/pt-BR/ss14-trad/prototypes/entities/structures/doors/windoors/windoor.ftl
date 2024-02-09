@@ -1,88 +1,117 @@
 ent-Windoor = windoor
     .desc = It's a window and a sliding door. Wow!
+
 ent-WindoorSecure = secure windoor
     .desc = It's a sturdy window and a sliding door. Wow!
+
 ent-WindoorBarLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Bar, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorBarKitchenLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Bar&Kitchen, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorCargoLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Cargo, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorChapelLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Chapel, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorHydroponicsLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Hydroponics, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorJanitorLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Janitor, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorKitchenLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Kitchen, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorKitchenHydroponicsLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Kitchen&Hydroponics, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorServiceLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Service, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorTheatreLocked = { ent-Windoor }
+    .desc = { "" }
     .suffix = Theatre, Locked
-    .desc = { ent-Windoor.desc }
+
 ent-WindoorSecureArmoryLocked = { ent-WindoorSecureSecurityLocked }
+    .desc = { "" }
     .suffix = Armory, Locked
-    .desc = { ent-WindoorSecureSecurityLocked.desc }
+
 ent-WindoorSecureBrigLocked = { ent-WindoorSecureSecurityLocked }
+    .desc = { "" }
     .suffix = Brig, Locked
-    .desc = { ent-WindoorSecureSecurityLocked.desc }
+
 ent-WindoorSecureCargoLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Cargo, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureChapelLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Chapel, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureChemistryLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Chemistry, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureCentralCommandLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Central Command, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureCommandLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Command, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureEngineeringLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Engineering, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureExternalLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = External, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureJanitorLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Janitor, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureKitchenLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Kitchen, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureSecurityLawyerLocked = { ent-WindoorSecureSecurityLocked }
+    .desc = { "" }
     .suffix = Security/Lawyer, Locked
-    .desc = { ent-WindoorSecureSecurityLocked.desc }
+
 ent-WindoorSecureMedicalLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Medical, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureSalvageLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Salvage, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureSecurityLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Security, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureScienceLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Science, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureHeadOfPersonnelLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = HeadOfPersonnel, Locked
-    .desc = { ent-WindoorSecure.desc }
+
 ent-WindoorSecureAtmosphericsLocked = { ent-WindoorSecure }
+    .desc = { "" }
     .suffix = Atmospherics, Locked
-    .desc = { ent-WindoorSecure.desc }

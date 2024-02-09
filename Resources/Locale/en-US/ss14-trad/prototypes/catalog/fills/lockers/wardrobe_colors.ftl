@@ -1,24 +1,31 @@
 ent-WardrobeGreyFilled = { ent-WardrobeGrey }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-WardrobeGrey.desc }
+
 ent-WardrobeMixedFilled = { ent-WardrobeMixed }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-WardrobeMixed.desc }
+
 ent-WardrobeYellowFilled = { ent-WardrobeYellow }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-WardrobeYellow.desc }
+
 ent-WardrobeWhiteFilled = { ent-WardrobeWhite }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-WardrobeWhite.desc }
+
 ent-WardrobeBlueFilled = { ent-WardrobeBlue }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-WardrobeBlue.desc }
+
 ent-WardrobePinkFilled = { ent-WardrobePink }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-WardrobePink.desc }
+
 ent-WardrobeBlackFilled = { ent-WardrobeBlack }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-WardrobeBlack.desc }
+
 ent-WardrobeGreenFilled = { ent-WardrobeGreen }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-WardrobeGreen.desc }

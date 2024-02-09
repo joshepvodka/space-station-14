@@ -1,7 +1,9 @@
 ent-WarpPoint = warp point
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-WarpPointBeacon = warp point (beacon)
-    .desc = { ent-WarpPoint.desc }
+    .desc = { "" }
+
 ent-WarpPointBombing = warp point
+    .desc = { "" }
     .suffix = ninja bombing target
-    .desc = { ent-WarpPoint.desc }

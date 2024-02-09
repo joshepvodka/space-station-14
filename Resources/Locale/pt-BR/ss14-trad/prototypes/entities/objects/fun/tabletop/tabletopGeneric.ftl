@@ -1,12 +1,17 @@
 ent-RedTabletopPiece = red piece
-    .desc = { ent-BaseGenericTabletopPiece.desc }
+    .desc = { "" }
+
 ent-GreenTabletopPiece = green piece
-    .desc = { ent-BaseGenericTabletopPiece.desc }
+    .desc = { "" }
+
 ent-YellowTabletopPiece = yellow piece
-    .desc = { ent-BaseGenericTabletopPiece.desc }
+    .desc = { "" }
+
 ent-BlueTabletopPiece = blue piece
-    .desc = { ent-BaseGenericTabletopPiece.desc }
+    .desc = { "" }
+
 ent-WhiteTabletopPiece = white piece
-    .desc = { ent-BaseGenericTabletopPiece.desc }
+    .desc = { "" }
+
 ent-BlackTabletopPiece = black piece
-    .desc = { ent-BaseGenericTabletopPiece.desc }
+    .desc = { "" }

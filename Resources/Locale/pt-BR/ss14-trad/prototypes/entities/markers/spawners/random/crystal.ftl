@@ -1,3 +1,3 @@
 ent-CrystalSpawner = Crystal Spawner
+    .desc = { "" }
     .suffix = 70%
-    .desc = { ent-MarkerBase.desc }

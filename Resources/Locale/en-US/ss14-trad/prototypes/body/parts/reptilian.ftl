@@ -1,22 +1,32 @@
 ent-PartReptilian = reptilian body part
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-TorsoReptilian = reptilian torso
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }
+
 ent-HeadReptilian = reptilian head
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }
+
 ent-LeftArmReptilian = left reptilian arm
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }
+
 ent-RightArmReptilian = right reptilian arm
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }
+
 ent-LeftHandReptilian = left reptilian hand
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }
+
 ent-RightHandReptilian = right reptilian hand
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }
+
 ent-LeftLegReptilian = left reptilian leg
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }
+
 ent-RightLegReptilian = right reptilian leg
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }
+
 ent-LeftFootReptilian = left reptilian foot
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }
+
 ent-RightFootReptilian = right reptilian foot
-    .desc = { ent-PartReptilian.desc }
+    .desc = { "" }

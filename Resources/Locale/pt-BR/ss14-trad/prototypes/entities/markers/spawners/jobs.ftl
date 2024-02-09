@@ -1,97 +1,144 @@
 ent-SpawnPointJobBase = { ent-MarkerBase }
+    .desc = { "" }
     .suffix = Job Spawn
-    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnPointObserver = observer spawn point
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointLatejoin = latejoin spawn point
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointQuartermaster = quartermaster
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointCargoTechnician = cargotechnician
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointSalvageSpecialist = salvagespecialist
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointPassenger = passenger
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointTechnicalAssistant = technical assistant
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointMedicalIntern = medical intern
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointSecurityCadet = security cadet
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointResearchAssistant = research assistant
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointServiceWorker = service worker
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointBartender = bartender
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointChef = chef
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointBotanist = botanist
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointClown = clown
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointMime = mime
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointChaplain = chaplain
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointLibrarian = librarian
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointLawyer = lawyer
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointJanitor = janitor
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointMusician = musician
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointBoxer = boxer
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointBorg = cyborg
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointCaptain = captain
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointHeadOfPersonnel = headofpersonnel
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointChiefEngineer = chiefengineer
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointStationEngineer = stationengineer
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointAtmos = atmospherics
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointChiefMedicalOfficer = chiefmedicalofficer
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointMedicalDoctor = medicaldoctor
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointParamedic = paramedic
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointChemist = chemist
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointResearchDirector = researchdirector
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointScientist = scientist
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointHeadOfSecurity = headofsecurity
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointWarden = warden
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointSecurityOfficer = securityofficer
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointDetective = detective
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointBrigmedic = brigmedic
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointERTLeader = ERTleader
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointERTEngineer = ERTengineer
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointERTMedical = ERTmedical
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointERTSecurity = ERTsecurity
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointERTJanitor = ERTjanitor
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointReporter = reporter
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointPsychologist = psychologist
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }
+
 ent-SpawnPointZookeeper = zookeeper
-    .desc = { ent-SpawnPointJobBase.desc }
+    .desc = { "" }

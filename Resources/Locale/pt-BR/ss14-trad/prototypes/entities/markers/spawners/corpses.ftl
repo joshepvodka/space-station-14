@@ -1,16 +1,23 @@
 ent-SalvageHumanCorpseSpawner = Human Corpse Spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-RandomServiceCorpseSpawner = Random Service Corpse Spawner
-    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+    .desc = { "" }
+
 ent-RandomEngineerCorpseSpawner = Random Engineer Corpse Spawner
-    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+    .desc = { "" }
+
 ent-RandomCargoCorpseSpawner = Random Cargo Corpse Spawner
-    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+    .desc = { "" }
+
 ent-RandomMedicCorpseSpawner = Random Medic Corpse Spawner
-    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+    .desc = { "" }
+
 ent-RandomScienceCorpseSpawner = Random Science Corpse Spawner
-    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+    .desc = { "" }
+
 ent-RandomSecurityCorpseSpawner = Random Security Corpse Spawner
-    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+    .desc = { "" }
+
 ent-RandomCommandCorpseSpawner = Random Command Corpse Spawner
-    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+    .desc = { "" }

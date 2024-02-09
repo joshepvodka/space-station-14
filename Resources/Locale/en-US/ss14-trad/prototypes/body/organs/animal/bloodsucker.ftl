@@ -1,6 +1,8 @@
 ent-OrganBloodsuckerStomach = stomach
-    .desc = { ent-OrganAnimalStomach.desc }
+    .desc = { "" }
+
 ent-OrganBloodsuckerLiver = liver
-    .desc = { ent-OrganAnimalLiver.desc }
+    .desc = { "" }
+
 ent-OrganBloodsuckerHeart = heart
-    .desc = { ent-OrganAnimalHeart.desc }
+    .desc = { "" }

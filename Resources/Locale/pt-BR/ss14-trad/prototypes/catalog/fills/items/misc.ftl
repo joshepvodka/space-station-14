@@ -1,6 +1,7 @@
 ent-ClothingShoesBootsCombatFilled = { ent-ClothingShoesBootsCombat }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingShoesBootsCombat.desc }
+
 ent-ClothingShoesBootsMercFilled = { ent-ClothingShoesBootsMerc }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingShoesBootsMerc.desc }

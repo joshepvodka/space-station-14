@@ -1,40 +1,53 @@
 ent-BaseJetpack = Jetpack
     .desc = It's a jetpack.
+
 ent-ActionToggleJetpack = Toggle jetpack
     .desc = Toggles the jetpack, giving you movement outside the station.
+
 ent-JetpackBlue = jetpack
+    .desc = { "" }
     .suffix = Empty
-    .desc = { ent-BaseJetpack.desc }
+
 ent-JetpackBlueFilled = jetpack
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-JetpackBlue.desc }
+
 ent-JetpackBlack = jetpack
+    .desc = { "" }
     .suffix = Empty
-    .desc = { ent-BaseJetpack.desc }
+
 ent-JetpackBlackFilled = jetpack
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-JetpackBlack.desc }
+
 ent-JetpackCaptain = captain's jetpack
+    .desc = { "" }
     .suffix = Empty
-    .desc = { ent-BaseJetpack.desc }
+
 ent-JetpackCaptainFilled = captain's jetpack
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-JetpackCaptain.desc }
+
 ent-JetpackMini = mini jetpack
+    .desc = { "" }
     .suffix = Empty
-    .desc = { ent-BaseJetpack.desc }
+
 ent-JetpackMiniFilled = mini jetpack
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-JetpackMini.desc }
+
 ent-JetpackSecurity = security jetpack
+    .desc = { "" }
     .suffix = Empty
-    .desc = { ent-BaseJetpack.desc }
+
 ent-JetpackSecurityFilled = security jetpack
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-JetpackSecurity.desc }
+
 ent-JetpackVoid = void jetpack
+    .desc = { "" }
     .suffix = Empty
-    .desc = { ent-BaseJetpack.desc }
+
 ent-JetpackVoidFilled = void jetpack
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-JetpackVoid.desc }

@@ -1,2 +1,3 @@
 ent-DebugItemShapeWeird = weirdly shaped item
-    .desc = What is it...?    .suffix = DEBUG
+    .desc = What is it...?
+    .suffix = DEBUG

@@ -1,16 +1,23 @@
 ent-BaseSpellbook = spellbook
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-SpawnSpellbook = spawn spellbook
-    .desc = { ent-BaseSpellbook.desc }
+    .desc = { "" }
+
 ent-ForceWallSpellbook = force wall spellbook
-    .desc = { ent-BaseSpellbook.desc }
+    .desc = { "" }
+
 ent-BlinkBook = blink spellbook
-    .desc = { ent-BaseSpellbook.desc }
+    .desc = { "" }
+
 ent-SmiteBook = smite spellbook
-    .desc = { ent-BaseSpellbook.desc }
+    .desc = { "" }
+
 ent-KnockSpellbook = knock spellbook
-    .desc = { ent-BaseSpellbook.desc }
+    .desc = { "" }
+
 ent-FireballSpellbook = fireball spellbook
-    .desc = { ent-BaseSpellbook.desc }
+    .desc = { "" }
+
 ent-ScrollRunes = scroll of runes
-    .desc = { ent-BaseSpellbook.desc }
+    .desc = { "" }

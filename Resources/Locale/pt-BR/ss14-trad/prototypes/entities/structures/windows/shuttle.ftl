@@ -1,5 +1,6 @@
 ent-ShuttleWindow = shuttle window
-    .desc = { ent-Window.desc }
+    .desc = { "" }
+
 ent-ShuttleWindowDiagonal = { ent-ShuttleWindow }
+    .desc = { "" }
     .suffix = diagonal
-    .desc = { ent-ShuttleWindow.desc }

@@ -1,69 +1,105 @@
 ent-CrateGenericSteel = crate
-    .desc = { ent-CrateBaseWeldable.desc }
+    .desc = { "" }
+
 ent-CratePlastic = plastic crate
-    .desc = { ent-CrateBaseWeldable.desc }
+    .desc = { "" }
+
 ent-CrateFreezer = freezer
-    .desc = { ent-CratePlastic.desc }
+    .desc = { "" }
+
 ent-CrateHydroponics = hydroponics crate
-    .desc = { ent-CratePlastic.desc }
+    .desc = { "" }
+
 ent-CrateMedical = medical crate
-    .desc = { ent-CratePlastic.desc }
+    .desc = { "" }
+
 ent-CrateRadiation = radiation gear crate
     .desc = Is not actually lead lined. Do not store your plutonium in this.
+
 ent-CrateInternals = oxygen crate
-    .desc = { ent-CratePlastic.desc }
+    .desc = { "" }
+
 ent-CrateElectrical = electrical crate
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = { "" }
+
 ent-CrateEngineering = engineering crate
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = { "" }
+
 ent-CrateScience = science crate
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = { "" }
+
 ent-CrateSurgery = surgery crate
-    .desc = { ent-CrateGenericSteel.desc }
+    .desc = { "" }
+
 ent-CrateWeb = web crate
-    .desc = { ent-CrateGeneric.desc }
+    .desc = { "" }
+
 ent-CrateSecgear = secgear crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CrateEngineeringSecure = secure engineering crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CrateMedicalSecure = secure medical crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CrateChemistrySecure = secure chemistry crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CratePrivateSecure = private crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CrateScienceSecure = secure science crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CratePlasma = plasma crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CrateSecure = secure crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CrateHydroSecure = secure hydroponics crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CrateWeaponSecure = secure weapon crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CrateCommandSecure = command crate
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-CrateLivestock = livestock crate
-    .desc = { ent-CrateGeneric.desc }
+    .desc = { "" }
+
 ent-CrateRodentCage = hamster cage
-    .desc = { ent-CrateGeneric.desc }
+    .desc = { "" }
+
 ent-CratePirate = pirate chest
     .desc = A space pirate chest, not for station lubbers.
+
 ent-CrateToyBox = toy box
-    .desc = A box overflowing with fun.    .suffix = Empty
+    .desc = A box overflowing with fun.
+    .suffix = Empty
+
 ent-CrateCoffin = coffin
     .desc = A comfy coffin, excelent place for the vampires and corpses.
+
 ent-CrateWoodenGrave = grave
-    .desc = Someone died here...    .suffix = wooden
+    .desc = Someone died here...
+    .suffix = wooden
+
 ent-CrateStoneGrave = grave
-    .desc = Someone died here...    .suffix = stone
+    .desc = Someone died here...
+    .suffix = stone
+
 ent-CrateSyndicate = Syndicate crate
     .desc = A dark steel crate with red bands and a letter S embossed on the front.
+
 ent-CrateTrashCart = trash cart
-    .desc = { ent-CrateBaseWeldable.desc }
+    .desc = { "" }
+
 ent-CrateTrashCartJani = janitorial trash cart
-    .desc = { ent-CrateBaseSecure.desc }
+    .desc = { "" }
+
 ent-InvisibleCrate = { ent-CrateBaseWeldable }
+    .desc = { "" }
     .suffix = Stealth
-    .desc = { ent-CrateBaseWeldable.desc }

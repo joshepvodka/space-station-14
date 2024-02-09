@@ -1,42 +1,55 @@
 ent-ClothingBeltUtilityFilled = { ent-ClothingBeltUtility }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltUtility.desc }
+
 ent-ClothingBeltUtilityEngineering = { ent-ClothingBeltUtility }
+    .desc = { "" }
     .suffix = Engineering
-    .desc = { ent-ClothingBeltUtility.desc }
+
 ent-ClothingBeltChiefEngineerFilled = { ent-ClothingBeltChiefEngineer }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltChiefEngineer.desc }
+
 ent-ClothingBeltSecurityFilled = { ent-ClothingBeltSecurity }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltSecurity.desc }
+
 ent-ClothingBeltJanitorFilled = { ent-ClothingBeltJanitor }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltJanitor.desc }
+
 ent-ClothingBeltMedicalFilled = { ent-ClothingBeltMedical }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltMedical.desc }
+
 ent-ClothingBeltParamedicFilled = EMT belt
+    .desc = { "" }
     .suffix = Paramedic,Filled
-    .desc = { ent-ClothingBeltMedical.desc }
+
 ent-ClothingBeltPlantFilled = { ent-ClothingBeltPlant }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltPlant.desc }
+
 ent-ClothingBeltSheathFilled = { ent-ClothingBeltSheath }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltSheath.desc }
+
 ent-ClothingBeltMilitaryWebbingGrenadeFilled = grenadier chest rig
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltMilitaryWebbing.desc }
+
 ent-ClothingBeltMilitaryWebbingMedFilled = { ent-ClothingBeltMilitaryWebbingMed }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltMilitaryWebbingMed.desc }
+
 ent-ClothingBeltWandFilled = { ent-ClothingBeltWand }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltWand.desc }
+
 ent-ClothingBeltHolsterFilled = { ent-ClothingBeltHolster }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltHolster.desc }
+
 ent-ClothingBeltChefFilled = { ent-ClothingBeltChef }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ClothingBeltChef.desc }

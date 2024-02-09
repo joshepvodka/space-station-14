@@ -1,6 +1,8 @@
 ent-AltarSpawner = random altar spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-ConvertAltarSpawner = random convert-altar spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-CultAltarSpawner = random cult-altar spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }

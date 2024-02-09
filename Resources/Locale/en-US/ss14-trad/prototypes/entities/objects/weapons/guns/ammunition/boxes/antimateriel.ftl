@@ -1,6 +1,8 @@
 ent-BaseMagazineBoxAntiMateriel = ammunition box (.60 anti-materiel)
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-MagazineBoxAntiMaterielBig = ammunition box (.60 anti-materiel)
-    .desc = { ent-BaseMagazineBoxAntiMateriel.desc }
+    .desc = { "" }
+
 ent-MagazineBoxAntiMateriel = ammunition box (.60 anti-materiel)
-    .desc = { ent-BaseMagazineBoxAntiMateriel.desc }
+    .desc = { "" }

@@ -1,32 +1,44 @@
 ent-GasMinerBase = gas miner
     .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+
 ent-GasMinerOxygen = O2 gas miner
+    .desc = { "" }
     .suffix = Shuttle, 300kPa
-    .desc = { ent-GasMinerBase.desc }
+
 ent-GasMinerOxygenStation = O2 gas miner
+    .desc = { "" }
     .suffix = Station, 1000kPa
-    .desc = { ent-GasMinerOxygen.desc }
+
 ent-GasMinerOxygenStationLarge = O2 gas miner
+    .desc = { "" }
     .suffix = Large Station, 4500kPa
-    .desc = { ent-GasMinerOxygen.desc }
+
 ent-GasMinerNitrogen = N2 gas miner
+    .desc = { "" }
     .suffix = Shuttle, 300kPa
-    .desc = { ent-GasMinerBase.desc }
+
 ent-GasMinerNitrogenStation = N2 gas miner
+    .desc = { "" }
     .suffix = Station, 1000kPa
-    .desc = { ent-GasMinerNitrogen.desc }
+
 ent-GasMinerNitrogenStationLarge = N2 gas miner
+    .desc = { "" }
     .suffix = Large Station, 4500kPa
-    .desc = { ent-GasMinerNitrogen.desc }
+
 ent-GasMinerCarbonDioxide = CO2 gas miner
-    .desc = { ent-GasMinerBase.desc }
+    .desc = { "" }
+
 ent-GasMinerPlasma = plasma gas miner
-    .desc = { ent-GasMinerBase.desc }
+    .desc = { "" }
+
 ent-GasMinerTritium = tritium gas miner
-    .desc = { ent-GasMinerBase.desc }
+    .desc = { "" }
+
 ent-GasMinerWaterVapor = water vapor gas miner
-    .desc = { ent-GasMinerBase.desc }
+    .desc = { "" }
+
 ent-GasMinerAmmonia = ammonia gas miner
-    .desc = { ent-GasMinerBase.desc }
+    .desc = { "" }
+
 ent-GasMinerNitrousOxide = nitrous oxide gas miner
-    .desc = { ent-GasMinerBase.desc }
+    .desc = { "" }

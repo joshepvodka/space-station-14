@@ -1,10 +1,14 @@
 ent-PartAnimal = animal body part
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-HandsAnimal = animal hands
-    .desc = { ent-PartAnimal.desc }
+    .desc = { "" }
+
 ent-LegsAnimal = animal legs
-    .desc = { ent-PartAnimal.desc }
+    .desc = { "" }
+
 ent-FeetAnimal = animal feet
-    .desc = { ent-PartAnimal.desc }
+    .desc = { "" }
+
 ent-TorsoAnimal = animal torso
-    .desc = { ent-PartAnimal.desc }
+    .desc = { "" }

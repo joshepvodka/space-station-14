@@ -1,21 +1,27 @@
 ent-ToolboxEmergencyFilled = emergency toolbox
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ToolboxEmergency.desc }
+
 ent-ToolboxElectricalFilled = electrical toolbox
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ToolboxElectrical.desc }
+
 ent-ToolboxElectricalTurretFilled = electrical toolbox
+    .desc = { "" }
     .suffix = Syndicate, Turret, Filled
-    .desc = { ent-ToolboxElectricalTurret.desc }
+
 ent-ToolboxArtisticFilled = artistic toolbox
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ToolboxArtistic.desc }
+
 ent-ToolboxMechanicalFilled = mechanical toolbox
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ToolboxMechanical.desc }
+
 ent-ToolboxSyndicateFilled = { ent-ToolboxSyndicate }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ToolboxSyndicate.desc }
+
 ent-ToolboxGoldFilled = golden toolbox
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-ToolboxGolden.desc }

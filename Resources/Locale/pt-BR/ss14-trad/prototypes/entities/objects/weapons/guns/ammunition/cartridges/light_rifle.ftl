@@ -1,12 +1,17 @@
 ent-BaseCartridgeLightRifle = cartridge (.30 rifle)
-    .desc = { ent-BaseCartridge.desc }
+    .desc = { "" }
+
 ent-CartridgeLightRifle = cartridge (.30 rifle)
-    .desc = { ent-BaseCartridgeLightRifle.desc }
+    .desc = { "" }
+
 ent-CartridgeLightRiflePractice = cartridge (.30 rifle practice)
-    .desc = { ent-BaseCartridgeLightRifle.desc }
+    .desc = { "" }
+
 ent-CartridgeLightRifleRubber = cartridge (.30 rifle rubber)
-    .desc = { ent-BaseCartridgeLightRifle.desc }
+    .desc = { "" }
+
 ent-CartridgeLightRifleIncendiary = cartridge (.30 rifle incendiary)
-    .desc = { ent-BaseCartridgeLightRifle.desc }
+    .desc = { "" }
+
 ent-CartridgeLightRifleUranium = cartridge (.30 rifle uranium)
-    .desc = { ent-BaseCartridgeLightRifle.desc }
+    .desc = { "" }

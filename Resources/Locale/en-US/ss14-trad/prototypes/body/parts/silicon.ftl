@@ -1,12 +1,17 @@
 ent-BaseBorgArmLeft = left cyborg arm
-    .desc = { ent-PartSilicon.desc }
+    .desc = { "" }
+
 ent-BaseBorgArmRight = right cyborg arm
-    .desc = { ent-PartSilicon.desc }
+    .desc = { "" }
+
 ent-BaseBorgLegLeft = left cyborg leg
-    .desc = { ent-PartSilicon.desc }
+    .desc = { "" }
+
 ent-BaseBorgLegRight = right cyborg leg
-    .desc = { ent-PartSilicon.desc }
+    .desc = { "" }
+
 ent-BaseBorgHead = cyborg head
-    .desc = { ent-PartSilicon.desc }
+    .desc = { "" }
+
 ent-BaseBorgTorso = cyborg torso
-    .desc = { ent-PartSilicon.desc }
+    .desc = { "" }

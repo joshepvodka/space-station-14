@@ -1,5 +1,6 @@
 ent-ReinforcedUraniumWindow = reinforced uranium window
-    .desc = { ent-Window.desc }
+    .desc = { "" }
+
 ent-ReinforcedUraniumWindowDiagonal = { ent-ReinforcedUraniumWindow }
+    .desc = { "" }
     .suffix = diagonal
-    .desc = { ent-ReinforcedUraniumWindow.desc }

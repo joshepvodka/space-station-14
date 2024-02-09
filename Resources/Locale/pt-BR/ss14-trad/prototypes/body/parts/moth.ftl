@@ -1,22 +1,32 @@
 ent-PartMoth = moth body part
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-TorsoMoth = moth torso
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }
+
 ent-HeadMoth = moth head
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }
+
 ent-LeftArmMoth = left moth arm
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }
+
 ent-RightArmMoth = right moth arm
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }
+
 ent-LeftHandMoth = left moth hand
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }
+
 ent-RightHandMoth = right moth hand
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }
+
 ent-LeftLegMoth = left moth leg
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }
+
 ent-RightLegMoth = right moth leg
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }
+
 ent-LeftFootMoth = left moth foot
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }
+
 ent-RightFootMoth = right moth foot
-    .desc = { ent-PartMoth.desc }
+    .desc = { "" }

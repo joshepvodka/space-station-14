@@ -1,12 +1,17 @@
 ent-BulletMagnum = bullet (.45 magnum)
-    .desc = { ent-BaseBullet.desc }
+    .desc = { "" }
+
 ent-BulletMagnumPractice = bullet (.45 magnum practice)
-    .desc = { ent-BaseBulletPractice.desc }
+    .desc = { "" }
+
 ent-BulletMagnumRubber = bullet (.45 magnum rubber)
-    .desc = { ent-BaseBulletRubber.desc }
+    .desc = { "" }
+
 ent-BulletMagnumIncendiary = bullet (.45 magnum incendiary)
-    .desc = { ent-BaseBulletIncendiary.desc }
+    .desc = { "" }
+
 ent-BulletMagnumAP = bullet (.45 magnum armor-piercing)
-    .desc = { ent-BaseBulletAP.desc }
+    .desc = { "" }
+
 ent-BulletMagnumUranium = bullet (.45 magnum uranium)
-    .desc = { ent-BaseBulletUranium.desc }
+    .desc = { "" }

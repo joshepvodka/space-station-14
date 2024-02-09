@@ -1,37 +1,49 @@
 ent-SurveillanceCameraRouterBase = camera router
     .desc = A surveillance camera router. It routes. Perhaps.
+
 ent-SurveillanceCameraRouterConstructed = { ent-SurveillanceCameraRouterBase }
+    .desc = { "" }
     .suffix = Constructed
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+
 ent-SurveillanceCameraRouterEngineering = { ent-SurveillanceCameraRouterBase }
+    .desc = { "" }
     .suffix = Engineering
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+
 ent-SurveillanceCameraRouterSecurity = { ent-SurveillanceCameraRouterBase }
+    .desc = { "" }
     .suffix = Security
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+
 ent-SurveillanceCameraRouterScience = { ent-SurveillanceCameraRouterBase }
+    .desc = { "" }
     .suffix = Science
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+
 ent-SurveillanceCameraRouterSupply = { ent-SurveillanceCameraRouterBase }
+    .desc = { "" }
     .suffix = Supply
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+
 ent-SurveillanceCameraRouterCommand = { ent-SurveillanceCameraRouterBase }
+    .desc = { "" }
     .suffix = Command
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+
 ent-SurveillanceCameraRouterService = { ent-SurveillanceCameraRouterBase }
+    .desc = { "" }
     .suffix = Service
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+
 ent-SurveillanceCameraRouterMedical = { ent-SurveillanceCameraRouterBase }
+    .desc = { "" }
     .suffix = Medical
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+
 ent-SurveillanceCameraRouterGeneral = { ent-SurveillanceCameraRouterBase }
+    .desc = { "" }
     .suffix = General
-    .desc = { ent-SurveillanceCameraRouterBase.desc }
+
 ent-SurveillanceCameraWirelessRouterBase = wireless camera router
     .desc = A wireless surveillance camera router. It routes. Perhaps.
+
 ent-SurveillanceCameraWirelessRouterConstructed = { ent-SurveillanceCameraWirelessRouterBase }
+    .desc = { "" }
     .suffix = Constructed
-    .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
+
 ent-SurveillanceCameraWirelessRouterEntertainment = { ent-SurveillanceCameraWirelessRouterBase }
+    .desc = { "" }
     .suffix = Entertainment
-    .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }

@@ -1,39 +1,51 @@
 ent-LockerQuarterMasterFilled = { ent-LockerQuarterMaster }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerQuarterMaster.desc }
+
 ent-LockerCaptainFilledHardsuit = { ent-LockerCaptain }
+    .desc = { "" }
     .suffix = Filled, Hardsuit
-    .desc = { ent-LockerCaptain.desc }
+
 ent-LockerCaptainFilled = { ent-LockerCaptain }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerCaptain.desc }
+
 ent-LockerHeadOfPersonnelFilled = { ent-LockerHeadOfPersonnel }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerHeadOfPersonnel.desc }
+
 ent-LockerChiefEngineerFilledHardsuit = { ent-LockerChiefEngineer }
+    .desc = { "" }
     .suffix = Filled, Hardsuit
-    .desc = { ent-LockerChiefEngineer.desc }
+
 ent-LockerChiefEngineerFilled = { ent-LockerChiefEngineer }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerChiefEngineer.desc }
+
 ent-LockerChiefMedicalOfficerFilledHardsuit = { ent-LockerChiefMedicalOfficer }
+    .desc = { "" }
     .suffix = Filled, Hardsuit
-    .desc = { ent-LockerChiefMedicalOfficer.desc }
+
 ent-LockerChiefMedicalOfficerFilled = { ent-LockerChiefMedicalOfficer }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerChiefMedicalOfficer.desc }
+
 ent-LockerResearchDirectorFilledHardsuit = { ent-LockerResearchDirector }
+    .desc = { "" }
     .suffix = Filled, Hardsuit
-    .desc = { ent-LockerResearchDirector.desc }
+
 ent-LockerResearchDirectorFilled = { ent-LockerResearchDirector }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerResearchDirector.desc }
+
 ent-LockerHeadOfSecurityFilledHardsuit = { ent-LockerHeadOfSecurity }
+    .desc = { "" }
     .suffix = Filled, Hardsuit
-    .desc = { ent-LockerHeadOfSecurity.desc }
+
 ent-LockerHeadOfSecurityFilled = { ent-LockerHeadOfSecurity }
+    .desc = { "" }
     .suffix = Filled
-    .desc = { ent-LockerHeadOfSecurity.desc }
+
 ent-LockerFreezerVaultFilled = { ent-LockerFreezerBase }
+    .desc = { "" }
     .suffix = Vault, Locked
-    .desc = { ent-LockerFreezerBase.desc }

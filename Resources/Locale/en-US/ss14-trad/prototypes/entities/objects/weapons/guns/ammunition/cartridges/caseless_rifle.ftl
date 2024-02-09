@@ -1,8 +1,11 @@
 ent-BaseCartridgeCaselessRifle = cartridge (.25 rifle)
-    .desc = { ent-BaseCartridge.desc }
+    .desc = { "" }
+
 ent-CartridgeCaselessRifle = cartridge (.25 caseless)
-    .desc = { ent-BaseCartridgeCaselessRifle.desc }
+    .desc = { "" }
+
 ent-CartridgeCaselessRiflePractice = cartridge (.25 caseless practice)
-    .desc = { ent-BaseCartridgeCaselessRifle.desc }
+    .desc = { "" }
+
 ent-CartridgeCaselessRifleRubber = cartridge (.25 caseless rubber)
-    .desc = { ent-BaseCartridgeCaselessRifle.desc }
+    .desc = { "" }

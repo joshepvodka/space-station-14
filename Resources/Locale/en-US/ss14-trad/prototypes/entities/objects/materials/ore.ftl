@@ -1,50 +1,66 @@
 ent-OreBase = { ent-BaseItem }
     .desc = A piece of unrefined ore.
+
 ent-GoldOre = gold ore
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-OreBase.desc }
+
 ent-GoldOre1 = { ent-GoldOre }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-GoldOre.desc }
+
 ent-SteelOre = iron ore
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-OreBase.desc }
+
 ent-SteelOre1 = { ent-SteelOre }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-SteelOre.desc }
+
 ent-PlasmaOre = plasma ore
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-OreBase.desc }
+
 ent-PlasmaOre1 = { ent-PlasmaOre }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-PlasmaOre.desc }
+
 ent-SilverOre = silver ore
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-OreBase.desc }
+
 ent-SilverOre1 = { ent-SilverOre }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-SilverOre.desc }
+
 ent-SpaceQuartz = space quartz
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-OreBase.desc }
+
 ent-SpaceQuartz1 = { ent-SpaceQuartz }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-SpaceQuartz.desc }
+
 ent-UraniumOre = uranium ore
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-OreBase.desc }
+
 ent-UraniumOre1 = { ent-UraniumOre }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-UraniumOre.desc }
+
 ent-BananiumOre = bananium ore
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-OreBase.desc }
+
 ent-BananiumOre1 = { ent-BananiumOre }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-BananiumOre.desc }
+
 ent-Coal = coal
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-OreBase.desc }
+
 ent-Coal1 = { ent-Coal }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-Coal.desc }

@@ -1,77 +1,104 @@
 ent-MaterialBase = { ent-BaseItem }
     .desc = A raw material.
+
 ent-MaterialCardboard = cardboard
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-MaterialBase.desc }
+
 ent-MaterialCardboard10 = { ent-MaterialCardboard }
+    .desc = { "" }
     .suffix = 10
-    .desc = { ent-MaterialCardboard.desc }
+
 ent-MaterialCardboard1 = { ent-MaterialCardboard }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-MaterialCardboard.desc }
+
 ent-MaterialCloth = cloth
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-MaterialBase.desc }
+
 ent-MaterialCloth10 = { ent-MaterialCloth }
+    .desc = { "" }
     .suffix = 10
-    .desc = { ent-MaterialCloth.desc }
+
 ent-MaterialCloth1 = { ent-MaterialCloth }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-MaterialCloth.desc }
+
 ent-MaterialDurathread = durathread
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-MaterialBase.desc }
+
 ent-MaterialDurathread1 = { ent-MaterialDurathread }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-MaterialDurathread.desc }
+
 ent-MaterialWoodPlank = wood
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-MaterialBase.desc }
+
 ent-MaterialWoodPlank10 = { ent-MaterialWoodPlank }
+    .desc = { "" }
     .suffix = 10
-    .desc = { ent-MaterialWoodPlank.desc }
+
 ent-MaterialWoodPlank1 = { ent-MaterialWoodPlank }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-MaterialWoodPlank.desc }
+
 ent-MaterialBiomass = biomass
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-MaterialBase.desc }
+
 ent-MaterialBiomass1 = { ent-MaterialBiomass }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-MaterialBiomass.desc }
+
 ent-MaterialHideBear = bear hide
-    .desc = { ent-MaterialBase.desc }
+    .desc = { "" }
+
 ent-MaterialHideCorgi = corgi hide
     .desc = Luxury pelt used in only the most elite fashion. Rumors say this is found when a corgi is sent to the nice farm.
+
 ent-MaterialDiamond = refined diamond
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-MaterialBase.desc }
+
 ent-MaterialDiamond1 = { ent-MaterialDiamond }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-MaterialDiamond.desc }
+
 ent-MaterialCotton = cotton
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-MaterialBase.desc }
+
 ent-MaterialCotton1 = { ent-MaterialCotton }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-MaterialCotton.desc }
+
 ent-MaterialBananium = bananium
+    .desc = { "" }
     .suffix = Full
-    .desc = { ent-MaterialBase.desc }
+
 ent-MaterialBananium1 = { ent-MaterialBananium }
+    .desc = { "" }
     .suffix = Single
-    .desc = { ent-MaterialBananium.desc }
+
 ent-MaterialWebSilk = silk
-    .desc = A webby material    .suffix = Full
-ent-MaterialWebSilk25 = { ent-MaterialWebSilk }
-    .suffix = 25
-    .desc = { ent-MaterialWebSilk.desc }
-ent-MaterialWebSilk1 = { ent-MaterialWebSilk }
-    .suffix = 1
-    .desc = { ent-MaterialWebSilk.desc }
-ent-MaterialBones = bones
+    .desc = A webby material
     .suffix = Full
-    .desc = { ent-MaterialBase.desc }
-ent-MaterialBones1 = { ent-MaterialBones }
+
+ent-MaterialWebSilk25 = { ent-MaterialWebSilk }
+    .desc = { "" }
+    .suffix = 25
+
+ent-MaterialWebSilk1 = { ent-MaterialWebSilk }
+    .desc = { "" }
     .suffix = 1
-    .desc = { ent-MaterialBones.desc }
+
+ent-MaterialBones = bones
+    .desc = { "" }
+    .suffix = Full
+
+ent-MaterialBones1 = { ent-MaterialBones }
+    .desc = { "" }
+    .suffix = 1

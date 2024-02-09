@@ -1,50 +1,74 @@
 ent-Jug = jug
     .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+
 ent-JugCarbon = jug (carbon)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugIodine = jug (iodine)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugFluorine = jug (fluorine)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugChlorine = jug (chlorine)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugAluminium = jug (aluminium)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugPhosphorus = jug (phosphorus)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugSulfur = jug (sulfur)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugSilicon = jug (silicon)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugHydrogen = jug (hydrogen)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugLithium = jug (lithium)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugSodium = jug (sodium)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugPotassium = jug (potassium)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugRadium = jug (radium)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugIron = jug (iron)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugCopper = jug (copper)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugGold = jug (gold)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugMercury = jug (mercury)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugSilver = jug (silver)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugEthanol = jug (ethanol)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugSugar = jug (sugar)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugNitrogen = jug (nitrogen)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugOxygen = jug (oxygen)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugPlantBGone = jug (Plant-B-Gone)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }
+
 ent-JugWeldingFuel = jug (welding fuel)
-    .desc = { ent-Jug.desc }
+    .desc = { "" }

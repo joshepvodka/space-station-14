@@ -1,12 +1,15 @@
 ent-MaintenanceFluffSpawner = Maint Loot Spawner
+    .desc = { "" }
     .suffix = Fluff+Clothes
-    .desc = { ent-MarkerBase.desc }
+
 ent-MaintenanceToolSpawner = Maint Loot Spawner
+    .desc = { "" }
     .suffix = Tools+Cells+Mats
-    .desc = { ent-MarkerBase.desc }
+
 ent-MaintenanceWeaponSpawner = Maint Loot Spawner
+    .desc = { "" }
     .suffix = Scrap+Weapons
-    .desc = { ent-MarkerBase.desc }
+
 ent-MaintenancePlantSpawner = Maint Loot Spawner
+    .desc = { "" }
     .suffix = Plants
-    .desc = { ent-MarkerBase.desc }

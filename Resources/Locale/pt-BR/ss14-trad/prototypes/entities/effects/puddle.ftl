@@ -1,22 +1,29 @@
 ent-PuddleSmear = { ent-PuddleTemporary }
+    .desc = { "" }
     .suffix = Smear
-    .desc = { ent-PuddleTemporary.desc }
+
 ent-PuddleVomit = { ent-PuddleTemporary }
+    .desc = { "" }
     .suffix = Vomit
-    .desc = { ent-PuddleTemporary.desc }
+
 ent-PuddleEgg = { ent-PuddleTemporary }
+    .desc = { "" }
     .suffix = Egg
-    .desc = { ent-PuddleTemporary.desc }
+
 ent-PuddleTomato = { ent-PuddleTemporary }
+    .desc = { "" }
     .suffix = Tomato
-    .desc = { ent-PuddleTemporary.desc }
+
 ent-PuddleWatermelon = { ent-PuddleTemporary }
+    .desc = { "" }
     .suffix = Watermelon
-    .desc = { ent-PuddleTemporary.desc }
+
 ent-PuddleFlour = { ent-PuddleTemporary }
+    .desc = { "" }
     .suffix = Flour
-    .desc = { ent-PuddleTemporary.desc }
+
 ent-PuddleSparkle = sparkle
     .desc = { "" }
+
 ent-Puddle = puddle
     .desc = A puddle of liquid.

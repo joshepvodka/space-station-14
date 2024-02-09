@@ -1,6 +1,8 @@
 ent-TrashBag = trash bag
-    .desc = { ent-BaseStorageItem.desc }
+    .desc = { "" }
+
 ent-TrashBagBlue = trash bag
-    .desc = { ent-TrashBag.desc }
+    .desc = { "" }
+
 ent-BagOfSummoningGarbage = spell of all-consuming cleanliness
-    .desc = { ent-TrashBagBlue.desc }
+    .desc = { "" }

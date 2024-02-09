@@ -1,51 +1,68 @@
 ent-RandomHumanoidSpawnerDeathSquad = Death Squad Agent
+    .desc = { "" }
     .suffix = ERTRole, Death Squad
-    .desc = { "" }
+
 ent-RandomHumanoidSpawnerERTLeader = ERT leader
-    .suffix = ERTRole, Basic
     .desc = { "" }
+    .suffix = ERTRole, Basic
+
 ent-RandomHumanoidSpawnerERTLeaderEVA = ERT leader
-    .suffix = ERTRole, Armored EVA
-    .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
-ent-RandomHumanoidSpawnerERTLeaderEVALecter = { ent-RandomHumanoidSpawnerERTLeaderEVA }
-    .suffix = ERTRole, Lecter, EVA
-    .desc = { ent-RandomHumanoidSpawnerERTLeaderEVA.desc }
-ent-RandomHumanoidSpawnerERTJanitor = ERT janitor
-    .suffix = ERTRole, Basic
-    .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
-ent-RandomHumanoidSpawnerERTJanitorEVA = ERT janitor
-    .suffix = ERTRole, Enviro EVA
-    .desc = { ent-RandomHumanoidSpawnerERTJanitor.desc }
-ent-RandomHumanoidSpawnerERTEngineer = ERT engineer
-    .suffix = ERTRole, Basic
-    .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
-ent-RandomHumanoidSpawnerERTEngineerEVA = ERT engineer
-    .suffix = ERTRole, Enviro EVA
-    .desc = { ent-RandomHumanoidSpawnerERTEngineer.desc }
-ent-RandomHumanoidSpawnerERTSecurity = ERT security
-    .suffix = ERTRole, Basic
-    .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
-ent-RandomHumanoidSpawnerERTSecurityEVA = ERT security
-    .suffix = ERTRole, Armored EVA
-    .desc = { ent-RandomHumanoidSpawnerERTSecurity.desc }
-ent-RandomHumanoidSpawnerERTSecurityEVALecter = { ent-RandomHumanoidSpawnerERTSecurityEVA }
-    .suffix = ERTRole, Lecter, EVA
-    .desc = { ent-RandomHumanoidSpawnerERTSecurityEVA.desc }
-ent-RandomHumanoidSpawnerERTMedical = ERT medic
-    .suffix = ERTRole, Basic
-    .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
-ent-RandomHumanoidSpawnerERTMedicalEVA = ERT medic
-    .suffix = ERTRole, Armored EVA
-    .desc = { ent-RandomHumanoidSpawnerERTMedical.desc }
-ent-RandomHumanoidSpawnerCBURNUnit = CBURN Agent
-    .suffix = ERTRole
     .desc = { "" }
+    .suffix = ERTRole, Armored EVA
+
+ent-RandomHumanoidSpawnerERTLeaderEVALecter = { ent-RandomHumanoidSpawnerERTLeaderEVA }
+    .desc = { "" }
+    .suffix = ERTRole, Lecter, EVA
+
+ent-RandomHumanoidSpawnerERTJanitor = ERT janitor
+    .desc = { "" }
+    .suffix = ERTRole, Basic
+
+ent-RandomHumanoidSpawnerERTJanitorEVA = ERT janitor
+    .desc = { "" }
+    .suffix = ERTRole, Enviro EVA
+
+ent-RandomHumanoidSpawnerERTEngineer = ERT engineer
+    .desc = { "" }
+    .suffix = ERTRole, Basic
+
+ent-RandomHumanoidSpawnerERTEngineerEVA = ERT engineer
+    .desc = { "" }
+    .suffix = ERTRole, Enviro EVA
+
+ent-RandomHumanoidSpawnerERTSecurity = ERT security
+    .desc = { "" }
+    .suffix = ERTRole, Basic
+
+ent-RandomHumanoidSpawnerERTSecurityEVA = ERT security
+    .desc = { "" }
+    .suffix = ERTRole, Armored EVA
+
+ent-RandomHumanoidSpawnerERTSecurityEVALecter = { ent-RandomHumanoidSpawnerERTSecurityEVA }
+    .desc = { "" }
+    .suffix = ERTRole, Lecter, EVA
+
+ent-RandomHumanoidSpawnerERTMedical = ERT medic
+    .desc = { "" }
+    .suffix = ERTRole, Basic
+
+ent-RandomHumanoidSpawnerERTMedicalEVA = ERT medic
+    .desc = { "" }
+    .suffix = ERTRole, Armored EVA
+
+ent-RandomHumanoidSpawnerCBURNUnit = CBURN Agent
+    .desc = { "" }
+    .suffix = ERTRole
+
 ent-RandomHumanoidSpawnerCentcomOfficial = CentCom official
     .desc = { "" }
+
 ent-RandomHumanoidSpawnerSyndicateAgent = syndicate agent
     .desc = { "" }
+
 ent-RandomHumanoidSpawnerNukeOp = Nuclear Operative
     .desc = { "" }
+
 ent-RandomHumanoidSpawnerCluwne = Cluwne
-    .suffix = spawns a cluwne
     .desc = { "" }
+    .suffix = spawns a cluwne

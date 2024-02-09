@@ -1,14 +1,20 @@
 ent-BaseMagazineGrenade = grenade cartridge
-    .desc = { ent-BaseItem.desc }
+    .desc = { "" }
+
 ent-MagazineGrenadeEmpty = grenade cartridge
-    .desc = { ent-BaseMagazineGrenade.desc }
+    .desc = { "" }
+
 ent-MagazineGrenadeFrag = frag grenade cartridge
-    .desc = { ent-BaseMagazineGrenade.desc }
+    .desc = { "" }
+
 ent-MagazineGrenadeEMP = EMP grenade cartridge
-    .desc = { ent-BaseMagazineGrenade.desc }
+    .desc = { "" }
+
 ent-MagazineGrenadeFlash = flash grenade cartridge
-    .desc = { ent-BaseMagazineGrenade.desc }
+    .desc = { "" }
+
 ent-MagazineGrenadeBlast = blast grenade cartridge
-    .desc = { ent-BaseMagazineGrenade.desc }
+    .desc = { "" }
+
 ent-MagazineGrenadeBaton = baton grenade cartridge
-    .desc = { ent-BaseMagazineGrenade.desc }
+    .desc = { "" }

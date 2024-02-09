@@ -1,3 +1,3 @@
 ent-RandomFoodBakedSingle = random baked food spawner
+    .desc = { "" }
     .suffix = Single Serving
-    .desc = { ent-MarkerBase.desc }

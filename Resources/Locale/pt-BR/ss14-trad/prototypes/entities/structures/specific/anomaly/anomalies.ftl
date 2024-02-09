@@ -1,43 +1,58 @@
 ent-BaseAnomaly = anomaly
     .desc = An impossible object. Should you be standing this close to it?
+
 ent-AnomalyPyroclastic = { ent-BaseAnomaly }
+    .desc = { "" }
     .suffix = Pyroclastic
-    .desc = { ent-BaseAnomaly.desc }
+
 ent-AnomalyGravity = { ent-BaseAnomaly }
+    .desc = { "" }
     .suffix = Gravity
-    .desc = { ent-BaseAnomaly.desc }
+
 ent-AnomalyElectricity = { ent-BaseAnomaly }
+    .desc = { "" }
     .suffix = Electricity
-    .desc = { ent-BaseAnomaly.desc }
+
 ent-AnomalyFlesh = { ent-BaseAnomaly }
+    .desc = { "" }
     .suffix = Flesh
-    .desc = { ent-BaseAnomaly.desc }
+
 ent-AnomalyBluespace = { ent-BaseAnomaly }
+    .desc = { "" }
     .suffix = Bluespace
-    .desc = { ent-BaseAnomaly.desc }
+
 ent-AnomalyIce = { ent-BaseAnomaly }
+    .desc = { "" }
     .suffix = Ice
-    .desc = { ent-BaseAnomaly.desc }
+
 ent-AnomalyRockBase = { ent-BaseAnomaly }
+    .desc = { "" }
     .suffix = Rock
-    .desc = { ent-BaseAnomaly.desc }
+
 ent-AnomalyRockUranium = { ent-AnomalyRockBase }
+    .desc = { "" }
     .suffix = Rock, Uranium
-    .desc = { ent-AnomalyRockBase.desc }
+
 ent-AnomalyRockQuartz = { ent-AnomalyRockBase }
+    .desc = { "" }
     .suffix = Rock, Quartz
-    .desc = { ent-AnomalyRockBase.desc }
+
 ent-AnomalyRockSilver = { ent-AnomalyRockBase }
+    .desc = { "" }
     .suffix = Rock, Silver
-    .desc = { ent-AnomalyRockBase.desc }
+
 ent-AnomalyRockIron = { ent-AnomalyRockBase }
+    .desc = { "" }
     .suffix = Rock, Iron
-    .desc = { ent-AnomalyRockBase.desc }
+
 ent-AnomalyFlora = { ent-BaseAnomaly }
+    .desc = { "" }
     .suffix = Flora
-    .desc = { ent-BaseAnomaly.desc }
+
 ent-AnomalyFloraBulb = strange glowing berry
-    .desc = It's a beautiful strange glowing berry. It seems to have something growing inside it...    .suffix = Flora Anomaly
+    .desc = It's a beautiful strange glowing berry. It seems to have something growing inside it...
+    .suffix = Flora Anomaly
+
 ent-AnomalyLiquid = { ent-BaseAnomaly }
+    .desc = { "" }
     .suffix = Liquid
-    .desc = { ent-BaseAnomaly.desc }

@@ -1,17 +1,23 @@
 ent-CrystalGreen = crystal
-    .desc = A crystaline solid.    .suffix = green
+    .desc = A crystaline solid.
+    .suffix = green
+
 ent-CrystalPink = { ent-CrystalGreen }
+    .desc = { "" }
     .suffix = pink
-    .desc = { ent-CrystalGreen.desc }
+
 ent-CrystalGrey = { ent-CrystalGreen }
+    .desc = { "" }
     .suffix = red
-    .desc = { ent-CrystalGreen.desc }
+
 ent-CrystalOrange = { ent-CrystalGreen }
+    .desc = { "" }
     .suffix = orange
-    .desc = { ent-CrystalGreen.desc }
+
 ent-CrystalBlue = { ent-CrystalGreen }
+    .desc = { "" }
     .suffix = blue
-    .desc = { ent-CrystalGreen.desc }
+
 ent-CrystalCyan = { ent-CrystalGreen }
+    .desc = { "" }
     .suffix = cyan
-    .desc = { ent-CrystalGreen.desc }

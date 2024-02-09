@@ -1,13 +1,17 @@
 ent-Drone = drone
-    .desc = { ent-PlayerSiliconBase.desc }
+    .desc = { "" }
+
 ent-Onestar = onestar mecha
-    .desc = { ent-PlayerSiliconBase.desc }
+    .desc = { "" }
+
 ent-PlayerBorgGeneric = { ent-BorgChassisGeneric }
+    .desc = { "" }
     .suffix = Battery, Tools
-    .desc = { ent-BorgChassisGeneric.desc }
+
 ent-PlayerBorgBattery = { ent-BorgChassisGeneric }
+    .desc = { "" }
     .suffix = Battery
-    .desc = { ent-BorgChassisGeneric.desc }
+
 ent-PlayerBorgSyndicateAssaultBattery = { ent-BorgChassisSyndicateAssault }
+    .desc = { "" }
     .suffix = Battery, Module, Operative
-    .desc = { ent-BorgChassisSyndicateAssault.desc }

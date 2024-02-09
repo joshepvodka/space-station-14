@@ -1,384 +1,511 @@
 ent-AirlockServiceLocked = { ent-Airlock }
+    .desc = { "" }
     .suffix = Service, Locked
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockLawyerLocked = { ent-Airlock }
+    .desc = { "" }
     .suffix = Lawyer, Locked
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockTheatreLocked = { ent-Airlock }
+    .desc = { "" }
     .suffix = Theatre, Locked
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockChapelLocked = { ent-Airlock }
+    .desc = { "" }
     .suffix = Chapel, Locked
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockJanitorLocked = { ent-Airlock }
+    .desc = { "" }
     .suffix = Janitor, Locked
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockKitchenLocked = { ent-Airlock }
+    .desc = { "" }
     .suffix = Kitchen, Locked
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockBarLocked = { ent-Airlock }
+    .desc = { "" }
     .suffix = Bar, Locked
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockHydroponicsLocked = { ent-Airlock }
+    .desc = { "" }
     .suffix = Hydroponics, Locked
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockServiceCaptainLocked = { ent-Airlock }
+    .desc = { "" }
     .suffix = Captain, Locked
-    .desc = { ent-Airlock.desc }
+
 ent-AirlockExternalLocked = { ent-AirlockExternal }
+    .desc = { "" }
     .suffix = External, Locked
-    .desc = { ent-AirlockExternal.desc }
+
 ent-AirlockExternalCargoLocked = { ent-AirlockExternal }
+    .desc = { "" }
     .suffix = External, Cargo, Locked
-    .desc = { ent-AirlockExternal.desc }
+
 ent-AirlockExternalEngineeringLocked = { ent-AirlockExternal }
+    .desc = { "" }
     .suffix = External, Engineering, Locked
-    .desc = { ent-AirlockExternal.desc }
+
 ent-AirlockExternalAtmosphericsLocked = { ent-AirlockExternal }
+    .desc = { "" }
     .suffix = External, Atmospherics, Locked
-    .desc = { ent-AirlockExternal.desc }
+
 ent-AirlockExternalSyndicateLocked = { ent-AirlockExternal }
+    .desc = { "" }
     .suffix = External, Syndicate, Locked
-    .desc = { ent-AirlockExternal.desc }
+
 ent-AirlockExternalNukeopLocked = { ent-AirlockExternal }
+    .desc = { "" }
     .suffix = External, Nukeop, Locked
-    .desc = { ent-AirlockExternal.desc }
+
 ent-AirlockFreezerLocked = { ent-AirlockFreezer }
+    .desc = { "" }
     .suffix = Kitchen, Locked
-    .desc = { ent-AirlockFreezer.desc }
+
 ent-AirlockFreezerKitchenHydroLocked = { ent-AirlockFreezer }
+    .desc = { "" }
     .suffix = Kitchen/Hydroponics, Locked
-    .desc = { ent-AirlockFreezer.desc }
+
 ent-AirlockFreezerHydroponicsLocked = { ent-AirlockFreezer }
+    .desc = { "" }
     .suffix = Hydroponics, Locked
-    .desc = { ent-AirlockFreezer.desc }
+
 ent-AirlockEngineeringLocked = { ent-AirlockEngineering }
+    .desc = { "" }
     .suffix = Engineering, Locked
-    .desc = { ent-AirlockEngineering.desc }
+
 ent-AirlockAtmosphericsLocked = { ent-AirlockAtmospherics }
+    .desc = { "" }
     .suffix = Atmospherics, Locked
-    .desc = { ent-AirlockAtmospherics.desc }
+
 ent-AirlockCargoLocked = { ent-AirlockCargo }
+    .desc = { "" }
     .suffix = Cargo, Locked
-    .desc = { ent-AirlockCargo.desc }
+
 ent-AirlockSalvageLocked = { ent-AirlockCargo }
+    .desc = { "" }
     .suffix = Salvage, Locked
-    .desc = { ent-AirlockCargo.desc }
+
 ent-AirlockMiningLocked = { ent-AirlockMining }
+    .desc = { "" }
     .suffix = Mining(Salvage), Locked
-    .desc = { ent-AirlockMining.desc }
+
 ent-AirlockMedicalLocked = { ent-AirlockMedical }
+    .desc = { "" }
     .suffix = Medical, Locked
-    .desc = { ent-AirlockMedical.desc }
+
 ent-AirlockVirologyLocked = { ent-AirlockVirology }
+    .desc = { "" }
     .suffix = Virology, Locked
-    .desc = { ent-AirlockVirology.desc }
+
 ent-AirlockChemistryLocked = { ent-AirlockChemistry }
+    .desc = { "" }
     .suffix = Chemistry, Locked
-    .desc = { ent-AirlockChemistry.desc }
+
 ent-AirlockScienceLocked = { ent-AirlockScience }
+    .desc = { "" }
     .suffix = Science, Locked
-    .desc = { ent-AirlockScience.desc }
+
 ent-AirlockMedicalScienceLocked = { ent-AirlockScience }
+    .desc = { "" }
     .suffix = Medical/Science, Locked
-    .desc = { ent-AirlockScience.desc }
+
 ent-AirlockCentralCommandLocked = { ent-AirlockCentralCommand }
+    .desc = { "" }
     .suffix = Central Command, Locked
-    .desc = { ent-AirlockCentralCommand.desc }
+
 ent-AirlockCommandLocked = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = Command, Locked
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockCaptainLocked = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = Captain, Locked
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockChiefMedicalOfficerLocked = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = ChiefMedicalOfficer, Locked
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockChiefEngineerLocked = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = ChiefEngineer, Locked
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockHeadOfSecurityLocked = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = HeadOfSecurity, Locked
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockResearchDirectorLocked = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = ResearchDirector, Locked
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockHeadOfPersonnelLocked = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = HeadOfPersonnel, Locked
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockQuartermasterLocked = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = Quartermaster, Locked
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockSecurityLocked = { ent-AirlockSecurity }
+    .desc = { "" }
     .suffix = Security, Locked
-    .desc = { ent-AirlockSecurity.desc }
+
 ent-AirlockDetectiveLocked = { ent-AirlockSecurity }
+    .desc = { "" }
     .suffix = Detective, Locked
-    .desc = { ent-AirlockSecurity.desc }
+
 ent-AirlockBrigLocked = { ent-AirlockSecurity }
+    .desc = { "" }
     .suffix = Brig, Locked
-    .desc = { ent-AirlockSecurity.desc }
+
 ent-AirlockSecurityLawyerLocked = { ent-AirlockSecurity }
+    .desc = { "" }
     .suffix = Security/Lawyer, Locked
-    .desc = { ent-AirlockSecurity.desc }
+
 ent-AirlockArmoryLocked = { ent-AirlockSecurity }
+    .desc = { "" }
     .suffix = Armory, Locked
-    .desc = { ent-AirlockSecurity.desc }
+
 ent-AirlockVaultLocked = { ent-AirlockSecurity }
+    .desc = { "" }
     .suffix = Vault, Locked
-    .desc = { ent-AirlockSecurity.desc }
+
 ent-AirlockEVALocked = { ent-AirlockCommand }
+    .desc = { "" }
     .suffix = EVA, Locked
-    .desc = { ent-AirlockCommand.desc }
+
 ent-AirlockServiceGlassLocked = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Service, Locked
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockLawyerGlassLocked = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Lawyer, Locked
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockBarGlassLocked = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Bar, Locked
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockExternalGlassLocked = { ent-AirlockExternalGlass }
+    .desc = { "" }
     .suffix = External, Glass, Locked
-    .desc = { ent-AirlockExternalGlass.desc }
+
 ent-AirlockExternalGlassCargoLocked = { ent-AirlockExternalGlass }
+    .desc = { "" }
     .suffix = External, Glass, Cargo, Locked
-    .desc = { ent-AirlockExternalGlass.desc }
+
 ent-AirlockExternalGlassSyndicateLocked = { ent-AirlockExternalGlass }
+    .desc = { "" }
     .suffix = External, Glass, Syndicate, Locked
-    .desc = { ent-AirlockExternalGlass.desc }
+
 ent-AirlockExternalGlassNukeopLocked = { ent-AirlockExternalGlass }
+    .desc = { "" }
     .suffix = External, Glass, Nukeop, Locked
-    .desc = { ent-AirlockExternalGlass.desc }
+
 ent-AirlockExternalGlassEngineeringLocked = { ent-AirlockExternalGlass }
+    .desc = { "" }
     .suffix = External, Glass, Engineering, Locked
-    .desc = { ent-AirlockExternalGlass.desc }
+
 ent-AirlockExternalGlassAtmosphericsLocked = { ent-AirlockExternalGlass }
+    .desc = { "" }
     .suffix = External, Glass, Atmospherics, Locked
-    .desc = { ent-AirlockExternalGlass.desc }
+
 ent-AirlockKitchenGlassLocked = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Kitchen, Locked
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockHydroGlassLocked = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Hydroponics, Locked
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockChapelGlassLocked = { ent-AirlockGlass }
+    .desc = { "" }
     .suffix = Chapel, Locked
-    .desc = { ent-AirlockGlass.desc }
+
 ent-AirlockEngineeringGlassLocked = { ent-AirlockEngineeringGlass }
+    .desc = { "" }
     .suffix = Engineering, Locked
-    .desc = { ent-AirlockEngineeringGlass.desc }
+
 ent-AirlockAtmosphericsGlassLocked = { ent-AirlockAtmosphericsGlass }
+    .desc = { "" }
     .suffix = Atmospherics, Locked
-    .desc = { ent-AirlockAtmosphericsGlass.desc }
+
 ent-AirlockCargoGlassLocked = { ent-AirlockCargoGlass }
+    .desc = { "" }
     .suffix = Cargo, Locked
-    .desc = { ent-AirlockCargoGlass.desc }
+
 ent-AirlockSalvageGlassLocked = { ent-AirlockCargoGlass }
+    .desc = { "" }
     .suffix = Salvage, Locked
-    .desc = { ent-AirlockCargoGlass.desc }
+
 ent-AirlockMiningGlassLocked = { ent-AirlockMiningGlass }
+    .desc = { "" }
     .suffix = Mining(Salvage), Locked
-    .desc = { ent-AirlockMiningGlass.desc }
+
 ent-AirlockChemistryGlassLocked = { ent-AirlockChemistryGlass }
+    .desc = { "" }
     .suffix = Chemistry, Locked
-    .desc = { ent-AirlockChemistryGlass.desc }
+
 ent-AirlockMedicalGlassLocked = { ent-AirlockMedicalGlass }
+    .desc = { "" }
     .suffix = Medical, Locked
-    .desc = { ent-AirlockMedicalGlass.desc }
+
 ent-AirlockVirologyGlassLocked = { ent-AirlockVirologyGlass }
+    .desc = { "" }
     .suffix = Virology, Locked
-    .desc = { ent-AirlockVirologyGlass.desc }
+
 ent-AirlockScienceGlassLocked = { ent-AirlockScienceGlass }
+    .desc = { "" }
     .suffix = Science, Locked
-    .desc = { ent-AirlockScienceGlass.desc }
+
 ent-AirlockMedicalScienceGlassLocked = { ent-AirlockScienceGlass }
+    .desc = { "" }
     .suffix = Medical/Science, Locked
-    .desc = { ent-AirlockScienceGlass.desc }
+
 ent-AirlockCentralCommandGlassLocked = { ent-AirlockCentralCommandGlass }
+    .desc = { "" }
     .suffix = Central Command, Locked
-    .desc = { ent-AirlockCentralCommandGlass.desc }
+
 ent-AirlockCommandGlassLocked = { ent-AirlockCommandGlass }
+    .desc = { "" }
     .suffix = Command, Locked
-    .desc = { ent-AirlockCommandGlass.desc }
+
 ent-AirlockCaptainGlassLocked = { ent-AirlockCommandGlass }
+    .desc = { "" }
     .suffix = Captain, Locked
-    .desc = { ent-AirlockCommandGlass.desc }
+
 ent-AirlockChiefMedicalOfficerGlassLocked = { ent-AirlockCommandGlass }
+    .desc = { "" }
     .suffix = ChiefMedicalOfficer, Locked
-    .desc = { ent-AirlockCommandGlass.desc }
+
 ent-AirlockChiefEngineerGlassLocked = { ent-AirlockCommandGlass }
+    .desc = { "" }
     .suffix = ChiefEngineer, Locked
-    .desc = { ent-AirlockCommandGlass.desc }
+
 ent-AirlockHeadOfSecurityGlassLocked = { ent-AirlockCommandGlass }
+    .desc = { "" }
     .suffix = HeadOfSecurity, Locked
-    .desc = { ent-AirlockCommandGlass.desc }
+
 ent-AirlockResearchDirectorGlassLocked = { ent-AirlockCommandGlass }
+    .desc = { "" }
     .suffix = ResearchDirector, Locked
-    .desc = { ent-AirlockCommandGlass.desc }
+
 ent-AirlockHeadOfPersonnelGlassLocked = { ent-AirlockCommandGlass }
+    .desc = { "" }
     .suffix = HeadOfPersonnel, Locked
-    .desc = { ent-AirlockCommandGlass.desc }
+
 ent-AirlockQuartermasterGlassLocked = { ent-AirlockCommandGlass }
+    .desc = { "" }
     .suffix = Quartermaster, Locked
-    .desc = { ent-AirlockCommandGlass.desc }
+
 ent-AirlockSecurityGlassLocked = { ent-AirlockSecurityGlass }
+    .desc = { "" }
     .suffix = Security, Locked
-    .desc = { ent-AirlockSecurityGlass.desc }
+
 ent-AirlockDetectiveGlassLocked = { ent-AirlockSecurityGlass }
+    .desc = { "" }
     .suffix = Detective, Locked
-    .desc = { ent-AirlockSecurityGlass.desc }
+
 ent-AirlockBrigGlassLocked = { ent-AirlockSecurityGlass }
+    .desc = { "" }
     .suffix = Brig, Locked
-    .desc = { ent-AirlockSecurityGlass.desc }
+
 ent-AirlockSecurityLawyerGlassLocked = { ent-AirlockSecurityGlass }
+    .desc = { "" }
     .suffix = Security/Lawyer, Locked
-    .desc = { ent-AirlockSecurityGlass.desc }
+
 ent-AirlockArmoryGlassLocked = { ent-AirlockSecurityGlass }
+    .desc = { "" }
     .suffix = Armory, Locked
-    .desc = { ent-AirlockSecurityGlass.desc }
+
 ent-AirlockEVAGlassLocked = { ent-AirlockCommandGlassLocked }
+    .desc = { "" }
     .suffix = EVA, Locked
-    .desc = { ent-AirlockCommandGlassLocked.desc }
+
 ent-AirlockSyndicateGlassLocked = { ent-AirlockSyndicateGlass }
+    .desc = { "" }
     .suffix = Syndicate, Locked
-    .desc = { ent-AirlockSyndicateGlass.desc }
+
 ent-AirlockSyndicateNukeopGlassLocked = { ent-AirlockSyndicateGlass }
+    .desc = { "" }
     .suffix = Nukeop, Locked
-    .desc = { ent-AirlockSyndicateGlass.desc }
+
 ent-AirlockMaintLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintGlassLocked = { ent-AirlockMaintGlass }
+    .desc = { "" }
     .suffix = Locked
-    .desc = { ent-AirlockMaintGlass.desc }
+
 ent-AirlockMaintSalvageLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Salvage, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintCargoLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Cargo, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintCommandLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Command, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintCommonLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Common, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintEngiLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Engineering, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintAtmoLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Atmospherics, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintBarLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Bar, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintChapelLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Chapel, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintHydroLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Hydroponics, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintJanitorLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Janitor, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintLawyerLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Lawyer, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintServiceLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Service, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintTheatreLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Theatre, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintKitchenLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Kitchen, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintIntLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Interior, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintMedLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Medical, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintChemLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Chemistry, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintRnDLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Science, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintRnDMedLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Medical/Science, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintSecLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Security, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintDetectiveLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Detective, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintHOPLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = HeadOfPersonnel, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintCaptainLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Captain, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintChiefEngineerLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = ChiefEngineer, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintChiefMedicalOfficerLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = ChiefMedicalOfficer, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintHeadOfSecurityLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = HeadOfSecurity, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintResearchDirectorLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = ResearchDirector, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockMaintArmoryLocked = { ent-AirlockMaint }
+    .desc = { "" }
     .suffix = Armory, Locked
-    .desc = { ent-AirlockMaint.desc }
+
 ent-AirlockSyndicateLocked = { ent-AirlockSyndicate }
+    .desc = { "" }
     .suffix = Syndicate, Locked
-    .desc = { ent-AirlockSyndicate.desc }
+
 ent-AirlockSyndicateNukeopLocked = { ent-AirlockSyndicate }
+    .desc = { "" }
     .suffix = Nukeop, Locked
-    .desc = { ent-AirlockSyndicate.desc }
+
 ent-AirlockExternalShuttleLocked = { ent-AirlockShuttle }
+    .desc = { "" }
     .suffix = External, Docking, Locked
-    .desc = { ent-AirlockShuttle.desc }
+
 ent-AirlockExternalShuttleSyndicateLocked = { ent-AirlockShuttleSyndicate }
+    .desc = { "" }
     .suffix = External, Docking, Syndicate, Locked
-    .desc = { ent-AirlockShuttleSyndicate.desc }
+
 ent-AirlockExternalShuttleNukeopLocked = { ent-AirlockShuttleSyndicate }
+    .desc = { "" }
     .suffix = External, Docking, Nukeop, Locked
-    .desc = { ent-AirlockShuttleSyndicate.desc }
+
 ent-AirlockExternalGlassShuttleLocked = { ent-AirlockGlassShuttle }
+    .desc = { "" }
     .suffix = External, Glass, Docking, Locked
-    .desc = { ent-AirlockGlassShuttle.desc }
+
 ent-AirlockExternalGlassShuttleSyndicateLocked = { ent-AirlockGlassShuttleSyndicate }
+    .desc = { "" }
     .suffix = Syndicate, Locked, Glass
-    .desc = { ent-AirlockGlassShuttleSyndicate.desc }
+
 ent-AirlockExternalGlassShuttleNukeopLocked = { ent-AirlockGlassShuttleSyndicate }
+    .desc = { "" }
     .suffix = Nukeop, Locked, Glass
-    .desc = { ent-AirlockGlassShuttleSyndicate.desc }
+
 ent-AirlockExternalGlassShuttleEmergencyLocked = { ent-AirlockGlassShuttle }
+    .desc = { "" }
     .suffix = External, Emergency, Glass, Docking, Locked
-    .desc = { ent-AirlockGlassShuttle.desc }
+
 ent-AirlockExternalGlassShuttleArrivals = { ent-AirlockGlassShuttle }
+    .desc = { "" }
     .suffix = External, Arrivals, Glass, Docking
-    .desc = { ent-AirlockGlassShuttle.desc }
+
 ent-AirlockExternalGlassShuttleEscape = { ent-AirlockGlassShuttle }
+    .desc = { "" }
     .suffix = External, Escape 3x4, Glass, Docking
-    .desc = { ent-AirlockGlassShuttle.desc }
+
 ent-HighSecCentralCommandLocked = { ent-HighSecDoor }
+    .desc = { "" }
     .suffix = Central Command, Locked
-    .desc = { ent-HighSecDoor.desc }
+
 ent-HighSecCommandLocked = { ent-HighSecDoor }
+    .desc = { "" }
     .suffix = Command, Locked
-    .desc = { ent-HighSecDoor.desc }
+
 ent-HighSecCaptainLocked = { ent-HighSecDoor }
+    .desc = { "" }
     .suffix = Captain, Locked
-    .desc = { ent-HighSecDoor.desc }
+
 ent-HighSecArmoryLocked = { ent-HighSecDoor }
+    .desc = { "" }
     .suffix = Armory, Locked
-    .desc = { ent-HighSecDoor.desc }

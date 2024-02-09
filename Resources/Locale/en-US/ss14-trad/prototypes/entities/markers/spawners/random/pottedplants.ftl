@@ -1,4 +1,5 @@
 ent-PottedPlantRandom = random potted plant spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }
+
 ent-PottedPlantRandomPlastic = random plastic potted plant spawner
-    .desc = { ent-MarkerBase.desc }
+    .desc = { "" }

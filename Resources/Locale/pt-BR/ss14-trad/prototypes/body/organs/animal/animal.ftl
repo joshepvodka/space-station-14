@@ -1,12 +1,17 @@
 ent-OrganAnimalLungs = lungs
-    .desc = { ent-BaseAnimalOrgan.desc }
+    .desc = { "" }
+
 ent-OrganAnimalStomach = stomach
-    .desc = { ent-BaseAnimalOrgan.desc }
+    .desc = { "" }
+
 ent-OrganMouseStomach = stomach
-    .desc = { ent-OrganAnimalStomach.desc }
+    .desc = { "" }
+
 ent-OrganAnimalLiver = liver
-    .desc = { ent-BaseAnimalOrgan.desc }
+    .desc = { "" }
+
 ent-OrganAnimalHeart = heart
-    .desc = { ent-BaseAnimalOrgan.desc }
+    .desc = { "" }
+
 ent-OrganAnimalKidneys = kidneys
-    .desc = { ent-BaseAnimalOrgan.desc }
+    .desc = { "" }
