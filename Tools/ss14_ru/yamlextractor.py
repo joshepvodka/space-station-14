@@ -1,11 +1,7 @@
 import os
 
-from fluent.syntax.parser import FluentParser
-from fluent.syntax.serializer import FluentSerializer
-
 from file import YAMLFile, FluentFile
 from fluentast import FluentSerializedMessage, FluentAstAttributeFactory
-from fluentformatter import FluentFormatter
 from project import Project
 import logging
 
@@ -26,12 +22,10 @@ class YAMLExtractor:
             if not fluent_file_serialized:
                 continue
 
-            pretty_fluent_file_serialized = formatter.format_serialized_file_data(fluent_file_serialized)
-
             relative_parent_dir = yaml_file.get_relative_parent_dir(project.prototypes_dir_path).lower()
             file_name = yaml_file.get_name()
 
-            en_fluent_file_path = self.create_en_fluent_file(relative_parent_dir, file_name, pretty_fluent_file_serialized)
+            en_fluent_file_path = self.create_en_fluent_file(relative_parent_dir, file_name, fluent_file_serialized)
             ru_fluent_file_path = self.create_ru_fluent_file(en_fluent_file_path)
 
     def get_serialized_fluent_from_yaml_elements(self, yaml_elements):
@@ -72,9 +66,6 @@ class YAMLExtractor:
 
 logging.basicConfig(level = logging.INFO)
 project = Project()
-serializer = FluentSerializer()
-parser = FluentParser()
-formatter = FluentFormatter()
 
 yaml_files_paths = project.get_files_paths_by_dir(project.prototypes_dir_path, 'yml')
 yaml_files = list(map(lambda yaml_file_path: YAMLFile(yaml_file_path), yaml_files_paths))

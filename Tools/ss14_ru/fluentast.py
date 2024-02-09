@@ -84,6 +84,24 @@ class FluentAstJunk:
 
 
 class FluentSerializedMessage:
+
+    @classmethod
+    def write_attributes(cls, message, attributes):
+        desc_attr = py_.find(attributes, lambda a: a.id == 'desc')
+        suffix_attr = py_.find(attributes, lambda a: a.id == 'suffix')
+
+        if desc_attr:
+            desc_attr.value = desc_attr.value.replace("\n", "\n        ")
+            message += f'    .desc = {desc_attr.value}\n'
+
+        if suffix_attr:
+            suffix_attr.value = suffix_attr.value.replace("\n", "\n        ")
+            message += f'    .suffix = {suffix_attr.value}\n'
+
+        message += f'\n'
+
+        return message
+    
     @classmethod
     def from_yaml_element(cls, id, value, attributes, parent_id = None, abstract = None, raw_key = False):
         if not value and not id and not parent_id:
@@ -91,35 +109,30 @@ class FluentSerializedMessage:
 
         if abstract is True:
             return None
-
-        if not attributes:
-            attributes = []
         
         if not value and not attributes:
             return None
 
+        if not attributes or not len(attributes):
+            attributes = []
+        
+        # se não tiver nenhum atributo desc, botar atributo desc
+        # posto aqui caso haja um atributo de sufixo
         if len(list(filter(lambda attr: attr.id == 'desc', attributes))) == 0:
-            if parent_id:
-                attributes.append(FluentAstAttribute('desc', '{ ' + FluentSerializedMessage.get_key(parent_id) + '.desc' + ' }'));
-            else:
-                attributes.append(FluentAstAttribute('desc', '{ "" }'))
+            attributes.append(FluentAstAttribute('desc', '{""}'))
 
+        # 'ent-protoypeId = prototypeName'
+        # ou se herdar o nome do parent
+        # 'ent-childId = { "" }'
         message = f'{cls.get_key(id, raw_key)} = {cls.get_value(value, parent_id)}\n'
 
+        # se tiver atributos
         if attributes and len(attributes):
-            full_message = message
+            full_message = cls.write_attributes(message, attributes)
+        else:
+            full_message = message + f'\n'
 
-            for attr in attributes:
-                fluent_newlines = attr.value.replace("\n", "\n        ");
-                full_message = cls.add_attr(full_message, attr.id, fluent_newlines, raw_key=raw_key)
-
-            desc_attr = py_.find(attributes, lambda a: a.id == 'desc')
-            if not desc_attr and parent_id:
-                full_message = cls.add_attr(full_message, 'desc', '{ ' + FluentSerializedMessage.get_key(parent_id) + '.desc' + ' }')
-
-            return full_message
-
-        return cls.to_serialized_message(message)
+        return cls.to_serialized_message(full_message)
 
     @classmethod
     def from_lokalise_keys(cls, keys: typing.List[LokaliseKey]):
