@@ -30,7 +30,8 @@ Na dúvida sempre pergunte sobre as regras para o administrador usando o painel 
 [color=DarkGoldenRod][bold]Regra geral do Roleplay[/bold]: É permitido ignorar essas regras com o intuito de melhorar a experiência dos jogadores na partida e elevar o roleplay, ou seja, você não será cobrado por quebrar as regras se melhorar a partida e jogar bem.[/color]
 
 [bold]6. Regra do Auto-Antagonismo (Self-Antag):[/bold]
-- É proibido causar conflitos que estão fora do escopo do que seu personagem é permitido a fazer pelas regras.
+- É proibido praticar ações de antagonisticas sem ser um antagonista. Sabotagens, assassinatos e outras formas graves de perturbar a partida são estritamente proibidos para Não-Antagonistas.
+- Se você não sabe se é um antagonista aperte C para ver seus objetivos.
 
 [bold]7. Regra da Realidade:[/bold]
 - Você deve agir razoavelmente como uma pessoa real, mas não é necessário sempre agir de forma séria.
