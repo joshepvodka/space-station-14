@@ -4,6 +4,9 @@ ent-ClothingHeadHatBeaverHat = beaver hat
 ent-ClothingHeadHatBeret = beret
     .desc = A beret, an artists favorite headwear.
 
+ent-ClothingHeadHatBeretFrench = French beret
+    .desc = A French beret, "vive la France".
+
 ent-ClothingHeadHatBeretSecurity = security beret
     .desc = A stylish clothing option for security officers.
 
@@ -16,6 +19,9 @@ ent-ClothingHeadHatBeretRND = scientific beret
 ent-ClothingHeadHatBeretEngineering = engineering beret
     .desc = A beret with the engineering insignia emblazoned on it. For engineers that are more inclined towards style than safety.
 
+ent-ClothingHeadHatBeretQM = quartermaster's beret
+    .desc = A beret with the cargo's insignia emblazoned on it. For quartermasters that are more inclined towards style.
+
 ent-ClothingHeadHatBeretHoS = head of security's beret
     .desc = A black beret with a commander's rank emblem. For officers that are more inclined towards style than safety.
 
@@ -25,7 +31,7 @@ ent-ClothingHeadHatBeretWarden = warden's beret
 ent-ClothingHeadHatBeretSeniorPhysician = physician beret
     .desc = Donning the colours of medical and chemistry, physicians are the pride of this department!
 
-ent-ClothingHeadHatBeretBrigmedic = medical beret
+ent-ClothingHeadHatBeretBrigmedic = brigmedical beret
     .desc = White beret, looks like a cream pie on the head.
 
 ent-ClothingHeadHatBeretMerc = mercenary beret
@@ -222,3 +228,9 @@ ent-ClothingHeadHatCowboyWhite = white cowboy hat
 
 ent-ClothingHeadHatCowboyBountyHunter = bounty hunter cowboy hat
     .desc = { "" }
+
+ent-ClothingHeadHatStrawHat = straw hat
+    .desc = A fancy hat for hot days! Not recommended to wear near fires.
+
+ent-ClothingHeadHatBeretMedic = medical beret
+    .desc = White beret that encourages you to be clean.

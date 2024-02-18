@@ -7,6 +7,9 @@ ent-OatBushel = oat bushel
 ent-Sugarcane = sugarcane
     .desc = Sickly sweet.
 
+ent-FoodLaughinPeaPod = laughin' pea pod
+    .desc = The clown's favorite plant.
+
 ent-Log = tower-cap log
     .desc = It's better than bad, it's good!
 

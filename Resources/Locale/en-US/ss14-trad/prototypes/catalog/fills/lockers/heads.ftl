@@ -8,6 +8,10 @@ ent-LockerCaptainFilledHardsuit = { ent-LockerCaptain }
 
 ent-LockerCaptainFilled = { ent-LockerCaptain }
     .desc = { "" }
+    .suffix = Filled, AntiqueLaser
+
+ent-LockerCaptainFilledNoLaser = { ent-LockerCaptain }
+    .desc = { "" }
     .suffix = Filled
 
 ent-LockerHeadOfPersonnelFilled = { ent-LockerHeadOfPersonnel }

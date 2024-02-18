@@ -84,7 +84,7 @@ ent-MaterialBananium1 = { ent-MaterialBananium }
     .suffix = Single
 
 ent-MaterialWebSilk = silk
-    .desc = A webby material
+    .desc = A webby material.
     .suffix = Full
 
 ent-MaterialWebSilk25 = { ent-MaterialWebSilk }
