@@ -1,3 +1,6 @@
+ent-ClothingHeadHeadHatBaseFlipped = { ent-ClothingHeadHeadHatBaseFlippable }
+    .desc = { "" }
+    .suffix = flipped
 ent-ClothingHeadHatBluesoft = blue cap
     .desc = It's a baseball hat in a tasteless blue colour.
 ent-ClothingHeadHatBluesoftFlipped = blue cap flipped

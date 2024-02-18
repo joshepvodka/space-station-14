@@ -37,8 +37,7 @@ rev-won = The Head Revs survived and killed all of Command.
 rev-lost = Command survived and killed all of the Head Revs.
 rev-stalemate = All of the Head Revs and Command died. It's a draw.
 rev-reverse-stalemate = Both Command and Head Revs survived.
-rev-headrev-count =
-    { $initialCount ->
+rev-headrev-count =    { $initialCount ->
         [one] There was one Head Revolutionary:
        *[other] There were { $initialCount } Head Revolutionaries:
     }

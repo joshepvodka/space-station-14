@@ -42,3 +42,6 @@ ent-AnomalyFloraBulb = strange glowing berry
 ent-AnomalyLiquid = { ent-BaseAnomaly }
     .desc = { "" }
     .suffix = Liquid
+ent-AnomalyShadow = { ent-BaseAnomaly }
+    .desc = { "" }
+    .suffix = Shadow
