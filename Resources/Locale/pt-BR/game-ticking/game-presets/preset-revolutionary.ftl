@@ -42,13 +42,11 @@ rev-headrev-count =
         [one] There was one Head Revolutionary:
        *[other] There were { $initialCount } Head Revolutionaries:
     }
-rev-headrev-name-user =
-    [color=#5e9cff]{ $name }[/color] ([color=gray]{ $username }[/color]) converted { $count } { $count ->
+rev-headrev-name-user =    [color=#5e9cff]{ $name }[/color] ([color=gray]{ $username }[/color]) converted { $count } { $count ->
         [one] person
        *[other] people
     }
-rev-headrev-name =
-    [color=#5e9cff]{ $name }[/color] converted { $count } { $count ->
+rev-headrev-name =    [color=#5e9cff]{ $name }[/color] converted { $count } { $count ->
         [one] person
        *[other] people
     }

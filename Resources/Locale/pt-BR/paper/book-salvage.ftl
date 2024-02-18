@@ -40,8 +40,7 @@ book-text-chemistry-insane =
     MY NUMBER THREE TIP. THANK YOU FOR READING!! IGOR CHEMISTRY
     
     CONCLUSION: IGOR CHEMISTRY
-book-text-botanics =
-    ** Applications of Botanical Specimens Found In Nanotrasen Territories **
+book-text-botanics =    ** Applications of Botanical Specimens Found In Nanotrasen Territories **
     
     Many plants, when ground, yield useful chemicals. S. (spessmens) papaver and S. aloe vera
     are known for their basic healing properties.
