@@ -1,131 +1,131 @@
-ent-AirlockAssemblyAtmospherics = airlock assembly
+ent-AirlockAssemblyAtmospherics = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Atmospherics
 
-ent-AirlockAssemblyAtmosphericsGlass = airlock assembly
+ent-AirlockAssemblyAtmosphericsGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Atmospherics, Glass
 
-ent-AirlockAssemblyCargo = airlock assembly
+ent-AirlockAssemblyCargo = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Cargo
 
-ent-AirlockAssemblyCargoGlass = airlock assembly
+ent-AirlockAssemblyCargoGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Cargo, Glass
 
-ent-AirlockAssemblyCommand = airlock assembly
+ent-AirlockAssemblyCommand = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Command
 
-ent-AirlockAssemblyCommandGlass = airlock assembly
+ent-AirlockAssemblyCommandGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Command, Glass
 
-ent-AirlockAssemblyEngineering = airlock assembly
+ent-AirlockAssemblyEngineering = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Engineering
 
-ent-AirlockAssemblyEngineeringGlass = airlock assembly
+ent-AirlockAssemblyEngineeringGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Engineering, Glass
 
-ent-AirlockAssemblyExternal = airlock assembly
+ent-AirlockAssemblyExternal = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = External
 
-ent-AirlockAssemblyExternalGlass = airlock assembly
+ent-AirlockAssemblyExternalGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = External, Glass
 
-ent-AirlockAssemblyGlass = airlock assembly
+ent-AirlockAssemblyGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Glass
 
-ent-AirlockAssemblyFreezer = airlock assembly
+ent-AirlockAssemblyFreezer = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Freezer
 
-ent-AirlockAssemblyMaintenance = airlock assembly
+ent-AirlockAssemblyMaintenance = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Maintenance
 
-ent-AirlockAssemblyMaintenanceGlass = airlock assembly
+ent-AirlockAssemblyMaintenanceGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Maintenance, Glass
 
-ent-AirlockAssemblyMedical = airlock assembly
+ent-AirlockAssemblyMedical = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Medical
 
-ent-AirlockAssemblyMedicalGlass = airlock assembly
+ent-AirlockAssemblyMedicalGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Medical, Glass
 
-ent-AirlockAssemblyScience = airlock assembly
+ent-AirlockAssemblyScience = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Science
 
-ent-AirlockAssemblyScienceGlass = airlock assembly
+ent-AirlockAssemblyScienceGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Science, Glass
 
-ent-AirlockAssemblySecurity = airlock assembly
+ent-AirlockAssemblySecurity = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Security
 
-ent-AirlockAssemblySecurityGlass = airlock assembly
+ent-AirlockAssemblySecurityGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Security, Glass
 
-ent-AirlockAssemblyShuttle = airlock assembly
+ent-AirlockAssemblyShuttle = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Shuttle
 
-ent-AirlockAssemblyShuttleGlass = airlock assembly
+ent-AirlockAssemblyShuttleGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Shuttle, Glass
 
-ent-AirlockAssemblyVirology = airlock assembly
+ent-AirlockAssemblyVirology = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Virology
 
-ent-AirlockAssemblyVirologyGlass = airlock assembly
+ent-AirlockAssemblyVirologyGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Virology, Glass
 
-ent-AirlockAssemblyCentralCommand = airlock assembly
+ent-AirlockAssemblyCentralCommand = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = CentralCommand
 
-ent-AirlockAssemblyCentralCommandGlass = airlock assembly
+ent-AirlockAssemblyCentralCommandGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = CentralCommand, Glass
 
-ent-AirlockAssemblyMining = airlock assembly
+ent-AirlockAssemblyMining = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Mining
 
-ent-AirlockAssemblyMiningGlass = airlock assembly
+ent-AirlockAssemblyMiningGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Mining, Glass
 
-ent-AirlockAssemblySyndicate = airlock assembly
+ent-AirlockAssemblySyndicate = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Syndicate
 
-ent-AirlockAssemblySyndicateGlass = airlock assembly
+ent-AirlockAssemblySyndicateGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = Syndicate, Glass
 
-ent-AirlockAssemblyShuttleSyndicate = airlock assembly
+ent-AirlockAssemblyShuttleSyndicate = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = ShuttleSyndicate
 
-ent-AirlockAssemblyShuttleSyndicateGlass = airlock assembly
+ent-AirlockAssemblyShuttleSyndicateGlass = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = ShuttleSyndicate, Glass
 
-ent-AirlockAssemblyHighSec = airlock assembly
+ent-AirlockAssemblyHighSec = { ent-AirlockAssembly }
     .desc = { "" }
     .suffix = HighSec

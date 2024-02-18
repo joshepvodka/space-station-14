@@ -31,7 +31,8 @@ cargo-console-insufficient-funds = Insufficient funds (require { $cost })
 cargo-console-unfulfilled = No room to fulfill order
 cargo-console-trade-station = Sent to { $destination }
 cargo-console-paper-print-name = Order #{ $orderNumber }
-cargo-console-paper-print-text =     Order #{ $orderNumber }
+cargo-console-paper-print-text =
+    Order #{ $orderNumber }
     Item: { $itemName }
     Requested by: { $requester }
     Reason: { $reason }
