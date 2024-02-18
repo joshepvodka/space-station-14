@@ -1,6 +1,6 @@
 # Rules
 
-ui-rules-header = Wizard's Den Official Server Rules
-ui-rules-header-rp = Wizard's Den Roleplay Official Server Rules
-ui-rules-accept = I have read and agree to follow the rules
-ui-rules-wait = The accept button will be enabled after { $time } seconds.
+ui-rules-header = Regras Oficiais da Estação Tucano 14
+ui-rules-header-rp = Regras de Roleplay Oficiais da Estação Tucano 14
+ui-rules-accept = Eu lí e concordo com as regras.
+ui-rules-wait = Você pode prosseguir depois de { $time } segundos.

@@ -2,6 +2,7 @@
 
 Na dúvida sempre pergunte sobre as regras para o administrador usando o painel de AHelp.
 
+
 [color=PaleGoldenRod][head=2]Regras básicas:[/head][/color]
 
 [bold]0. Regra das Regras:[/bold]
@@ -61,6 +62,7 @@ Na dúvida sempre pergunte sobre as regras para o administrador usando o painel 
 - Não é permitido que você quebre suas leis. Se suas leis forem alteradas você deve segui-las.
 - A interpretação que você tem de suas leis deve se manter constante por todo round.
 - São considerados tripulantes todos que têm um ícone de empregado, a não ser o que o atual comandante da estação fale que não são.
+
 
 [color=PaleGoldenRod][head=2]Regras de Antagonistas:[/head][/color]
 
