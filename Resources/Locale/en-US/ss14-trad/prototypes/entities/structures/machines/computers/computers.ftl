@@ -33,7 +33,7 @@ ent-ComputerMedicalRecords = medical records computer
     .desc = This can be used to check medical records.
 
 ent-ComputerCriminalRecords = criminal records computer
-    .desc = This can be used to check criminal records.
+    .desc = This can be used to check criminal records. Only security can modify them.
 
 ent-ComputerStationRecords = station records computer
     .desc = This can be used to check station records.

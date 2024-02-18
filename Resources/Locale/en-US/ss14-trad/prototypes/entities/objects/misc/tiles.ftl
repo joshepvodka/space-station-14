@@ -130,6 +130,12 @@ ent-FloorTileItemShuttlePurple = purple shuttle floor
 ent-FloorTileItemShuttleRed = red shuttle floor
     .desc = { "" }
 
+ent-FloorTileItemShuttleGrey = grey shuttle floor
+    .desc = { "" }
+
+ent-FloorTileItemShuttleBlack = black shuttle floor
+    .desc = { "" }
+
 ent-FloorTileItemGold = gold floor
     .desc = { "" }
 

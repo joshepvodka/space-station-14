@@ -1,13 +1,16 @@
-book-text-demonomicon1 =     How To Summon a Demon
+book-text-demonomicon1 =
+    How To Summon a Demon
     - by J.G. Wizgerald
     
     1. todo finish writing demon summoning guide
-book-text-demonomicon2 =     How To Summon a Lemon
+book-text-demonomicon2 =
+    How To Summon a Lemon
     - by J.G. Wizgerald
     
     1. todo finish writing lemon summoning guide
     2. WAit. Typo. Oh shit. Sorry guys
-book-text-demonomicon3 =     Cool Demon Names I Found
+book-text-demonomicon3 =
+    Cool Demon Names I Found
     - by Ms. Mossrock
     
     Abraxas
@@ -18,7 +21,8 @@ book-text-demonomicon3 =     Cool Demon Names I Found
     Moloch
     Scylla
     Phenex
-book-text-chemistry-insane =     IGOR CHEMISTRY GUIDE TO CHEMISTRY
+book-text-chemistry-insane =
+    IGOR CHEMISTRY GUIDE TO CHEMISTRY
     
     TITLE: GUIDE TO CHEMISTRY
     
@@ -36,7 +40,8 @@ book-text-chemistry-insane =     IGOR CHEMISTRY GUIDE TO CHEMISTRY
     MY NUMBER THREE TIP. THANK YOU FOR READING!! IGOR CHEMISTRY
     
     CONCLUSION: IGOR CHEMISTRY
-book-text-botanics =     ** Applications of Botanical Specimens Found In Nanotrasen Territories **
+book-text-botanics =
+    ** Applications of Botanical Specimens Found In Nanotrasen Territories **
     
     Many plants, when ground, yield useful chemicals. S. (spessmens) papaver and S. aloe vera
     are known for their basic healing properties.
@@ -52,7 +57,8 @@ book-text-botanics =     ** Applications of Botanical Specimens Found In Nanotra
     ----
     
     - penned by James Alacaster and Golzuk Amaranth
-book-text-gnome =     All Hail Our Gnome King
+book-text-gnome =
+    All Hail Our Gnome King
     
     He who is the grand cartographer who placed our kind into the world of the Island!
     
@@ -61,7 +67,8 @@ book-text-gnome =     All Hail Our Gnome King
     Struck down by the evildoers who cannot appreciate our kind!
     
     Our revenge will be dealt in full! He will Rise once more! hee Hoo!
-book-text-fishing =     When I grow up, I want to be one of the harvesters of the space sea!
+book-text-fishing =
+    When I grow up, I want to be one of the harvesters of the space sea!
     
     I think before my days are done I want to catch the fabled space fish!
     
@@ -70,7 +77,8 @@ book-text-fishing =     When I grow up, I want to be one of the harvesters of th
     Press the <L BUMPER> and <R TRIGGER> to activate the fishing minigame.
     
     - Sgt. John Baker Aclopoly
-book-text-detective =     CHAPTER 1: SMALL ADVENTURES IN A BIG STATION
+book-text-detective =
+    CHAPTER 1: SMALL ADVENTURES IN A BIG STATION
     
     This station is filled with crime and grime...
     
