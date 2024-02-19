@@ -1,29 +1,29 @@
 ent-ClothingHeadBandBlack = black bandana
-    .desc = { "" }
+    .desc = A black bandana to make you look cool.
 
 ent-ClothingHeadBandBlue = blue bandana
-    .desc = { "" }
+    .desc = A blue bandana to make you look cool.
 
 ent-ClothingHeadBandBotany = botany bandana
-    .desc = { "" }
+    .desc = A botany bandana to make you look cool, made from natural fibers.
 
 ent-ClothingHeadBandGold = gold bandana
-    .desc = { "" }
+    .desc = A gold bandana to make you look cool.
 
 ent-ClothingHeadBandGreen = green bandana
-    .desc = { "" }
+    .desc = A green bandana to make you look cool.
 
 ent-ClothingHeadBandGrey = grey bandana
-    .desc = { "" }
+    .desc = A grey bandana to make you look cool.
 
 ent-ClothingHeadBandRed = red bandana
-    .desc = { "" }
+    .desc = A red bandana to make you look cool.
 
 ent-ClothingHeadBandSkull = skull bandana
-    .desc = { "" }
+    .desc = A bandana with a skull to make you look even cooler.
 
 ent-ClothingHeadBandMerc = mercenary bandana
-    .desc = { "" }
+    .desc = To protect the head from the sun, insects and other dangers of the higher path.
 
 ent-ClothingHeadBandBrown = brown bandana
-    .desc = { "" }
+    .desc = A brown bandana to make you look cool.

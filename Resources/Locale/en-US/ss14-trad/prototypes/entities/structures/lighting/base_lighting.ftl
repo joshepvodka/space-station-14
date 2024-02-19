@@ -48,46 +48,22 @@ ent-PoweredlightCyan = { ent-Poweredlight }
     .desc = { "" }
     .suffix = Cyan
 
-ent-AlwaysPoweredlightCyan = { ent-AlwaysPoweredWallLight }
-    .desc = { "" }
-    .suffix = Always Powered, Cyan
-
 ent-PoweredlightBlue = { ent-Poweredlight }
     .desc = { "" }
     .suffix = Blue
-
-ent-AlwaysPoweredlightBlue = { ent-AlwaysPoweredWallLight }
-    .desc = { "" }
-    .suffix = Always Powered, Blue
 
 ent-PoweredlightPink = { ent-Poweredlight }
     .desc = { "" }
     .suffix = Pink
 
-ent-AlwaysPoweredlightPink = { ent-AlwaysPoweredWallLight }
-    .desc = { "" }
-    .suffix = Always Powered, Pink
-
 ent-PoweredlightOrange = { ent-Poweredlight }
     .desc = { "" }
     .suffix = Orange
-
-ent-AlwaysPoweredlightOrange = { ent-AlwaysPoweredWallLight }
-    .desc = { "" }
-    .suffix = Always Powered, Orange
 
 ent-PoweredlightRed = { ent-Poweredlight }
     .desc = { "" }
     .suffix = Red
 
-ent-AlwaysPoweredlightRed = { ent-AlwaysPoweredWallLight }
-    .desc = { "" }
-    .suffix = Always Powered, Red
-
 ent-PoweredlightGreen = { ent-Poweredlight }
     .desc = { "" }
     .suffix = Green
-
-ent-AlwaysPoweredlightGreen = { ent-AlwaysPoweredWallLight }
-    .desc = { "" }
-    .suffix = Always Powered, Green

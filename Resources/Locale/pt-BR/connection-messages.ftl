@@ -1,7 +1,6 @@
 whitelist-not-whitelisted = You are not whitelisted.
 # proper handling for having a min/max or not
-whitelist-playercount-invalid =
-    { $min ->
+whitelist-playercount-invalid =     { $min ->
         [0] The whitelist for this server only applies below { $max } players.
        *[other]
             The whitelist for this server only applies above { $min } { $max ->

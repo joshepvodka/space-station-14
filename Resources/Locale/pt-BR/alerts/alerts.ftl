@@ -15,8 +15,7 @@ alerts-too-cold-desc = You're [color=cyan]freezing cold![/color] Get somewhere w
 alerts-too-hot-name = [color=red]Too Hot[/color]
 alerts-too-hot-desc = It's [color=red]too hot![/color] Get somewhere colder, take off any insulating clothing like a space suit, or at least get away from the flames.
 alerts-weightless-name = Weightless
-alerts-weightless-desc =
-    Gravity has ceased affecting you, and you're floating around aimlessly. Find something sturdy to hold onto, or throw or shoot something in a direction opposite of you.
+alerts-weightless-desc =     Gravity has ceased affecting you, and you're floating around aimlessly. Find something sturdy to hold onto, or throw or shoot something in a direction opposite of you.
     Mag-boots or jetpacks would help you move with more control.
 alerts-stunned-name = [color=yellow]Stunned[/color]
 alerts-stunned-desc = You're [color=yellow]stunned[/color]! Something is impairing your ability to move or interact with objects.

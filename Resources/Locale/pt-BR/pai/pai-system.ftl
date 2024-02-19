@@ -3,12 +3,10 @@ pai-system-off = No pAI is installed.
 pai-system-still-searching = Still searching for a pAI.
 pai-system-searching = Now searching for a pAI...
 pai-system-role-name = personal ai
-pai-system-role-description =
-    Be someone's electronic pal!
+pai-system-role-description =     Be someone's electronic pal!
     (Memories *not* included.)
 pai-system-role-name-syndicate = Syndicate personal ai
-pai-system-role-description-syndicate =
-    Be someone's Syndicate pal!
+pai-system-role-description-syndicate =     Be someone's Syndicate pal!
     (Memories *not* included.)
 pai-system-role-name-potato = potato artificial intelligence
 pai-system-role-description-potato = It's a toy for children. And now you live in it.

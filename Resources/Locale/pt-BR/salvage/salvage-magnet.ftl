@@ -5,8 +5,7 @@ salvage-system-announcement-arrived = A piece of salvagable debris has been pull
 salvage-asteroid-name = Asteroid
 salvage-magnet-window-title = Salvage magnet
 salvage-expedition-window-progression = Progression
-salvage-magnet-resources =
-    { $resource ->
+salvage-magnet-resources =     { $resource ->
         [OreIron] Iron
         [OreCoal] Coal
         [OreQuartz] Quartz
@@ -17,8 +16,7 @@ salvage-magnet-resources =
         [OreArtifactFragment] Artifact fragments
        *[other] { $resource }
     }
-salvage-magnet-resources-count =
-    { $count ->
+salvage-magnet-resources-count =     { $count ->
         [1] (Poor)
         [2] (Moderate)
         [3] (Moderate)

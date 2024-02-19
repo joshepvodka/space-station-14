@@ -4,479 +4,362 @@ ent-DrinkGlass = metamorphic glass
 ent-DrinkGlassCoupeShaped = coupe glass
     .desc = A classic thin neck coupe glass, the icon of fragile labels on crates around the galaxy.
 
-ent-DrinkAbsintheGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = absinthe
+ent-DrinkAbsintheGlass = absinthe glass
+    .desc = Wormwood, anise, oh my.
 
-ent-DrinkAcidSpitGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = acid spit
+ent-DrinkAcidSpitGlass = acid spit glass
+    .desc = A drink from the company archives. Made from live aliens.
 
-ent-DrinkAleGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = ale
+ent-DrinkAleGlass = ale glass
+    .desc = A freezing pint of delicious ale
 
-ent-DrinkAlliesCocktail = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = allies cocktail
+ent-DrinkAlliesCocktail = allies cocktail
+    .desc = A drink made from your allies.
 
-ent-DrinkAloe = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = aloe
+ent-DrinkAloe = aloe glass
+    .desc = Very, very, very good.
 
-ent-DrinkAmasecGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = amasec
+ent-DrinkAmasecGlass = amasec glass
+    .desc = Always handy before COMBAT!!!
 
-ent-DrinkAndalusia = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = andalusia
+ent-DrinkAndalusia = andalusia glass
+    .desc = A nice drink with a strange name.
 
-ent-DrinkAntifreeze = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = antifreeze
+ent-DrinkAntifreeze = anti-freeze glass
+    .desc = The ultimate refreshment.
 
-ent-DrinkAtomicBombGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = atomic bomb
+ent-DrinkAtomicBombGlass = atomic bomb glass
+    .desc = We cannot take legal responsibility for your actions after imbibing.
 
-ent-DrinkB52Glass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = b-52
+ent-DrinkB52Glass = b-52 glass
+    .desc = Coffee, Irish Cream, and cognac. You will get bombed.
 
-ent-DrinkBahamaMama = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = bahama mama
+ent-DrinkBahamaMama = bahama mama glass
+    .desc = Tropical cocktail.
 
-ent-DrinkBananaHonkGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = banana honk
+ent-DrinkBananaHonkGlass = banana honk glass
+    .desc = A drink from Banana Heaven.
 
-ent-DrinkBarefootGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = barefoot
+ent-DrinkBarefootGlass = barefoot glass
+    .desc = Barefoot and pregnant.
 
-ent-DrinkBeepskySmashGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = beepsky smash
+ent-DrinkBeepskySmashGlass = beepsky smash glass
+    .desc = Heavy, hot and strong. Just like the Iron fist of the LAW.
 
-ent-DrinkBeerglass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = beer
+ent-DrinkBeerglass = beer glass
+    .desc = A freezing pint of beer.
 
-ent-DrinkBerryJuice = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = berry juice
+ent-DrinkBerryJuice = berry juice
+    .desc = Berry juice. Or maybe it's jam. Who cares?
 
-ent-DrinkBlackRussianGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = black russian
+ent-DrinkBlackRussianGlass = black russian glass
+    .desc = For the lactose-intolerant. Still as classy as a White Russian.
 
-ent-DrinkBlueCuracaoGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = blue curacao
+ent-DrinkBlueCuracaoGlass = blue curacao
+    .desc = Exotically blue, fruity drink, distilled from oranges.
 
-ent-DrinkBloodyMaryGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = bloody mary
+ent-DrinkBloodyMaryGlass = bloody mary glass
+    .desc = Tomato juice, mixed with Vodka and a lil' bit of lime. Tastes like liquid murder.
 
-ent-DrinkBooger = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = booger
+ent-DrinkBooger = booger
+    .desc = Ewww...
 
-ent-DrinkBraveBullGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = brave bull
+ent-DrinkBraveBullGlass = brave bull glass
+    .desc = Tequilla and coffee liquor, brought together in a mouthwatering mixture. Drink up.
 
-ent-DrinkCarrotJuice = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = carrot juice
+ent-DrinkCarrotJuice = carrot juice
+    .desc = It's just like a carrot but without crunching.
 
-ent-DrinkChocolateGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = chocolate
+ent-DrinkChocolateGlass = hot chocolate
+    .desc = A heated drink consisting melted chocolate and heated milk.
 
-ent-DrinkCoffee = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = coffee
+ent-DrinkCoffee = coffee
+    .desc = Don't drop it, or you'll send scalding liquid and glass shards everywhere.
 
-ent-DrinkCognacGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = cognac
+ent-DrinkCognacGlass = cognac glass
+    .desc = Damn, you feel like some kind of French aristocrat just by holding this.
 
-ent-DrinkCream = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = cream
+ent-DrinkCream = cream
+    .desc = Ewwww...
 
-ent-DrinkCubaLibreGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = cuba libre
+ent-DrinkCubaLibreGlass = cuba libre glass
+    .desc = A classic mix of rum and cola.
 
-ent-DrinkDeadRumGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = dead rum
+ent-DrinkDeadRumGlass = deadrum glass
+    .desc = Popular with the sailors. Not very popular with everyone else.
 
-ent-DrinkDemonsBlood = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = demon's blood
+ent-DrinkDemonsBlood = demons blood
+    .desc = Just looking at this thing makes the hair at the back of your neck stand up.
 
-ent-DrinkDevilsKiss = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = devil's kiss
+ent-DrinkDevilsKiss = devil's kiss
+    .desc = Creepy time!
 
-ent-DrinkDoctorsDelightGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = doctor's delight
+ent-DrinkDoctorsDelightGlass = the doctor's delight
+    .desc = A healthy mixture of juices, guaranteed to keep you healthy until the next toolboxing takes place.
 
-ent-DrinkDriestMartiniGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = driest martini
+ent-DrinkDriestMartiniGlass = driest martini glass
+    .desc = Only for the experienced. You think you see sand floating in the glass.
 
-ent-DrinkDrGibbGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = dr gibb
+ent-DrinkDrGibbGlass = Dr. Gibb glass
+    .desc = Dr. Gibb. Not as dangerous as the name might imply.
 
-ent-DrinkErikaSurprise = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = erika surprise
+ent-DrinkErikaSurprise = erika surprise
+    .desc = The surprise is, it's green!
 
-ent-DrinkFourteenLokoGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = fourteen loko
+ent-DrinkFourteenLokoGlass = Fourteen Loko glass
+    .desc = This is a container of Fourteen Loko, it appears to be of the highest quality. The drink, not the container.
 
-ent-DrinkGargleBlasterGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = pan-galactic gargle blaster
+ent-DrinkGargleBlasterGlass = pan-galactic gargle blaster
+    .desc = Does... does this mean that Arthur and Ford are on the ship? Oh joy.
 
-ent-DrinkGinGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = gin
+ent-DrinkGinGlass = gin
+    .desc = Crystal clear Griffeater gin.
 
-ent-DrinkGinFizzGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = gin fizz
+ent-DrinkGinFizzGlass = gin fizz glass
+    .desc = Refreshingly lemony, deliciously dry.
 
-ent-DrinkGinTonicglass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = gin and tonic
+ent-DrinkGinTonicglass = gin and tonic
+    .desc = A mild but still great cocktail. Drink up, like a true Englishman.
 
-ent-DrinkGildlagerGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = gildlager
+ent-DrinkGildlagerGlass = gildlager glass
+    .desc = 100 proof that teen girls will drink anything with gold in it.
 
-ent-DrinkGrapeJuice = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = grape juice
+ent-DrinkGrapeJuice = grape juice
+    .desc = It's grrrrrape!
 
-ent-DrinkGrapeSodaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = grape soda
+ent-DrinkGrapeSodaGlass = grape soda glass
+    .desc = Looks like a delicious drink!
 
-ent-DrinkGreenTeaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = green tea
+ent-DrinkGreenTeaGlass = green tea glass
+    .desc = Tasty green tea. It has antioxidants; it's good for you!
 
-ent-DrinkGrenadineGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = grenadine
+ent-DrinkGrenadineGlass = grenadine syrup glass
+    .desc = Sweet and tangy, a bar syrup used to add color or flavor to drinks.
 
-ent-DrinkGrogGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = grog
+ent-DrinkGrogGlass = grog glass
+    .desc = A fine and cepa drink for Space.
 
-ent-DrinkHippiesDelightGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = hippies' delight
+ent-DrinkHippiesDelightGlass = hippies' delight glass
+    .desc = A drink enjoyed by people during the 1960's.
 
-ent-DrinkHoochGlass = { ent-DrinkGlass }
+ent-DrinkHoochGlass = hooch
     .desc = You've really hit rock bottom now... your liver packed its bags and left last night.
-    .suffix = hooch
 
-ent-DrinkIcedCoffeeGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = iced coffee
+ent-DrinkIcedCoffeeGlass = iced coffee glass
+    .desc = A drink to perk you up and refresh you!
 
-ent-DrinkIcedGreenTeaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = iced green tea
+ent-DrinkIcedGreenTeaGlass = iced green tea glass
+    .desc = It looks like green tea with ice. One might even call it iced green tea.
 
-ent-DrinkIcedTeaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = iced tea
+ent-DrinkIcedTeaGlass = iced tea
+    .desc = A refreshing southern beverage.
 
-ent-DrinkIcedBeerGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = iced beer
+ent-DrinkIcedBeerGlass = iced beer glass
+    .desc = A beer so frosty, the air around it freezes.
 
-ent-DrinkIceGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = ice
+ent-DrinkIceGlass = ice glass
+    .desc = Generally, you're supposed to put something else in there too...
 
-ent-DrinkIceCreamGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = ice cream
+ent-DrinkIceCreamGlass = ice cream glass
+    .desc = A glass full of good old ice cream. Might want a spoon.
 
-ent-DrinkIrishCarBomb = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = irish car bomb
+ent-DrinkIrishCarBomb = irish car bomb
+    .desc = An irish car bomb.
 
-ent-DrinkIrishCoffeeGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = irish coffee
+ent-DrinkIrishCoffeeGlass = irish coffee glass
+    .desc = Coffee and alcohol. More fun than a Mimosa to drink in the morning.
 
-ent-DrinkIrishCreamGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = irish cream
+ent-DrinkIrishCreamGlass = irish cream glass
+    .desc = It's cream, mixed with whiskey. What else would you expect from the Irish?
 
-ent-DrinkCoffeeLiqueurGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = coffee liqueur
+ent-DrinkCoffeeLiqueurGlass = coffee liqueur glass
+    .desc = DAMN, THIS THING LOOKS ROBUST
 
-ent-DrinkKiraSpecial = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = kira special
+ent-DrinkKiraSpecial = kira special
+    .desc = Long live the guy who everyone had mistaken for a girl. Baka!
 
-ent-DrinkLemonadeGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = lemonade
+ent-DrinkLemonadeGlass = lemonade glass
+    .desc = Oh the nostalgia...
 
-ent-DrinkLemonJuice = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = lemon juice
+ent-DrinkLemonJuice = lemon juice
+    .desc = Sour...
 
-ent-DrinkLemonLime = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = lemon lime
+ent-DrinkLemonLime = lemon lime
+    .desc = A tangy substance made of 0.5% natural citrus!
 
-ent-DrinkLimeJuice = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = lime juice
+ent-DrinkLimeJuice = lime juice
+    .desc = It's some sweet-sour lime juice.
 
-ent-DrinkLongIslandIcedTeaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = long island iced tea
+ent-DrinkLongIslandIcedTeaGlass = long island iced tea glass
+    .desc = The liquor cabinet, brought together in a delicious mix. Intended for middle-aged alcoholic women only.
 
-ent-DrinkManhattanGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = manhattan
+ent-DrinkManhattanGlass = manhattan glass
+    .desc = The Detective's undercover drink of choice. He never could stomach gin...
 
-ent-DrinkManhattanProjectGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = manhattan project
+ent-DrinkManhattanProjectGlass = manhattan project glass
+    .desc = A scientist's drink of choice, for pondering ways to blow up the station.
 
-ent-DrinkManlyDorfGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = manly dorf
+ent-DrinkManlyDorfGlass = the manly dorf glass
+    .desc = A manly concotion made from Ale and Beer. Intended for true men only.
 
-ent-DrinkMargaritaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = margarita
+ent-DrinkMargaritaGlass = margarita glass
+    .desc = On the rocks with salt on the rim. Arriba~!
 
-ent-DrinkMartiniGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = classic martini
+ent-DrinkMartiniGlass = classic martini glass
+    .desc = Damn, the bartender even stirred it, not shook it.
 
-ent-DrinkMeadGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = mead
+ent-DrinkMeadGlass = mead glass
+    .desc = A Viking's beverage, though a cheap one.
 
-ent-DrinkMilkshake = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = milkshake
+ent-DrinkMilkshake = milkshake
+    .desc = Glorious brainfreezing mixture.
 
-ent-DrinkMojito = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = mojito
+ent-DrinkMojito = mojito
+    .desc = Fresh from Spesscuba.
 
-ent-DrinkNeurotoxinGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = neurotoxin
+ent-DrinkNeurotoxinGlass = neurotoxin glass
+    .desc = A drink that is guaranteed to knock you silly.
 
-ent-DrinkNothing = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = nothing
+ent-DrinkNothing = nothing
+    .desc = Absolutely nothing.
 
-ent-DrinkNTCahors = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = neotheology cahors whine
+ent-DrinkNTCahors = neotheology cahors whine
+    .desc = It looks like wine, but more dark.
 
-ent-DrinkNuclearColaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = nuclear cola
+ent-DrinkNuclearColaGlass = nuclear cola glass
+    .desc = Don't cry, Don't raise your eye, It's only nuclear wasteland.
 
-ent-DrinkOrangeJuice = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = orange juice
+ent-DrinkOrangeJuice = orange juice
+    .desc = Vitamins! Yay!
 
-ent-DrinkPatronGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = patron
+ent-DrinkPatronGlass = patron glass
+    .desc = Drinking patron in the bar, with all the subpar ladies.
 
-ent-DrinkPoisonBerryJuice = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = poison berry juice
+ent-DrinkPoisonBerryJuice = poison berry juice
+    .desc = Looks like some deadly juice.
 
-ent-DrinkPoisonWineGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = poison wine
+ent-DrinkPoisonWineGlass = poison wine glass
+    .desc = A black ichor with an oily purple sheer on top. Are you sure you should drink this?
 
-ent-DrinkPoscaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = posca
+ent-DrinkPoscaGlass = posca glass
+    .desc = Poor warriors' drink from a forgotten era.
 
-ent-DrinkRedMeadGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = red mead
+ent-DrinkRedMeadGlass = red mead glass
+    .desc = A true Viking's beverage, though its color is strange.
 
-ent-DrinkRewriter = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = rewriter
+ent-DrinkRewriter = rewriter
+    .desc = The secret of the sanctuary of the Libarian...
 
-ent-DrinkRootBeerGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = root beer
+ent-DrinkRootBeerGlass = root beer glass
+    .desc = Fizzy, foamy, and full of sweet, non-caffienated goodness.
 
-ent-DrinkRootBeerFloatGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = root beer float
+ent-DrinkRootBeerFloatGlass = root beer float glass
+    .desc = Fizzy, foamy, and now with ice cream on top! Amazing!
 
-ent-DrinkRumGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = rum
+ent-DrinkRumGlass = rum glass
+    .desc = Now you want to Pray for a pirate suit, don't you?
 
-ent-DrinkSakeGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = sake
+ent-DrinkSakeGlass = sake glass
+    .desc = Wine made from rice, it's sake!
 
-ent-DrinkSbitenGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = sbiten
+ent-DrinkSbitenGlass = sbiten glass
+    .desc = A spicy mix of Vodka and Spice. Very hot.
 
-ent-DrinkScrewdriverCocktailGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = screwdriver
+ent-DrinkScrewdriverCocktailGlass = screwdriver glass
+    .desc = A simple, yet superb mixture of Vodka and orange juice. Just the thing for the tired engineer.
 
-ent-DrinkCogChampBase = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = cogchamp
+ent-DrinkCogChampBase = cogchamp glass
+    .desc = This mix of Cognac, Screwdriver and Welding Fuel will have you seeing His light surely!
 
-ent-DrinkSuiDreamGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = sui dream
+ent-DrinkSuiDreamGlass = sui dream glass
+    .desc = A froofy, fruity, and sweet mixed drink. Understanding the name only brings shame.
 
-ent-DrinkEmeraldGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = melon liquor
+ent-DrinkEmeraldGlass = melon liquor
+    .desc = A relatively sweet and fruity 46 proof liquor.
 
-ent-DrinkMoonshineGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = moonshine
+ent-DrinkMoonshineGlass = moonshine
+    .desc = You've really hit rock bottom now... your liver packed its bags and left last night.
 
-ent-DrinkGlassWhite = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = milk
+ent-DrinkGlassWhite = milk
+    .desc = White and nutritious goodness!
 
-ent-DrinkSilencerGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = silencer
+ent-DrinkSilencerGlass = silencer glass
+    .desc = A drink from Mime Heaven.
 
-ent-DrinkSingulo = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = singulo
+ent-DrinkSingulo = singulo
+    .desc = A blue-space beverage!
 
-ent-DrinkSnowWhite = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = snow white
+ent-DrinkSnowWhite = snow white
+    .desc = A cold refreshment.
 
-ent-DrinkSoyLatte = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = soy latte
+ent-DrinkSoyLatte = soy latte
+    .desc = A nice and refreshing beverage while you are reading.
 
-ent-DrinkSpaceUpGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = space-up
+ent-DrinkSpaceUpGlass = space-up glass
+    .desc = Space-up. It helps keep your cool.
 
-ent-DrinkSpaceMountainWindGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = space mountain wind
+ent-DrinkSpaceMountainWindGlass = space mountain wind glass
+    .desc = Space Mountain Wind. As you know, there are no mountains in space, only wind.
 
-ent-DrinkSyndicatebomb = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = syndicate bomb
+ent-DrinkSyndicatebomb = syndicate bomb
+    .desc = Tastes like terrorism!
 
-ent-DrinkTeaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = tea
+ent-DrinkTeaGlass = tea glass
+    .desc = Tasty black tea. It has antioxidants; it's good for you!
 
 ent-DrinkTeapot = teapot
     .desc = An elegant teapot. It simply oozes class.
 
-ent-DrinkTequilaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = tequila
+ent-DrinkTequilaGlass = tequila glass
+    .desc = Now all that's missing is the weird colored shades!
 
-ent-DrinkTequilaSunriseGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = tequila sunrise
+ent-DrinkTequilaSunriseGlass = tequila sunrise glass
+    .desc = Oh great, now you feel nostalgic about sunrises back on Terra...
 
-ent-DrinkTheMartinez = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = The Martinez
+ent-DrinkTheMartinez = The Martinez glass
+    .desc = The edgerunner legend.  Remembered by a drink, Forgotten by a drunk.
 
-ent-DrinkThreeMileIslandGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = three mile island
+ent-DrinkThreeMileIslandGlass = three mile island glass
+    .desc = A glass of this is sure to prevent a meltdown.
 
-ent-DrinkTomatoJuice = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = tomato juice
+ent-DrinkTomatoJuice = tomato juice
+    .desc = Are you sure this is tomato juice?
 
-ent-DrinkToxinsSpecialGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = toxins special
+ent-DrinkToxinsSpecialGlass = toxins special glass
+    .desc = Woah, this thing is on FIRE
 
-ent-DrinkVermouthGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = vermouth
+ent-DrinkVermouthGlass = vermouth glass
+    .desc = You wonder why you're even drinking this straight.
 
-ent-DrinkVodkaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = vodka
+ent-DrinkVodkaGlass = vodka glass
+    .desc = Number one drink and fueling choice for Russians worldwide.
 
-ent-DrinkVodkaMartiniGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = vodka martini
+ent-DrinkVodkaMartiniGlass = vodka martini glass
+    .desc = A bastardisation of the classic martini. Still great.
 
-ent-DrinkVodkaTonicGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = vodka tonic
+ent-DrinkVodkaTonicGlass = vodka tonic glass
+    .desc = For when a gin and tonic isn't russian enough.
 
 ent-DrinkWaterJug = water jug
     .desc = Stay hydrated
 
-ent-DrinkWatermelonJuice = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = watermelon juice
+ent-DrinkWatermelonJuice = watermelon juice
+    .desc = Delicious juice made from watermelon.
 
-ent-DrinkWhiskeyColaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = whiskey cola
+ent-DrinkWhiskeyColaGlass = whiskey cola glass
+    .desc = An innocent-looking mixture of cola and Whiskey. Delicious.
 
-ent-DrinkWhiskeyGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = whiskey
+ent-DrinkWhiskeyGlass = whiskey glass
+    .desc = The silky, smoky whiskey goodness inside makes the drink look very classy.
 
-ent-DrinkWhiskeySodaGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = whiskey soda
+ent-DrinkWhiskeySodaGlass = whiskey soda glass
+    .desc = Ultimate refreshment.
 
-ent-DrinkWhiteRussianGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = white russian
+ent-DrinkWhiteRussianGlass = white russian glass
+    .desc = A very nice looking drink. But that's just, like, your opinion, man.
 
-ent-DrinkWineGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = wine
+ent-DrinkWineGlass = wine glass
+    .desc = A very classy looking drink.
 
 ent-DrinkShakeBlue = blue milkshake
     .desc = { "" }
@@ -499,6 +382,5 @@ ent-DrinkRamen = cup ramen
 ent-DrinkHellRamen = hell ramen
     .desc = Just add 10ml boiling water. Super spicy flavor.
 
-ent-DrinkBloodGlass = { ent-DrinkGlass }
-    .desc = { "" }
-    .suffix = blood
+ent-DrinkBloodGlass = blood glass
+    .desc = Drink like a vampire!

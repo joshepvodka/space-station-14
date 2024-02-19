@@ -26,8 +26,7 @@ portable-generator-ui-network-stats-value = { POWERWATTS($supply) } / { POWERWAT
 portable-generator-ui-network-stats-not-connected = Not connected
 power-switchable-generator-examine = The power output is set to { $voltage }.
 power-switchable-generator-switched = Switched output to { $voltage }!
-power-switchable-voltage =
-    { $voltage ->
+power-switchable-voltage =     { $voltage ->
         [HV] [color=orange]HV[/color]
         [MV] [color=yellow]MV[/color]
        *[LV] [color=green]LV[/color]

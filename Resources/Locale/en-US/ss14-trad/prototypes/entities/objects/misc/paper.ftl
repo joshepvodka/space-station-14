@@ -36,7 +36,7 @@ ent-LuxuryPen = luxury pen
     .desc = A fancy and expensive pen that you only deserve to own if you're qualified to handle vast amounts of paperwork.
 
 ent-CyberPen = Cybersun pen
-    .desc = A high-tech pen straight from Cybersun's legal department, capable of refracting hard-light at impossible angles through its diamond tip in order to write. So powerful, it's even able to rewrite officially stamped documents should the need arise.
+    .desc = A high-tech pen straight from Cybersun's legal department, capable of refracting hard-light at impossible angles through its diamond tip in order to write.
 
 ent-PenCap = captain's fountain pen
     .desc = A luxurious fountain pen for the captain of the station.

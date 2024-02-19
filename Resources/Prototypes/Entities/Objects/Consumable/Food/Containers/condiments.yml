@@ -337,7 +337,6 @@
   - type: Openable
     sound:
       collection: pop
-    closeable: true
   - type: SolutionContainerManager
     solutions:
       food:

@@ -5,8 +5,7 @@ blockgame-menu-label-points = Points: { $points }
 # Current game level
 blockgame-menu-label-level = Level: { $level }
 # Game over information of your round
-blockgame-menu-gameover-info =
-    Global: { $global }
+blockgame-menu-gameover-info =     Global: { $global }
     Local: { $local }
     Points: { $points }
 blockgame-menu-title = Nanotrasen Block Game

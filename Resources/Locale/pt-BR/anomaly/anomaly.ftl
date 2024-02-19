@@ -21,8 +21,7 @@ anomaly-scanner-particle-containment = - [color=goldenrod]Containment type:[/col
 anomaly-scanner-pulse-timer = Time until next pulse: [color=gray]{ $time }[/color]
 anomaly-gorilla-core-slot-name = Anomaly core
 anomaly-gorilla-charge-none = It has no [bold]anomaly core[/bold] inside of it.
-anomaly-gorilla-charge-limit =
-    It has [color={ $count ->
+anomaly-gorilla-charge-limit =     It has [color={ $count ->
         [3] green
         [2] yellow
         [1] orange
@@ -47,8 +46,7 @@ anomaly-generator-no-cooldown = Cooldown: [color=gray]Complete[/color]
 anomaly-generator-yes-fire = Status: [color=forestgreen]Ready[/color]
 anomaly-generator-no-fire = Status: [color=crimson]Not ready[/color]
 anomaly-generator-generate = Generate Anomaly
-anomaly-generator-charges =
-    { $charges ->
+anomaly-generator-charges =     { $charges ->
         [one] { $charges } charge
        *[other] { $charges } charges
     }

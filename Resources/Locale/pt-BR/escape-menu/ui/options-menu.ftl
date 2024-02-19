@@ -44,7 +44,6 @@ ui-options-opaque-storage-window = Opaque storage window
 ui-options-show-looc-on-head = Show LOOC chat above characters head
 ui-options-fancy-speech = Show names in speech bubbles
 ui-options-fancy-name-background = Add background to speech bubble names
-ui-options-enable-color-name = Add colors to character names
 ui-options-reduced-motion = Reduce motion of visual effects
 ui-options-screen-shake-intensity = Screen shake intensity
 ui-options-screen-shake-percent = { TOSTRING($intensity, "P0") }
@@ -74,8 +73,7 @@ ui-options-hud-theme-eris = Eris
 ui-options-vp-stretch = Stretch viewport to fit game window
 ui-options-vp-scale = Fixed viewport scale: x{ $scale }
 ui-options-vp-integer-scaling = Prefer integer scaling (might cause black bars/clipping)
-ui-options-vp-integer-scaling-tooltip =
-    If this option is enabled, the viewport will be scaled using an integer value
+ui-options-vp-integer-scaling-tooltip =     If this option is enabled, the viewport will be scaled using an integer value
     at specific resolutions. While this results in crisp textures, it also often
     means that black bars appear at the top/bottom of the screen or that part
     of the viewport is not visible.
@@ -214,30 +212,25 @@ ui-options-function-shuttle-brake = Brake
 
 ui-options-net-predict = Client-side prediction
 ui-options-net-interp-ratio = State buffer size
-ui-options-net-interp-ratio-tooltip =
-    Increasing this will generally make the game more resistant
+ui-options-net-interp-ratio-tooltip =     Increasing this will generally make the game more resistant
     to server->client packet-loss, however in doing so it
     effectively adds slightly more latency and requires the
     client to predict more future ticks.
 ui-options-net-predict-tick-bias = Prediction tick bias
-ui-options-net-predict-tick-bias-tooltip =
-    Increasing this will generally make the game more resistant
+ui-options-net-predict-tick-bias-tooltip =     Increasing this will generally make the game more resistant
     to client->server packet-loss, however in doing so it
     effectively adds slightly more latency and requires the
     client to predict more future ticks.
 ui-options-net-pvs-spawn = PVS entity spawn budget
-ui-options-net-pvs-spawn-tooltip =
-    This limits the rate at which the server will send newly spawned
+ui-options-net-pvs-spawn-tooltip =     This limits the rate at which the server will send newly spawned
     entities to the client. Lowering this can help reduce
     stuttering due to entity spawning, but can lead to pop-in.
 ui-options-net-pvs-entry = PVS entity budget
-ui-options-net-pvs-entry-tooltip =
-    This limits the rate at which the server will send newly visible
+ui-options-net-pvs-entry-tooltip =     This limits the rate at which the server will send newly visible
     entities to the client. Lowering this can help reduce
     stuttering, but can lead to pop-in.
 ui-options-net-pvs-leave = PVS detach rate
-ui-options-net-pvs-leave-tooltip =
-    This limits the rate at which the client will remove
+ui-options-net-pvs-leave-tooltip =     This limits the rate at which the client will remove
     out-of-view entities. Lowering this can help reduce
     stuttering when walking around, but could occasionally
     lead to mispredicts and other issues.

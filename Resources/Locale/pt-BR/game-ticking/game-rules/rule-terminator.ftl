@@ -1,7 +1,6 @@
 terminator-round-end-agent-name = nt-800
 objective-issuer-susnet = [color=#d64119]Susnet[/color]
-terminator-role-greeting =
-    You are the exterminator, a relentless assassin sent into the past to secure our future.
+terminator-role-greeting =     You are the exterminator, a relentless assassin sent into the past to secure our future.
     We need you to eliminate { $target }, { $job }.
     Use any means at your disposal to complete the mission.
     Glory to Cybersun.

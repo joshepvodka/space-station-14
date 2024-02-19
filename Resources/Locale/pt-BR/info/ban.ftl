@@ -26,8 +26,7 @@ cmd-banlist-help = Usage: banlist <name or user ID>
 cmd-banlist-empty = No active bans found for { $user }
 cmd-banlistF-hint = <name/user ID>
 cmd-ban_exemption_update-desc = Set an exemption to a type of ban on a player.
-cmd-ban_exemption_update-help =
-    Usage: ban_exemption_update <player> <flag> [<flag> [...]]
+cmd-ban_exemption_update-help =     Usage: ban_exemption_update <player> <flag> [<flag> [...]]
     Specify multiple flags to give a player multiple ban exemption flags.
     To remove all exemptions, run this command and give "None" as only flag.
 cmd-ban_exemption_update-nargs = Expected at least 2 arguments

@@ -48,32 +48,6 @@
 
 - type: entity
   id: LockerCaptainFilled
-  suffix: Filled, AntiqueLaser
-  parent: LockerCaptain
-  components:
-  - type: StorageFill
-    contents:
-      - id: ClothingOuterArmorCaptainCarapace
-      - id: NukeDisk
-      - id: PinpointerNuclear
-      - id: CaptainIDCard
-      - id: WeaponDisabler
-      - id: CommsComputerCircuitboard
-      - id: ClothingHeadsetAltCommand
-      - id: SpaceCash1000
-      - id: PlushieNuke
-        prob: 0.1
-      - id: CigarGoldCase
-        prob: 0.25
-      - id: ClothingBeltSheathFilled
-      - id: DoorRemoteCommand
-      - id: RubberStampCaptain
-      - id: WeaponAntiqueLaser
-      - id: JetpackCaptainFilled
-      - id: MedalCase
-
-- type: entity
-  id: LockerCaptainFilledNoLaser
   suffix: Filled
   parent: LockerCaptain
   components:
@@ -94,6 +68,7 @@
       - id: ClothingBeltSheathFilled
       - id: DoorRemoteCommand
       - id: RubberStampCaptain
+      - id: WeaponAntiqueLaser
       - id: JetpackCaptainFilled
       - id: MedalCase
 

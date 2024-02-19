@@ -8,8 +8,7 @@ zombie-infection-warning = You feel the zombie virus take hold
 zombie-infection-underway = Your blood begins to thicken
 zombie-alone = You feel entirely alone.
 zombie-shuttle-call = We have detected that the undead have overtaken the station. Dispatching an emergency shuttle to collect remaining personnel.
-zombie-round-end-initial-count =
-    { $initialCount ->
+zombie-round-end-initial-count =     { $initialCount ->
         [one] There was one initial infected:
        *[other] There were { $initialCount } initial infected:
     }
@@ -19,8 +18,7 @@ zombie-round-end-amount-low = [color=green]Almost all of the zombies were exterm
 zombie-round-end-amount-medium = [color=yellow]{ $percent }% of the crew were turned into zombies.[/color]
 zombie-round-end-amount-high = [color=crimson]{ $percent }% of the crew were turned into zombies.[/color]
 zombie-round-end-amount-all = [color=darkred]The entire crew became zombies![/color]
-zombie-round-end-survivor-count =
-    { $count ->
+zombie-round-end-survivor-count =     { $count ->
         [one] There was only one survivor left:
        *[other] There were only { $count } survivors left:
     }

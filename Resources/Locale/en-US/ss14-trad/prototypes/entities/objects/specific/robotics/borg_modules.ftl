@@ -31,6 +31,9 @@ ent-BorgModuleGrapplingGun = grappling gun cyborg module
 ent-BorgModuleAdvancedTool = advanced tool cyborg module
     .desc = { "" }
 
+ent-BorgModuleGasAnalyzer = gas analyzer cyborg module
+    .desc = { "" }
+
 ent-BorgModuleConstruction = construction cyborg module
     .desc = { "" }
 

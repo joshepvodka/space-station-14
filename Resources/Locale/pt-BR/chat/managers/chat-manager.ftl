@@ -17,7 +17,7 @@ chat-manager-no-radio-key = No radio key specified!
 chat-manager-no-such-channel = There is no channel with key '{ $key }'!
 chat-manager-whisper-headset-on-message = You can't whisper on the radio!
 chat-manager-server-wrap-message = [bold]{ $message }[/bold]
-chat-manager-sender-announcement-wrap-message =    [font size=14][bold]{ $sender } Announcement:[/font][font size=12]
+chat-manager-sender-announcement-wrap-message =     [font size=14][bold]{ $sender } Announcement:[/font][font size=12]
     { $message }[/bold][/font]
 chat-manager-entity-say-wrap-message = [BubbleHeader][bold]{ $entityName }[/bold][/BubbleHeader] { $verb }, [font={ $fontType } size={ $fontSize }]"[BubbleContent]{ $message }[/BubbleContent]"[/font]
 chat-manager-entity-say-bold-wrap-message = [BubbleHeader][bold]{ $entityName }[/bold][/BubbleHeader] { $verb }, [font={ $fontType } size={ $fontSize }]"[BubbleContent][bold]{ $message }[/bold][/BubbleContent]"[/font]
@@ -26,7 +26,7 @@ chat-manager-entity-whisper-unknown-wrap-message = [font size=11][italic][Bubble
 
 # THE() is not used here because the entity and its name can technically be disconnected if a nameOverride is passed...
 
-chat-manager-entity-me-wrap-message =    [italic]{ PROPER($entity) ->
+chat-manager-entity-me-wrap-message =     [italic]{ PROPER($entity) ->
        *[false] the { $entityName } { $message }[/italic]
         [true] { $entityName } { $message }[/italic]
     }
@@ -75,9 +75,6 @@ chat-speech-verb-reptilian-2 = snorts
 chat-speech-verb-reptilian-3 = huffs
 chat-speech-verb-skeleton-1 = rattles
 chat-speech-verb-skeleton-2 = clacks
-chat-speech-verb-vox-1 = screeches
-chat-speech-verb-vox-2 = shrieks
-chat-speech-verb-vox-3 = croaks
 chat-speech-verb-skeleton-3 = gnashes
 chat-speech-verb-canine-1 = barks
 chat-speech-verb-canine-2 = woofs

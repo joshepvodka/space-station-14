@@ -1,6 +1,5 @@
 salvage-expedition-structure-examine = This is a [color=#B02E26]destruction[/color] objective
-salvage-expedition-structure-remaining =
-    { $count ->
+salvage-expedition-structure-remaining =     { $count ->
         [one] { $count } structure remaining.
        *[other] { $count } structures remaining.
     }

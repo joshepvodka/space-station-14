@@ -20,7 +20,7 @@ ent-MechHamtrBattery = { ent-MechHamtr }
     .suffix = Battery
 
 ent-MechVim = Vim
-    .desc = A miniature exosuit from Nanotrasen, developed to let the irreplaceable station pets live a little longer.
+    .desc = A minature exosuit from Nanotrasen, developed to let the irreplacable station pets live a little longer.
 
 ent-MechVimBattery = { ent-MechVim }
     .desc = { "" }
