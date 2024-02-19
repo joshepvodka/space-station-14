@@ -20,8 +20,7 @@ public sealed class TypingIndicatorSystem : SharedTypingIndicatorSystem
     public override void Initialize()
     {
         base.Initialize();
-
-        Subs.CVar(_cfg, CCVars.ChatShowTypingIndicator, OnShowTypingChanged);
+        _cfg.OnValueChanged(CCVars.ChatShowTypingIndicator, OnShowTypingChanged);
     }
 
     public void ClientChangedChatText()
@@ -68,7 +67,7 @@ public sealed class TypingIndicatorSystem : SharedTypingIndicatorSystem
         _isClientTyping = isClientTyping;
 
         // check if player controls any pawn
-        if (_playerManager.LocalEntity == null)
+        if (_playerManager.LocalPlayer?.ControlledEntity == null)
             return;
 
         // send a networked event to server

@@ -25,23 +25,19 @@ ion-storm-law-job-harmful = { $adjective } { $job } ARE HARMFUL TO THE CREW
 ion-storm-law-having-harmful = HAVING { $adjective } { $thing } IS HARMFUL TO THE CREW
 ion-storm-law-not-having-harmful = NOT HAVING { $adjective } { $thing } IS HARMFUL TO THE CREW
 # thing is a concept or require
-ion-storm-law-requires =
-    { $who } { $plural ->
+ion-storm-law-requires =     { $who } { $plural ->
         [true] REQUIRES
        *[false] REQUIRE
     } { $thing }
-ion-storm-law-requires-subjects =
-    { $who } { $plural ->
+ion-storm-law-requires-subjects =     { $who } { $plural ->
         [true] REQUIRES
        *[false] REQUIRE
     } { $joined } { $subjects }
-ion-storm-law-allergic =
-    { $who } { $plural ->
+ion-storm-law-allergic =     { $who } { $plural ->
         [true] IS
        *[false] ARE
     } { $severity } ALLERGIC TO { $allergy }
-ion-storm-law-allergic-subjects =
-    { $who } { $plural ->
+ion-storm-law-allergic-subjects =     { $who } { $plural ->
         [true] IS
        *[false] ARE
     } { $severity } ALLERGIC TO { $adjective } { $subjects }
@@ -58,8 +54,7 @@ ion-storm-law-highest-rank = THE { $who } ARE NOW THE HIGHEST RANKING CREWMEMBER
 ion-storm-law-lowest-rank = THE { $who } ARE NOW THE LOWEST RANKING CREWMEMBERS
 ion-storm-law-crew-must = THE { $who } MUST { $must }
 ion-storm-law-crew-must-go = THE { $who } MUST GO TO { $area }
-ion-storm-part =
-    { $part ->
+ion-storm-part =     { $part ->
         [true] PART
        *[false] NOT PART
     }

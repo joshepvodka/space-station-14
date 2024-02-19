@@ -13,8 +13,7 @@ comp-light-replacer-refill-from-storage = You refill { THE($light-replacer) }.
 
 comp-light-replacer-no-lights = It's empty.
 comp-light-replacer-has-lights = It contains the following:
-comp-light-replacer-light-listing =
-    { $amount ->
+comp-light-replacer-light-listing =     { $amount ->
         [one] [color=yellow]{ $amount }[/color] [color=gray]{ $name }[/color]
        *[other] [color=yellow]{ $amount }[/color] [color=gray]{ $name }s[/color]
     }

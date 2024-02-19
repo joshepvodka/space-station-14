@@ -888,7 +888,7 @@
 - type: entity
   parent: VendingMachineSeedsUnlocked
   id: VendingMachineSeeds
-  suffix: Hydroponics
+  suffix: Hyroponics
   components:
   - type: AccessReader
     access: [["Hydroponics"]]

@@ -22,7 +22,7 @@ ent-ClothingBeltMedicalFilled = { ent-ClothingBeltMedical }
     .desc = { "" }
     .suffix = Filled
 
-ent-ClothingBeltMedicalEMTFilled = { ent-ClothingBeltMedicalEMT }
+ent-ClothingBeltParamedicFilled = EMT belt
     .desc = { "" }
     .suffix = Paramedic,Filled
 

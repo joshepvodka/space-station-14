@@ -84,7 +84,7 @@ ent-VendingMachineSeedsUnlocked = MegaSeed Servitor
 
 ent-VendingMachineSeeds = { ent-VendingMachineSeedsUnlocked }
     .desc = { "" }
-    .suffix = Hydroponics
+    .suffix = Hyroponics
 
 ent-VendingMachineSnack = Getmore Chocolate Corp
     .desc = A snack machine courtesy of the Getmore Chocolate Corporation, based out of Mars.

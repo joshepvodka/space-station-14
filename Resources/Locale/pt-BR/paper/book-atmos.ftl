@@ -1,5 +1,4 @@
-book-text-atmos-distro =
-    The distribution network, or "distro" for short, is the station's lifeline. It's responsible for transporting air from atmospherics throughout the station.
+book-text-atmos-distro =     The distribution network, or "distro" for short, is the station's lifeline. It's responsible for transporting air from atmospherics throughout the station.
     
     Relevant pipes are often painted Popping Subdued Blue, but a surefire way to identify them is to use a tray scanner to trace which pipes are connected to active vents on the station.
     
@@ -16,8 +15,7 @@ book-text-atmos-distro =
     The pressure of the network is determined by the last pump pumping into it. To prevent bottlenecks, all other pumps between the miners and the last pump should be set to their maximum rate, and any unnecessary devices should be removed.
     
     You can validate the distro pressure with a gas analyzer, but keep in mind that high demand due to things like spacings can cause the distro to be below the set target pressure for extended periods. So, if you see a dip in pressure, don't panic - it might be temporary.
-book-text-atmos-waste =
-    The waste network is the primary system responsible for keeping the air on the station free of contaminants.
+book-text-atmos-waste =     The waste network is the primary system responsible for keeping the air on the station free of contaminants.
     
     You can identify the relevant pipes by their Pleasing Dull Red color or by using a tray scanner to trace which pipes are connected to the scrubbers on the station.
     
@@ -26,8 +24,7 @@ book-text-atmos-waste =
     Technicians have the option to filter or space the waste gasses. While spacing is faster, filtering allows for the gasses to be reused for recycling or selling.
     
     The waste network can also be used to diagnose atmospheric issues on the station. High levels of a waste gas may suggest a large leak, while the presence of non-waste gases may indicate a scrubber configuration or physical connection issue. If the gases are at a high temperature, it could indicate a fire.
-book-text-atmos-alarms =
-    Air alarms are located throughout stations to allow management and monitoring of the local atmosphere.
+book-text-atmos-alarms =     Air alarms are located throughout stations to allow management and monitoring of the local atmosphere.
     
     The air alarm interface provides technicians with a list of connected sensors, their readings, and the ability to adjust thresholds. These thresholds are used to determine the alarm condition of the air alarm. Technicians can also use the interface to set target pressures for vents and configure the operating speeds and targeted gases for scrubbers.
     
@@ -38,17 +35,16 @@ book-text-atmos-alarms =
     - Panic: Disables vents and sets scrubbers to siphon
     
     A multitool or network configurator can be used to link devices to air alarms.
-book-text-atmos-vents =
-    Below is a quick reference guide to several atmospheric devices:
+book-text-atmos-vents =     Below is a quick reference guide to several atmospheric devices:
     
-    Passive Vents:
-    These vents don't require power, they allow gases to flow freely both into and out of the pipe network they are attached to.
+                Passive Vents:
+                These vents don't require power, they allow gases to flow freely both into and out of the pipe network they are attached to.
     
-    Active Vents:
-    These are the most common vents on the station. They have an internal pump, and require power. By default, they will only pump gases out of pipes, and only up to 101 kpa. However, they can be reconfigured using an air alarm. They will also lock out if the room is under 1 kpa, to prevent pumping gasses into space.
+                Active Vents:
+                These are the most common vents on the station. They have an internal pump, and require power. By default, they will only pump gases out of pipes, and only up to 101 kpa. However, they can be reconfigured using an air alarm. They will also lock out if the room is under 1 kpa, to prevent pumping gasses into space.
     
-    Air Scrubbers:
-    These devices allow gases to be removed from the environment and put into the connected pipe network. They can be configured to select specific gases when connected to an air alarm.
+                Air Scrubbers:
+                These devices allow gases to be removed from the environment and put into the connected pipe network. They can be configured to select specific gases when connected to an air alarm.
     
-    Air Injectors:
-    Injectors are similar to active vents, but they have no internal pump and do not require power. They cannot be configured, but they can continue to pump gasses up to much higher pressures.
+                Air Injectors:
+                Injectors are similar to active vents, but they have no internal pump and do not require power. They cannot be configured, but they can continue to pump gasses up to much higher pressures.

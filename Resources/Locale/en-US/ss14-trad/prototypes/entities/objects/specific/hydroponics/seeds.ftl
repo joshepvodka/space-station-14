@@ -19,9 +19,6 @@ ent-CabbageSeeds = packet of cabbage seeds
 ent-GarlicSeeds = packet of garlic seeds
     .desc = { "" }
 
-ent-LaughinPeaSeeds = packet of laughin' pea pods
-    .desc = These seeds give off a very soft purple glow.. they should grow into Laughin' Peas.
-
 ent-LemonSeeds = packet of lemon seeds
     .desc = { "" }
 

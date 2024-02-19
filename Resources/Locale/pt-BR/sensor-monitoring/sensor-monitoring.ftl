@@ -1,6 +1,5 @@
 sensor-monitoring-window-title = Sensor Monitoring Console
-sensor-monitoring-value-display =
-    { $unit ->
+sensor-monitoring-value-display =     { $unit ->
         [PressureKpa] { PRESSURE($value) }
         [PowerW] { POWERWATTS($value) }
         [EnergyJ] { POWERJOULES($value) }

@@ -12,7 +12,6 @@ using Content.Shared.Explosion.Components;
 using Content.Shared.Explosion.Components.OnTrigger;
 using Content.Shared.Implants.Components;
 using Content.Shared.Interaction;
-using Content.Shared.Inventory;
 using Content.Shared.Mobs;
 using Content.Shared.Mobs.Components;
 using Content.Shared.Payload.Components;
@@ -29,8 +28,6 @@ using Robust.Shared.Physics.Events;
 using Robust.Shared.Physics.Systems;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
-using Robust.Shared.Player;
-using Content.Shared.Coordinates;
 
 namespace Content.Server.Explosion.EntitySystems
 {
@@ -71,7 +68,6 @@ namespace Content.Server.Explosion.EntitySystems
         [Dependency] private readonly IRobustRandom _random = default!;
         [Dependency] private readonly IPrototypeManager _prototypeManager = default!;
         [Dependency] private readonly SolutionContainerSystem _solutionContainerSystem = default!;
-        [Dependency] private readonly InventorySystem _inventory = default!;
 
         public override void Initialize()
         {
@@ -105,15 +101,9 @@ namespace Content.Server.Explosion.EntitySystems
 
         private void OnSoundTrigger(EntityUid uid, SoundOnTriggerComponent component, TriggerEvent args)
         {
-            if (component.RemoveOnTrigger) // if the component gets removed when it's triggered
-            {
-                var xform = Transform(uid);
-                _audio.PlayPvs(component.Sound, xform.Coordinates); // play the sound at its last known coordinates
-            }
-            else // if the component doesn't get removed when triggered
-            {
-                _audio.PlayPvs(component.Sound, uid); // have the sound follow the entity itself
-            }
+            _audio.PlayPvs(component.Sound, uid);
+            if (component.RemoveOnTrigger)
+                RemCompDeferred<SoundOnTriggerComponent>(uid);
         }
 
         private void OnAnchorTrigger(EntityUid uid, AnchorOnTriggerComponent component, TriggerEvent args)
@@ -164,15 +154,9 @@ namespace Content.Server.Explosion.EntitySystems
         {
             if (!TryComp<TransformComponent>(uid, out var xform))
                 return;
-            if (component.DeleteItems)
-            {
-                var items = _inventory.GetHandOrInventoryEntities(xform.ParentUid);
-                foreach (var item in items)
-                {
-                    Del(item);
-                }
-            }
-            _body.GibBody(xform.ParentUid, true);
+
+            _body.GibBody(xform.ParentUid, true, deleteItems: component.DeleteItems);
+
             args.Handled = true;
         }
 

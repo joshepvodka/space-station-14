@@ -38,7 +38,6 @@
     - replay_set_time
     - replay_stop
     - replay_load
-    - saveconfig
 
 - Flags: DEBUG
   Commands:
@@ -54,7 +53,7 @@
     - menuvis
     - resetent
     - resetallents
-    - showhealthbars
+    - togglehealthoverlay
     - toggledecals
     - nodevis
     - nodevisfilter

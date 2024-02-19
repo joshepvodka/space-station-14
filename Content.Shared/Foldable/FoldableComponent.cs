@@ -17,10 +17,4 @@ public sealed partial class FoldableComponent : Component
 
     [DataField]
     public bool CanFoldInsideContainer = false;
-
-    [DataField]
-    public LocId UnfoldVerbText = "unfold-verb";
-
-    [DataField]
-    public LocId FoldVerbText = "fold-verb";
 }

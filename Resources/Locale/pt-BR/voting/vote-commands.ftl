@@ -37,8 +37,7 @@ cmd-listvotes-help = Usage: listvotes
 ## 'cancelvote' command
 
 cmd-cancelvote-desc = Cancels an active vote
-cmd-cancelvote-help =
-    Usage: cancelvote <id>
+cmd-cancelvote-help =     Usage: cancelvote <id>
     You can get the ID from the listvotes command.
 cmd-cancelvote-error-invalid-vote-id = Invalid vote ID
 cmd-cancelvote-error-missing-vote-id = Missing ID

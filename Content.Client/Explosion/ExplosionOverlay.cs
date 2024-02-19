@@ -14,6 +14,7 @@ namespace Content.Client.Explosion;
 public sealed class ExplosionOverlay : Overlay
 {
     [Dependency] private readonly IRobustRandom _robustRandom = default!;
+    [Dependency] private readonly IMapManager _mapManager = default!;
     [Dependency] private readonly IEntityManager _entMan = default!;
     [Dependency] private readonly IPrototypeManager _proto = default!;
 

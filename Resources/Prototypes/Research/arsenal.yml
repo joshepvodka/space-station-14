@@ -44,8 +44,7 @@
   tier: 1
   cost: 7500
   recipeUnlocks:
-  - Signaller  
-  - SignallerAdvanced
+  - Signaller
   - SignalTrigger
   - VoiceTrigger
   - TimerTrigger

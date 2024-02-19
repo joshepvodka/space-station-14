@@ -62,4 +62,3 @@ station-beacon-theater = Theater
 station-beacon-tools = Tools
 station-beacon-disposals = Disposals
 station-beacon-cryosleep = Cryosleep
-station-beacon-escape-pod = Escape Pod

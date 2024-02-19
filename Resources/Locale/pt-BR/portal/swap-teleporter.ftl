@@ -8,8 +8,7 @@ swap-teleporter-popup-teleport-other = { CAPITALIZE(THE($entity)) } activates, a
 swap-teleporter-verb-destroy-link = Destroy Quantum Link
 swap-teleporter-examine-link-present = [color=forestgreen]It is linked to another device.[/color] Alt-Click to break the quantum link.
 swap-teleporter-examine-link-absent = [color=yellow]It is not currently linked.[/color] Use on another device to establish a quantum link.
-swap-teleporter-examine-time-remaining =
-    Time left to recharge: [color=purple]{ $second } second{ $second ->
+swap-teleporter-examine-time-remaining =     Time left to recharge: [color=purple]{ $second } second{ $second ->
         [one] .
        *[other] s.
     }[/color]

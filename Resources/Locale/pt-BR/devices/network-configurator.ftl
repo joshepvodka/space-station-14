@@ -36,6 +36,5 @@ network-configurator-examine-mode-list = [color=green]List[/color]
 network-configurator-examine-current-mode = Current mode: { $mode }
 network-configurator-examine-switch-modes = Press { $key } to switch modes
 # item status
-network-configurator-item-status-label =
-    Current mode: { $mode }
+network-configurator-item-status-label =     Current mode: { $mode }
     { $keybinding } to switch mode

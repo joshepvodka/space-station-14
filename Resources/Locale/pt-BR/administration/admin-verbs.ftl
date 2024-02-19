@@ -8,8 +8,7 @@ admin-verbs-teleport-here = Teleport Here
 admin-verbs-freeze = Freeze
 admin-verbs-unfreeze = Unfreeze
 admin-verbs-erase = Erase
-admin-verbs-erase-description =
-    Removes the player from the round and crew manifest and deletes their chat messages.
+admin-verbs-erase-description =     Removes the player from the round and crew manifest and deletes their chat messages.
     Their items are dropped on the ground.
     Players are shown a popup indicating them to play as if they never existed.
 toolshed-verb-mark = Mark

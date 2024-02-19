@@ -4,8 +4,7 @@ particle-accelerator-control-menu-service-manual-reference = Refer to p.132 of s
 particle-accelerator-control-menu-device-version-label = Mark 2 Particle Accelerator
 particle-accelerator-control-menu-power-label = Power:
 particle-accelerator-control-menu-strength-label = Strength:
-particle-accelerator-control-menu-alarm-control =
-    PARTICLE STRENGTH
+particle-accelerator-control-menu-alarm-control =     PARTICLE STRENGTH
     LIMITER FAILURE
 particle-accelerator-control-menu-scan-parts-button = Scan Parts
 particle-accelerator-control-menu-check-containment-field-warning = Ensure containment field is active before operation

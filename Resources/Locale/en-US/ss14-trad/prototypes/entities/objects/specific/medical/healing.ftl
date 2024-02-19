@@ -12,11 +12,6 @@ ent-Ointment10Lingering = { ent-Ointment }
 
 ent-RegenerativeMesh = regenerative mesh
     .desc = Used to treat even the nastiest burns. Also effective against caustic burns.
-    .suffix = Full
-
-ent-OintmentAdvanced1 = { ent-RegenerativeMesh }
-    .desc = { "" }
-    .suffix = Single
 
 ent-Brutepack = bruise pack
     .desc = A therapeutic gel pack and bandages designed to treat blunt-force trauma.
@@ -32,11 +27,6 @@ ent-Brutepack10Lingering = { ent-Brutepack }
 
 ent-MedicatedSuture = medicated suture
     .desc = A suture soaked in medicine, treats blunt-force trauma effectively and closes wounds.
-    .suffix = Full
-
-ent-BrutepackAdvanced1 = { ent-MedicatedSuture }
-    .desc = { "" }
-    .suffix = Single
 
 ent-Bloodpack = blood pack
     .desc = Contains a groundbreaking universal blood replacement created by Nanotrasen's advanced medical science.
@@ -45,9 +35,6 @@ ent-Bloodpack = blood pack
 ent-Bloodpack10Lingering = { ent-Bloodpack }
     .desc = { "" }
     .suffix = 10, Lingering
-
-ent-Tourniquet = tourniquet
-    .desc = Stops bleeding! Hopefully.
 
 ent-Gauze = roll of gauze
     .desc = Some sterile gauze to wrap around bloody stumps.

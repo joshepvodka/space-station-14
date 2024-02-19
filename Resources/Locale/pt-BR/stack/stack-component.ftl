@@ -1,8 +1,7 @@
 ### UI
 
 # Shown when a stack is examined in details range
-comp-stack-examine-detail-count =
-    { $count ->
+comp-stack-examine-detail-count =     { $count ->
         [one] There is [color={ $markupCountColor }]{ $count }[/color] thing
        *[other] There are [color={ $markupCountColor }]{ $count }[/color] things
     } in the stack.
