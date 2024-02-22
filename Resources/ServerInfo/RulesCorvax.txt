@@ -1,64 +1,160 @@
-[color=#a4885c]0.[/color] [color=#ffd700]Не будь мудаком[/color]
-Правила не могут покрыть все возможные ситуации. Администраторы должны иметь возможность решать ситуации, которые упущены в правилах.
+[color=GoldenRod][bold]Regra de Ouro[/bold]: Tenha consideração pela experiência dos outros jogadores. Jogue com o intuito de deixar a partida mais divertida e interessante para todos e não piorar a experiência de ninguém, lembre-se que esse jogo é em conjunto.[/color]
 
-[color=#a4885c]1.[/color] [color=#ffd700]Гриф[/color]
-Умышленная порча игрового процесса другим игрокам запрещена. Выпуск сингулярности является поводом для перманентного бана. В случае, если вы антагонист, действуйте строго в рамках ваших задач.
+Na dúvida sempre pergunte sobre as regras para o administrador usando o painel de AHelp.
 
-[color=#a4885c]2.[/color] [color=#ffd700]Убийство[/color]
-Неоправданные действия, направленные на причинение серьезного вреда здоровью или убийство другого человека запрещены. Помните, что для убийства должна быть очень веская РП причина. Если вы сомневаетесь, спросите в АХелп.
-Вы имеете право на самооборону, однако она не должна перерастать в убийство. Иными словами, вы имеете право ответить обидчику на удар, но, когда он уже упал, вам не следует его добивать. 
- 
-[color=#a4885c]3.[/color] [color=#ffd700]Нарушение игровой атмосферы[/color]
-Вы - не ваш персонаж! Отход от отыгрыша роли своего персонажа, нарушающий общую игровую атмосферу и сеттинг. Помните, что это медиум-РП сервер. 
 
-[color=#a4885c]3.1.[/color] [color=#ffd700]Повергейм[/color]
-Проявление действий, которые выходят за рамки физических и психологических возможностей вашего персонажа. Ваш персонаж обычный человек, которому свойственно бояться и испытывать боль, не забывайте об этом. Вы также не должны прятать вещи “на всякий случай” и болтировать двери, будучи главой отдела, если вас до этого не взламывали в этом же раунде.
-Данное правило не распространяется на крупных антагонистов.
+[color=PaleGoldenRod][head=2]Regras básicas:[/head][/color]
 
-[color=#a4885c]3.2.[/color] [color=#ffd700]Метагейм[/color]
-Использование и распространение игровой информации посредством сторонних средств связи. КООП запрещен. В случае, если вы обучаете друга, вы обязаны сообщить об этом в АХ. 
+[bold]0. Regra das Regras:[/bold]
+- Desconhecer as regras não significa que você será perdoado por quebra-las, elas aparecem a primeira vez que você entra por este motivo. Elas são mais rápidas de ler do que você pensa.
 
-[color=#a4885c]3.3.[/color] [color=#ffd700]Метазнания[/color]
-Использование знаний, не присущих вашему персонажу по должности. Для полного понимания рамок вашей должности зайдите в раздел “таблица навыков” на нашей вики.
- 
-[color=#a4885c]3.4.[/color] [color=#ffd700]IC в ООС[/color]
-Злоупотребление ООС и LOOC чатами. Обсуждение или упоминание событий текущего раунда в канале OOC запрещено. Особенно наказуемы сообщения в духе "X меня убил" или "клонируйте меня".
+[bold]1. Regra da Idade:[/bold]
+- É necessário ter no mínimo 16 anos para jogar.
 
-[color=#a4885c]3.5.[/color] [color=#ffd700]Мультиаккаунт[/color]
-Использование нескольких аккаунтов SS14 для получения выгоды или каких-либо других целей. Запрещено в любом виде.
+[bold]2. Regra da Intolerância:[/bold]
+- É proibida intolerância, preconceito e/ou assédio contra grupos marginalizados.
 
-[color=#a4885c]3.6.[/color] [color=#ffd700]Самоубийство[/color]
-Злоупотребление возможностью суицида или его совершение без веских причин. Даже если вас раскрыли и поймали.
+[bold]3. Regra do Roleplay Erótico (ERP):[/bold]
+- São proibidas atitudes ou ações que diretamente ou indiretamente tenham cunho erótico. Deve-se manter falas que possuem alguma relação a temas sexuais num mínimo.
 
-[color=#a4885c]3.7.[/color] [color=#ffd700]Безграмотность[/color]
-Чистота речи и соблюдение грамматических норм русского языка.
+[bold]4. Regra de Meta-Amigos:[/bold]
+- É proibido dar favoritismo a outro jogador por motivos que transcendem o que seu personagem experiencia, ou seja, é proibido que suas amizades fora de personagem (OOC) afetem seu relacionamento com outros jogadores.
 
-[color=#a4885c]3.8.[/color] [color=#ffd700]Поддержание уважительной обстановки[/color]
-Простое человеческое взаимное уважение игроков между друг другом. Оскорбления в ООС и LOOC чатах караются, как и несоблюдение субординации в АХ.
+[bold]5. Regra da Meta-Comunicação:[/bold]
+- É proibido compartilhar informação sobre o round atual por meios que transcentem interação dentro de personagem. Procurar informação sobre o round atual enquanto você joga também quebra essa regra.
+- Transmissões ao vivo pela Twitch, Youtube e outras plataformas feitas para pessoas que não estão jogado não quebram essa regra.
+- Ex: Proibido jogar em chamadas, falar sobre o round no discord, etc.
 
-[color=#a4885c]3.9.[/color] [color=#ffd700]Окончание раунда[/color]
-Все правила работают после окончания раунда/манифеста/гринтекста (окна с информацией в конце раунда). Это значит, что все так же запрещен ДМ (Deathmatch), разрушение структуры станции или ЦК.
 
-[color=#a4885c]4.[/color] [color=#ffd700]Логика персонажей[/color]
-Ваш персонаж - сотрудник передовой космической станции, верный идеалам Корпорации и своему начальству.
-Имена и фамилии должны соответствовать контексту и стандартам РП. Запрещены имена и фамилии знаменитостей, актеров, персонажей из фильмов, сериалов, аниме, игр и т.д., а также схожие имена и фамилии.
-СРП и КЗ являются внутриигровыми порядками, но их злостное нарушение из раунда в раунд может быть наказуемым.
+[color=PaleGoldenRod][head=2]Regras de Roleplay:[/head][/color]
 
-[color=#a4885c]6.[/color] [color=#ffd700]Ответственная игра за антагониста[/color]
-Цель антагониста - сделать раунд интересным, захватывающим и опасным, но в разумных пределах. Антагонистам запрещается поджидать только появившихся игроков, выпускать плазму, сингулярность и в целом заниматься действиями, которые можно классифицировать как гриф.
-Помните, что “мелкие” антагонисты - скрытны и незаметны. Для открытых столкновений и громких операций есть другие, “крупные” антагонисты. 
+[color=DarkGoldenRod][bold]Regra geral do Roleplay[/bold]: É permitido ignorar essas regras com o intuito de melhorar a experiência dos jogadores na partida e elevar o roleplay, ou seja, você não será cobrado por quebrar as regras se melhorar a partida e jogar bem.[/color]
 
-[color=#a4885c]7.[/color] [color=#ffd700]Самоантагонизм[/color]
-Проявление действий, присущих антагонистам, без наличия соответствующей роли запрещены. Вызволять кого-то из брига без причины, мешать работе сб и т.д является нарушением этого правила. Утверждения, что ваш персонаж "неуравновешен", "псих" и т.д, не отменяют ни одно из правил и не являются оправданием.
+[bold]6. Regra do Auto-Antagonismo (Self-Antag):[/bold]
+- É proibido praticar ações de antagonisticas sem ser um antagonista. Sabotagens, assassinatos e outras formas graves de perturbar a partida são estritamente proibidos para Não-Antagonistas.
+- Se você não sabe se é um antagonista aperte C para ver seus objetivos.
 
-[color=#a4885c]8.[/color] [color=#ffd700]Валидхант[/color]
-Организация и ведение охоты на антагонистов, не будучи сотрудником службы безопасности запрещена. Останавливать антагонистов - работа офицеров Службы Безопасности. 
-Данное правило не распространяется на крупных антагонистов.
- 
-[color=#a4885c]9.[/color] [color=#ffd700]ERP[/color]
-Эротическая ролевая игра (Erotic Role Play) запрещена. Всё, что заходит дальше поцелуев и объятий, карается. Даже если вы и другой игрок состоите в отношениях в реальной жизни.
+[bold]7. Regra da Realidade:[/bold]
+- Você deve agir razoavelmente como uma pessoa real, mas não é necessário sempre agir de forma séria.
 
-[color=#a4885c]10.[/color] [color=#ffd700]Нечестная игра[/color]
-Использование программного обеспечения и недочетов игры для получения преимущества в игровом процессе запрещено.
+[bold]8. Regra dos Papéis:[/bold]
+- Você deve fazer o trabalho que escolheu e realizar o seu papel na estação, não é permitido ignorar suas obrigações ou agir de forma contrária a o que é esperado de você. Se você não quiser mais seu emprego você pode pedir demissão ou trocar de emprego.
+- Essa regra não aplica a antagonistas.
 
-[color=#e74c3c]Подробное описание каждого из пунктов можно найти в нашем Discord: https://discord.ss14.ru[/color]
+[bold]9. Regra do Amor à Vida:[/bold]
+- Você deve prezar à vida e o bem estar seu e dos outros jogadores como uma pessoa normal. Isso inclúi socorrer jogadores machucados, não fazer ataques suicidas e prioritizar a sua sobrevivência da estação como um todo.
+
+[bold]10. Regra de Escalada:[/bold] Versão completa no final das regras. 
+- Você deve, sempre que dentro do possível, evitar escalar conflitos e usar violência desnecessária contra outros jogadores.
+- Antagonistas podem ignorar todas as regras de escalada, a não ser que especificado regras específicas à eles.
+
+[bold]11. Regra de Itens Desnecessários (Powergame):[/bold]
+- Não é permtido pegar equipamento que você não é esperado usar ou que você não precisa no momento por razões de "ter".
+- Ex: Comandantes não devem pedir por Bastões de Choque ou Atordoadores se não à um atual risco a suas vidas.
+- Ex: Jogadores não devem pegar todo equipamento de máquinas de venda se não vão usar, tenha consideração aos outros jogadores.
+
+[bold]12. Regra dos Comandantes:[/bold]
+- Por causa de seu impacto na partida, as regras de roleplay são expecialmente mais relevantes aos comandantes, que serão igualmente mais cobrados pelo seu desempenho.
+
+[color=PaleGoldenRod][head=2]Regras de Silício:[/head][/color]
+
+[bold]13. Regra das Leis:[/bold]
+- Não é permitido que você quebre suas leis. Se suas leis forem alteradas você deve segui-las.
+- A interpretação que você tem de suas leis deve se manter constante por todo round.
+- São considerados tripulantes todos que têm um ícone de empregado, a não ser o que o atual comandante da estação fale que não são.
+
+
+[color=PaleGoldenRod][head=2]Regras de Antagonistas:[/head][/color]
+
+[color=DarkGoldenRod][bold]Regra Geral de Antagonistas:[/bold] Seu propósito é criar conflitos para deixar a partida mais divertida, não para estragar o round para todos, siga a [bold]Regra de Ouro[/bold]. Roleplay e interpretação de papéis é encorajado para todos os antagonistas.[/color]
+
+[bold]14. Regras de Traidor:[/bold]
+- Você não é obrigado a cumprir seus objetivos.
+- Você não pode eliminar irreversívelmente (despedaçar, esconder ou ejetar para o espaço) um jogador que não seja um dos seus alvos de assassinato, mas você ainda tem permissão para mata-los de forma que possam ser revividos depois.
+- Você não pode fazer sabotagens grandes ou massacres com o propósito de adiantar o fim do round. Se seus objetivos incluem voltar para CentCom ou sabotar a nave de evacuação, espere até a oportunidade chegar naturalmente. Você é encorajado a fazer roleplay de infiltrado e agir naturalmente.
+
+[bold]15. Regras de NukeOps e LoneOp:[/bold]
+- Seu Objetivo principal é detonar a bomba nuclear, você não deve ignorar isso e fazer um massacre.
+- Se a bomba foi escondida e impossível de encontrar você tem permissão de matar todos na estação.
+- Você tem liberdade de escolher por quais meios cumrprir seu objetivo principal.
+
+[bold]16. Regras de Exterminador:[/bold]
+- Você deve matar seu alvo a qualquer custo.
+- Você não pode eliminar irreversívelmente quem não for seu alvo, use a força mínima necessária para neutraliza-los.
+- Assim que cumprir seu objetivo você deve se matar de alguma forma. Criar um conflito para morrer nele não é permitido. Usar o comando /suicide ou se jogar para o espaço é encorajado.
+
+[bold]17. Regra de Zumbi:[/bold]
+- Você deve infectar o maior número possível de jogadores por qualquer meio possível.
+
+[bold]18. Regras de Revolucionários:[/bold]
+- Você deve matar todos os comandantes da estação e transfomar outros tripulantes em aliados de qualquer forma possível.
+- Você não deve fazer sabotagens que afetam todos os jogadores ou que não ajudam a cumprir seu objetivo.
+- Você não pode matar jogadores que não são uma ameaça e que podem ser convertidos.
+
+[bold]19. Regras de Ninja:[/bold]
+- Você deve cumprir seus objetivos.
+- Você não pode fazer massacres quando você pode fugir.
+- Você não pode matar jogadores que não estão entre você e seu objetivo.
+- Após cumprir todos seus objetivos você deve fugir para o espaço e dar /suicide.
+
+[bold]20. Regras para Dragão:[/bold]
+- Você não pode fazer sabotagem.
+- Você deve cumprir seu objetivo.
+- Você pode matar quantos jogadores quiser.
+
+[color=PaleGoldenRod][head=2]Regras de Papeis de Fantasma(Ghostroles):[/head][/color]
+
+[color=DarkGoldenRod][bold]Regra Geral dos Papéis de Fantasma[/bold]: Você não se lembra de absolutamente nada de sua vida passada.
+- São incluidos nessa regra todos personagens que você pode se tornar quando é um fantasma, incluindo os que estão na lista dos antagonistas.[/color]
+
+[bold]21. Regras do Esqueleto:[/bold]
+- Você não tem objetivos ou obrigações algumas.
+- Você não pode matar ou sabotar sem motivo.
+- Você é muito menos cobrado pelo roleplay, e é isento das regras número 7, 8 e 9.
+
+[bold]22. Regras de Cérebro Positrônico:[/bold]
+- Você segue as Regras de Silício e Roleplay.
+
+[bold]23. Regras de PunPun:[/bold]
+- Você segue todas as Regras de Roleplay.
+- Você é tratado e deve agir como um tripulante comum.
+
+[bold]24. Regras de Aranhas, Slimes, Carpas e outros animais que são sempre agressivos:[/bold]
+- Você não pode fazer sabotagem.
+- Você pode matar a vontade.
+
+[bold]25. Regras dos ERT, CBURN e oficiais do Comando Central:[/bold]
+- Você segue todas as regras de roleplay.
+- Você deve seguir as instruções dos administradores.
+
+[bold]26. Regras de Ratos:[/bold]
+- Você não pode fazer sabotagen.
+- Você não é isento à regra número 6.
+
+
+[color=PaleGoldenRod][head=2]Explicações:[/head][/color]
+
+- Eliminar irreversívelmente inclúi: despedaçar, esconder(desligar os sensores vitais) ou ejetar cadáveres para o espaço, se você não tem certeza que a estação tem uma câmara de clonagem, não deixe corpos no espaço e não dê dano excessivo neles.
+
+Escalada:
+São relevantes em brigas, confrontos com a segurança e outros casos em que violência está involvida. 
+
+Ordem: Escalada segue 5 níveis, quanto maior o nível, mais violento é um conflitos.
+  0. Diálogo.
+  1. Puxar, empurrar.
+  2. Cassetete, granadas de atordoantes.
+  3. Socos, atordoador.
+  4. Armas que dão dano contusivo, armas de fogo com balas de borracha ou tranquilizantes.
+  5. Armas ou explosivos que dão dano perfurante, cortante, calor ou outros.
+
+Agressor e Vítima:
+Agressor é o indivíduo que aumenta a escalada de um conflito, começando ele ou não.
+Vitima é o indivíduo que atualmente está num nível de escalada menor ou que responde a escalada do agressor igualmente.
+
+[bold]10. Regras de Escalada:[/bold]
+- Autodefesa é sempre permitida, a menos que você tenha restrições no personagem ao seu livre arbítrio(silício).
+- Autodefesa serve apenas para salvar a sua própria vida. Na maioria das circunstâncias, as pessoas deixam de ser agressores quando não apresentam mais perigo ou quando desengajam.
+- Uma pessoa algemada, crítica ou morta sempre será a vítima em qualquer conflito.
+- Não escale conflitos mais do que o necessário. Poucas coisas merecem uma luta até a morte. Busque responder palavras com palavras, empurroes com empurrões, socos com socos, e assim por diante.
+- Empunhar cassetetes, atordoadores, armas ou explosivos sinaliza a intenção de escalar, fazendo do portador o Agressor. Não as empunhe ou os utilize em um conflito banal.
+- Seguranças são permitidos a responder sempre escalando 1 nível a mais, mas sempre tentando esgotar as opções mais pacificas antes. Eles também são permitidos a, se o dialogo falhar, escalar até o nível 2.

@@ -1,102 +1,93 @@
 - type: dataset
   id: corvax_names_death_commando
   values:
-  - Я тут главный
-  - Иностранный Агент
-  - Перма Бан
-  - Сас Импостер
-  - Друг Админа
-  - Гайан Рослинг
-  - Гига Гад
-  - Опасный для общества
-  - Пират Чёрной Лагуны
-  - Любитель Пива
-  - Первый Раз
-  - Анта Гонист
-  - Физик Ядерщик
-  - Грей Тайд
-  - Аннигиляторная Пушка
-  - Номад Бродяга
-  - Руки Вверх
-  - Засланный Казачок
-  - Вечно Молодой
-  - Сектор Газа
-  - Нубас Срочник
-  - Безумно Первый
-  - Новый Пират
-  - Мёртвый Анархист
-  - Устрой Дестрой
-  - Космический Мудак
-  - Павер Геймер
-  - Само Антаг
-  - Псих Неуравновешенный
-  - Убийца Убийцевич
-  - Юность в Сапогах
-  - Агент Взрывных Дел
-  - Кибер Панк
-  - Ради Денег
-  - Шоколадный Заяц
-  - Продам Гараж
-  - Друг Валера
-  - Подозрительный Тип
-  - Брат Два
-  - Убью за ушки
-  - Убивать убивать убивать
-  - Запах Напалма
-  - Чёткий Пацан
-  - Жажда Скорости
-  - Космическая Резня
-  - Борис Хрен Попадёшь
-  - Конченый Идиот
-  - Самый сексуальный мужик в мире
-  - Горячая Чикса
-  - Злодей Британец
-  - Так себе шутник
-  - Пубертатная Язва
-  - Какой-то Мужик
-  - Недопонятый Гений
-  - Ветеран всех войн
-  - Терминатор Два
-  - Неопознанный Ходячий Объект
-  - РОБЕРТ ПОЛСОН
-  - Попаданец из другого мира
-  - Убиватор Три Тысячи
-  - Роб Астер
-  - Ядерная боеголовка
-  - Увукер
-  - Король Качалки
-  - Мастер Пещер
-  - Карпорожденный
-  - Олег
-  - Поклонник Хаоса
-  - Мастер Джек
-  - Золотой Мажор
-  - Мёртвый Внутри
-  - Подпивасник
-  - Пивозавр
-  - Любитель Мива
-  - Милая Тянка
-  - БезОБИДНЫЙ ребёнок
-  - Район Гуслинг
-  - Тайлер Дурден
-  - Брет Пид
-  - Илан Саск
-  - Стив Бобс
-  - Жеф Без Ос
-  - Гилл Бейтс
-  - Смилл Уитт
-  - Леонардо
-  - Микеланджело
-  - Рафаэль
-  - Донателло
-  - Бенедикт Кибердвач
-  - Гари Топпер
-  - СиДжей
-  - Коммандер Эпсилон
-  - Шерлол Хохмс
-  - Том Круиз
-  - Донни Джепп
-  - Арбузер
-  - Спанч Поп
-  - Уолтер Белый
-  - Джесси Розовый
+  - O PODEROSO CHEFÃO
+  - Agente Gringo
+  - Permaban
+  - Sus
+  - Parça do Admin
+  - Guyan Rosling
+  - Giga Chad
+  - Perigo à sociedade
+  - Amante de Cerveja
+  - Precoce
+  - Antagonista
+  - Físico Nuclear
+  - Mãos para Cima
+  - Cossaco Exilado
+  - Eternamente Jovem
+  - Novato Apressado
+  - Insanamente Precoce
+  - Destruidor
+  - Espaço Idiota
+  - Power Gamer
+  - Valid Hunter
+  - Self-Antager
+  - Psicopata Desequilibrado
+  - Assassino de Assassinos
+  - Juventude de Botas
+  - Agente Explosivo
+  - Cyber Punk
+  - Por Dinheiro
+  - Lebre de Chocolate
+  - Garagem à Venda
+  - Amigo do Valera
+  - Cara Suspeito
+  - Irmão Dois
+  - Eu Mato por Orelhas
+  - MATAR MATEI MATEM
+  - Cheiro de Napalm
+  - Cara Claro
+  - Sede de Velocidade
+  - Carnificina Espacial
+  - Boris Caramba Você Acertou
+  - Idiota Completo
+  - O Homem Mais Sexy do Mundo
+  - Gatinha
+  - Vilão Britânico
+  - Piadista Mais ou Menos
+  - Úlcera Pubertal
+  - Algum Cara
+  - Gênio Incompreendido
+  - Veterano de Todas as Guerras
+  - Exterminador Dois
+  - Objeto Andante Não Identificado
+  - ROBERT POLSON
+  - Pedrinho Matador
+  - Rob Aster
+  - Cabeça Nuclear
+  - Uvuker
+  - Rei da Academia
+  - Mestre das Cavernas
+  - Carpógeno
+  - Oleg
+  - Fã do Caos
+  - Mestre Jack
+  - Major Dourado
+  - Morto por Dentro
+  - Beberrão
+  - Cervejossauro
+  - Amante de Miva
+  - Menina Fofa
+  - Criança Não Ofendida
+  - Distrito Gosling
+  - Tyler Durden
+  - Bret Pid
+  - Steve Bobs
+  - Gill Bates
+  - Smill Witt
+  - Leonardo
+  - Michelangelo
+  - Rafael
+  - Donatello
+  - Bento Ciberdude
+  - Gary Topper
+  - CJ
+  - Comandante Épsilon
+  - Xerolque Rolmes
+  - Tom Cruise
+  - Donny Jep
+  - Melancia
+  - Bop Esponja
+  - Valter Branco
+  - Jéssica Rosa

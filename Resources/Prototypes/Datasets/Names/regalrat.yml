@@ -1,40 +1,33 @@
 - type: dataset
   id: RegalRatNameKingdom
   values:
-  - Чумной
-  - Миазмовый
-  - Туннельный
-  - Хламовый
-  - Мусорный
-  - Крысиный
-  - Паразитный
-  - Сырный
-  - Жующий
-  - Большой
-  - Грязный
-  - Водосточный
-  - Помойный
-  - Сервисный
-  - Конкретный
-  - Из нержавеющей стали
+    - Rei
+    - Lord
+    - Príncipe
+    - Imperador
+    - Supremo
+    - Soberano
+    - Mestre
+    - Shogun
+    - Tsar
+    - Apreciador
+    - Presidente
+    - Prefeito
+    - Chefe
+    - Profeta
 
 - type: dataset
   id: RegalRatNameTitle
   values:
-  - Король
-  - Лорд
-  - Принц
-  - Император
-  - Глава
-  - Повелитель
-  - Мастер
-  - Сёгун
-  - Боярин
-  - Царь
-  - Фанат #vs
-  - Ценитель
-  - Президент
-  - Мэр
-  - Босс
-  - Пророк
-  - Сыр
+    - Praga
+    - Miasma
+    - Manutenção
+    - Lixo
+    - Rato
+    - Verme
+    - Queijo
+    - Mastigador
+    - Sujeira
+    - Esgoto
+    - Bueiro
+    - Queijo
