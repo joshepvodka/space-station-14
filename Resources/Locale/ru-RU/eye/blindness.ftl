@@ -1,1 +1,1 @@
-blindness-fail-attempt = Вы не можете сделать это, если вы слепы!
+blindness-fail-attempt = Você não pode fazer isso se for cego!

@@ -1,5 +1,5 @@
 # DoorWelded
-construction-examine-condition-door-weld = Сперва заварите { $entityName }.
-construction-examine-condition-door-unweld = Сперва разварите { $entityName }.
-construction-guide-condition-door-weld = Убедитесь, что оно заварено.
-construction-guide-condition-door-unweld = Убедитесь, что оно не заварено.
+construction-examine-condition-door-weld = Primeiro, solde {$entityName}.
+construction-examine-condition-door-unweld = Primeiro, dessolde {$entityName}.
+construction-guide-condition-door-weld = Tenha certeza que está soldado.
+construction-guide-condition-door-unweld = Tenha certeza que não está soldado.

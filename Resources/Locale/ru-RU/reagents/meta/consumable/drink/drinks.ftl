@@ -1,60 +1,86 @@
-reagent-name-coffee = кофе
-reagent-desc-coffee = Напиток, приготовленный из заваренных кофейных зерен. Содержит умеренное количество кофеина.
-reagent-name-cream = сливки
-reagent-desc-cream = Жирная, но еще жидкая часть молока. Почему бы вам не смешать это с виски, а?
-reagent-name-cafe-latte = кофе латте
-reagent-desc-cafe-latte = Приятный, крепкий и вкусный напиток на время чтения.
-reagent-name-green-tea = зелёный чай
-reagent-desc-green-tea = Вкусный зелёный чай.
-reagent-name-grenadine = сироп гренадин
-reagent-desc-grenadine = Не с вишневым вкусом!
-reagent-name-iced-coffee = айс-кофе
-reagent-desc-iced-coffee = Кофе со льдом, бодрящий и прохладный.
-reagent-name-iced-green-tea = зелёный чай со льдом
-reagent-desc-iced-green-tea = Холодный зеленый чай.
-reagent-name-iced-tea = чай со льдом
-reagent-desc-iced-tea = Он же айс-ти. Не имеет отношения к определенному рэп-исполнителю/актеру.
-reagent-name-lemonade = лимонад
-reagent-desc-lemonade = Напиток из лимонного сока, воды и подсластителя, например, тростникового сахара или меда.
-reagent-name-milk = молоко
-reagent-desc-milk = Непрозрачная белая жидкость, вырабатываемая молочными железами млекопитающих.
-reagent-name-milk-goat = козье молоко
-reagent-desc-milk-goat = Непрозрачная белая жидкость, производимая козами. Высокая концентрация обезжиренных сливок.
-reagent-name-milk-oat = овсяное молоко
-reagent-desc-milk-oat = На удивление вкусное.
-reagent-name-milk-soy = соевое молоко
-reagent-desc-milk-soy = Любимчик потребителей.
-reagent-name-milk-spoiled = прогорклое молоко
-reagent-desc-milk-spoiled = Это молоко испортилось.
-reagent-name-nothing = ничего
-reagent-desc-nothing = Абсолютно ничего.
-reagent-name-nuclear-cola = ядерная кола
-reagent-desc-nuclear-cola = Кола, кола никогда не меняется.
-reagent-name-hot-cocoa = горячее какао
-reagent-desc-hot-cocoa = Пахнет праздниками!
-reagent-name-soda-water = газированная вода
-reagent-desc-soda-water = Она же содовая. Почему бы не сделать виски с содовой?
-reagent-name-soy-latte = соевый латте
-reagent-desc-soy-latte = Кофейный напиток, приготовленный из эспрессо и подогретого соевого молока.
-reagent-name-tea = чай
-reagent-desc-tea = Напиток, приготовленный путем кипячения листьев чайного дерева Camellia sinensis.
-reagent-name-tonic-water = тоник
-reagent-desc-tonic-water = Вкус у него странный, но, по крайней мере, хинин препятствует распространению космической малярии.
-reagent-name-water = вода
-reagent-desc-water = Бесцветная жидкость, необходимая человекам для выживания.
-reagent-name-ice = лёд
-reagent-desc-ice = Застывшая вода.
-reagent-name-dry-ramen = сухой рамэн
-reagent-desc-dry-ramen = Сухая лапша и соль.
-reagent-name-hot-ramen = горячий рамэн
-reagent-desc-hot-ramen = Горячая лапша.
-reagent-name-pilk = пилк
-reagent-desc-pilk = Тошнотворная смесь молока и колы.
-reagent-name-posca = поска
-reagent-desc-posca = Напиток бедных воинов из забытой эпохи.
-reagent-name-the-martinez = Мартинес
-reagent-desc-the-martinez = Легенда среди киберпанков. Вспоминается по напитку, забывается по пьяни.
-reagent-name-white-gilgamesh = белый Гильгамеш
-reagent-desc-white-gilgamesh = Тошнотворная смесь молока и пива. Вызывает ощущение одеревенелости.
-reagent-name-mopwata = швабода
-reagent-desc-mopwata = Грязная, застоявшаяся вода из-под швабры, швабровая вода.
+reagent-name-coffee = café
+reagent-desc-coffee = Aceitas um cafézinho? Contém uma quantidade moderada de cafeína.
+
+reagent-name-cream = creme
+reagent-desc-cream = A gordurosa parte líquida do leite.
+
+reagent-name-cafe-latte = cafe latte
+reagent-desc-cafe-latte = Bom, forte e saboroso, para quando você está lendo.
+
+reagent-name-green-tea = chá verde
+reagent-desc-green-tea = Saboroso chá verde.
+
+reagent-name-grenadine = grenadine
+reagent-desc-grenadine = Não tem aroma de cerejas!
+
+reagent-name-iced-coffee = café gelado
+reagent-desc-iced-coffee = Café e gelo, fresco e bom.
+
+reagent-name-iced-green-tea = chá verde gelado
+reagent-desc-iced-green-tea = Chá verde gelado.
+
+reagent-name-iced-tea = chá gelado
+reagent-desc-iced-tea = Quem não gosta de um chá gelado? Não precisa responder.
+
+reagent-name-lemonade = limonada
+reagent-desc-lemonade = Suco de limão, só que com água e um adocicante, como açucar ou mel.
+
+reagent-name-milk = leite
+reagent-desc-milk = Um líquido branco opaco produzido pelas glândulas mamárias de mamíferos.
+
+reagent-name-milk-goat = leite de cabra
+reagent-desc-milk-goat = AUm líquido branco opaco produzido por uma cabra. Tem bastante soro de leite coalhado.
+
+reagent-name-milk-oat = leite de aveia
+reagent-desc-milk-oat = Surpreendentemente saboroso.
+
+reagent-name-milk-soy = leite de soja
+reagent-desc-milk-soy = Favorito dos consumidores.
+
+reagent-name-milk-spoiled = leite azedo
+reagent-desc-milk-spoiled = Melhor não beber isso, pela sua calça.
+
+reagent-name-nothing = nada
+reagent-desc-nothing = Absolutamente completamente nada.
+
+reagent-name-nuclear-cola = refri de cola nuclear
+reagent-desc-nuclear-cola = Refri de cola, cola nunca muda.
+
+reagent-name-soda-water = água com gás
+reagent-desc-soda-water = Cuidado para não causar uma guerra cívil. É só água com gás.
+
+reagent-name-soy-latte = latte de soja
+reagent-desc-soy-latte = Uma bebida de café feito com expresso e leite de soja a vapor.
+
+reagent-name-tea = chá
+reagent-desc-tea = Uma bebida feita fervendo, em água, folhas da árvore de chá, Camellia sinensis.
+
+reagent-name-tonic-water = água tônica
+reagent-desc-tonic-water = Tem gosto estranho mas pelo menos a quinina mantém a Malária Espacial longe.
+
+reagent-name-water = água
+reagent-desc-water = Um líquido incolor, inodoro e insípido que humanos precisam para sobreviver.
+
+reagent-name-ice = gelo
+reagent-desc-ice = Água em seu estado sólido.
+
+reagent-name-dry-ramen = miojo seco
+reagent-desc-dry-ramen = Miojo seco e com sal.
+
+reagent-name-hot-ramen = miojo quente
+reagent-desc-hot-ramen = Miojo quente.
+
+reagent-name-pilk = pilk
+reagent-desc-pilk = Uma mistura doentia de leite e refri de cola.
+
+reagent-name-posca = posca
+reagent-desc-posca = A bebida dos pobres guerreiros de uma era esquecida.
+
+reagent-name-the-martinez = O Martinez
+reagent-desc-the-martinez = A lenda do edgerunner. Lembrado por uma bebida, Esquecido por um bêbado.
+
+reagent-name-kvass = kvass
+reagent-desc-kvass = Uma resfrescante bebida com gosto de socialismo.
+
+reagent-name-white-gilgamesh = gilgamesh branco
+reagent-desc-white-gilgamesh = Uma mistura doentia de leite e cerveja. Faz-te sentir como se fosses feito de madeira.

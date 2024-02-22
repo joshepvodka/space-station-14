@@ -1,20 +1,23 @@
-cargo-gifts-event-announcement = Поздравляем! { $sender } решили отправить { $description } { $dest } станции. Всё прибудет со следующей партией груза.
-cargo-gift-default-description = набор подарков
-cargo-gift-default-sender = Nanotrasen
-cargo-gift-default-dest = отделу снабжения
-cargo-gift-dest-bar = бару
-cargo-gift-dest-eng = инженерному отделу
-cargo-gift-dest-supp = отделу снабжения
-cargo-gift-dest-janitor = сервисному отделу
-cargo-gift-dest-med = медицинскому отделу
-cargo-gift-dest-sec = службе безопасности
-cargo-gift-pizza-small = маленький набор пицц
-cargo-gift-pizza-large = большой набор пицц
-cargo-gift-eng = ремонтные материалы
-cargo-gift-vending = наборы пополнений торгоматов
-cargo-gift-cleaning = уборочное снаряжение
-cargo-gift-medical-supply = медицинские припасы
-cargo-gift-space-protection = средства защиты от космоса
-cargo-gift-fire-protection = средства защиты от огня
-cargo-gift-security-guns = летальное оружие
-cargo-gift-security-riot = нелетальное снаряжение
+cargo-gifts-event-announcement = Parabéns! { $sender } decidiu enviar { $description } para a estação { $dest }. Procure-o em sua próxima remessa de carga.
+cargo-gift-default-description = Um pacote de presentes
+cargo-gift-default-sender = NanoTrasen
+cargo-gift-default-dest = Departamento de Carga.
+
+cargo-gift-dest-bar = bar
+cargo-gift-dest-eng = Departamento de Engenharia
+cargo-gift-dest-supp = Departamento de Carga
+cargo-gift-dest-janitor = Departamento de Serviço
+cargo-gift-dest-med = Departamento Médico
+cargo-gift-dest-sec = Departamento de Segurança
+
+cargo-gift-pizza-small = Uma pequena festa de pizza
+cargo-gift-pizza-large = Uma grande festa de pizza
+
+cargo-gift-eng = Materiais de reparo
+cargo-gift-vending = Recargas de máquinas de venda automática
+cargo-gift-cleaning = Material de limpeza
+cargo-gift-medical-supply = Suprimentos médicos
+cargo-gift-space-protection = Proteção contra riscos espaciais
+cargo-gift-fire-protection = Proteção contra fogo
+cargo-gift-security-guns = Armas Letais
+cargo-gift-security-riot = Equipamento anti-motim

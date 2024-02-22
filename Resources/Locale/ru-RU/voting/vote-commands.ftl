@@ -1,45 +1,43 @@
 ### Voting system related console commands
 
-
 ## 'createvote' command
 
-cmd-createvote-desc = Создает голосование
-cmd-createvote-help = Использование: createvote <'restart'|'preset'|'map'>
-cmd-createvote-cannot-call-vote-now = Сейчас вы не можете запустить голосование!
-cmd-createvote-invalid-vote-type = Неверный тип голосования
+cmd-createvote-desc = Cria uma votação
+cmd-createvote-help = Uso: createvote <'restart'|'preset'|'map'>
+cmd-createvote-cannot-call-vote-now = Você não pode criar uma votação agora!
+cmd-createvote-invalid-vote-type = Tipo de votação inválida
 cmd-createvote-arg-vote-type = <vote type>
 
 ## 'customvote' command
 
-cmd-customvote-desc = Создаёт настраиваемое голосование
-cmd-customvote-help = Использование: customvote <title> <option1> <option2> [option3...]
-cmd-customvote-on-finished-tie = Ничья между { $ties }!
-cmd-customvote-on-finished-win = { $winner } побеждает!
+cmd-customvote-desc = Cria uma votação customizada
+cmd-customvote-help = Uso: customvote <title> <option1> <option2> [option3...]
+cmd-customvote-on-finished-tie = Empate entre {$ties}!
+cmd-customvote-on-finished-win = {$winner} venceu!
 cmd-customvote-arg-title = <title>
 cmd-customvote-arg-option-n = <option{ $n }>
 
 ## 'vote' command
 
-cmd-vote-desc = Голосует в активном голосовании
+cmd-vote-desc = Vota em uma votação ativa
 cmd-vote-help = vote <voteId> <option>
-cmd-vote-cannot-call-vote-now = Сейчас вы не можете запустить голосование!
-cmd-vote-on-execute-error-must-be-player = Должен быть игроком
-cmd-vote-on-execute-error-invalid-vote-id = Неверное ID голосования
-cmd-vote-on-execute-error-invalid-vote-options = Неверные параметры голосования
-cmd-vote-on-execute-error-invalid-vote = Неверное голосование
-cmd-vote-on-execute-error-invalid-option = Неверный параметр
+cmd-vote-cannot-call-vote-now = Você não pode votar agora!
+cmd-vote-on-execute-error-must-be-player = Você deve ser um jogador
+cmd-vote-on-execute-error-invalid-vote-id = ID de voto inválido
+cmd-vote-on-execute-error-invalid-vote-options = Opções de voto inválido
+cmd-vote-on-execute-error-invalid-vote = Voto inválido
+cmd-vote-on-execute-error-invalid-option = Opção inválida
 
 ## 'listvotes' command
 
-cmd-listvotes-desc = Перечисляет активные голосования
-cmd-listvotes-help = Использование: listvotes
+cmd-listvotes-desc = Lista as votações ativas
+cmd-listvotes-help = Uso: listvotes
 
 ## 'cancelvote' command
 
-cmd-cancelvote-desc = Отменяет текущее голосование
-cmd-cancelvote-help =
-    Использование: cancelvote <id>
-    Вы можете найти ID с помощью команды listvotes.
-cmd-cancelvote-error-invalid-vote-id = Неверный ID голосования
-cmd-cancelvote-error-missing-vote-id = Отсутствует ID
+cmd-cancelvote-desc = Cancela uma votação ativa
+cmd-cancelvote-help = Uso: cancelvote <id>
+                      Você pode pegar o ID do comando listvotes.
+cmd-cancelvote-error-invalid-vote-id = ID de voto inválido
+cmd-cancelvote-error-missing-vote-id = ID faltando
 cmd-cancelvote-arg-id = <id>

@@ -1,9 +1,13 @@
-addtag-command-description = Добавить тег к выбранной сущности
-addtag-command-help = Использование: addtag <entity uid> <tag>
-addtag-command-success = Тег { $tag } был добавлен { $target }.
-addtag-command-fail = Не удалость добавить тег { $tag } к { $target }.
-removetag-command-description = Удалить тег у выбранной сущности
-removetag-command-help = Использование: removetag <entity uid> <tag>
-removetag-command-success = Тег { $tag } был удалён у { $target }.
-removetag-command-fail = Не удалость удалить тег { $tag } у { $target }.
+addtag-command-description = Adiciona uma tag a uma certa entidade
+addtag-command-help = Uso: addtag <entity uid> <tag>
+
+addtag-command-success = Adicionou {$tag} a {$target}.
+addtag-command-fail = Não pode adicionar {$tag} a {$target}.
+
+removetag-command-description = Remove a tag de uma certa entidade
+removetag-command-help = Uso: removetag <entity uid> <tag>
+
+removetag-command-success = Removeu {$tag} de {$target}.
+removetag-command-fail = Não pode remover {$tag} de {$target}.
+
 tag-command-arg-tag = Tag

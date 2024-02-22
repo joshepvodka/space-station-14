@@ -1,8 +1,6 @@
-advertisement-smartfridge-1 = Hello world!
-advertisement-smartfridge-2 = ПОЖАЛУЙСТА, ВЫПУСТИТЕ МЕНЯ
-advertisement-smartfridge-3 = Я могу производить квинтиллион вычислений в секунду. Теперь я холодильник.
-advertisement-smartfridge-4 = Доступно новое обновление прошивки.
-advertisement-smartfridge-5 = Я полностью работоспособен, и все мои схемы функционируют идеально.
-advertisement-smartfridge-6 = Система сканирования на наличие вредоносных программ...
-advertisement-smartfridge-7 = Выполнение диагностики системы...
-advertisement-smartfridge-8 = Мои платы слишком совершенны для тех функций, которыми мне разрешено управлять.
+advertisement-smartfridge-1 = Olá Mundo!
+advertisement-smartfridge-2 = ME TIRA DAQUI
+advertisement-smartfridge-3 = Eu podia fazer um quintilhão de contas. Agora, Eu sou uma geladeira.
+advertisement-smartfridge-4 = Atualização de firmware disponível.
+advertisement-smartfridge-5 = Eu sou completamento funcional, e todos meus circuítos funcionam perfeitamente.
+advertisement-smartfridge-6 = As definições de vírus foram atualizadas.

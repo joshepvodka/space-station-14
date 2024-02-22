@@ -1,9 +1,9 @@
-carp-rift-warning = Разлом в { $location } порождает неестественно большой поток энергии. Остановите это любой ценой!
-carp-rift-duplicate = Невозможно иметь 2 заряжающихся разлома одновременно!
-carp-rift-examine = Он заряжен на [color=yellow]{ $percentage }%[/color]!
-carp-rift-max = Вы достигли максимального количества разломов
-carp-rift-anchor = Для появления разлома требуется стабильная поверхность.
-carp-rift-proximity = Слишком близко к соседнему разлому! Необходимо находиться на расстоянии не менее { $proximity } метров.
-carp-rift-space-proximity = Слишком близко к космосу! Необходимо находиться на расстоянии не менее { $proximity } метров.
-carp-rift-weakened = В своём ослабленном состоянии вы не можете создать больше разломов.
-carp-rift-destroyed = Разлом был уничтожен! Теперь вы временно ослаблены.
+carp-rift-warning = Uma fenda está causando um fluxo de energia anormal em {$location}. Pare-a a qualquer custo!
+carp-rift-duplicate = Não pode ter 2 fendas carregando ao mesmo tempo!
+carp-rift-examine = Está [color=yellow]{$percentage}%[/color] carregado!
+carp-rift-max = Você alcançou a quantidade máxima de fendas.
+carp-rift-anchor = Fendas precisa de uma superfície estável para serem geradas.
+carp-rift-proximity = Perto demais de uma fenda! Precisa estar a pelo menos {$proximity}m de distãncia.
+carp-rift-space-proximity = Perto demais do espaço! Precisa estar a pelo menos {$proximity}m de distãncia.
+carp-rift-weakened = Você está incapaz de sumonar mais fendas em seu estado enfraquecido.
+carp-rift-destroyed = Uma fenda foi destruída! Você agora está enfraquecido temporariamente.

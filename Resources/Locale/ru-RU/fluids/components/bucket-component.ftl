@@ -1,3 +1,3 @@
-bucket-component-bucket-is-empty-message = Ведро пустое
-bucket-component-mop-is-now-wet-message = Швабра теперь мокрая
-bucket-component-mop-is-now-dry-message = Швабра теперь сухая
+bucket-component-bucket-is-empty-message = Balde está vazio
+bucket-component-mop-is-now-wet-message = Esfregão agora está molhado
+bucket-component-mop-is-now-dry-message = Esfregão agora está seco

@@ -1,13 +1,13 @@
 ## UI
 
-hypospray-volume-text = Объем: [color=white]{ $currentVolume }/{ $totalVolume }[/color]
+hypospray-volume-text = Volume: [color=white]{$currentVolume}/{$totalVolume}[/color]
 
 ## Entity
 
-hypospray-component-inject-other-message = Вы вводите { $other }.
-hypospray-component-inject-self-message = Вы делаете себе инъекцию.
-hypospray-component-inject-self-clumsy-message = Ой! Вы сделали себе инъекцию.
-hypospray-component-empty-message = Он пустой!
-hypospray-component-feel-prick-message = Вы чувствуете слабый укольчик!
-hypospray-component-transfer-already-full-message = { $owner } уже заполнен!
-hypospray-cant-inject = Нельзя сделать инъекцию в { $target }!
+hypospray-component-inject-other-message = Você injeta em {$other}.
+hypospray-component-inject-self-message = Você se injeta.
+hypospray-component-inject-self-clumsy-message = Oops! Você se injetou.
+hypospray-component-empty-message = Está vazio!
+hypospray-component-feel-prick-message = Você sente uma picadinha!
+hypospray-component-transfer-already-full-message = {$owner} já está cheio!
+hypospray-cant-inject = Você não pode injetar em {$target}!

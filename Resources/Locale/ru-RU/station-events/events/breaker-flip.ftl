@@ -1,1 +1,1 @@
-station-event-breaker-flip-announcement = Опираясь на { $data }, мы решили отключить некоторые ЛКП, чтобы избежать повреждения оборудования. Пожалуйста, свяжитесь с инженерным отделом для их повторного включения.
+station-event-breaker-flip-announcement = Baseado em { $data }, Nós optamos por desabilitar APCs específicos para evitar danos à equipamentos. Por favor contate o departamento de engenharia para reabilitá-los.

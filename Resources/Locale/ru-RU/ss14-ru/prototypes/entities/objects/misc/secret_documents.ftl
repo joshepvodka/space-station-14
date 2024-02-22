@@ -1,2 +1,2 @@
-ent-BookSecretDocuments = чрезвычайные приказы по безопасности
-    .desc = СОВЕРШЕННО СЕКРЕТНО. В этих документах содержатся Чрезвычайные Приказы, которые ГСБ должен выполнить по требованию Центрального командования.
+ent-BookSecretDocuments = emergency security orders
+    .desc = TOP SECRET. These documents specify the Emergency Orders that the HoS must carry out when ordered by Central Command.

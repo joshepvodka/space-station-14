@@ -1,13 +1,12 @@
-verb-categories-antag = Антагонисты
-admin-verb-make-traitor = Сделать цель предателем.
-admin-verb-make-zombie = Сделать цель зомби.
-admin-verb-make-nuclear-operative = Сделать цель одиноким Ядерным оперативником.
-admin-verb-make-pirate = Сделать цель пиратом\капером. Учтите, что это не меняет игровой режим.
-admin-verb-make-head-rev = Сделать цель главой революции.
-admin-verb-make-thief = Сделать цель вором.
-admin-verb-text-make-traitor = Сделать предателем
-admin-verb-text-make-zombie = Сделать зомби
-admin-verb-text-make-nuclear-operative = Сделать ядерным оперативником
-admin-verb-text-make-pirate = Сделать пиратом
-admin-verb-text-make-head-rev = Сделать Главой революции
-admin-verb-text-make-thief = Сделать вором
+verb-categories-antag = Controle de Antag
+admin-verb-make-traitor = Transforma o alvo em um traidor.
+admin-verb-make-zombie = Zumbifica o alvo imediatamente.
+admin-verb-make-nuclear-operative = Transforma o alvo em um nukie solitário.
+admin-verb-make-pirate = Transforma o alvo em pirata. Isso não configura a game rule.
+admin-verb-make-head-rev = Transforma o alvo em um líder revolucionário.
+
+admin-verb-text-make-traitor = Torna Traidor
+admin-verb-text-make-zombie = Torna Zumbi
+admin-verb-text-make-nuclear-operative = Torna Operativo Nuclear
+admin-verb-text-make-pirate = Torna Pirata
+admin-verb-text-make-head-rev = Torna Head Rev

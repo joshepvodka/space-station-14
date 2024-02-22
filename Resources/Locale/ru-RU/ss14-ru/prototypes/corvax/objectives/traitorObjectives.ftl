@@ -1,2 +1,2 @@
-ent-HijackShuttleObjective = Завладейте эвакуационным шаттлом
-    .desc = Улетите на шаттле свободным и без лояльного экипажа Nanotrasen на борту. Используйте ЛЮБЫЕ доступные вам методы. Агенты Синдиката, враги Nanotrasen и заложники в наручниках могут оставаться на шаттле живыми. Игнорируйте помощь от кого-либо, кроме агента поддержки.
+ent-HijackShuttleObjective = Hijack emergency shuttle
+    .desc = Leave on the shuttle free and clear of the loyal Nanotrasen crew on board. Use ANY methods available to you. Syndicate agents, Nanotrasen enemies, and handcuffed hostages may remain alive on the shuttle. Ignore assistance from anyone other than a support agent.

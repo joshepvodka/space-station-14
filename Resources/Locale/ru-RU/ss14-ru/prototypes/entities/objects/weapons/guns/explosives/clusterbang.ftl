@@ -1,5 +1,5 @@
-ent-ClusterBang = связка гранат
-    .desc = Используется только со светошумовыми гранатами. Взрывается несколько раз.
+ent-ClusterBang = clusterbang
+    .desc = Can be used only with flashbangs. Explodes several times.
 ent-ClusterBangFull = { ent-ClusterBang }
-    .suffix = Полная
+    .suffix = Full
     .desc = { ent-ClusterBang.desc }

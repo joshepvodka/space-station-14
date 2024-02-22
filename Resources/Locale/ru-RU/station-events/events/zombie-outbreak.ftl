@@ -1,1 +1,1 @@
-station-event-zombie-outbreak-announcement = Подтверждено появление различных видов нежити на борту станции. Всему персоналу следует вооружиться, забаррикадировать двери и обезопасить свое местоположение, чтобы предотвратить дальнейшее заражение.
+station-event-zombie-outbreak-announcement = Vários mortos-vivos avistados abordo da estação. Todo o pessoal deve armar-se, barricar portas e proteger suas localizações a fim de prevenir novos infectados.

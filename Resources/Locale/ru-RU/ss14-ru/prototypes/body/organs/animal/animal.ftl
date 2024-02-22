@@ -1,16 +1,20 @@
 ent-BaseAnimalOrganUnGibbable = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
+<<<<<<< HEAD
+ent-OrganAnimalLungs = lungs
+=======
 ent-BaseAnimalOrgan = { ent-BaseAnimalOrganUnGibbable }
     .desc = { ent-BaseAnimalOrganUnGibbable.desc }
 ent-OrganAnimalLungs = лёгкие
+>>>>>>> space-station-14/master
     .desc = { ent-BaseAnimalOrgan.desc }
-ent-OrganAnimalStomach = желудок
+ent-OrganAnimalStomach = stomach
     .desc = { ent-BaseAnimalOrgan.desc }
-ent-OrganMouseStomach = желудок
+ent-OrganMouseStomach = stomach
     .desc = { ent-OrganAnimalStomach.desc }
-ent-OrganAnimalLiver = печень
+ent-OrganAnimalLiver = liver
     .desc = { ent-BaseAnimalOrgan.desc }
-ent-OrganAnimalHeart = сердце
+ent-OrganAnimalHeart = heart
     .desc = { ent-BaseAnimalOrgan.desc }
-ent-OrganAnimalKidneys = почки
+ent-OrganAnimalKidneys = kidneys
     .desc = { ent-BaseAnimalOrgan.desc }

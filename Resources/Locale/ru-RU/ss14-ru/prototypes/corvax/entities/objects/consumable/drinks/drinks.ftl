@@ -1,2 +1,2 @@
-ent-DrinkKvassGlass = кружка кваса
-    .desc = Холодненький освежающий напиток с привкусом социализма.
+ent-DrinkKvassGlass = kvass glass
+    .desc = A cool refreshing drink with a taste of socialism.

@@ -1,3 +1,3 @@
-ent-Vaccinator = Вакцинатор
-    .desc = Машина для создания вакцин.
+ent-Vaccinator = Vaccinator
+    .desc = A machine that creates vaccines.
     .suffix = { "" }

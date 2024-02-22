@@ -1,8 +1,8 @@
-ent-BaseWeaponCrusher = крушитель
-    .desc = Ранняя версия протокинетического ускорителя.
+ent-BaseWeaponCrusher = crusher
+    .desc = An early design of the proto-kinetic accelerator.
 ent-WeaponCrusher = { ent-BaseWeaponCrusher }
     .desc = { ent-BaseWeaponCrusher.desc }
-ent-WeaponCrusherDagger = кинжал-крушитель
-    .desc = Уменьшенная версия протокинетического крушителя. Использует кинетическую энергию для высокочастотной вибрации лезвия.
-ent-WeaponCrusherGlaive = глефа-крушитель
-    .desc = Ранняя версия протокинетического ускорителя в виде глефы.
+ent-WeaponCrusherDagger = crusher dagger
+    .desc = A scaled down version of a proto-kinetic crusher. Uses kinetic energy to vibrate the blade at high speeds.
+ent-WeaponCrusherGlaive = crusher glaive
+    .desc = An early design of the proto-kinetic accelerator, in glaive form.

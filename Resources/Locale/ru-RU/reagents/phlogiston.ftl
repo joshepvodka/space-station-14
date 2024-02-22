@@ -1,1 +1,1 @@
-phlogiston-plasma-created = Смесь пузырится, и из нее поднимается плазма!
+phlogiston-plasma-created = Com mistura de bolhas, plasma sai disso!

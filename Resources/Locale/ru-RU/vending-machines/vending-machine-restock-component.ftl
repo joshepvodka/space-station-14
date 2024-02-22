@@ -1,10 +1,4 @@
-vending-machine-restock-invalid-inventory = { CAPITALIZE($this) } не подходит для того, чтобы пополнить { $target }.
-vending-machine-restock-needs-panel-open = Техническая панель { CAPITALIZE($target) } должна быть открыта.
-vending-machine-restock-start = { $user } начинает пополнять { $target }.
-vending-machine-restock-done =
-    { $user } { GENDER($user) ->
-        [male] закончил
-        [female] закончила
-        [epicene] закончили
-       *[neuter] закончило
-    } пополнять { $target }.
+vending-machine-restock-invalid-inventory = { CAPITALIZE(THE($this)) } não é o pacote certo para reabastecer { THE($target) }.
+vending-machine-restock-needs-panel-open = { CAPITALIZE($target) } precisa { POSS-ADJ($target) } ter o painel de manutenção aberto primeiro.
+vending-machine-restock-start = { $user } começa a reabastecer { $target }.
+vending-machine-restock-done = { $user } termina de reabastecer { $target }.

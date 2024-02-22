@@ -1,30 +1,30 @@
 ## UI
-
-cloning-console-window-title = Консоль клонирования
-cloning-console-window-clone-button-text = Клонировать
-cloning-console-window-scanner-id = ID: [color=white]{ $scannerOccupantName }[/color]
-cloning-console-window-pod-id = ID: [color=white]{ $podOccupantName }[/color]
-cloning-console-window-no-patient-data-text = Нет данных о пациенте.
+cloning-console-window-title = Console de Clonagem
+cloning-console-window-clone-button-text = Clonar
+cloning-console-window-scanner-id = ID: [color=white]{$scannerOccupantName}[/color]
+cloning-console-window-pod-id = ID: [color=white]{$podOccupantName}[/color]
+cloning-console-window-no-patient-data-text = Sem dados do paciente.
 cloning-console-window-id-blank = ID:
-cloning-console-window-scanner-details-label = Статус генетического сканера
-cloning-console-window-pod-details-label = Статус капсулы клонирования
-cloning-console-window-no-scanner-detected-label = Соедините с генетическим сканером при помощи мультитула.
-cloning-console-window-no-clone-pod-detected-label = Соедините с капсулой клонирования при помощи мультитула.
-cloning-console-window-scanner-far-label = Генетический сканер слишком далеко
-cloning-console-window-clone-pod-far-label = Капсула клонирования слишком далеко
-cloning-console-eject-body-button = Извлечь тело
-cloning-console-neural-interface-label = Нейроинтерфейс:
-cloning-console-no-mind-activity-text = Нейроинтерфейс: [color=red]Активность отсутствует[/color]
-cloning-console-mind-present-text = Нейроинтерфейс: [color=green]Сознание обнаружено[/color]
-cloning-console-component-msg-ready = Готов к клонированию
-cloning-console-component-msg-empty = Тело отсутствует
-cloning-console-component-msg-scanner-occupant-alive = Не готово: Тело в сканере живо
-cloning-console-component-msg-already-alive = Не готово: Метафизический конфликт
-cloning-console-component-msg-occupied = Не готово: В капсуле уже присутствует клон
-cloning-console-component-msg-already-cloning = Не готово: Конфликт сети капсул
-cloning-console-component-msg-incomplete = Не готово: Клонирование в процессе
-cloning-console-component-msg-no-cloner = Не готово: Клонер не обнаружен
-cloning-console-component-msg-no-mind = Не готово: Душа неактивна
-cloning-console-chat-error = ОШИБКА: НЕХВАТКА БИОМАССЫ. КЛОНИРОВАНИЕ ЭТОГО ТЕЛА ТРЕБУЕТ { $units } ЕДИНИЦ БИОМАССЫ.
-cloning-console-uncloneable-trait-error = ОШИБКА: ДУША ОТСУТСТВУЕТ, КЛОНИРОВАНИЕ НЕВОЗМОЖНО.
-cloning-console-cellular-warning = ВНИМАНИЕ: ОЦЕНКА ДОСТОВЕРНОСТИ ЦЕЛОСТНОСТИ ГЕНОВ СОСТАВЛЯЕТ { $percent }%. КЛОНИРОВАНИЕ МОЖЕТ ПРИВЕСТИ К НЕОЖИДАННЫМ РЕЗУЛЬТАТАМ.
+cloning-console-window-scanner-details-label = Status do Scanner Genético
+cloning-console-window-pod-details-label = Status do Pod de Clonagem
+cloning-console-window-no-scanner-detected-label = Vincule um scanner genético a uma multitool ou a um network configurator.
+cloning-console-window-no-clone-pod-detected-label = Vincule um pod de clonagem a uma multitool ou a um network configurator.
+cloning-console-window-scanner-far-label = Scanner Genético Muito Distante
+cloning-console-window-clone-pod-far-label = Cápsula de Clonagem Muito Distante
+cloning-console-eject-body-button = Ejetar Corpo
+cloning-console-neural-interface-label = Interface Neural:
+cloning-console-no-mind-activity-text = Interface Neural: [color=red]Nenhuma Atividade[/color]
+cloning-console-mind-present-text = Interface Neural: [color=green]Consciência Detectada[/color]
+cloning-console-component-msg-ready = Pronto Para Clonar
+cloning-console-component-msg-empty = Nenhum Corpo Detectado
+cloning-console-component-msg-scanner-occupant-alive = Não Está Pronto: Vida do Ocupante do Scanner
+cloning-console-component-msg-already-alive = Não Está Pronto: Conflito Metafísico
+cloning-console-component-msg-occupied = Não Está Pronto: O Pod Já Contém Um Clone
+cloning-console-component-msg-already-cloning = Não Está Pronto: Conflito De Rede Do Pod
+cloning-console-component-msg-incomplete = Não Está Pronto: Clonagem Em Andamento
+cloning-console-component-msg-no-cloner = Não Está Pronto: Nenhum Clone Detectado
+cloning-console-component-msg-no-mind = Não Está Pronto: Nenhuma Atividade De Alma Detectada
+
+cloning-console-chat-error = ERRO: BIOMASSA INSUFICIENTE. A CLONAGEM DESTE CORPO REQUER {$units} UNIDADES DE BIOMASSA.
+cloning-console-uncloneable-trait-error = ERROR: A ALMA ESTÁ AUSENTE, A CLONAGEM É IMPOSSÍVEL.
+cloning-console-cellular-warning = ATENÇÃO: PONTUAÇÃO DE CONFIANÇA GENÉTICA É {$percent}%. A CLONAGEM PODE TER RESULTADOS INESPERADOS.

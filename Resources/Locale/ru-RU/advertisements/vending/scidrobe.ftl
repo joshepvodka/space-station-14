@@ -1,3 +1,2 @@
-advertisement-scidrobe-1 = Скучаете по запаху обожженной плазмой плоти? Купите научную одежду прямо сейчас!
-advertisement-scidrobe-2 = Изготовлено на 10% из ауксетики, поэтому можете не беспокоиться о потере руки!
-advertisement-scidrobe-3 = Это ТОЧНО защитит вас, когда артефакт неизбежно взорвётся.
+advertisement-scidrobe-1 = Deseja sentir o cheiro de carne queimada com plasma? Compre suas roupas científicas hoje!
+advertisement-scidrobe-2 = Feito com 10% de materiais auxéticos, para você não precisar se preocupar em perder um braço!

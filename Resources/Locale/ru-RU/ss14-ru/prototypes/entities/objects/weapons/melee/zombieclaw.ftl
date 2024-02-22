@@ -1,3 +1,3 @@
-ent-ZombieClaw = Когти зомби
+ent-ZombieClaw = Zombie Claw
     .desc = { "" }
     .suffix = { "" }

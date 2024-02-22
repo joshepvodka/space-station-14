@@ -1,24 +1,32 @@
-tool-quality-anchoring-name = Закрепление
-tool-quality-anchoring-tool-name = Гаечный ключ
-tool-quality-prying-name = Монтирование
-tool-quality-prying-tool-name = Лом
-tool-quality-screwing-name = Свинчивание
-tool-quality-screwing-tool-name = Отвертка
-tool-quality-cutting-name = Резка
-tool-quality-cutting-tool-name = Кусачки
-tool-quality-welding-name = Варка
-tool-quality-welding-tool-name = Сварка
-tool-quality-pulsing-name = Пульсирование
-tool-quality-pulsing-tool-name = Мультитул
-tool-quality-slicing-name = Нарезка
-tool-quality-slicing-tool-name = Нож
-tool-quality-sawing-name = Отпиливание
-tool-quality-sawing-tool-name = Пила
-tool-quality-honking-name = Хонканье
-tool-quality-honking-tool-name = Велосипедный клаксон
-tool-quality-woodcutting-name = Рубка дерева
-tool-quality-woodcutting-tool-name = Топор
-tool-quality-rolling-name = Раскатывание
-tool-quality-rolling-tool-name = Скалка
-tool-quality-digging-name = Копание
-tool-quality-digging-tool-name = Лопата
+tool-quality-anchoring-name = Ancorar
+tool-quality-anchoring-tool-name = Chave Inglesa
+
+tool-quality-prying-name = Forçar
+tool-quality-prying-tool-name = Pé de cabra
+
+tool-quality-screwing-name = Aparafusar
+tool-quality-screwing-tool-name = Chave de fenda
+
+tool-quality-cutting-name = Cortar
+tool-quality-cutting-tool-name = Alicate de Fios
+
+tool-quality-welding-name = Soldar
+tool-quality-welding-tool-name = Soldador
+
+tool-quality-pulsing-name = Pulsar
+tool-quality-pulsing-tool-name = Multitool
+
+tool-quality-slicing-name = Cortar
+tool-quality-slicing-tool-name = Faca
+
+tool-quality-sawing-name = Serrar
+tool-quality-sawing-tool-name = Serra
+
+tool-quality-honking-name = Honking
+tool-quality-honking-tool-name = Bike Horn
+
+tool-quality-woodcutting-name = Cortador de Madeira
+tool-quality-woodcutting-tool-name = Machadinha
+
+tool-quality-rolling-name = Rolling
+tool-quality-rolling-tool-name = Rolling Pin

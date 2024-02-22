@@ -1,3 +1,4 @@
-geiger-item-control-status = Радиация: [color={ $color }]{ $rads } рад[/color]
-geiger-item-control-disabled = Отключён
-geiger-component-examine = Текущий уровень радиации: [color={ $color }]{ $rads } рад[/color]
+geiger-item-control-status = Radiação: [color={$color}]{$rads} cGy[/color]
+geiger-item-control-disabled = Desativado
+geiger-component-examine = Radiação atual: [color={$color}]{$rads} cGy[/color]
+

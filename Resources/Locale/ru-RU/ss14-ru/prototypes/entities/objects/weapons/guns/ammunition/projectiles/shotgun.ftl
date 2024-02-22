@@ -1,22 +1,26 @@
+<<<<<<< HEAD
+ent-PelletShotgunSlug = pellet (.50 slug)
+=======
 ent-PelletShotgunSlug = дробина (.50 пуля)
+>>>>>>> space-station-14/master
     .desc = { ent-BaseBullet.desc }
-ent-PelletShotgunBeanbag = дробина (.50)
+ent-PelletShotgunBeanbag = beanbag (.50)
     .desc = { ent-BaseBullet.desc }
-ent-PelletShotgun = дробина (.50)
+ent-PelletShotgun = pellet (.50)
     .desc = { ent-BaseBullet.desc }
-ent-PelletShotgunIncendiary = дробина (.50 зажигательная)
+ent-PelletShotgunIncendiary = pellet (.50 incendiary)
     .desc = { ent-BaseBulletIncendiary.desc }
-ent-PelletShotgunPractice = дробина (.50 учебная)
+ent-PelletShotgunPractice = pellet (.50 practice)
     .desc = { ent-BaseBulletPractice.desc }
-ent-PelletShotgunImprovised = самодельная дробина (.50)
+ent-PelletShotgunImprovised = improvised pellet
     .desc = { ent-BaseBullet.desc }
-ent-PelletShotgunTranquilizer = дробина (.50 транквилизатор)
+ent-PelletShotgunTranquilizer = pellet (.50 tranquilizer)
     .desc = { ent-BaseBulletPractice.desc }
-ent-PelletShotgunFlare = дробина (.50 фальшфейер)
+ent-PelletShotgunFlare = pellet (.50 flare)
+    .desc = { "" }
+ent-PelletShotgunUranium = pellet (.50 uranium)
     .desc = { ent-BaseBullet.desc }
-ent-PelletShotgunUranium = дробина (.50 урановая)
+ent-PelletGrapeshot = grapeshot pellet
     .desc = { ent-BaseBullet.desc }
-ent-PelletGrapeshot = картечина
-    .desc = { ent-BaseBullet.desc }
-ent-PelletGlass = стеклянный осколок
+ent-PelletGlass = glass shard
     .desc = { ent-BaseBullet.desc }

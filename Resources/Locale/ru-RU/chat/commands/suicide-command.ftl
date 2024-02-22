@@ -1,9 +1,8 @@
-suicide-command-description = Совершает самоубийство
-suicide-command-help-text =
-    Команда самоубийства дает вам возможность быстро выйти из раунда, оставаясь в образе персонажа.
-    Способы бывают разные, сначала вы попытаетесь использовать предмет, находящийся у вас в активной руке.
-    Если это не удастся, то будет сделана попытка использовать предмет рядом с вами.
-    Наконец, если ни один из вышеперечисленных способов не сработал, вы умрете, прикусив язык.
-suicide-command-default-text-others = { $name } пытается прикусить свой собственный язык!
-suicide-command-default-text-self = Вы пытаетесь прикусить свой собственный язык!
-suicide-command-already-dead = Вы не можете совершить самоубийство. Вы мертвы.
+suicide-command-description = Cometer suicídio
+suicide-command-help-text = O comando de suicídio te dá uma maneira rápida de sair da partida permanecendo no personagem.
+                            O método varia, primeiro você tentará usar o item empunhado na sua mão ativa.
+                            Se isso falhar, você tentará usar um objeto no ambiente.
+                            Finalmente, se nada funcionar, você vai morrer mordendo a sua língua.
+suicide-command-default-text-others = {$name} está tentando morder a própria língua!
+suicide-command-default-text-self = Você tenta morder a sua própria língua!
+suicide-command-already-dead = Você não pode suicidar-se. Você está morto.

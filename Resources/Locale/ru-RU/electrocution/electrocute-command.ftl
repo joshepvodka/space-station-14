@@ -1,2 +1,2 @@
-electrocute-command-description = Поражает указанное существо током, по умолчанию это 10 секунд и 10 урона. Шокирует!
-electrocute-command-entity-cannot-be-electrocuted = Вы не можете ударить током эту сущность!
+electrocute-command-description = Eletrocuta determinada entidade, o padrão é 10 segundos e 10 de dano. Chocante!
+electrocute-command-entity-cannot-be-electrocuted = Você não pode eletrocutar esta entidade!

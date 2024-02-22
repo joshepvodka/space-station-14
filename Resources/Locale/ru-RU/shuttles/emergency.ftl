@@ -1,49 +1,35 @@
 # Commands
-
-
 ## Delay shuttle round end
-
-emergency-shuttle-command-round-desc = Останавливает таймер окончания раунда, когда эвакуационный шаттл покидает гиперпространство.
-emergency-shuttle-command-round-yes = Раунд продлён.
-emergency-shuttle-command-round-no = Невозможно продлить окончание раунда.
+emergency-shuttle-command-round-desc = Para o timer que acaba a rodada quando a nave de emergência sai do hiperespaço.
+emergency-shuttle-command-round-yes = Rodada foi atrasada.
+emergency-shuttle-command-round-no = Não é possível atrasar o fim da rodada.
 
 ## Dock emergency shuttle
-
-emergency-shuttle-command-dock-desc = Вызывает спасательный шаттл и пристыковывает его к станции... если это возможно.
+emergency-shuttle-command-dock-desc = Chama a nave de emergência e doca ela à estação... se possível.
 
 ## Launch emergency shuttle
+emergency-shuttle-command-launch-desc = Lança a nave de emergência antes, se possível.
 
-emergency-shuttle-command-launch-desc = Досрочно запускает эвакуационный шаттл, если это возможно.
 # Emergency shuttle
-emergency-shuttle-left = Эвакуационный шаттл покинул станцию. Расчетное время прибытия шаттла на станцию Центкома - { $transitTime } секунд.
-emergency-shuttle-launch-time = Эвакуационный шаттл будет запущен через { $consoleAccumulator } секунд.
-emergency-shuttle-docked = Эвакуационный шаттл пристыковался к станции, сторона: { $direction }. Он улетит через { $time } секунд.
-emergency-shuttle-good-luck = Эвакуационный шаттл не может найти станцию. Удачи.
-emergency-shuttle-nearby = Эвакуационный шаттл не может найти подходящий стыковочный шлюз. Он дрейфует около станции, сторона: { $direction }.
+emergency-shuttle-left = A nave de emergência saiu da estação. Estima-se {$transitTime} segundos até que a nave chegue à CentCom.
+emergency-shuttle-launch-time = A nave de emergência vai partir em {$consoleAccumulator} segundos.
+emergency-shuttle-docked = A nave de emergência docou na estação no lado {$direction}. Ela vai sair em {$time} segundos.
+emergency-shuttle-good-luck = A nave de emergência não conseguiu achar uma estação. Boa sorte.
+emergency-shuttle-nearby = A nave de emergência não conseguiu achar um local de docagem válido. Ela parou no lado {$direction} da estação.
+
 # Emergency shuttle console popup / announcement
-emergency-shuttle-console-no-early-launches = Досрочный запуск отключён
-# Emergency shuttle console popup / announcement
-emergency-shuttle-console-auth-left =
-    { $remaining } { $remaining ->
-        [one] авторизация осталась
-        [few] авторизации остались
-       *[other] авторизации остались
-    } для досрочного запуска шаттла.
-emergency-shuttle-console-auth-revoked =
-    Авторизации на досрочный запуск шаттла отозваны, { $remaining } { $remaining ->
-        [one] авторизация необходима
-        [few] авторизации необходимы
-       *[other] авторизации необходимы
-    }.
-emergency-shuttle-console-denied = Доступ запрещён
+emergency-shuttle-console-no-early-launches = Lançamento precoce está desativado
+emergency-shuttle-console-auth-left = {$remaining} autorizações necessárias para que a nave parta mais cedo.
+emergency-shuttle-console-auth-revoked = Autorização de lançamento precoce revogada, {$remaining} autorizações necessárias.
+emergency-shuttle-console-denied = Acesso negado
+
 # UI
-emergency-shuttle-console-window-title = Консоль эвакуационного шаттла
-# UI
-emergency-shuttle-ui-engines = ДВИГАТЕЛИ:
-emergency-shuttle-ui-idle = Простой
-emergency-shuttle-ui-repeal-all = Повторить всё
-emergency-shuttle-ui-early-authorize = Разрешение на досрочный запуск
-emergency-shuttle-ui-authorize = АВТОРИЗОВАТЬСЯ
-emergency-shuttle-ui-repeal = ПОВТОРИТЬ
-emergency-shuttle-ui-authorizations = Авторизации
-emergency-shuttle-ui-remaining = Осталось: { $remaining }
+emergency-shuttle-console-window-title = Console da Nave de Emergência
+emergency-shuttle-ui-engines = TURBINAS:
+emergency-shuttle-ui-idle = Parado
+emergency-shuttle-ui-repeal-all = Revogar Todos
+emergency-shuttle-ui-early-authorize = Autorização de Lançamento Precoce
+emergency-shuttle-ui-authorize = AUTORIZAR
+emergency-shuttle-ui-repeal = REVOGAR
+emergency-shuttle-ui-authorizations = Autorizações
+emergency-shuttle-ui-remaining = Faltando: {$remaining}

@@ -1,1 +1,1 @@
-door-pry = Вскрыть дверь
+door-pry = Arrombar porta

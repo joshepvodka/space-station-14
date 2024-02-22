@@ -1,6 +1,6 @@
-ent-ClothingMilitaryBackpack = армейский рюкзак
-    .desc = Вместительный рюкзак с множеством карманов, который носят военные структуры.
-ent-ClothingDeathSquadronBackpack = рюкзак эскадрона смерти
-    .desc = Вместительный рюкзак использующий технологию БлюСпейс.
-ent-ClothingBackpackCE = рюкзак старшего инженера
-    .desc = Технически продвинутый рюкзак.
+ent-ClothingMilitaryBackpack = army backpack
+    .desc = A spacious backpack with lots of pockets, worn by military structures.
+ent-ClothingDeathSquadronBackpack = death squadron backpack
+    .desc = A spacious backpack using bluespace technology.
+ent-ClothingBackpackCE = chief engineer backpack
+    .desc = Technicially progressive backpack.

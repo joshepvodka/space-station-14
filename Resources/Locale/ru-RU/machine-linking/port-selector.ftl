@@ -1,5 +1,5 @@
-signal-port-selector-menu-title = Выбор портов
-signal-port-selector-menu-clear = Очистить
-signal-port-selector-menu-link-defaults = Соединить по-умолчанию
-signal-port-selector-help = Выберите порты, которые вы хотите соединить
-signal-port-selector-menu-done = Готово
+signal-port-selector-menu-title = Slecionador de Porta
+signal-port-selector-menu-clear = Limpar
+signal-port-selector-menu-link-defaults = Conectar Padrões
+signal-port-selector-help = Selecione as portas que deseja vincular
+signal-port-selector-menu-done = Pronto

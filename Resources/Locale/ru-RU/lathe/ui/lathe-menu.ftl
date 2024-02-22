@@ -1,20 +1,17 @@
-lathe-menu-title = Меню станка
-lathe-menu-queue = Очередь
-lathe-menu-server-list = Список серверов
-lathe-menu-sync = Синхр.
-lathe-menu-search-designs = Поиск проектов
-lathe-menu-category-all = Всё
-lathe-menu-search-filter = Фильтр
-lathe-menu-amount = Кол-во:
-lathe-menu-material-display = { $material } { $amount }
-lathe-menu-tooltip-display = { $amount } { $material }
-lathe-menu-description-display = [italic]{ $description }[/italic]
-lathe-menu-material-amount =
-    { $amount ->
-        [1] { NATURALFIXED($amount, 2) } ({ $unit })
-       *[other] { NATURALFIXED($amount, 2) } ({ $unit })
-    }
-lathe-menu-no-materials-message = Материалы не загружены
-lathe-menu-fabricating-message = Производится...
-lathe-menu-materials-title = Материалы
-lathe-menu-queue-title = Очередь производства
+lathe-menu-title = Menu do Torno
+lathe-menu-queue = Fila
+lathe-menu-server-list = Servidores
+lathe-menu-sync = Sincronizar
+lathe-menu-search-designs = Procurar Projetos
+lathe-menu-search-filter = Filtrar
+lathe-menu-amount = Quantidade:
+lathe-menu-material-display = {$material} ({$amount})
+lathe-menu-tooltip-display = {$amount} de {$material}
+lathe-menu-material-amount = { $amount ->
+    [1] {NATURALFIXED($amount, 2)} {$unit}
+    *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)}
+}
+lathe-menu-no-materials-message = Nenhum material carregado.
+lathe-menu-fabricating-message = Fabricando...
+lathe-menu-materials-title = Materiais
+lathe-menu-queue-title = Fila de construção

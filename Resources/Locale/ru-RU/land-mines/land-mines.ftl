@@ -1,1 +1,1 @@
-land-mine-triggered = Вы наступили на { $mine }!
+land-mine-triggered = Você pisa em cima de uma { $mine }!

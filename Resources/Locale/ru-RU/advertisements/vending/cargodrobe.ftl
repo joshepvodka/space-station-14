@@ -1,3 +1,2 @@
-advertisement-cargodrobe-1 = Улучшенный стиль ассистента! Выбери свой сегодня!
-advertisement-cargodrobe-2 = Эти шорты удобны и комфортны, получите свои прямо сейчас!
-advertisement-cargodrobe-3 = Сделано для комфорта, а стоит недорого!
+advertisement-cargodrobe-1 = Roupas de passageiro estilosas! Pegue a sua hoje!
+advertisement-cargodrobe-2 = Essas roupas são confortavéis de fáceis de colocar, pegue a sua já!

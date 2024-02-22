@@ -1,7 +1,8 @@
-construction-condition-machine-container-empty = Извлеките компоненты из каркаса, используя [color=cyan]Лом[/color].
+construction-condition-machine-container-empty = Remova as peças do quadro usando um [color=cyan]Pé de cabra[/color].
+
 # MachineFrameComplete
-construction-condition-machine-frame-requirement-label = Требования:
-construction-condition-machine-frame-insert-circuit-board-message = Вставьте [color=cyan]любую плату для машины[/color].
-construction-condition-machine-frame-required-element-entry = [color=yellow]{ $amount }ед[/color] [color=green]{ $elementName }[/color]
-construction-step-condition-machine-frame-board = Вам необходимо вставить плату для машины.
-construction-step-condition-machine-frame-parts = После этого вставьте все необходимые компоненты.
+construction-condition-machine-frame-requirement-label = Necessita:
+construction-condition-machine-frame-insert-circuit-board-message = Insira [color=cyan]qualquer placa de circuito[/color].
+construction-condition-machine-frame-required-element-entry = [color=yellow]{$amount}x[/color] [color=green]{$elementName}[/color]
+construction-step-condition-machine-frame-board = Você vai precisar inserir uma placa de circuito.
+construction-step-condition-machine-frame-parts = Depois, insira todas as partes necessárias.

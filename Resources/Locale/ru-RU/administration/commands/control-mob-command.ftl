@@ -1,2 +1,2 @@
-control-mob-command-description = Переносит разум пользователя в указанную сущность.
-control-mob-command-help-text = Использование: controlmob <mobUid>.
+control-mob-command-description = Tranfere a mente do usuário para a seguinte entidade.
+control-mob-command-help-text = Usar: controlmob <mobUid>.

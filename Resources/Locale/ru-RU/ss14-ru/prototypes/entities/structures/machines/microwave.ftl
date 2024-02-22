@@ -1,2 +1,2 @@
-ent-KitchenMicrowave = микроволновка
-    .desc = Это магия.
+ent-KitchenMicrowave = microwave
+    .desc = It's magic.

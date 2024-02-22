@@ -1,2 +1,2 @@
-radiation-command-description = Переключение видимости лучей радиации, исходящих от источников радиации
-radiation-command-help = Использование: showradiation
+radiation-command-description = Alternar a visibilidade dos raios de radiação provenientes de fontes de radiação
+radiation-command-help = Uso: showradiation

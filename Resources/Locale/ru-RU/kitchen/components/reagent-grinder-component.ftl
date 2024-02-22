@@ -1,13 +1,17 @@
 ## UI
 
-reagent-grinder-bound-user-interface-instant-button = МГНОВЕННО
-reagent-grinder-bound-user-interface-cook-time-label = ВРЕМЯ:
-reagent-grinder-component-cannot-put-entity-message = Вы не можете поместить это в измельчитель реагентов!
-grinder-menu-title = Универсальный Измельчитель 3000
-grinder-menu-grind-button = Измельчить
-grinder-menu-juice-button = Выжать
-grinder-menu-chamber-content-box-label = Камера
-grinder-menu-chamber-content-box-button = Извлечь содержимое
-grinder-menu-beaker-content-box-label = Стакан
-grinder-menu-beaker-content-box-button = Извлечь контейнер
-grinder-menu-beaker-content-box-is-empty = Пусто
+reagent-grinder-bound-user-interface-instant-button = INTANTÂNEO
+reagent-grinder-bound-user-interface-cook-time-label = TEMPO DE COZIMENTO
+reagent-grinder-component-cannot-put-entity-message = Você não pode colocar isso no moedor de reagentes!
+
+reagent-grinder-component-upgrade-work-time = Tempo de trabalho
+reagent-grinder-component-upgrade-storage = Armazenar
+
+grinder-menu-title = Triturador Tudo-Em-Um 3000
+grinder-menu-grind-button = Triturar
+grinder-menu-juice-button = Suco
+grinder-menu-chamber-content-box-label = Compartimento
+grinder-menu-chamber-content-box-button = Ejetar
+grinder-menu-beaker-content-box-label = Becker
+grinder-menu-beaker-content-box-button = Ejetar Becker
+grinder-menu-beaker-content-box-is-empty = Vázio

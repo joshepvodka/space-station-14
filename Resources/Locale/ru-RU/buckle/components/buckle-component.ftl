@@ -1,7 +1,7 @@
-buckle-component-no-hands-message = У вас нет рук.
-buckle-component-already-buckled-message = Вы уже пристегнуты!
-buckle-component-other-already-buckled-message = { $owner } уже пристегнут!
-buckle-component-cannot-buckle-message = Вы не можете пристегнуть себя туда.
-buckle-component-other-cannot-buckle-message = Вы не можете пристегнуть { $owner } туда!
-buckle-component-cannot-fit-message = Вы туда не помещаетесь!
-buckle-component-other-cannot-fit-message = { $owner } туда не помещается!
+buckle-component-no-hands-message = Você não tem mãos!
+buckle-component-already-buckled-message = Vocês já está enganchado!
+buckle-component-other-already-buckled-message = {$owner} já está enganchado!
+buckle-component-cannot-buckle-message = Você não pode se enganchar aí!
+buckle-component-other-cannot-buckle-message = Você não pode enganchar {$owner} aí!
+buckle-component-cannot-fit-message = Você não cabe aí!
+buckle-component-other-cannot-fit-message = {$owner} Não cabe aí!

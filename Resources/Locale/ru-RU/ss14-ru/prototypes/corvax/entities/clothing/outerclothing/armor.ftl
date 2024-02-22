@@ -1,2 +1,2 @@
-ent-ClothingOuterArmorCentcomCarapace = флотский панцирь
-    .desc = Панцирь, который носят офицеры Командования флота.
+ent-ClothingOuterArmorCentcomCarapace = naval carapace
+    .desc = A carapace worn by Naval Command members.

@@ -1,16 +1,23 @@
-revenant-essence-amount = У вас [color=plum]{ $current } эссенции[/color]. Ваш максимум — [color=plum]{ $max } эссенции[/color].
-revenant-max-essence-increased = Максимальный запас эссенции увеличился!
-revenant-not-enough-essence = Недостаточно эссенции!
-revenant-in-solid = Вы не можете использовать эту способность, пока находитесь внутри твёрдого объекта.
-revenant-soul-too-powerful = Эта душа слишком сильна, чтобы её собрать!
-revenant-soul-harvested = Эта душа уже собрана!
-revenant-soul-searching = Вы ищете душу { $target }.
-revenant-soul-yield-high = { CAPITALIZE($target) } имеет душу выше среднего!
-revenant-soul-yield-average = { CAPITALIZE($target) } имеет среднюю душу.
-revenant-soul-yield-low = { CAPITALIZE($target) } имеет душу ниже среднего.
-revenant-soul-begin-harvest = { CAPITALIZE($target) } внезапно приподнимается в воздух, а кожа становится пепельно серой.
-revenant-soul-finish-harvest = { CAPITALIZE($target) } падает на землю!
-#UI
-revenant-user-interface-title = Магазин способностей
-revenant-user-interface-essence-amount = [color=plum]{ $amount }[/color] украденной эссенции
-revenant-user-interface-cost = { $price } эссенции
+revenant-essence-amount = Você tem [color=plum]{$current} Essência[/color]. A sua regeneração é de [color=plum]{$max} Essência[/color].
+revenant-max-essence-increased = A sua essência máxima aumentou!
+
+revenant-not-enough-essence = Sem essência suficiente!
+revenant-in-solid = Você não pode usar essa habilidade dentro de um objeto sólido.
+
+revenant-soul-too-powerful = Essa alma está forte demais para colher!
+revenant-soul-harvested = Essa alma já foi colhida!
+
+revenant-soul-searching = Você procura pela alma d{THE($target)}.
+
+revenant-soul-yield-high = {CAPITALIZE(THE($target))} tem uma alma acima da média!
+revenant-soul-yield-average = {CAPITALIZE(THE($target))} tem uma alma mediana.
+revenant-soul-yield-low = {CAPITALIZE(THE($target))} tem uma alma abaixo da média.
+
+revenant-soul-begin-harvest = {CAPITALIZE(THE($target))} derrepente é suspendido levemente no ar e a pele {POSS-ADJ($target)} tornando cinzenta.
+revenant-soul-finish-harvest = {CAPITALIZE(THE($target))} cai duro no chão!
+
+# UI
+revenant-user-interface-title = Loja de Habilidades
+revenant-user-interface-essence-amount = [color=plum]{$amount}[/color] Essência Roubada
+
+revenant-user-interface-cost = {$price} Essência

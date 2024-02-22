@@ -1,24 +1,29 @@
-roles-antag-syndicate-agent-name = Агент Синдиката
-roles-antag-syndicate-agent-objective = Выполните свои задачи и не попадитесь.
-roles-antag-initial-infected-name = Нулевой заражённый
-roles-antag-initial-infected-objective = После превращения заразите как можно больше других членов экипажа.
-roles-antag-zombie-name = Зомби
-roles-antag-zombie-objective = Превратите как можно больше членов экипажа в зомби.
-roles-antag-suspicion-innocent-name = Невиновный
-roles-antag-suspicion-innocent-objective = Найдите и уничтожьте всех предателей.
-roles-antag-suspicion-suspect-name = Подозреваемый
-roles-antag-suspicion-suspect-objective = Убейте невиновных.
-roles-antag-nuclear-operative-commander-name = Командир ядерных оперативников
-roles-antag-nuclear-operative-commander-objective = Приведите свой отряд к уничтожению станции.
-roles-antag-nuclear-operative-agent-name = Медик ядерных оперативников
-roles-antag-nuclear-operative-agent-objective = Как обычный оперативник, но с приоритетом на медпомощь отряду.
-roles-antag-nuclear-operative-name = Ядерный оперативник
-roles-antag-nuclear-operative-objective = Найдите ядерный диск и взорвите станцию.
-roles-antag-subverted-silicon-name = Взломанный борг
-roles-antag-subverted-silicon-objective = Следуйте своим новым законам и творите зло на станции.
-roles-antag-space-ninja-name = Космический ниндзя
-roles-antag-space-ninja-objective = Используйте свою скрытность, чтобы устроить диверсию на станции, подпитывайтесь от электрических проводов.
-roles-antag-thief-name = Вор
-roles-antag-thief-objective = Пополните свою личную коллекцию имуществом Nanotrasen, не прибегая к насилию.
-roles-antag-terminator-name = Экстерминатор
-roles-antag-terminator-objective = Убейте цель любой ценой, от этого зависит будущее.
+﻿roles-antag-syndicate-agent-name = Agente do sindicato
+roles-antag-syndicate-agent-objective = Complete seus objetivos sem ser pego.
+
+roles-antag-initial-infected-name = Paciente Zero
+roles-antag-initial-infected-objective = Assim que você se transformar, infecte o máximo de tripulantes possíveis.
+
+roles-antag-zombie-name = Zumbi
+roles-antag-zombie-objective = Transforme o máximo de humanos possíveis em zumbis.
+
+roles-antag-suspicion-innocent-name = Inocente
+roles-antag-suspicion-innocent-objective = Descubra e elimine todos os traidores.
+
+roles-antag-suspicion-suspect-name = Suspeito
+roles-antag-suspicion-suspect-objective = Mate os inocentes.
+
+roles-antag-nuclear-operative-commander-name = Comandante de operação nuclear
+roles-antag-nuclear-operative-commander-objective = Lidere o seu time para a destruição da estação.
+
+roles-antag-nuclear-operative-agent-name = Agente operativo nuclear
+roles-antag-nuclear-operative-agent-objective = Como operacional padrão, o tratamento da equipe terá prioridade.
+
+roles-antag-nuclear-operative-name = Operativo nuclear
+roles-antag-nuclear-operative-objective = Encontre o disco nuclear e exploda a estação.
+
+roles-antag-subverted-silicon-name = Silício subvertido
+roles-antag-subverted-silicon-objective = Siga suas novas leis e seja mau com a estação.
+
+roles-antag-space-ninja-name = Ninja Espacial
+roles-antag-space-ninja-objective = Use sua furtividade para sabotar a estação, principalmente nos fios elétricos.

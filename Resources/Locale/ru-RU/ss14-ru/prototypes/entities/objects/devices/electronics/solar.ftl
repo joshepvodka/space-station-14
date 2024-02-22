@@ -1,3 +1,3 @@
-ent-SolarTrackerElectronics = микросхема трекера солнечных лучей
-    .desc = Отслеживает позицию солнца и автоматически поворачивает вслед солнечные панели, что значительно повышает их эффективность.
+ent-SolarTrackerElectronics = solar tracker electronics
+    .desc = An electronics board used in solar tracker devices
     .suffix = { "" }

@@ -1,7 +1,3 @@
-comp-ghost-examine-time-minutes = Умер [color=yellow]{ $minutes } минут(ы) назад.[/color]
-comp-ghost-examine-time-seconds =
-    Умер [color=yellow]{ $seconds } { $seconds ->
-        [one] секунду
-        [few] секунды
-       *[other] секунд
-    } назад. [/color]
+# Examine text
+comp-ghost-examine-time-minutes = Morreu [color=yellow]{$minutes} minutos atrás.[/color]
+comp-ghost-examine-time-seconds = Morreu [color=yellow]{$seconds} segundos atrás.[/color]

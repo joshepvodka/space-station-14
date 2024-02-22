@@ -1,17 +1,19 @@
 # User interface
-comms-console-menu-title = Консоль связи
-comms-console-menu-announcement-placeholder = Текст объявления...
-comms-console-menu-announcement-button = Сделать объявление
-comms-console-menu-broadcast-button = Трансляция
-comms-console-menu-call-shuttle = Вызвать
-comms-console-menu-recall-shuttle = Отозвать
+comms-console-menu-title = Console de Comunicações
+comms-console-menu-announcement-placeholder = Aviso
+comms-console-menu-announcement-button = Anunciar
+comms-console-menu-call-shuttle = Chamar nave de emergência
+comms-console-menu-recall-shuttle = Chamar nave de emergência de volta
+
 # Popup
-comms-console-permission-denied = В доступе отказано
-comms-console-shuttle-unavailable = В настоящее время шаттл недоступен
+comms-console-permission-denied = Permissão recusada
+comms-console-shuttle-unavailable = A nave não está disponível no momento
+
 # Placeholder values
-comms-console-announcement-sent-by = Отправитель
-comms-console-announcement-unknown-sender = Неизвестный
+comms-console-announcement-sent-by = Enviado por
+comms-console-announcement-unknown-sender = Desconhecido
+
 # Comms console variant titles
-comms-console-announcement-title-station = Консоль связи
-comms-console-announcement-title-centcom = Центральное командование
-comms-console-announcement-title-nukie = Ядерные оперативники Синдиката
+comms-console-announcement-title-station = Console de Comunicações
+comms-console-announcement-title-centcom = Central de Comando
+comms-console-announcement-title-nukie = Operativo Nuclear do Sindicato

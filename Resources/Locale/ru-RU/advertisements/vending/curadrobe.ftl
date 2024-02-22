@@ -1,3 +1,2 @@
-advertisement-curadrobe-1 = Очки - для глаз, книги - для души, в Библиодробе есть все!
-advertisement-curadrobe-2 = Впечатлите и поразите посетителей вашей библиотеки расширенной линейкой ручек Библиодроба!
-advertisement-curadrobe-3 = Станьте официальным владельцем библиотеки благодаря этой великолепной коллекции нарядов!
+advertisement-curadrobe-1 = Óculos para os olhos e literatura para a alma, CuraDrobe tem de tudo!
+advertisement-curadrobe-2 = Impressione e encante os convidados da sua biblioteca com a extensa linha de canetas da CuraDrobe!

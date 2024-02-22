@@ -1,9 +1,13 @@
-comp-containment-turned-on = Генератор сдерживающего поля включается.
-comp-containment-turned-off = Генератор сдерживающего поля выключается.
-comp-containment-on = Переключатель в положении [color=green]вкл[/color], готов к установке барьера.
-comp-containment-off = Переключатель в положении [color=red]выкл[/color].
-comp-containment-connected = Генератор сдерживающего поля начинает светиться, устананавливая барьер!
-comp-containment-disconnected = Генератора сдерживающего поля перестаёт светиться, разрывая барьер.
-comp-containment-anchor-warning = Вы не можете открепить генератор сдерживающего поля пока установлен барьер!
-comp-containment-toggle-warning = Вы не можете переключить генератор, пока он подсоединен.
-comp-field-vaporized = { CAPITALIZE($entity) } врезается в поле и мгновенно испаряется!
+comp-containment-turned-on = O gerador de contenção está ligado.
+comp-containment-turned-off = O gerador de contenção está desligado.
+
+comp-containment-on = Está [color=green]ligado[/color], pronto para gerar uma conexão.
+comp-containment-off = Está [color=red]desligado[/color].
+
+comp-containment-connected = O gerador de contenção solta uma luz enquanto estabelece uma conexão!
+comp-containment-disconnected = A luz do gerador de contenção some, interrompendo a conexão.
+
+comp-containment-anchor-warning = Você não pode desfixar o gerador de contenção enquanto está ativo ou conectado!
+comp-containment-toggle-warning = Você não pode desligar o gerador enquanto está ativo ou conectado!
+
+comp-field-vaporized = {CAPITALIZE(THE($entity))} bate no campo e é vaporizado!

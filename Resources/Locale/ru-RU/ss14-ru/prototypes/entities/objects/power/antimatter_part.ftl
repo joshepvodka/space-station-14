@@ -1,2 +1,2 @@
-ent-AmePart = упакованный ДАМ
-    .desc = Универсально-сборная упаковка, используемая для создания двигателя антиматерии.
+ent-AmePart = AME flatpack
+    .desc = A flatpack used for constructing an antimatter engine reactor.

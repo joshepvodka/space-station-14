@@ -1,2 +1,2 @@
-ent-PortableScrubber = переносной скруббер
-    .desc = Он скруббит, в переносном смысле!
+ent-PortableScrubber = portable scrubber
+    .desc = It scrubs, portably!

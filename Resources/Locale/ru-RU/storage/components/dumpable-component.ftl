@@ -1,3 +1,3 @@
-dump-verb-name = Высыпать на землю
-dump-disposal-verb-name = Высыпать в { $unit }
-dump-placeable-verb-name = Высыпать на { $surface }
+dump-verb-name = Despejar no chão
+dump-disposal-verb-name = Despejar dentro do(a) {$unit}
+dump-placeable-verb-name = Despejar em cima do(a) {$surface}

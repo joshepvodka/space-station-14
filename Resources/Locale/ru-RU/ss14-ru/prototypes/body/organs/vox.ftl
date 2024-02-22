@@ -1,3 +1,3 @@
 ent-OrganVoxLungs = { ent-OrganHumanLungs }
-    .suffix = вокс
+    .suffix = vox
     .desc = { ent-OrganHumanLungs.desc }

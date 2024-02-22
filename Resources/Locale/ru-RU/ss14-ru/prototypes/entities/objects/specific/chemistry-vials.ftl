@@ -1,4 +1,4 @@
-ent-BaseChemistryEmptyVial = пробирка
-    .desc = Маленькая пробирка.
-ent-VestineChemistryVial = пробирка вестина
+ent-BaseChemistryEmptyVial = vial
+    .desc = A small vial.
+ent-VestineChemistryVial = vestine vial
     .desc = { ent-BaseChemistryEmptyVial.desc }

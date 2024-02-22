@@ -1,17 +1,25 @@
-machine-insert-item = { $user } помещает { $item } в { $machine }.
-machine-upgrade-examinable-verb-text = Улучшения
-machine-upgrade-examinable-verb-message = Узнайте, какие параметры устройства были улучшены.
-machine-upgrade-increased-by-percentage = Параметр [color=yellow]{ $upgraded }[/color] увеличен на { $percent }%.
-machine-upgrade-decreased-by-percentage = Параметр [color=yellow]{ $upgraded }[/color] уменьшен на { $percent }%.
-machine-upgrade-increased-by-amount = Параметр [color=yellow]{ $upgraded }[/color] увеличен на { $difference }.
-machine-upgrade-decreased-by-amount = Параметр [color=yellow]{ $upgraded }[/color] уменьшен на { $difference }.
-machine-upgrade-not-upgraded = Параметр [color=yellow]{ $upgraded }[/color] не улучшался.
-machine-part-name-capacitor = Конденсатор
-machine-part-name-manipulator = Манипулятор
-machine-part-name-matter-bin = Ёмкость материи
-machine-part-name-power-cell = Батарея
-two-way-lever-left = сдвинуть рычаг влево
-two-way-lever-right = сдвинуть рычаг вправо
-two-way-lever-cant = Рычаг не может быть сдвинут в эту сторону!
-recycler-count-items = Переработано объектов: { $items }.
-machine-already-in-use = { CAPITALIZE($machine) } уже используется.
+machine-insert-item = Você insere {THE($item)} na {THE($machine)}.
+
+machine-upgrade-examinable-verb-text = Upgrades
+machine-upgrade-examinable-verb-message = Examine the machine upgrades.
+machine-upgrade-increased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] increased by {$percent}%.
+machine-upgrade-decreased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] decreased by {$percent}%.
+machine-upgrade-increased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/color] increased by {$difference}.
+machine-upgrade-decreased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/color] decreased by {$difference}.
+machine-upgrade-not-upgraded = [color=yellow]{CAPITALIZE($upgraded)}[/color] not upgraded.
+
+machine-part-name-capacitor = Capacitor
+machine-part-name-manipulator = Manipulator
+machine-part-name-matter-bin = Matter Bin
+machine-part-name-power-cell = Power Cell
+
+upgrade-power-draw = consumo de energia
+upgrade-max-charge = carga máxima
+upgrade-power-supply = fonte de energia
+upgrade-power-supply-ramping = taxa de rampa de potência
+
+two-way-lever-left = empurrar para esquerda
+two-way-lever-right = empurrar para a direita
+two-way-lever-cant = não se pode empurrar a alavanca nessa direção!
+
+recycler-count-items = Reciclou {$items} objetos.

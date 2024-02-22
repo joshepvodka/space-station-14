@@ -1,46 +1,62 @@
-signal-port-name-pressed = Нажато
-signal-port-description-pressed = Этот порт задействуется всякий раз, когда передатчик активируется.
-signal-port-name-on-transmitter = Вкл
-signal-port-description-on-transmitter = Этот порт задействуется всякий раз, когда передатчик включён.
-signal-port-name-off-transmitter = Выкл
-signal-port-description-off-transmitter = Этот порт задействуется всякий раз, когда передатчик выключен.
-signal-port-name-status-transmitter = Статус
-signal-port-description-status-transmitter = Этот порт задействуется с высоким или низким уровнем, в зависимости от состояния передатчика.
-signal-port-name-left = Налево
-signal-port-description-left = Этот порт задействуется всякий раз, когда рычаг перемещается в крайнее левое положение.
-signal-port-name-right = Направо
-signal-port-description-right = Этот порт задействуется всякий раз, когда рычаг перемещается в крайнее правое положение.
-signal-port-name-doorstatus = Статус шлюза
-signal-port-description-doorstatus = Этот порт задействуется с высоким уровнем, когда с устройством взаимодействуют, и низким уровнем в закрытом состоянии.
-signal-port-name-middle = Середина
-signal-port-description-middle = Этот порт задействуется всякий раз, когда рычаг перемещается в нейтральное положение.
-signal-port-name-timer-trigger = Таймер-триггер
-signal-port-description-timer-trigger = Этот порт задействуется всякий раз, когда срабатывает таймер.
-signal-port-name-timer-start = Таймер-старт
-signal-port-description-timer-start = Этот порт задействуется всякий раз, когда запускается таймер.
-signal-port-name-logic-output = Выход
-signal-port-description-logic-output = Этот порт задействуется с высоким или низким уровнем, в зависимости от режима.
-signal-port-name-logic-output-high = Высокий уровень
-signal-port-description-logic-output-high = Этот порт задействуется всякий раз, когда входной уровень высокий.
-signal-port-name-logic-output-low = Низкий уровень
-signal-port-description-logic-output-low = Этот порт задействуется всякий раз, когда входной уровень низкий.
+signal-port-name-pressed = Pressionado
+signal-port-description-pressed = Essa entrada é chamada sempre que o transmissor é pressionado.
+
+signal-port-name-on-transmitter = Ligado
+signal-port-description-on-transmitter = Essa entrada é chamada sempre que o transmissor é ligado.
+
+signal-port-name-off-transmitter = Desligado
+signal-port-description-off-transmitter = Essa entrada é chamada sempre que o transmissor é desligado
+
+signal-port-name-status-transmitter = Estado
+signal-port-description-status-transmitter = Esta porta gera um ALTO ou um BAIXO, dependendo do estado do transmissor.
+
+signal-port-name-left = Esquerda
+signal-port-description-left = Essa entrada é chamada sempre que a alavanca é inclinada mais à esquerda.
+
+signal-port-name-right = Direita
+signal-port-description-right = Essa entrada é chamada sempre que a alavanca é inclinada mais à direita.
+
+signal-port-name-doorstatus = Estado da porta
+signal-port-description-doorstatus = Esta porta gera um ALTO quando a porta se abre e um BAIXO quando a porta termina de fechar.
+
+signal-port-name-middle = Meio
+signal-port-description-middle = Essa entrada é chamada sempre que a alavanca é movida para o meio.
+
+signal-port-name-timer-trigger = Gatilho do Temporizador
+signal-port-description-timer-trigger = Essa entrada é chamada sempre que o temporizador é acionado.
+
+signal-port-name-timer-start = Início do temporizador
+signal-port-description-timer-start = EEssa entrada é chamada sempre que o cronômetro é iniciado.
+
+signal-port-name-logic-output = Output
+signal-port-description-logic-output = Esta porta gera um ALTO ou um BAIXO, dependendo da porta e entradas selecionadas.
+
+signal-port-name-logic-output-high = High Output
+signal-port-description-logic-output-high = Esta porta gera um pulso em ALTO sempre que a entrada tem uma borda ascendente (sobe).
+
+signal-port-name-logic-output-low = Low Output
+signal-port-description-logic-output-low = Esta porta gera um pulso em ALTO sempre que a entrada tem uma borda descendente (desce).
+
 signal-port-name-air-danger = Danger
-signal-port-description-air-danger = Этот порт задействуется с высоким уровнем сигнала когда статус Danger, если статус другой, то с низким уровнем.
+signal-port-description-air-danger = Essa porta é chamada com ALTO quando em modo perigo e em BAIXO quando não.
+
 signal-port-name-air-warning = Warning
-signal-port-description-air-warning = Этот порт задействуется с высоким уровнем сигнала когда статус Warning, если статус другой, то с низким уровнем.
+signal-port-description-air-warning = Essa porta é chamada com ALTO quando em modo aviso e em BAIXO quando não.
+
 signal-port-name-air-normal = Normal
-signal-port-description-air-normal = Этот порт задействуется с высоким уровнем сигнал когда статус Normal, если статус другой, то с низким уровнем.
-signal-port-name-decaying = Распад
-signal-port-description-decaying = Этот порт задействуется когда привязанная аномалия переходит в состояние распада.
-signal-port-name-stabilize = Стабилизация
-signal-port-description-stabilize = Этот порт задействуется когда привязанная аномалия переходит в стабильное состояние.
-signal-port-name-growing = Рост
-signal-port-description-growing = Этот порт задействуется когда привязанная аномалия переходит в состояние роста.
-signal-port-name-pulse = Импульс
-signal-port-description-pulse = Этот порт задействуется когда привязанная аномалия создаёт импульс.
-signal-port-name-supercrit = Суперкрит
-signal-port-description-supercrit = Этот порт задействуется когда привязанная аномалия взрывается после перехода в суперкритическое состояние.
-signal-port-name-power-charging = Зарядка
-signal-port-description-power-charging = Этот порт задействуется с высоким уровнем сигнала когда батарея заряжается, и с низким когда нет.
-signal-port-name-power-discharging = Разрядка
-signal-port-description-power-discharging = Этот порт задействуется с высоким уровнем сигнала когда батарея разряжается, и с низким когда нет.
+signal-port-description-air-normal = Essa porta é chamada com ALTO quando em modo normal e em BAIXO quando não.
+
+signal-port-name-decaying = Decadência
+signal-port-description-decaying = Esta porta é invocada quando uma anomalia vinculada começa a decair.
+
+signal-port-name-stabilize = Estabilizada
+signal-port-description-stabilize = Esta porta é invocada quando uma anomalia associada é normalizada.
+
+signal-port-name-growing = Crescente
+signal-port-description-growing = Esta porta é invocada quando uma anomalia associada começa a crescer.
+
+signal-port-name-pulse = Pulso
+signal-port-description-pulse = Esta porta é invocada quando uma anomalia vinculada está pulsando.
+
+signal-port-name-supercrit = Supercrítico
+signal-port-description-supercrit = Esta porta é invocada quando uma anomalia vinculada explode após o estado supercrit.

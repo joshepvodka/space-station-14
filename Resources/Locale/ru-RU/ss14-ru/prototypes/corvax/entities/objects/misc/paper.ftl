@@ -1,2 +1,2 @@
-ent-StationGoalPaper = сообщение ЦК о текущей цели станции
-    .desc = Похоже вам предстоит хорошо потрудиться.
+ent-StationGoalPaper = station goal centcomm message
+    .desc = It looks like you have a lot of work to do.

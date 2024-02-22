@@ -1,2 +1,2 @@
-ent-ClothingHeadHelmetCBURNLeader = шлем командира отряда РХБЗЗ
-    .desc = Огнеупорный, защищающий давления шлем, который используют специальные подразделения зачистки.
+ent-ClothingHeadHelmetCBURNLeader = cburn commander helmet
+    .desc = A pressure resistant and fireproof hood worn by special cleanup units.

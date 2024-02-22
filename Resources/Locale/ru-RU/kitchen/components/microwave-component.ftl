@@ -1,24 +1,30 @@
 ## Entity
 
-microwave-component-interact-using-no-power = У неё нет электричества!
-microwave-component-interact-using-broken = Она сломана!
-microwave-component-interact-using-container-full = Контейнер заполнен
-microwave-component-interact-using-transfer-success = Перенесено { $amount } ед.
-microwave-component-interact-using-transfer-fail = Это не сработает!
-microwave-component-suicide-multi-head-others-message = { $victim } пытается зажарить свои головы!
-microwave-component-suicide-others-message = { $victim } пытается зажарить свою голову!
-microwave-component-suicide-multi-head-message = Вы зажариваете свои головы!
-microwave-component-suicide-message = Вы зажариваете свою голову!
-microwave-component-interact-full = Она заполнена.
-microwave-component-interact-item-too-big = { CAPITALIZE($item) } не может поместиться в микроволновой печи из-за размера!
+microwave-component-interact-using-no-power = Não há energia!
+microwave-component-interact-using-broken = Está quebrado!
+microwave-component-interact-using-container-full = O recipiente está cheio
+microwave-component-interact-using-transfer-success = Transferido {$amount} unidades
+microwave-component-interact-using-transfer-fail = Isso não vai funcionar!
+microwave-component-suicide-multi-head-others-message = {$victim} está tentando cozinhar suas cabeças!
+microwave-component-suicide-others-message = {$victim} está tentando cozinhar sua própria cabeça!
+microwave-component-suicide-multi-head-message = Você cozinha suas cabeças!
+microwave-component-suicide-message = Você cozinha sua cabeça!
+microwave-component-upgrade-cook-time = hora de cozinhar
 
 ## Bound UI
 
-microwave-bound-user-interface-instant-button = МГНОВЕННО
-microwave-bound-user-interface-cook-time-label = ВРЕМЯ: { $time }
+microwave-bound-user-interface-instant-button = INSTANTÂNEO
+microwave-bound-user-interface-cook-time-label = TEMPO PARA COZER: {$time}
 
 ## UI
 
+<<<<<<< HEAD
+microwave-menu-title = Micro-ondas
+microwave-menu-start-button = Começar
+microwave-menu-eject-all-text = Ejetar TODOS os recipientes
+microwave-menu-eject-all-tooltip = Isso vai vaporizar todos os reagentes líquidos, ejetando os sólidos.
+microwave-menu-instant-button = INSTANTÂNEO
+=======
 microwave-menu-title = Микроволновая печь
 microwave-menu-start-button = Старт
 microwave-menu-eject-all-text = Извлечь всё
@@ -26,3 +32,4 @@ microwave-menu-eject-all-tooltip = Это испарит все жидкости
 microwave-menu-instant-button = МГНОВЕННО
 microwave-menu-footer-flavor-left = Не помещайте сюда электронные, металлические или живые объекты.
 microwave-menu-footer-flavor-right = v1.5
+>>>>>>> space-station-14/master

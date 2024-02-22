@@ -1,9 +1,5 @@
-immovable-rod-collided-rod-not-good = Ох чёрт, это не к добру.
-immovable-rod-penetrated-mob = { CAPITALIZE($rod) } начисто разносит { $mob }!
-immovable-rod-consumed-none = { CAPITALIZE($rod) } не поглотил ни одной души.
-immovable-rod-consumed-souls =
-    { CAPITALIZE($rod) } поглотил { $amount } { $amount ->
-        [one] душу
-        [few] души
-       *[other] душ
-    }.
+immovable-rod-collided-rod-not-good = Eita porra, isso não pode ser nada bom.
+immovable-rod-penetrated-mob = {CAPITALIZE(THE($rod))} estripou {THE($mob)} brutalmente!
+
+immovable-rod-consumed-none = {CAPITALIZE(THE($rod))} consumiu zero almas.
+immovable-rod-consumed-souls = {CAPITALIZE(THE($rod))} consimiu {$amount} almas.

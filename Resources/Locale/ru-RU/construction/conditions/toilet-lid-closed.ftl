@@ -1,3 +1,3 @@
 # ToiletLidClosed
-construction-examine-condition-toilet-lid-closed = Используйте [color=yellow]лом[/color] чтобы закрыть крышку.
-construction-step-condition-toilet-lid-closed = Убедитесь, что крышка унитаза закрыта.
+construction-examine-condition-toilet-lid-closed = Use um [color=yellow]pé de cabra[/color] para fechar a tampa.
+construction-step-condition-toilet-lid-closed = Tenha certeza de que a tampa do vaso está fechada.

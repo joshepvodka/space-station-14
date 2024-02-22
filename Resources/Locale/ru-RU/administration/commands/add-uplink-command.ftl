@@ -1,6 +1,7 @@
-add-uplink-command-description = Создает аплинк в выбранном предмете и привязывает его к аккаунту игрока
-add-uplink-command-help = Использование: adduplink [username] [item-id]
-add-uplink-command-completion-1 = Username (по-умолчанию это вы сами)
-add-uplink-command-completion-2 = Uplink uid (по-умолчанию это КПК)
-add-uplink-command-error-1 = Выбранный игрок не имеет подконтрольную сущность
-add-uplink-command-error-2 = Не удалось добавить аплинк игроку
+add-uplink-command-description = Cria uplink no item selecionado e conecta à conta do usuário
+add-uplink-command-help = Uso: adduplink [username] [item-id]
+
+add-uplink-command-completion-1 = Username (defaults to self)
+add-uplink-command-completion-2 = Uplink uid (default to PDA)
+add-uplink-command-error-1 = Player selecionado não controla uma entidade
+add-uplink-command-error-2 = Falha ao dar uplink para o player

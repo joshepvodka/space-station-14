@@ -1,2 +1,2 @@
-dsay-command-description = Отправляет сообщение в чат мертвых от имени администратора
-dsay-command-help-text = Использование: { $command } <message>
+dsay-command-description = Envia uma mensagem para o chat dos mortos como um admin
+dsay-command-help-text = Usage: {$command} <message>

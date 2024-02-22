@@ -1,4 +1,4 @@
-ent-XenoWardingTower = охранная башня ксено
+ent-XenoWardingTower = Xeno warding tower
     .desc = { "" }
-ent-CarpStatue = статуя карпа
-    .desc = Статуя одного из храбрых карпов, благодаря которому мы находимся там, где находимся. С настоящими зубами!
+ent-CarpStatue = carp statue
+    .desc = A statue of one of the brave carp that got us where we are today. Made with real teeth!

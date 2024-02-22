@@ -1,69 +1,92 @@
-marking-LizardFrillsShort-frills_short = Унатх, воротник (Короткий)
-marking-LizardFrillsShort = Унатх, воротник (Короткий)
-marking-LizardFrillsSimple-frills_simple = Унатх, воротник (Простой)
-marking-LizardFrillsSimple = Унатх, воротник (Простой)
-marking-LizardFrillsAquatic-frills_aquatic = Унатх, воротник (Водный)
-marking-LizardFrillsAquatic = Унатх, воротник (Водный)
-marking-LizardHornsAngler-horns_angler = Унатх, рожки (Рыболов)
-marking-LizardHornsAngler = Унатх, рожки (Рыболов)
-marking-LizardHornsCurled-horns_curled = Унатх, рожки (Завитые)
-marking-LizardHornsCurled = Унатх, рожки (Завитые)
-marking-LizardHornsRam-horns_ram = Унатх, рожки (Бараньи)
-marking-LizardHornsRam = Унатх, рожки (Бараньи)
-marking-LizardHornsShort-horns_short = Унатх, рожки (Короткие)
-marking-LizardHornsShort = Унатх, рожки (Короткие)
-marking-LizardHornsSimple-horns_simple = Унатх, рожки
-marking-LizardHornsSimple = Унатх, рожки
-marking-LizardTailSmooth-tail_smooth = Унатх, хвост (Гладкий)
-marking-LizardTailSmooth = Унатх, хвост (Гладкий)
-marking-LizardTailLarge-tail_large = Унатх, хвост (Большой)
-marking-LizardTailLarge = Унатх, хвост (Большой)
-marking-LizardTailSpikes-tail_spikes = Унатх, хвост (Шипастый)
-marking-LizardTailSpikes = Унатх, хвост (Шипастый)
-marking-LizardTailLTiger-tail_ltiger = Унатх, хвост (Светлые тигриные полоски)
-marking-LizardTailLTiger = Унатх, хвост (Светлые тигриные полоски)
-marking-LizardTailDTiger-tail_dtiger = Унатх, хвост (Тёмные тигриные полоски)
-marking-LizardTailDTiger = Унатх, хвост (Тёмные тигриные полоски)
-marking-LizardSnoutRound-snout_round = Унатх, морда (Круглая)
-marking-LizardSnoutRound = Унатх, морда (Круглая)
-marking-LizardSnoutSharp-snout_sharp = Унатх, морда (Заострёная)
-marking-LizardSnoutSharp = Унатх, морда (Заострёная)
-marking-LizardChestTiger-body_tiger = Унатх, грудь (Тигр)
-marking-LizardChestTiger = Унатх, грудь (Тигр)
-marking-LizardHeadTiger-head_tiger = Унатх, голова (Тигр)
-marking-LizardHeadTiger = Унатх, голова (Тигр)
-marking-LizardLArmTiger-l_arm_tiger = Унатх, левая рука (Тигр)
-marking-LizardLArmTiger = Унатх, левая рука (Тигр)
-marking-LizardLLegTiger-l_leg_tiger = Унатх, левая нога (Тигр)
-marking-LizardLLegTiger = Унатх, левая нога (Тигр)
-marking-LizardRArmTiger-r_arm_tiger = Унатх, правая рука (Тигр)
-marking-LizardRArmTiger = Унатх, правая рука (Тигр)
-marking-LizardRLegTiger-r_leg_tiger = Унатх, правая нога (Тигр)
-marking-LizardRLegTiger = Унатх, правая нога (Тигр)
-marking-LizardFrillsDivinity-frills_divinity = Унатх, воротник (Божественный)
-marking-LizardFrillsDivinity = Унатх, воротник (Божественный)
-marking-LizardFrillsBig-frills_big = Унатх, воротник (Большой)
-marking-LizardFrillsBig = Унатх, воротник (Большой)
-marking-LizardHornsDouble-horns_double = Унатх, рожки (Двойные)
-marking-LizardHornsDouble = Унатх, рожки (Двойные)
-marking-LizardFrillsAxolotl-frills_axolotl = Унатх, воротник (Аксолотль)
-marking-LizardFrillsHood-frills_hood_primary = Внешний капюшон
-marking-LizardFrillsHood-frills_hood_secondary = Внутренний капюшон
-marking-LizardFrillsAxolotl = Унатх, воротник (Аксолотль)
-marking-LizardFrillsHood = Унатх, воротник (Капюшон)
-marking-LizardHornsArgali-horns_argali = Унатх, рожки (Аргали)
-marking-LizardHornsArgali = Унатх, рожки (Аргали)
-marking-LizardHornsAyrshire-horns_ayrshire = Унатх, рожки (Айршир)
-marking-LizardHornsAyrshire = Унатх, рожки (Айршир)
-marking-LizardHornsMyrsore-horns_myrsore = Унатх, рожки (Мирзора)
-marking-LizardHornsMyrsore = Унатх, рожки (Мирзора)
-marking-LizardHornsBighorn-horns_bighorn = Унатх, рожки (Толсторог)
-marking-LizardHornsBighorn = Унатх, рожки (Толсторог)
-marking-LizardHornsKoboldEars-horns_kobold_ears = Унатх, уши (Кобольд)
-marking-LizardHornsKoboldEars = Унатх, уши (Кобольд)
-marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Унатх, уши (Вислоухий кобольд)
-marking-LizardHornsFloppyKoboldEars = Унатх, уши (Вислоухий кобольд)
-marking-LizardChestUnderbelly-body_underbelly = Унатх, грудь (Подбрюшье)
-marking-LizardChestUnderbelly = Унатх, грудь (Подбрюшье)
-marking-LizardChestBackspikes-body_backspikes = Унатх, грудь, шипы на спине (Четыре)
-marking-LizardChestBackspikes = Унатх, грудь, шипы на спине (Четыре)
+marking-LizardFrillsShort-frills_short = Babados de Lagarto (Curto)
+marking-LizardFrillsShort = Babados de Lagarto (Curto)
+
+marking-LizardFrillsSimple-frills_simple = Babados de Lagarto (Simples)
+marking-LizardFrillsSimple = Babados de Lagarto (Simples)
+
+marking-LizardFrillsAquatic-frills_aquatic = Babados de Lagarto (Aquatico)
+marking-LizardFrillsAquatic = Babados de Lagarto (Aquatico)
+
+marking-LizardHornsAngler-horns_angler = Chifres de Lagarto (Angular)
+marking-LizardHornsAngler = Chifres de Lagarto (Angular)
+
+marking-LizardHornsCurled-horns_curled = Chifres de Lagarto (Enrolado)
+marking-LizardHornsCurled = Chifres de Lagarto (Enrolado)
+
+marking-LizardHornsRam-horns_ram = Chifres de Lagarto (Carneiro)
+marking-LizardHornsRam = Chifres de Lagarto (Carneiro)
+
+marking-LizardHornsShort-horns_short = Chifres de Lagarto (Curto)
+marking-LizardHornsShort = Chifres de Lagarto (Curto)
+
+marking-LizardHornsSimple-horns_simple = Chifres de Lagarto
+marking-LizardHornsSimple = Chifres de Lagarto
+
+marking-LizardTailSmooth-tail_smooth = Rabo de Lagarto (Suave)
+marking-LizardTailSmooth = Rabo de Lagarto (Suave)
+
+marking-LizardTailSpikes-tail_spikes = Rabo de Lagarto (Espetado)
+marking-LizardTailSpikes = Rabo de Lagarto (Espetado)
+
+marking-LizardTailLTiger-tail_ltiger = Rabo de Lagarto (Listras de tigre claras)
+marking-LizardTailLTiger = Rabo de Lagarto (Listras de tigre claras)
+
+marking-LizardTailDTiger-tail_dtiger = Rabo de Lagarto (Listras de tigre escuras)
+marking-LizardTailDTiger = Rabo de Lagarto (Listras de tigre escuras)
+
+marking-LizardSnoutRound-snout_round = Nariz de Lagarto (Redondo)
+marking-LizardSnoutRound = Nariz de Lagarto (Redondo)
+
+marking-LizardSnoutSharp-snout_sharp = Nariz de Lagarto (Afiado)
+marking-LizardSnoutSharp = Nariz de Lagarto (Afiado)
+
+marking-LizardChestTiger-chest_tiger = Peito de Lagarto (Tigre)
+marking-LizardChestTiger = Peito de Lagarto (Tigre)
+
+marking-LizardHeadTiger-head_tiger = Lizard Head (Tiger)
+marking-LizardHeadTiger = Lizard Head (Tiger)
+
+marking-LizardLArmTiger-l_arm_tiger = Lizard Left Arm (Tiger)
+marking-LizardLArmTiger = Lizard Left Arm (Tiger)
+
+marking-LizardLLegTiger-l_leg_tiger = Lizard Left Leg (Tiger)
+marking-LizardLLegTiger = Lizard Left Leg (Tiger)
+
+marking-LizardRArmTiger-r_arm_tiger = Lizard Right Arm (Tiger)
+marking-LizardRArmTiger = Lizard Right Arm (Tiger)
+
+marking-LizardRLegTiger-r_leg_tiger = Lizard Right Leg (Tiger)
+marking-LizardRLegTiger = Lizard Right Leg (Tiger)
+
+marking-LizardFrillsDivinity-frills_divinity = Babados de Lagarto (Divindade)
+marking-LizardFrillsDivinity = Babados de Lagarto (Divindade)
+
+marking-LizardFrillsBig-frills_big = Babados de Lagarto (Grandes)
+marking-LizardFrillsBig = Babados de Lagarto (Grandes)
+
+marking-LizardHornsDouble-horns_double = Chifres de Lagarto (Duplos)
+marking-LizardHornsDouble = Chifres de Lagarto (Duplos)
+
+marking-LizardFrillsAxolotl-frills_axolotl = Lizard Frills (Axolotl)
+marking-LizardFrillsAxolotl = Lizard Frills (Axolotl)
+
+marking-LizardFrillsHood-frills_hood = Lizard Frills (Hood)
+marking-LizardFrillsHood = Lizard Frills (Hood)
+
+marking-LizardHornsArgali-horns_argali = Lizard Horns (Argali)
+marking-LizardHornsArgali = Lizard Horns (Argali)
+
+marking-LizardHornsAyrshire-horns_ayrshire = Lizard Horns (Ayrshire)
+marking-LizardHornsAyrshire = Lizard Horns (Ayrshire)
+
+marking-LizardHornsMyrsore-horns_myrsore = Lizard Horns (Myrsore)
+marking-LizardHornsMyrsore = Lizard Horns (Myrsore)
+
+marking-LizardHornsBighorn-horns_bighorn = Lizard Horns (Bighorn)
+marking-LizardHornsBighorn = Lizard Horns (Bighorn)
+
+marking-LizardHornsKoboldEars-horns_kobold_ears = Lizard Ears (Kobold)
+marking-LizardHornsKoboldEars = Lizard Ears (Kobold)
+
+marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Lizard Ears (Floppy Kobold)
+marking-LizardHornsFloppyKoboldEars = Lizard Ears (Floppy Kobold)

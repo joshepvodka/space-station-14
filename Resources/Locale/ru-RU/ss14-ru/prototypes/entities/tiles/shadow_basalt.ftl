@@ -1,5 +1,5 @@
-ent-ShadowBasaltOne = тенекамень
-    .desc = Холодный камень.
+ent-ShadowBasaltOne = shadowstone
+    .desc = Cold rock
 ent-ShadowBasaltTwo = { ent-ShadowBasaltOne }
     .desc = { ent-ShadowBasaltOne.desc }
 ent-ShadowBasaltThree = { ent-ShadowBasaltOne }
@@ -9,5 +9,5 @@ ent-ShadowBasaltFour = { ent-ShadowBasaltOne }
 ent-ShadowBasaltFive = { ent-ShadowBasaltOne }
     .desc = { ent-ShadowBasaltOne.desc }
 ent-ShadowBasaltRandom = { ent-ShadowBasaltOne }
-    .suffix = Случайный
+    .suffix = Random
     .desc = { ent-ShadowBasaltOne.desc }

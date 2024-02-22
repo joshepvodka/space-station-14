@@ -1,2 +1,2 @@
-ent-Acidifier = кислота
-    .desc = Растапливает вас в мерзкую лужицу!
+ent-Acidifier = acid
+    .desc = Melts you into a puddle of yuck!

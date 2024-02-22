@@ -1,5 +1,5 @@
-puddle-component-examine-is-slipper-text = Выглядит [color=#169C9C]скользко[/color].
-puddle-component-examine-evaporating = [color=#5E7C16]Испаряется[/color].
-puddle-component-examine-evaporating-partial = [color=#FED83D]Частично испаряется[/color].
-puddle-component-examine-evaporating-no = [color=#B02E26]Не испаряется[/color].
-puddle-component-slipped-touch-reaction = Вещества из { $puddle } попали на вашу кожу!
+puddle-component-examine-is-slipper-text = Parece [color=#169C9C]escorregadio[/color].
+puddle-component-examine-evaporating = Está [color=#5E7C16]evaporando[/color].
+puddle-component-examine-evaporating-partial = Está [color=#FED83D]evaporando parcialmente[/color].
+puddle-component-examine-evaporating-no = [color=#B02E26]não está evaporando[/color].
+puddle-component-slipped-touch-reaction = As substâncias na {THE($puddle)} entram em contato com a sua pele!

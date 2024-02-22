@@ -1,1 +1,1 @@
-weldable-component-examine-is-welded = Оно заварено наглухо.
+weldable-component-examine-is-welded = Isso foi fechado e soldado.

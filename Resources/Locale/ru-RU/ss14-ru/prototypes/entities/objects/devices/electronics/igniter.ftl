@@ -1,2 +1,2 @@
-ent-Igniter = воспламенитель
-    .desc = При подаче сигнала создает искру.
+ent-Igniter = igniter
+    .desc = Creates a spark when activated by a signal.

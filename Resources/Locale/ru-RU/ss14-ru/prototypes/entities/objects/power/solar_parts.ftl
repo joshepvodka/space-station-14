@@ -1,2 +1,2 @@
-ent-SolarAssemblyPart = упакованный каркас солнечной батареи
-    .desc = Универсально-сборная упаковка, используемая для создания каркаса солнечной панели.
+ent-SolarAssemblyPart = solar assembly flatpack
+    .desc = A flatpack used for constructing a solar assembly.

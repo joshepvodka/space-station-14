@@ -1,9 +1,9 @@
 # Clothing speed examine
-clothing-speed-examinable-verb-text = Одежда
-clothing-speed-examinable-verb-message = Изучить показатели скорости одежды.
-clothing-speed-increase-equal-examine = Повышает вашу скорость на [color=yellow]{ $walkSpeed }%[/color].
-clothing-speed-decrease-equal-examine = Понижает вашу скорость на [color=yellow]{ $walkSpeed }%[/color].
-clothing-speed-increase-run-examine = Повышает вашу скорость бега на [color=yellow]{ $runSpeed }%[/color].
-clothing-speed-decrease-run-examine = Понижает вашу скорость бега на [color=yellow]{ $runSpeed }%[/color].
-clothing-speed-increase-walk-examine = Повышает вашу скорость ходьбы на [color=yellow]{ $walkSpeed }%[/color].
-clothing-speed-decrease-walk-examine = Понижает вашу скорость ходьбы на [color=yellow]{ $walkSpeed }%[/color].
+clothing-speed-examinable-verb-text = Roupa
+clothing-speed-examinable-verb-message = Inspecionar os valores de velocidade.
+clothing-speed-increase-equal-examine = Aumenta sua velocidade em [color=yellow]{$walkSpeed}%[/color].
+clothing-speed-decrease-equal-examine = Diminui sua velocidade em [color=yellow]{$walkSpeed}%[/color].
+clothing-speed-increase-run-examine = Aumenta sua velocidade de corrida em [color=yellow]{$runSpeed}%[/color].
+clothing-speed-decrease-run-examine = Diminui sua velocidade de corrida em [color=yellow]{$runSpeed}%[/color].
+clothing-speed-increase-walk-examine = Aumenta sua velocidade de caminhada em [color=yellow]{$walkSpeed}%[/color].
+clothing-speed-decrease-walk-examine = Diminui sua velocidade de caminhada em [color=yellow]{$walkSpeed}%[/color].

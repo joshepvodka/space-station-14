@@ -1,34 +1,40 @@
-id-card-access-level-command = Командование
-id-card-access-level-captain = Капитан
-id-card-access-level-head-of-personnel = Глава персонала
-id-card-access-level-cryogenics = Криогеника
-id-card-access-level-head-of-security = Глава службы безопасности
-id-card-access-level-security = Служба безопасности
-id-card-access-level-armory = Оружейная
-id-card-access-level-brig = Бриг
-id-card-access-level-detective = Детектив
-id-card-access-level-chief-engineer = Старший инженер
-id-card-access-level-engineering = Инженерный
-id-card-access-level-atmospherics = Атмосферный
-id-card-access-level-research-director = Научный руководитель
-id-card-access-level-research = Научный
-id-card-access-level-chief-medical-officer = Главный врач
-id-card-access-level-medical = Медотсек
-id-card-access-level-chemistry = Химия
-id-card-access-level-paramedic = Парамедик
-id-card-access-level-quartermaster = Квартирмейстер
-id-card-access-level-cargo = Снабжение
-id-card-access-level-salvage = Утилизаторы
-id-card-access-level-bar = Бар
-id-card-access-level-kitchen = Кухня
-id-card-access-level-hydroponics = Гидропоника
-id-card-access-level-service = Сервис
-id-card-access-level-janitor = Уборщик
-id-card-access-level-theatre = Театр
-id-card-access-level-chapel = Церковь
-id-card-access-level-lawyer = Юридический
-id-card-access-level-maintenance = Техобслуживание
-id-card-access-level-external = Внешний
-id-card-access-level-nuclear-operative = Ядерный оперативник
-id-card-access-level-syndicate-agent = Агент Синдиката
-id-card-access-level-central-command = Центральное командование
+id-card-access-level-command = Comando
+id-card-access-level-captain = Capitão
+id-card-access-level-head-of-personnel = Chefe dos Funcionários
+
+id-card-access-level-head-of-security = Chefe de Segurança
+id-card-access-level-security = Segurança
+id-card-access-level-armory = Arsenal
+id-card-access-level-brig = Brig
+id-card-access-level-detective = Detetive
+
+id-card-access-level-chief-engineer = Chefe da Engenharia
+id-card-access-level-engineering = Engenharia
+id-card-access-level-atmospherics = Atmosférica
+
+id-card-access-level-research-director = Diretor de Pesquisa
+id-card-access-level-research = Pesquisa
+
+id-card-access-level-chief-medical-officer = Médico Chefe
+id-card-access-level-medical = Médica
+id-card-access-level-chemistry = Química
+id-card-access-level-paramedic = Paramedic
+
+id-card-access-level-quartermaster = Intendente de Carga
+id-card-access-level-cargo = Cargo
+id-card-access-level-salvage = Salvagem
+
+id-card-access-level-bar = Bar
+id-card-access-level-kitchen = Cozinha
+id-card-access-level-hydroponics = Hidropônica
+id-card-access-level-service = Serviço
+id-card-access-level-janitor = Zeladoria
+id-card-access-level-theatre = Teatro
+id-card-access-level-chapel = Capela
+
+id-card-access-level-maintenance = Manutenção
+
+id-card-access-level-external = Externo
+
+id-card-access-level-nuclear-operative = Operativo Nuclear
+id-card-access-level-syndicate-agent = Agente Sindicato

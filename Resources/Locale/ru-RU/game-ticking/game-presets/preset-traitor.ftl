@@ -1,40 +1,43 @@
 ## Traitor
 
+traitor-round-end-codewords = As palavras chave eram: [color=White]{$codewords}[/color].
+traitor-round-end-agent-name = Traidor
+
+objective-issuer-syndicate = [color=#87cefa]O Sindicato[/color]
+
 # Shown at the end of a round of Traitor
-traitor-round-end-agent-name = предатель
-objective-issuer-syndicate = [color=crimson]Синдикат[/color]
-traitor-round-end-codewords = Кодовыми словами были: [color=White]{ $codewords }[/color].
-traitor-title = Предатели
-traitor-description = Среди нас есть предатели...
-traitor-not-enough-ready-players = Недостаточно игроков готовы к игре! Из { $minimumPlayers } необходимых игроков готовы { $readyPlayersCount }. Нельзя запустить пресет Предатели.
-traitor-no-one-ready = Нет готовых игроков! Нельзя запустить пресет Предатели.
+
+traitor-title = Traitor
+traitor-description = Há traidores entre nós...
+traitor-not-enough-ready-players = Faltou mais jogadores prontos para a partida! Haviam {$readyPlayersCount} jogadores prontos de {$minimumPlayers} necessários. Impossível iniciar modo traidor.
+traitor-no-one-ready = Nenhum jogador deu "pronto"! Impossível iniciar modo traidor.
 
 ## TraitorDeathMatch
-
-traitor-death-match-title = Бой насмерть предателей
-traitor-death-match-description = Все — предатели. Все хотят смерти друг друга.
-traitor-death-match-station-is-too-unsafe-announcement = На станции слишком опасно, чтобы продолжать. У вас есть одна минута.
-traitor-death-match-end-round-description-first-line = КПК были восстановлены...
-traitor-death-match-end-round-description-entry = КПК { $originalName }, с { $tcBalance } ТК
+traitor-death-match-title = Mata-mata de traidor
+traitor-death-match-description = NÃO É BATTLE ROYALE! Não vai ganhar nada sobrevivendo escondido, procure seus oponentes, acumule TCs! Todos são traidores. Todo mundo quer matar uns aos outros.
+traitor-death-match-station-is-too-unsafe-announcement = A estação está muito perigosa para continuar. Você tem um minuto.
+traitor-death-match-end-round-description-first-line = Os PDAs se recuperaram depois...
+traitor-death-match-end-round-description-entry = PDA de {$originalName}, com {$tcBalance} TC
 
 ## TraitorRole
 
 # TraitorRole
 traitor-role-greeting =
-    Вы - агент Синдиката.
-    Ваши цели и кодовые слова перечислены в меню персонажа.
-    Воспользуйтесь аплинком, встроенным в ваш КПК, чтобы приобрести всё необходимое для выполнения работы.
-    Смерть Nanotrasen!
+    Você é um agente do sindicato.
+    Seus objetivos e palavras-código estão listados no menu do personagem.
+    Use o uplink carregado em seu PDA para comprar as ferramentas necessárias para esta missão.
+    Morte para Nanotrasen!
 traitor-role-codewords =
-    Кодовые слова следующие:
-    { $codewords }
-    Кодовые слова можно использовать в обычном разговоре, чтобы незаметно идентифицировать себя для других агентов Синдиката.
-    Прислушивайтесь к ним и храните их в тайне.
+    As palavras-código são:
+    {$codewords}.
+    As palavras-código podem ser usadas em conversas regulares para se identificar discretamente para outros agentes do sindicato.
+    Ouça-os e mantenha-os em segredo.
 traitor-role-uplink-code =
-    Установите рингтон Вашего КПК на { $code } чтобы заблокировать или разблокировать аплинк.
-    Не забудьте заблокировать его и сменить код, иначе кто угодно из экипажа станции сможет открыть аплинк!
+    Defina seu toque para as notas {$code} para bloquear ou desbloquear seu uplink.
+    Lembre-se de trancá-lo depois, ou a equipe da estação também o abrirá facilmente!
+
 # don't need all the flavour text for character menu
 traitor-role-codewords-short =
-    Кодовые слова:
-    { $codewords }.
-traitor-role-uplink-code-short = Ваш код аплинка: { $code }. Установите его в качестве рингтона КПК для доступа к аплинку.
+    As palavras-código são:
+    {$codewords}.
+traitor-role-uplink-code-short = Seu código de uplink é {$code}.

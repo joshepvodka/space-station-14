@@ -1,4 +1,4 @@
-ent-AirSensor = сенсор воздуха
-    .desc = Воздушный сенсор. Чувствует воздух.
-ent-AirSensorAssembly = корпус сенсора воздуха
-    .desc = Корпус воздушного сенсора. Ещё не чувствует воздух.
+ent-AirSensor = air sensor
+    .desc = Air sensor. It senses air.
+ent-AirSensorAssembly = air sensor assembly
+    .desc = Air sensor assembly. An assembly of air sensors?

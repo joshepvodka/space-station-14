@@ -1,4 +1,4 @@
-set-mind-command-description = Перемещает сознание в указанную сущность. Сущность должна иметь { $requiredComponent }. По умолчанию это заставит разум, который в данный момент посещает другие сущности, вернуться обратно (т.е. вернуть призрака в свое основное тело).
-set-mind-command-help-text = Использование: { $command } <entityUid> <username> [unvisit]
-set-mind-command-target-has-no-content-data-message = Целевой игрок не имеет данных о содержимом (wtf?)
-set-mind-command-target-has-no-mind-message = Целевая сущность не обладает разумом (вы забыли сделать ее разумной?)
+set-mind-command-description = Transfere uma mente para a entidade especificada. A entidade deve ter um {$requiredComponent}. Por default isso forçará as mentes que estão visitando atualmente outras entidades a retornar (ou seja, devolver um fantasma ao seu corpo principal).
+set-mind-command-help-text = Modo de uso: {$command} <entityUid> <username>
+set-mind-command-target-has-no-content-data-message = O player de destino não possui dados de conteúdo (wtf?)
+set-mind-command-target-has-no-mind-message = A entidade alvo não tem mente (você se esqueceu de fazer senciente?)

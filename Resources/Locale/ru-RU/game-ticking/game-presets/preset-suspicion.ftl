@@ -1,2 +1,2 @@
-suspicion-title = Подозрения
-suspicion-description = Подозрения разгораются на станции. На борту есть предатели... Сможете ли вы убить их до того, как они убьют вас?
+suspicion-title = Suspeitos
+suspicion-description = A estação parece suspeita. Há traidores a bordo... será que você consegue matar eles antes que eles te matem?

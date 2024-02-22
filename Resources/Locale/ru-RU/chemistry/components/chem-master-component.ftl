@@ -1,32 +1,31 @@
 ## Entity
 
-chem-master-component-activate-no-hands = У вас нет рук.
-chem-master-component-cannot-put-entity-message = Вы не можете поместить это в ХимМастер!
+chem-master-component-activate-no-hands = Você não tem mãos.
+chem-master-component-cannot-put-entity-message = Você não pode pôr isso no ChemMaster!
 
 ## Bound UI
-
-chem-master-bound-user-interface-title = ХимМастер 4000
+chem-master-bound-user-interface-title = ChemMaster 4000
 
 ## UI
 
-chem-master-window-input-tab = Вход
-chem-master-window-output-tab = Выход
-chem-master-window-container-label = Контейнер
-chem-master-window-eject-button = Извлечь
-chem-master-window-no-container-loaded-text = Контейнер не загружен.
-chem-master-window-buffer-text = Буфер
-chem-master-window-buffer-label = буфер:
-chem-master-window-buffer-all-amount = Всё
-chem-master-window-buffer-empty-text = Буфер пуст.
-chem-master-window-buffer-low-text = Недостаточно раствора в буфере
-chem-master-window-transfer-button = Перенести
-chem-master-window-discard-button = Уничтожить
-chem-master-window-packaging-text = Упаковка
-chem-master-current-text-label = Метка:
-chem-master-window-pills-label = Таблетка:
-chem-master-window-pill-type-label = Тип таблеток:
-chem-master-window-pills-number-label = Кол-во:
-chem-master-window-dose-label = Дозировка (ед.):
-chem-master-window-create-button = Создать
-chem-master-window-bottles-label = Бутылочки:
-chem-master-window-unknown-reagent-text = Неизвестный реагент
+chem-master-window-input-tab = Entrada
+chem-master-window-output-tab = Saída
+chem-master-window-container-label = Container
+chem-master-window-eject-button = Ejetar
+chem-master-window-no-container-loaded-text = Nenhum container carregado.
+chem-master-window-buffer-text = Buffer
+chem-master-window-buffer-label = buffer:
+chem-master-window-buffer-all-amount = Tudo
+chem-master-window-buffer-empty-text = Buffer vazio.
+chem-master-window-buffer-low-text = Solução insulficiente na reserva
+chem-master-window-transfer-button = Transferir
+chem-master-window-discard-button = Descartar
+chem-master-window-packaging-text = Empacotando
+chem-master-current-text-label = Rótulo:
+chem-master-window-pills-label = Pílulas:
+chem-master-window-pill-type-label = Tipo da pílula:
+chem-master-window-pills-number-label = Quantidade:
+chem-master-window-dose-label = Dose (u):
+chem-master-window-create-button = Criar
+chem-master-window-bottles-label = Garrafas:
+chem-master-window-unknown-reagent-text = Reagente desconhecido

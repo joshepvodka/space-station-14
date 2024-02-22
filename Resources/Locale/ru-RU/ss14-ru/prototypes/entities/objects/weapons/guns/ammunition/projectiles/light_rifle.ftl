@@ -1,10 +1,10 @@
-ent-BulletLightRifle = пуля (.20 винтовочная)
+ent-BulletLightRifle = bullet (.20 rifle)
     .desc = { ent-BaseBullet.desc }
-ent-BulletLightRiflePractice = пуля (.20 винтовочная учебная)
+ent-BulletLightRiflePractice = bullet (.20 rifle practice)
     .desc = { ent-BaseBulletPractice.desc }
-ent-BulletLightRifleRubber = пуля (.20 винтовочная резиновая)
+ent-BulletLightRifleRubber = bullet (.20 rifle rubber)
     .desc = { ent-BaseBulletRubber.desc }
-ent-BulletLightRifleIncendiary = пуля (.20 винтовочная зажигательная)
+ent-BulletLightRifleIncendiary = bullet (.20 rifle incendiary)
     .desc = { ent-BaseBulletIncendiary.desc }
-ent-BulletLightRifleUranium = пуля (.20 винтовочная урановая)
+ent-BulletLightRifleUranium = bullet (.20 rifle uranium)
     .desc = { ent-BaseBulletUranium.desc }

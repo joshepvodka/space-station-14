@@ -1,4 +1,4 @@
 ## RecyclerComponent
 
-recycler-component-suicide-message-others = { $victim } пытается переработать { $victim }!
-recycler-component-suicide-message = Вы перерабатываете себя самого!
+recycler-component-suicide-message-others = {$victim} está reciclando {$victim}!
+recycler-component-suicide-message = Você se reciclou!

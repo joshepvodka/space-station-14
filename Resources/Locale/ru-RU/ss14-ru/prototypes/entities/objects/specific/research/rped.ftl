@@ -1,2 +1,2 @@
-ent-RPED = РПЗД
-    .desc = Ручной прибор для замены деталей, идеально подходит для быстрого улучшения устройств.
+ent-RPED = RPED
+    .desc = A Rapid Part Exchange Device, perfect for quickly upgrading machines.

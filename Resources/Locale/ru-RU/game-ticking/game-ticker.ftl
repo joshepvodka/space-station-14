@@ -1,44 +1,39 @@
-game-ticker-restart-round = Перезапуск раунда...
-game-ticker-start-round = Раунд начинается...
-game-ticker-start-round-cannot-start-game-mode-fallback = Не удалось запустить режим { $failedGameMode }! Запускаем { $fallbackMode }...
-game-ticker-start-round-cannot-start-game-mode-restart = Не удалось запустить режим { $failedGameMode }! Перезапуск раунда...
-game-ticker-start-round-invalid-map = Выбранная карта { $map } не подходит для игрового режима { $mode }. Игровой режим может не функционировать как задумано...
-game-ticker-unknown-role = Неизвестный
-game-ticker-delay-start = Начало раунда было отложено на { $seconds } секунд.
-game-ticker-pause-start = Начало раунда было приостановлено.
-game-ticker-pause-start-resumed = Отсчет начала раунда возобновлен.
-game-ticker-player-join-game-message = Добро пожаловать на Космическую Станцию 14! Если вы играете впервые, обязательно нажмите ESC на клавиатуре и прочитайте правила игры, а также не бойтесь просить помощи в "Админ помощь".
-game-ticker-get-info-text =
-    Привет и добро пожаловать в [color=white]Space Station 14![/color]
-    Текущий раунд: [color=white]#{ $roundId }[/color]
-    Текущее количество игроков: [color=white]{ $playerCount }[/color]
-    Текущая карта: [color=white]{ $mapName }[/color]
-    Текущий режим игры: [color=white]{ $gmTitle }[/color]
-    >[color=yellow]{ $desc }[/color]
-game-ticker-get-info-preround-text =
-    Привет и добро пожаловать в [color=white]Space Station 14![/color]
-    Текущий раунд: [color=white]#{ $roundId }[/color]
-    Текущее количество игроков: [color=white]{ $playerCount }[/color] ([color=white]{ $readyCount }[/color] { $readyCount ->
-        [one] готов
-       *[other] готовы
-    })
-    Текущая карта: [color=white]{ $mapName }[/color]
-    Текущий режим игры: [color=white]{ $gmTitle }[/color]
-    >[color=yellow]{ $desc }[/color]
-game-ticker-no-map-selected = [color=red]Карта ещё не выбрана![/color]
-game-ticker-player-no-jobs-available-when-joining = При попытке присоединиться к игре ни одной роли не было доступно.
+game-ticker-restart-round = Reiniciando a partida...
+game-ticker-start-round = A partida está começando agora...
+game-ticker-start-round-cannot-start-game-mode-fallback = Falha ao iniciar o modo {$failedGameMode}! Mudando para {$fallbackMode}...
+game-ticker-start-round-cannot-start-game-mode-restart = Falha ao iniciar o modo {$failedGameMode}! Reiniciando a partida...
+game-ticker-start-round-invalid-map = O mapa selecionado {$map} é inelegível para o modo de jogo {$mode}. O Gamemode pode não funcionar como pretendido...
+game-ticker-unknown-role = Desconhecido
+game-ticker-delay-start = O inicio da partida foi atrasado para {$seconds} segundos.
+game-ticker-pause-start = A inicialização de partida foi pausada.
+game-ticker-pause-start-resumed = A contagem para iniciar a partida voltou.
+game-ticker-player-join-game-message = Boas vindas à estação espacial 14! Se essa é sua primeira vez jogando, se certifique de ler as regras do jogo, e não tenha vergonha de pedir ajuda no chat OOC.
+game-ticker-get-info-text = Olá e bem-vindo a [color=white]Estação Pirata![/color]
+                            A rodada atual é: [color=white]#{$roundId}[/color]
+                            A quantidade de jogadores conectados é: [color=white]{$playerCount}[/color]
+                            O mapa atual é: [color=white]{$mapName}[/color]
+                            O modo de jogo atual é: [color=white]{$gmTitle}[/color]
+                            >[color=yellow]{$desc}[/color]
+game-ticker-get-info-preround-text = Olá e bem-vindo a [color=white]Estação Pirata![/color]
+                            A rodada atual é: [color=white]#{$roundId}[/color]
+                            A quantidade de jogadores conectados é: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
+                                [one] está
+                                *[other] estão
+                            } pronto(s))
+                            O mapa atual é: [color=white]{$mapName}[/color]
+                            O modo de jogo atual é: [color=white]{$gmTitle}[/color]
+                            >[color=yellow]{$desc}[/color]
+game-ticker-no-map-selected = [color=red]Nenhum mapa selecionado![/color]
+game-ticker-player-no-jobs-available-when-joining = Ao tentar entrar no jogo, nenhum trabalho está disponível.
+
 # Displayed in chat to admins when a player joins
-player-join-message = Игрок { $name } зашёл!
-player-first-join-message = Игрок { $name } зашёл на сервер впервые.
+player-join-message = O jogador {$name} entrou.
+player-first-join-message = O jogador {$name} entrou pela primeira vez.
+
 # Displayed in chat to admins when a player leaves
-player-leave-message = Игрок { $name } вышел!
-latejoin-arrival-announcement =
-    { $character } ({ $job }) { $gender ->
-        [male] прибыл
-        [female] прибыла
-        [epicene] прибыли
-       *[neuter] прибыл
-    } на станцию!
-latejoin-arrival-sender = Станции
-latejoin-arrivals-direction = Вскоре прибудет шаттл, который доставит вас на станцию.
-latejoin-arrivals-direction-time = Шаттл, который доставит вас на станцию, прибудет через { $time }.
+player-leave-message = O jogador {$name} saiu.
+
+latejoin-arrival-announcement = {$character} ({$job}) chegou a estação!
+latejoin-arrival-sender = Estação
+latejoin-arrivals-direction = Uma nave pra te transferir pra a sua estação chegará em breve.
+latejoin-arrivals-direction-time = Uma nave pra te transferir para a sua estação chegará em {$time}.

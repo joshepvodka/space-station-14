@@ -1,26 +1,38 @@
-reagent-name-flour = мука
-reagent-desc-flour = Используется в выпечке.
-reagent-name-cornmeal = кукурузная мука
-reagent-desc-cornmeal = Используется в выпечке.
-reagent-name-oats = овёс
-reagent-desc-oats = Используется для различных вкусных целей.
-reagent-name-enzyme = универсальный фермент
-reagent-desc-enzyme = Используется в приготовлении различных блюд.
-reagent-name-egg = приготовленное яйцо
-reagent-desc-egg = Приготовленный зародыш курицы, вкусно.
-reagent-name-raw-egg = сырое яйцо
-reagent-desc-raw-egg = Используется в выпечке.
-reagent-name-sugar = сахар
-reagent-desc-sugar = Вкусный космический сахар!
-reagent-name-blackpepper = чёрный перец
-reagent-desc-blackpepper = Часто используется как приправа к пище, или чтобы заставить людей чихать.
-reagent-name-vinegar = уксус
-reagent-desc-vinegar = Часто используется как приправа к пище.
-reagent-name-rice = рис
-reagent-desc-rice = Твёрдые, маленькие белые зёрнышки.
-reagent-name-oil-olive = оливковое масло
-reagent-desc-oil-olive = Вязкое и ароматное.
-reagent-name-oil = масло
-reagent-desc-oil = Используется поварами для приготовления пищи.
-reagent-name-capsaicin-oil = капсаициновое масло
-reagent-desc-capsaicin-oil = Капсаициновое масло - это ингредиент, содержащийся в различных сортах острого перца.
+reagent-name-flour = farinha
+reagent-desc-flour = Usado para assar.
+
+reagent-name-cornmeal = farinha de milho
+reagent-desc-cornmeal = Usado para assar.
+
+reagent-name-oats = aveia
+reagent-desc-oats = Usado para uma variedade de propósitos saborosos.
+
+reagent-name-enzyme = enzima universal
+reagent-desc-enzyme = Usado para cozinhar uma variedade de pratos.
+
+reagent-name-egg = ovo
+reagent-desc-egg = Embrião de frango cozido, uma delícia.
+
+reagent-name-raw-egg = ovo cru
+reagent-desc-raw-egg = Usado para assar.
+
+reagent-name-sugar = sugar
+reagent-desc-sugar = Saboroso açucar do espaço!
+
+reagent-name-blackpepper = pimenta preta
+reagent-desc-blackpepper = Frequentemente usado para temperar comida ou fazer pessoas espirrarem.
+
+reagent-name-vinegar = vinagre
+reagent-desc-vinegar = Usado para temperar comida.
+
+reagent-name-rice = arroz
+reagent-desc-rice = Pequenos, duros grãos brancos.
+
+reagent-name-oil-olive = óleo de oliva
+reagent-desc-oil-olive = Viscoso e cheiroso.
+
+reagent-name-oil = óleo
+reagent-desc-oil = Usado por chefs para cozinhar.
+
+reagent-name-capsaicin-oil = Óleo de Capsaicina
+reagent-desc-capsaicin-oil = Capsaicin Oil é o ingrediente encontrado nas pimentas chilli.

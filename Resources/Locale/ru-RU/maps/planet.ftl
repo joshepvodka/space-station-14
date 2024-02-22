@@ -1,5 +1,5 @@
-cmd-planet-desc = Конвертирует указанную карту в планету с определённым биомом.
-cmd-planet-help = { $command } <mapid> <biome>.
-cmd-planet-args = Требуется только 2 аргумента.
-cmd-planet-map = Не удалось спарсить { $map } как существующую карту.
-cmd-planet-success = Карта { $mapId } сделана Планетой. ВНИМАНИЕ! Для работы атмосферы необходимо загрузить карту (либо на новую карту, либо перезапустив игру).
+cmd-planet-desc = Converte o mapa fornecido em um planeta com algum bioma específico.
+cmd-planet-help = {$command} <mapid> <biome>.
+cmd-planet-args = Requer apenas 1 argumento.
+cmd-planet-map = Não foi possível interpretar {$map} como um mapa existente.
+cmd-planet-success = Mapa {$mapId} feito em Planet. NOTE: Você precisará carregar o mapa - ou em um novo mapa ou reiniciando o jogo - para os gases funcionarem.

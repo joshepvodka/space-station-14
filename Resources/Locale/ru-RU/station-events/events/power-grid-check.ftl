@@ -1,4 +1,4 @@
 ## PowerGridCheck
 
-station-event-power-grid-check-start-announcement = Обнаружена аномальная активность в сети электропитания станции. В качестве меры предосторожности питание станции будет отключено на неопределенный срок.
-station-event-power-grid-check-end-announcement = Электропитание на станции восстановлено. Мы приносим извинения за причиненные неудобства.
+station-event-power-grid-check-start-announcement = Atividade anormal detectada na rede de energia da estação. Como uma medida de precaução, a energia da estação vai ser desligada por tempo indeterminado.
+station-event-power-grid-check-end-announcement = A energia da estação foi restaurada. Nós sentimos muito pela inconvêniencia.

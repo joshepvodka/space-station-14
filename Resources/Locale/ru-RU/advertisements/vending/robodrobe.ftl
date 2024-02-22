@@ -1,4 +1,2 @@
-advertisement-robodrobe-1 = You turn me TRUE, use defines!
-advertisement-robodrobe-2 = 110100001011111011010000101101001101000010110101110100001011011011010000101101001101000010110000
-advertisement-robodrobe-3 = Похитьте кого-нибудь из техтуннелей и превратите его в киборга!
-advertisement-robodrobe-4 = Робототехника - это весело!
+advertisement-robodrobe-1 = Você deve ter "1" estilo verdadeiro, o verdadeiro estilo !
+advertisement-robodrobe-2 = 01110010011011110111010101110000011000010111001101100001011100010111010101101001 

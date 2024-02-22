@@ -1,22 +1,27 @@
-ent-PresentBase = подарок
-    .desc = Маленькая коробочка с невероятными сюрпризами внутри.
+ent-PresentBase = present
+    .desc = A little box with incredible surprises inside.
 ent-Present = { ent-PresentBase }
-    .desc = { ent-PresentBase.desc }
-    .suffix = Пустой
+  .suffix = Empty
+  .desc = { ent-PresentBase.desc }
+
 ent-PresentRandomUnsafe = { ent-PresentBase }
-    .desc = { ent-PresentBase.desc }
-    .suffix = Заполненный, Небезопасный
-ent-PresentRandomInsane = { ent-PresentBase }
-    .desc = { ent-PresentBase.desc }
-    .suffix = Заполненный, Любая сущность
+
+  .suffix = Filled, any item
+  .desc = { ent-PresentBase.desc }
+ent-PresentRandomInsane = { ent-PresentRandomUnsafe }
+    .suffix = Filled, any entity
+    .desc = { ent-PresentRandomUnsafe.desc }
 ent-PresentRandom = { ent-PresentBase }
-    .desc = { ent-PresentBase.desc }
-    .suffix = Заполненный, Безопасный
+
+  .suffix = Filled Safe
+  .desc = { ent-PresentBase.desc }
 ent-PresentRandomAsh = { ent-PresentBase }
-    .suffix = Заполненный, Пепел
-    .desc = { ent-PresentBase.desc }
+
+  .suffix = Filled Ash
+  .desc = { ent-PresentBase.desc }
 ent-PresentRandomCash = { ent-PresentBase }
-    .suffix = Заполненный, Деньги
-    .desc = { ent-PresentBase.desc }
-ent-PresentTrash = обёрточная бумага
-    .desc = Аккуратно сложенная, заклеенная и завязанная бантиком. Затем торжественно разорванная на части и выброшенная.
+
+  .suffix = Filled Cash
+  .desc = { ent-PresentBase.desc }
+ent-PresentTrash = Wrapping Paper
+    .desc = Carefully folded, taped, and tied with a bow. Then ceremoniously ripped apart and tossed on the floor.

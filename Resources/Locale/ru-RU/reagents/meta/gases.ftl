@@ -1,14 +1,23 @@
-reagent-name-oxygen = кислород
-reagent-desc-oxygen = Окисляющий, бесцветный газ.
-reagent-name-plasma = плазма
-reagent-desc-plasma = Причудливая, космически-магическая пыльца фей. Вам, наверное, не стоит это есть, но мы оба знаем, что вы все равно это сделаете.
-reagent-name-tritium = тритий
-reagent-desc-tritium = Радиоактивная космически-магическая пыльца фей.
-reagent-name-carbon-dioxide = диоксид углерода
-reagent-desc-carbon-dioxide = Он же углекислый газ. Вы совершенно не представляете, что это такое.
-reagent-name-nitrogen = азот
-reagent-desc-nitrogen = Он же нитроген. Бесцветный, не имеющий запаха нереактивный газ. Очень стабилен.
-reagent-name-nitrous-oxide = оксид азота
-reagent-desc-nitrous-oxide = Знаешь, как всё кажется смешнее, когда ты устал? Так вот...
-reagent-name-frezon = фрезон
-reagent-desc-frezon = Высокоэффективный хладагент... и галлюциноген.
+reagent-name-oxygen = oxigênio
+reagent-desc-oxygen = Um gás oxidante e incolor.
+
+reagent-name-plasma = plasma
+reagent-desc-plasma = Um estranho pó espacial . Você não deveria comer isto, mas sabemos que você vai.
+
+reagent-name-tritium = trítio
+reagent-desc-tritium = Pó espacial radioativo.
+
+reagent-name-carbon-dioxide = dióxido de carbono
+reagent-desc-carbon-dioxide = Você não tem ideia do que é isso.
+
+reagent-name-nitrogen = nitrogênio
+reagent-desc-nitrogen = Um gás incolor, inodoro e inerte. Altamete estável.
+
+reagent-name-miasma = miasma
+reagent-desc-miasma = Fedido!
+
+reagent-name-nitrous-oxide = nitrous oxide
+reagent-desc-nitrous-oxide = Sabe quando tudo parece mais engraçado quando você tá cansado? Bem...
+
+reagent-name-frezon = frezon
+reagent-desc-frezon = Um resfriante muito efetivo... e alucinógeno.

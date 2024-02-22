@@ -1,8 +1,8 @@
 ent-CableBase = { "" }
     .desc = { "" }
-ent-CableHV = ВВ кабель
-    .desc = Оранжевый высоковольтный кабель.
-ent-CableMV = СВ кабель
-    .desc = Средневольтный кабель.
-ent-CableApcExtension = НВ кабель
-    .desc = Кабель, используемый для подключения устройств к APC.
+ent-CableHV = HV power cable
+    .desc = An orange high voltage power cable.
+ent-CableMV = MV power cable
+    .desc = A medium voltage power cable.
+ent-CableApcExtension = LV power cable
+    .desc = A cable used to connect machines to an APC.

@@ -1,14 +1,17 @@
-reagent-name-nutriment = питательные вещества
-reagent-desc-nutriment = Все необходимые организму витамины, минералы и углеводы в чистом виде.
-reagent-name-glucose = глюкоза
-reagent-desc-glucose = Простой сахар, содержащийся во многих продуктах питания.
-reagent-name-vitamin = витамины
-reagent-desc-vitamin = Содержатся в здоровом, полноценном питании.
-reagent-name-protein = протеины
-reagent-desc-protein = Также известные как белки. Содержатся в некоторых блюдах, полезны для здоровья организма.
-reagent-name-cocoapowder = какао-порошок
-reagent-desc-cocoapowder = Из лучших сортов какао-бобов.
-reagent-name-butter = масло
-reagent-desc-butter = Предположительно, сливочное!
-reagent-name-pumpkin-flesh = мякоть тыквы
-reagent-desc-pumpkin-flesh = Кашеобразные, сладкие остатки тыквы.
+reagent-name-nutriment = nutriment
+reagent-desc-nutriment = Todas as vitaminas, minerais e carboidratos que o corpo precisa em sua forma pura.
+
+reagent-name-glucose = glicose
+reagent-desc-glucose = Um açucar simples encontrado em muitas comidas.
+
+reagent-name-vitamin = vitamina
+reagent-desc-vitamin = Encontrado em saudáveis e completas refeições.
+
+reagent-name-protein = proteina
+reagent-desc-protein = Encontrado em certas refeiçoes, bom para a saúde corporal.
+
+reagent-name-cocoapowder = cacau em pó
+reagent-desc-cocoapowder = Das melhores variantes de grãos de cacau
+
+reagent-name-pumpkin-flesh = carne de abóbora
+reagent-desc-pumpkin-flesh = Os restos moles e doces de uma abóbora.

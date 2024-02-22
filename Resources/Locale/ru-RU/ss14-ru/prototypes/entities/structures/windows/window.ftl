@@ -1,9 +1,9 @@
-ent-Window = окно
-    .desc = Смотри не заляпай.
-ent-WindowDirectional = направленное окно
-    .desc = Смотри не заляпай.
-ent-WindowFrostedDirectional = направленное матовое окно
-    .desc = Смотри не заляпай.
+ent-Window = window
+    .desc = Don't smudge up the glass down there.
+ent-WindowDirectional = directional window
+    .desc = Don't smudge up the glass down there.
+ent-WindowFrostedDirectional = directional frosted window
+    .desc = Don't smudge up the glass down there.
 ent-WindowDiagonal = { ent-Window }
-    .suffix = Диагональ
+    .suffix = diagonal
     .desc = { ent-Window.desc }

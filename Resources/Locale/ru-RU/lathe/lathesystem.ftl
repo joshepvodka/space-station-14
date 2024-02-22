@@ -1,1 +1,1 @@
-lathe-popup-material-not-used = Этот материал не используется в данном аппарате.
+lathe-popup-material-not-used = Esse material não é usado nesse lathe.

@@ -1,19 +1,21 @@
-ui-vote-initiator-server = Сервер
+# Displayed as initiator of vote when no user creates the vote
+ui-vote-initiator-server = O Servidor
 
 ## Default.Votes
 
-ui-vote-restart-title = Перезапуск раунда
-ui-vote-restart-succeeded = Голосование о перезапуске раунда успешно.
-ui-vote-restart-failed = Голосование о перезапуске раунда отклонено (требуется { TOSTRING($ratio, "P0") }).
-ui-vote-restart-fail-not-enough-ghost-players = Голосование о перезапуске раунда отклонено: Минимум { $ghostPlayerRequirement }% игроков должно быть призраками чтобы запустить голосование о перезапуске. В данный момент игроков-призраков недостаточно.
-ui-vote-restart-yes = Да
-ui-vote-restart-no = Нет
-ui-vote-restart-abstain = Воздерживаюсь
-ui-vote-gamemode-title = Следующий режим игры
-ui-vote-gamemode-tie = Ничья в голосовании за игровой режим! Выбирается... { $picked }
-ui-vote-gamemode-win = { $winner } победил в голосовании за игровой режим!
-ui-vote-map-title = Следующая карта
-ui-vote-map-tie = Ничья при голосовании за карту! Выбирается... { $picked }
-ui-vote-map-win = { $winner } выиграла голосование о выборе карты!
-ui-vote-map-notlobby = Голосование о выборе карты действует только в предраундовом лобби!
-ui-vote-map-notlobby-time = Голосование о выборе карты действует только в предраундовом лобби, когда осталось { $time }!
+ui-vote-restart-title = Reiniciar rodada
+ui-vote-restart-succeeded = Reinício de rodada aceito.
+ui-vote-restart-failed = Reinício de rodada negado (necessário { TOSTRING($ratio, "P0") }).
+ui-vote-restart-yes = Sim
+ui-vote-restart-no = Não
+ui-vote-restart-abstain = Nulo
+
+ui-vote-gamemode-title = Próximo modo de jogo
+ui-vote-gamemode-tie = Empate na escolha do modo de jogo! Escolhendo... { $picked }
+ui-vote-gamemode-win = { $winner } venceu a escolha do modo de jogo!
+
+ui-vote-map-title = Próximo mapa
+ui-vote-map-tie = Empate na escolha de mapa! Escolhendo... { $picked }
+ui-vote-map-win = { $winner } venceu a escolha de mapa!
+ui-vote-map-notlobby = Votar para mapas só é válido no lobby pré-round!
+ui-vote-map-notlobby-time = Votar para mapas só é válido no lobby pré-round com pelo menos { $time } restante! 

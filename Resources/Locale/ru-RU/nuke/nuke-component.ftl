@@ -1,37 +1,45 @@
-nuke-component-cant-anchor-floor = Крепёжным болтам не удаётся закрепиться в полу!
-nuke-component-announcement-sender = Ядерная боеголовка
-nuke-component-announcement-armed = Внимание! Механизм самоуничтожения станции был активирован по координатам { $position }. До детонации { $time } секунд.
-nuke-component-announcement-unarmed = Механизм самоуничтожение станции деактивирован! Хорошего дня!
-nuke-component-announcement-send-codes = Внимание! Запрошенные коды самоуничтожения были отправлены на факс капитана.
-nuke-component-doafter-warning = Вы начинаете перебирать провода и кнопки, в попытке обезвредить ядерную бомбу. Это может занять некоторое время.
-nuke-user-interface-title = Ядерная боеголовка
-nuke-user-interface-arm-button = ВЗВЕСТИ
-nuke-user-interface-disarm-button = ОБЕЗВРЕДИТЬ
-nuke-user-interface-anchor-button = ЗАКРЕПИТЬ
-nuke-user-interface-eject-button = ИЗВЛЕЧЬ
+nuke-component-cant-anchor-floor = Os parafusos de ancoragem não conseguem travar no chão!
+nuke-component-announcement-sender = Explosivo de fissão nuclear
+nuke-component-announcement-armed = Atenção! O mecanismo de auto-destruição da estação foi ativado. {$time} segundos até a detonação.
+nuke-component-announcement-unarmed = A auto-destruição da estação foi desativada! Tenham um bom dia!
+nuke-component-announcement-send-codes = Atenção! Os códigos de auto-destruição foram enviados aos consoles de comunicação.
+nuke-component-doafter-warning = Você começa a mexer nos fios para desativar a nuke.. Isto pode demorar um pouco.
+
+# Nuke UI
+nuke-user-interface-title = Explosivo de fissão nuclear
+nuke-user-interface-arm-button = LIGAR
+nuke-user-interface-disarm-button = DISARMAR
+nuke-user-interface-anchor-button = ANCORAR
+nuke-user-interface-eject-button = EJETAR
 
 ## Upper status
-
-nuke-user-interface-first-status-device-locked = УСТРОЙСТВО ЗАБЛОКИРОВАНО
-nuke-user-interface-first-status-input-code = ВВЕДИТЕ КОД
-nuke-user-interface-first-status-input-time = ВВЕДИТЕ ВРЕМЯ
-nuke-user-interface-first-status-device-ready = УСТРОЙСТВО ГОТОВО
-nuke-user-interface-first-status-device-armed = УСТРОЙСТВО ВЗВЕДЕНО
-nuke-user-interface-first-status-device-cooldown = ДЕАКТИВИРОВАНО
-nuke-user-interface-status-error = ОШИБКА
+nuke-user-interface-first-status-device-locked = DISPOSITIVO TRANCADO
+nuke-user-interface-first-status-input-code = INSIRA CÓDIGO
+nuke-user-interface-first-status-input-time = INSIRA TEMPO
+nuke-user-interface-first-status-device-ready = DISPOSITIVO PRONTO
+nuke-user-interface-first-status-device-armed = DISPOSTIIVO ATIVO
+nuke-user-interface-first-status-device-cooldown = DEACTIVATED
+nuke-user-interface-status-error = ERRO
 
 ## Lower status
+nuke-user-interface-second-status-await-disk = ESPERANDO DISCO
+nuke-user-interface-second-status-time = TEMPO: {$time}
+nuke-user-interface-second-status-current-code = CÓDIGO: {$code}
+nuke-user-interface-second-status-cooldown-time = ESPERE: {$time}
 
-nuke-user-interface-second-status-await-disk = ОЖИДАНИЕ ДИСКА
-nuke-user-interface-second-status-time = ВРЕМЯ: { $time }
-nuke-user-interface-second-status-current-code = КОД: { $code }
-nuke-user-interface-second-status-cooldown-time = ОЖИДАНИЕ: { $time }
-nuke-label-nanotrasen = NT-{ $serial }
+## Nuke labels
+nuke-label-nanotrasen = NT-{$serial}
+
 # do you even need this one? It's more funnier to say that
 # the Syndicate stole a NT nuke
-nuke-label-syndicate = SYN-{ $serial }
+nuke-label-syndicate = SYN-{$serial}
 
 # Codes
+<<<<<<< HEAD
+nuke-codes-message = [color=red]TOP SECRET![/color]
+nuke-codes-list = {$name} code: {$code}
+nuke-codes-fax-paper-name = nuclear authentication codes
+=======
 
 nuke-codes-message = [color=red]СОВЕРШЕННО СЕКРЕТНО![/color]
 nuke-codes-list = Код { $name }: { $code }
@@ -40,3 +48,4 @@ nuke-codes-fax-paper-name = коды ядерной аутентификации
 nuke-slot-component-slot-name-disk = Диск
 nuke-examine-armed = Эй, а почему эта [color=red]красная лампочка[/color] мигает?
 nuke-examine-exploding = Ага... Похоже, уже слишком поздно, приятель.
+>>>>>>> space-station-14/master

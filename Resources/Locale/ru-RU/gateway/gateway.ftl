@@ -1,8 +1,10 @@
-gateway-window-title = Врата
-gateway-window-open-portal = Открыть портал
-gateway-window-portal-cooldown = Перезарядка
-gateway-window-portal-unlock = Следующее открытие
-gateway-window-locked = Закрыто
-gateway-window-no-destinations = Отсутствуют пункты назначения.
-gateway-access-denied = Доступ запрещён!
-gateway-close-portal = Закрыть портал
+gateway-window-title = Portal
+gateway-window-ready = Pronto!
+gateway-window-ready-in = Pronto em: {$time}s
+gateway-window-already-active = Já ativo
+gateway-window-open-portal = Abrir Portal
+gateway-window-no-destinations = Nenhum destino encontrado.
+gateway-window-portal-closing = Portal fechando
+
+gateway-access-denied = Acesso negado!
+gateway-close-portal = Fechar Portal

@@ -1,30 +1,44 @@
-reagent-name-cola = кола
-reagent-desc-cola = Сладкий газированный безалкогольный напиток. Не содержит кофеина.
-reagent-name-changeling-sting = жало генокрада
-reagent-desc-changeling-sting = Вы делаете маленький глоток и чувствуете жжение...
-reagent-name-dr-gibb = доктор Гибб
-reagent-desc-dr-gibb = Восхитительная смесь из 42 различных вкусов.
-reagent-name-energy-drink = энергетический напиток
-reagent-desc-energy-drink = Доза энергии! Nanotrasen не несет ответственности, если у вас вырастут птичьи придатки.
-reagent-name-grape-soda = виноградная газировка
-reagent-desc-grape-soda = Это Винограааааад!
-reagent-name-ice-cream = мороженое
-reagent-desc-ice-cream = Ешьте скорее, пока не превратилось в суп-мороженое!
-reagent-name-lemon-lime = лимон-лайм
-reagent-desc-lemon-lime = Терпкая газировка из лимона и лайма
+reagent-name-cola = refri de cola
+reagent-desc-cola = Um doce e carbonatado refrigerante. Livre de cafeína.
+
+reagent-name-changeling-sting = picada de changeling
+reagent-desc-changeling-sting = Você da um minúsculo gole e sente uma sensação queimante...
+
+reagent-name-dr-gibb = Dr. Gibb
+reagent-desc-dr-gibb = Uma mistura deliciosa de 42 sabores difirentes.
+
+reagent-name-energy-drink = energético
+reagent-desc-energy-drink = Uma dose de energia! A Nanotransen não é responsável se você crescer apêndices de ave. 
+
+reagent-name-grape-soda = refri de uva
+reagent-desc-grape-soda = Chupa que é de uva!
+
+reagent-name-ice-cream = sorvete
+reagent-desc-ice-cream = Era isso ou o microondas, e ninguém quer sopa de sorvete!
+
+reagent-name-lemon-lime = refri lima-limão
+reagent-desc-lemon-lime = Refri picante de limão e limão siciliano.
+
 reagent-name-pwr-game = Pwr Game
-reagent-desc-pwr-game = Единственный напиток, обладающий СИЛОЙ, которую жаждут настоящие геймеры. Когда геймеры говорят о геймерском топливе, они имеют в виду именно это.
-reagent-name-root-beer = рутбир
-reagent-desc-root-beer = Очень сладкий, газированный напиток, напоминающий сарспариллу. Хорошо сочетается с мороженым.
-reagent-name-root-beer-float = рутбир с мороженым
-reagent-desc-root-beer-float = Рутбир, но теперь с мороженым сверху! Это действительно магнум опус канадских летних напитков.
-reagent-name-space-mountain-wind = космический маунтин винд
-reagent-desc-space-mountain-wind = Проходит сквозь, словно космический ветер.
-reagent-name-space-up = спейс-ап
-reagent-desc-space-up = На вкус как пробоина в корпусе у вас во рту.
-reagent-name-starkist = старкист
-reagent-desc-starkist = Сладкий безалкогольный напиток со вкусом апельсина.
-reagent-name-fourteen-loko = фоуртин локо
-reagent-desc-fourteen-loko = Сильно переработанная жидкая субстанция, едва ли соответствующая межгалактическим стандартам безопасности для безалкогольного напитка.
-reagent-name-shamblers-juice = сок Shambler
-reagent-desc-shamblers-juice = ~Встряхните мне немного этого сока Shambler!~
+reagent-desc-pwr-game = A única bebida com o PDR que os verdadeiros gamers almejam. Quando um jogador fala sobre o gamerfuel, isso é o que eles estão se referindo literalmente.
+
+reagent-name-root-beer = root beer
+reagent-desc-root-beer = Uma bebida norte-americana carbonatada e muito doce que lembra sarsaparrila. Cai bem com sorvete.
+
+reagent-name-root-beer-float = root beer float
+reagent-desc-root-beer-float = Root beer, mas com sorvete no topo. O verdadeiro Magnum Opus do verão canadense.
+
+reagent-name-space-mountain-wind = Space Mountain Wind
+reagent-desc-space-mountain-wind = Assopra através de você como um vento espacial.
+
+reagent-name-space-up = Space-Up
+reagent-desc-space-up = Tem gosto de uma abertura no casco na sua boca.
+
+reagent-name-starkist = starkist
+reagent-desc-starkist = Um refrigerante doce sabor laranja.
+
+reagent-name-fourteen-loko = Fourteen Loko
+reagent-desc-fourteen-loko = Uma substânica líquida altamente processada passando por pouco os parâmetros de saúde intergaláticos de um refrigerante.
+
+reagent-name-shamblers-juice = Shambler's Juice
+reagent-desc-shamblers-juice = ~Agite-me um pouco desse Shambler's Juice!~

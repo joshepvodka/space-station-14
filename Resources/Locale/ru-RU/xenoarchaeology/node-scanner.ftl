@@ -1,1 +1,1 @@
-node-scan-popup = ID узла: { $id }
+node-scan-popup = O ID do nó é {$id}

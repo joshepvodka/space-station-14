@@ -1,4 +1,5 @@
-construction-examine-condition-wire-panel-open = Сначала откройте техническую панель.
-construction-examine-condition-wire-panel-close = Сначала закройте техническую панель.
-construction-step-condition-wire-panel-open = Техническая панель должна быть открыта.
-construction-step-condition-wire-panel-close = Техническая панель должна быть закрыта.
+# WirePanel
+construction-examine-condition-wire-panel-open = Primeiro, abra o painel de manutenção.
+construction-examine-condition-wire-panel-close = Primeiro, feche o painel de manutenção.
+construction-step-condition-wire-panel-open = O painel de manutenção deve estar aberto.
+construction-step-condition-wire-panel-close = O painel de manutenção deve estar fechado.

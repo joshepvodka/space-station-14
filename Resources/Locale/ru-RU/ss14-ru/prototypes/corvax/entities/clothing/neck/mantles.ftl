@@ -1,2 +1,2 @@
-ent-ClothingNeckMantleERTLeader = мантия лидера ОБР
-    .desc = Необыкновенно украшенная драпировка на плечи.
+ent-ClothingNeckMantleERTLeader = ERT leader's mantle
+    .desc = Extraordinary decorative drape over the shoulders.

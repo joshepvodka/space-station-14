@@ -1,20 +1,20 @@
 ## UI
 
-
 # Bound Interface
 
-gas-canister-bound-user-interface-title = Газовый баллон
+gas-canister-bound-user-interface-title = Tanque de Gás
+
 # Popup
-gas-canister-popup-denied = Доступ запрещён
+gas-canister-popup-denied = Acesso negado
 
 # window
 
-gas-canister-window-ok-text = ОК
-gas-canister-window-edit-text = Редактировать
-gas-canister-window-label-label = Метка:
-gas-canister-window-pressure-label = Давление:
-gas-canister-window-release-pressure-label = Выходное давление:
-gas-canister-window-valve-label = Клапан:
-gas-canister-window-valve-closed-text = Закрыт
-gas-canister-window-valve-open-text = Открыт
-gas-canister-window-pressure-format-text = { $pressure } кПа
+gas-canister-window-ok-text = OK
+gas-canister-window-edit-text = Editar
+gas-canister-window-label-label = Legenda:
+gas-canister-window-pressure-label = Pressão:
+gas-canister-window-release-pressure-label = Saída de pressão:
+gas-canister-window-valve-label = Válvula:
+gas-canister-window-valve-closed-text = Fechada
+gas-canister-window-valve-open-text = Aberta
+gas-canister-window-pressure-format-text = {$pressure}kPa

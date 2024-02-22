@@ -1,4 +1,3 @@
-defibrillator-not-on = Дефибриллятор не включён.
-defibrillator-no-mind = Не удалось обнаружить паттерны мозговой активности пациента. Дальнейшие попытки бесполезны...
-defibrillator-rotten = Обнаружено разложение тела: реанимация невозможна.
-defibrillator-unrevivable = Этот пациент не может быть оживлён из-за уникального телосложения.
+﻿defibrillator-not-on = O desfibrilador não está ligado.
+defibrillator-no-mind = Nenhum padrão de inteligência pode ser detectado no cérebro do paciente. Novas tentativas inúteis
+defibrillator-rotten = Decomposição corporal detectada: a reanimação falhou.

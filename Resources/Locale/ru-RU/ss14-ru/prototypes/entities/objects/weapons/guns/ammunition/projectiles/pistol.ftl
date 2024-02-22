@@ -1,10 +1,10 @@
-ent-BulletPistol = пуля (.35 авто)
+ent-BulletPistol = bullet (.35 auto)
     .desc = { ent-BaseBullet.desc }
-ent-BulletPistolPractice = пуля (.35 авто учебная)
+ent-BulletPistolPractice = bullet (.35 auto practice)
     .desc = { ent-BaseBulletPractice.desc }
-ent-BulletPistolRubber = пуля (.35 авто резиновая)
+ent-BulletPistolRubber = bullet (.35 auto rubber)
     .desc = { ent-BaseBulletRubber.desc }
-ent-BulletPistolIncendiary = пуля (.35 авто зажигательная)
+ent-BulletPistolIncendiary = bullet (.35 auto incendiary)
     .desc = { ent-BaseBulletIncendiary.desc }
-ent-BulletPistolUranium = пуля (.35 авто урановая)
+ent-BulletPistolUranium = bullet (.35 auto uranium)
     .desc = { ent-BaseBulletUranium.desc }

@@ -1,9 +1,6 @@
-objective-condition-steal-title-no-owner = Украсть { $itemName }.
-objective-condition-steal-title-alive-no-owner = Украсть { $itemName }.
-objective-condition-steal-title = Украсть { $itemName }, владелец: { $owner }.
-objective-condition-steal-description = Нам нужно, чтобы вы украли { $itemName }. Не попадитесь.
-objective-condition-steal-station = станция
-objective-condition-steal-Ian = корги главы персонала
-objective-condition-thief-description = { CAPITALIZE($itemName) } станет отличным пополнением моей коллекции!
-objective-condition-thief-animal-description = { CAPITALIZE($itemName) } станет отличным пополнением моей коллекции! Главное - живым.
-objective-condition-thief-multiply-description = Мне нужно собрать { $count } { $itemName } и увезти их с собой.
+objective-condition-steal-title-no-owner = Roube {$itemName}.
+objective-condition-steal-title = Roube {$itemName} do {$owner}.
+objective-condition-steal-description = Precisamos que você roube {$itemName}. Não seja pego.
+
+objective-condition-steal-station = estação
+objective-condition-steal-Ian = corgi do chefe de pessoal

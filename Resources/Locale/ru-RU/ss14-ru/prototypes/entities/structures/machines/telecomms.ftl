@@ -1,5 +1,5 @@
-ent-TelecomServer = телекоммуникационный сервер
-    .desc = Будучи запитанным и оснащенным ключами шифрования, он обеспечивает гарнитурную радиосвязь.
+ent-TelecomServer = telecommunication server
+    .desc = When powered and filled with encryption keys it allows radio headset communication.
 ent-TelecomServerFilled = { ent-TelecomServer }
-    .suffix = Заполненный
+    .suffix = Filled
     .desc = { ent-TelecomServer.desc }

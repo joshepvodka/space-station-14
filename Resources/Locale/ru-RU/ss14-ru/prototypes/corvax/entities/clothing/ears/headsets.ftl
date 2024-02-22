@@ -1,2 +1,2 @@
-ent-ClothingHeadsetIAA = гарнитура АВД
-    .desc = Гарнитура агента внутренних дел, чтобы услышать последние слова капитана.
+ent-ClothingHeadsetIAA = iaa headset
+    .desc = A headset for internal affairs agent to hear the captain's last words.

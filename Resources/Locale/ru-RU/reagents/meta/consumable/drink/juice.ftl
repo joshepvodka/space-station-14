@@ -1,26 +1,38 @@
-reagent-name-juice-apple = яблочный сок
-reagent-desc-juice-apple = Это маленький кусочек Эдема.
-reagent-name-juice-banana = банановый сок
-reagent-desc-juice-banana = Жидкая суть банана. ХОНК.
-reagent-name-juice-berry = ягодный сок
-reagent-desc-juice-berry = Вкусная смесь нескольких видов ягод.
-reagent-name-juice-berry-poison = ядовитый ягодный сок
-reagent-desc-juice-berry-poison = Удивительно вкусный сок, приготовленный из различных видов очень смертоносных и ядовитых ягод.
-reagent-name-juice-carrot = морковный сок
-reagent-desc-juice-carrot = Как морковь, но не хрустит.
-reagent-name-juice-grape = виноградный сок
-reagent-desc-juice-grape = Свежевыжатый сок из красного винограда. Довольно сладкий.
-reagent-name-juice-lemon = лимонный сок
-reagent-desc-juice-lemon = Этот сок ОЧЕНЬ кислый.
-reagent-name-juice-lime = лаймовый сок
-reagent-desc-juice-lime = Кисло-сладкий сок лайма.
-reagent-name-juice-orange = апельсиновый сок
-reagent-desc-juice-orange = И вкусно, и богато витамином С. Чего ещё желать?
-reagent-name-juice-pineapple = ананасовый сок
-reagent-desc-juice-pineapple = Вкусный сок ананаса.
-reagent-name-juice-potato = картофельный сок
-reagent-desc-juice-potato = Сок картофеля. Фу.
-reagent-name-juice-tomato = томатный сок
-reagent-desc-juice-tomato = Томаты превращенные в сок. Какая трата хороших помидоров, а?
-reagent-name-juice-watermelon = арбузный сок
-reagent-desc-juice-watermelon = Вкусный сок арбуза.
+reagent-name-juice-apple = suco de maça
+reagent-desc-juice-apple = Um pequeno pedaço do Eden.
+
+reagent-name-juice-banana = suco de banana
+reagent-desc-juice-banana = A essência pura de uma banana. HONK.
+
+reagent-name-juice-berry = suco de frutas vermelhas
+reagent-desc-juice-berry = Uma mistura deliciosa de vários frutos diferentes.
+
+reagent-name-juice-berry-poison = suco de frutas venenosas
+reagent-desc-juice-berry-poison = Um surpreendentemente saboroso suco misturado de vários frutos mortais e tóxicos.
+
+reagent-name-juice-carrot = suco de cenoura
+reagent-desc-juice-carrot = É tipo uma cenoura, mas menos crocante.
+
+reagent-name-juice-grape = suco de uva
+reagent-desc-juice-grape = Suco fresco de uvas vermelhas esmagadas. Bastante doce.
+
+reagent-name-juice-lemon = suco de limão siciliano
+reagent-desc-juice-lemon = Esse suco é MUITO azedo. Melhor beber uma limonada.
+
+reagent-name-juice-lime = suco de limão
+reagent-desc-juice-lime = O doce-azedo suco de limão.
+
+reagent-name-juice-orange = suco de laranja
+reagent-desc-juice-orange = Deliciose E rico em vitamina C. O que mais você precisa?
+
+reagent-name-juice-pineapple = suco de abacaxi
+reagent-desc-juice-pineapple = O suco delicioso de um abacaxi.
+
+reagent-name-juice-potato = suco de batata
+reagent-desc-juice-potato = Suco da batata. Bleh.
+
+reagent-name-juice-tomato = suco de tomate
+reagent-desc-juice-tomato = Tomates transformados em suco. Que desperdício de tomates, ein?
+
+reagent-name-juice-watermelon = suco de melancia
+reagent-desc-juice-watermelon = O suco deliciosa de uma melancia.

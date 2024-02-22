@@ -1,5 +1,5 @@
-ent-HospitalCurtains = шторы
-    .desc = Содержат менее 1% ртути.
+ent-HospitalCurtains = curtains
+    .desc = Contains less than 1% mercury.
 ent-HospitalCurtainsOpen = { ent-HospitalCurtains }
-    .suffix = Открытый
+    .suffix = Open
     .desc = { ent-HospitalCurtains.desc }

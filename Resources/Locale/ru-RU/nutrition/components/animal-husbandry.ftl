@@ -1,3 +1,3 @@
-infant-name-prefix = детёныш { $name }
-reproductive-birth-popup = { CAPITALIZE($parent) } родила!
-reproductive-laid-egg-popup = { CAPITALIZE($parent) } отложила яйцо!
+infant-name-prefix = bebê {$name}
+reproductive-birth-popup = {CAPITALIZE(THE($parent))} deu à luz!
+reproductive-laid-egg-popup = {CAPITALIZE(THE($parent))} botou um ovo!

@@ -1,2 +1,2 @@
-ent-MobLaserRaptor = лазерный раптор
-    .desc = Из эпохи викингов.
+ent-MobLaserRaptor = laser raptor
+    .desc = From the Viking age.

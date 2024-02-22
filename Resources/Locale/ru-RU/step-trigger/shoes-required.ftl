@@ -1,1 +1,1 @@
-shoes-required-step-trigger-examine = Вам, пожалуй, не стоит наступать на это босиком.
+﻿shoes-required-step-trigger-examine = Você provavelmente não quer pisar nisso enquanto descalço.

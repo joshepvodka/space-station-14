@@ -1,2 +1,2 @@
-ent-CargoTelepad = грузовой телепад
+ent-CargoTelepad = cargo telepad
     .desc = { ent-BaseStructureDynamic.desc }

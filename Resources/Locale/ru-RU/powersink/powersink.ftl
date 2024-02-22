@@ -1,2 +1,2 @@
-powersink-examine-drain-amount = Поглотитель энергии вытягивает [color={ $markupDrainColor }]{ $amount } кВт[/color].
-powersink-immiment-explosion-announcement = Сканирование системы обнаружило нестабильную работу неавторизованного энергопотребляющего устройства. Персоналу рекомендуется немедленно найти и отключить это устройство, пока станция не получила повреждения.
+powersink-examine-drain-amount = A power sink está drenando [color={$markupDrainColor}]{$amount} kW[/color].
+powersink-immiment-explosion-announcement = As varreduras do sistema detectaram que um dispositivo de consumo de energia deletério está se tornando instável. Os funcionários são aconselhados a localizar e desconectar este dispositivo imediatamente antes que o mesmo danifique a estção.

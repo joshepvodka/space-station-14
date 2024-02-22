@@ -1,20 +1,25 @@
-## Implanter Attempt Messages
+﻿## Implanter Attempt Messages
 
-implanter-component-implanting-target = { $user } пытается что-то в вас имплантировать!
-implanter-component-implant-failed = { $implant } нельзя имплантировать в { $target }!
-implanter-draw-failed-permanent = { $implant } вросся в { $target } и не может быть удалён!
-implanter-draw-failed = Вы пытаетесь удалить имплант, но ничего не находите.
+implanter-component-implanting-target = {$user} está tentando implantar algo em você!
+implanter-component-implant-failed = O {$implant} não pode ser dado a {$target}!
+implanter-draw-failed-permanent = O {$implant} em {$target} está engastado neles e não pode ser removido!
+implanter-draw-failed = Você tentou remover um implante mas não encontrou nada.
 
 ## UI
+implanter-draw-text = Sacar
+implanter-inject-text = Injetar
 
-implanter-draw-text = Извлечение
-implanter-inject-text = Установка
-implanter-empty-text = Пусто
-implanter-label = Имплант: [color=green]{ $implantName }[/color] | [color=white]{ $modeString }[/color]{ $lineBreak }{ $implantDescription }
-implanter-contained-implant-text = [color=green]{ $desc }[/color]
+implanter-empty-text = Nenhum
 
-## Implanter Actions
+implanter-label = Implante: [color=green]{$implantName}[/color] | [color=white]{$modeString}[/color]{$lineBreak}{$implantDescription}
 
-scramble-implant-activated-popup = Вы превратились в { $identity }
-deathrattle-implant-dead-message = Зафиксирована смерть { $user } по координатам { $position }.
-deathrattle-implant-critical-message = Жизненные показатели { $user } критические, требуется немедленная помощь по координатам { $position }.
+implanter-contained-implant-text = [color=green]{$desc}[/color]
+
+## Implant Popups
+
+scramble-implant-activated-popup = Você sente na pele sua aparência se alterar por completo
+
+## Implant Messages
+
+deathrattle-implant-dead-message = {$user} morreu em {$position}.
+deathrattle-implant-critical-message = Sinais de vida do {$user} estão críticos, assistência imediata necessária em {$position}.

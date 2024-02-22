@@ -1,4 +1,4 @@
-ent-MountainRock = горный камень
-    .desc = Мощная каменная стена.
-ent-MountainRockMining = горный камень
-    .desc = Мощная каменная стена.
+ent-MountainRock = { ent-AsteroidRock }
+    .desc = { ent-AsteroidRock.desc }
+ent-MountainRockMining = { ent-AsteroidRockMining }
+    .desc = { ent-AsteroidRockMining.desc }

@@ -1,1 +1,1 @@
-gas-passive-gate-examined = Измеритель расхода показывает [color=lightblue]{ $flowRate } литров/сек[/color].
+gas-passive-gate-examined = O contador de quociente de vazão indica [color=lightblue]{$flowRate} litros/segundo[/color].

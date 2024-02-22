@@ -1,11 +1,11 @@
-ent-ImmovableRod = неподвижный жезл
-    .desc = Вы чувствуете, что он голоден. Как правило, это плохой знак.
+ent-ImmovableRod = immovable rod
+    .desc = You can sense that it's hungry. That's usually a bad sign.
 ent-ImmovableRodSlow = { ent-ImmovableRod }
-    .suffix = Медленный
+    .suffix = Slow
     .desc = { ent-ImmovableRod.desc }
 ent-ImmovableRodKeepTiles = { ent-ImmovableRod }
-    .suffix = Оставляет пол
+    .suffix = Keep Tiles
     .desc = { ent-ImmovableRod.desc }
 ent-ImmovableRodKeepTilesStill = { ent-ImmovableRodKeepTiles }
-    .suffix = Оставляет пол, Неподвижный
+    .suffix = Keep Tiles, Still
     .desc = { ent-ImmovableRodKeepTiles.desc }

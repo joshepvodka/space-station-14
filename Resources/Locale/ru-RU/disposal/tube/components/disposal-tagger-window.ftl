@@ -1,7 +1,7 @@
-disposal-tagger-window-title = Разметка утилизации
-disposal-tagger-window-tag-input-label = Метка:
-disposal-tagger-window-tag-confirm-button = Подтвердить
+disposal-tagger-window-title = Disposal Tagger
+disposal-tagger-window-tag-input-label = Tag:
+disposal-tagger-window-tag-confirm-button = Confirmar
+disposal-tagger-window-activate-no-hands = Você não tem mãos.
 
 ## ConfigureVerb
-
-configure-verb-get-data-text = Открыть настройки
+configure-verb-get-data-text = Abrir configurações

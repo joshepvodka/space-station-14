@@ -1,10 +1,10 @@
 ## UI
 
-cargo-console-order-menu-title = Форма заказа
-cargo-console-order-menu-product-label = Товар:
-cargo-console-order-menu-description-label = Описание:
-cargo-console-order-menu-cost-label = Стоимость единицы:
-cargo-console-order-menu-requester-label = Заказчик:
-cargo-console-order-menu-reason-label = Причина:
-cargo-console-order-menu-amount-label = Количество:
-cargo-console-order-menu-submit-button = ОК
+cargo-console-order-menu-title = Formulário de Encomenda
+cargo-console-order-menu-product-label = Produto:
+cargo-console-order-menu-description-label = Descrição:
+cargo-console-order-menu-cost-label = Custo da Unidade:
+cargo-console-order-menu-requester-label = Nome:
+cargo-console-order-menu-reason-label = Justificativa:
+cargo-console-order-menu-amount-label = Quantidade:
+cargo-console-order-menu-submit-button = Enviar

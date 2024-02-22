@@ -1,4 +1,4 @@
-ent-ClothingBackpackMilitarySatchel = армейский ранец
-    .desc = Тактический ранец для армейских нужд.
-ent-ClothingBackpackSatchelCE = сумка старшего инженера
-    .desc = Инновационная сумка с укрепленной лямкой.
+ent-ClothingBackpackMilitarySatchel = army satchel
+    .desc = A tactical satchel for army related needs.
+ent-ClothingBackpackSatchelCE = chief engineer satchel
+    .desc = A white satchel for best engineers.

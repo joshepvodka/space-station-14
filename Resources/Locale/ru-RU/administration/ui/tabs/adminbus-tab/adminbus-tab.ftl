@@ -1,4 +1,4 @@
-delete-singularities = Удалить сингулярности
-open-station-events = Случайные события
-load-game-prototype = Загрузить прототип
-load-blueprints = Загрузить чертежи
+delete-singularities = Deletar Singularidades
+open-station-events = Eventos da Estação
+load-game-prototype = Carregar Protótipo
+load-blueprints = Carregar Blueprint

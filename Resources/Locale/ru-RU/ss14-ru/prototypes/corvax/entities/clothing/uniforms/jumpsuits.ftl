@@ -1,8 +1,8 @@
-ent-ClothingUniformJumpsuitSuperstarCop = форма полицейского суперзвезды
-    .desc = Расклешенные брюки и грязная рубашка, которая могла бы быть стильной, пока кто-то не помочился в подмышки. Это одежда суперзвезды.
-ent-ClothingUniformJumpsuitAerostatic = костюм воздухоплавателя
-    .desc = Свежий и хорошо выглаженный костюм; профессиональный, удобный и удивительно авторитетный.
-ent-ClothingUniformJumpsuitCentcomOfficerBlack = униформа офицера специальных операций
-    .desc = Чёрная униформа Офицера Специальных Операций, ничего такого. Хотя... Если у вас есть время читать это, то уже поздно...
-ent-ClothingUniformJumpsuitCentcomAdmiral = униформа адмирала
-    .desc = Униформа, которую носят офицеры в звании адмирала флота Nanotrasen.
+ent-ClothingUniformJumpsuitSuperstarCop = superstar cop uniform
+    .desc = Flare cut trousers and a dirty shirt that might have been classy before someone took a piss in the armpits. It's the dress of a superstar.
+ent-ClothingUniformJumpsuitAerostatic = aerostatic suit
+    .desc = A crisp and well-pressed suit; professional, comfortable and curiously authoritative.
+ent-ClothingUniformJumpsuitCentcomOfficerBlack = special operations officer uniform
+    .desc = Special Operations Officer uniform, nothing like that. Although... If you have time to read this, it's too late...
+ent-ClothingUniformJumpsuitCentcomAdmiral = admiral's uniform
+    .desc = A uniform worn by those with the rank Admiral in the Nanotrasen Navy.

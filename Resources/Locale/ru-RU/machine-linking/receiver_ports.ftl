@@ -1,54 +1,80 @@
-signal-port-name-autoclose = Автозакрытие
-signal-port-description-autoclose = Переключает, должно ли устройство автоматически закрываться.
-signal-port-name-toggle = Переключить
-signal-port-description-toggle = Переключает состояние устройства.
-signal-port-name-on-receiver = Вкл
-signal-port-description-on-receiver = Включает устройство.
-signal-port-name-off-receiver = Выкл
-signal-port-description-off-receiver = Выключает устройство.
-signal-port-name-forward = Вперёд
-signal-port-description-forward = Заставляет устройство (например, конвейер) работать в нормальном направлении.
-signal-port-name-reverse = Обратно
-signal-port-description-reverse = Заставляет устройство (например, конвейер) работать в обратном направлении.
-signal-port-name-open = Открыть
-signal-port-description-open = Открывает устройство.
-signal-port-name-close = Закрыть
-signal-port-description-close = Закрывает устройство.
-signal-port-name-doorbolt = Болты шлюза
-signal-port-description-doorbolt = Меняет статус болтирования, если поступил высокий уровень сигнала.
-signal-port-name-trigger = Триггер
-signal-port-description-trigger = Запускает определенный механизм на устройстве.
-signal-port-name-order-sender = Отправитель заказа
-signal-port-description-order-sender = Отправляет заказ на консоль заказа грузов
-signal-port-name-order-receiver = Получатель заказа
-signal-port-description-order-receiver = Получает заказ на консоль заказа грузов
-signal-port-name-pressurize = Нагнетатель давления
-signal-port-description-pressurize = Заставляет устройство закачивать воздух, пока не будет достигнуто заданное давление.
-signal-port-name-depressurize = Сбрасыватель давления
-signal-port-description-depressurize = Заставляет устройство откачивать воздух, пока не будет достигнуто заданное давление.
-signal-port-name-pod-sender = Капсула клонирования
-signal-port-description-pod-sender = Передатчик сигнала капсулы клонирования
-signal-port-name-pod-receiver = Капсула клонирования
-signal-port-description-pod-receiver = Приёмник сигнала капсулы клонирования
-signal-port-name-med-scanner-sender = Медицинский сканер
-signal-port-description-med-scanner-sender = Передатчик сигнала медицинского сканера
-signal-port-name-med-scanner-receiver = Медицинский сканер
-signal-port-description-med-scanner-receiver = Приёмник сигнала медицинского сканера
-signal-port-name-hold-open = Удерживать
-signal-port-description-hold-open = Выключает автоматическое закрытие.
-signal-port-name-artifact-analyzer-sender = Консоль
-signal-port-description-artifact-analyzer-sender = Передатчик сигнала аналитической консоли
-signal-port-name-artifact-analyzer-receiver = Платформа
-signal-port-description-artifact-analyzer-receiver = Приёмник сигнала анализатора артефактов
-signal-port-name-set-particle-delta = Выбрать тип частиц: дельта
-signal-port-description-set-particle-delta = Устанавливает тип частиц, излучаемых этим устройством, на дельта.
-signal-port-name-set-particle-epsilon = Выбрать тип частиц: эпсилон
-signal-port-description-set-particle-epsilon = Устанавливает тип частиц, излучаемых этим устройством, на эпсилон.
-signal-port-name-set-particle-zeta = Выбрать тип частиц: зета
-signal-port-description-set-particle-zeta = Устанавливает тип частиц, излучаемых этим устройством, на зета.
-signal-port-name-logic-input-a = Порт А
-signal-port-description-logic-input-a = Первый порт логического элемента.
-signal-port-name-logic-input-b = Порт В
-signal-port-description-logic-input-b = Второй порт логического элемента.
-signal-port-name-logic-input = Вход
-signal-port-description-logic-input = Входной порт, который принимает только уровни сигнала, высокий или низкий.
+signal-port-name-autoclose = Fechamento automático
+signal-port-description-autoclose = Alterna se o dispositivo deve fechar automaticamente.
+
+signal-port-name-toggle = Alternar
+signal-port-description-toggle = Alterna o estado de um dispositivo.
+
+signal-port-name-on-receiver = Ligar
+signal-port-description-on-receiver = Liga um dispositivo.
+
+signal-port-name-off-receiver = Desligar
+signal-port-description-off-receiver = Desliga um dispositivo.
+
+signal-port-name-forward = Para Frente
+signal-port-description-forward = Faz um dispositivo (ex: esteira) operar na direção padrão.
+
+signal-port-name-reverse = Reverso
+signal-port-description-reverse = Faz um dispositivo (ex: esteira) operar na direção reversa.
+
+signal-port-name-open = Abrir
+signal-port-description-open = Abre um dispositivo.
+
+signal-port-name-close = Fechar
+signal-port-description-close = Fecha um dispositivo.
+
+signal-port-name-doorbolt = Travar porta
+signal-port-description-doorbolt = Trava a porta quando ALTO.
+
+signal-port-name-trigger = Acionar
+signal-port-description-trigger = Aciona algum mecânismo no dispositivo.
+
+signal-port-name-order-sender = Enviador de encomenda
+signal-port-description-order-sender = Enviador de encomenda do console da cargo
+
+signal-port-name-order-receiver = Recebedor de encomenda
+signal-port-description-order-receiver = Recebedor de encomenda do console da cargo
+
+signal-port-name-pressurize = Pressurizar
+signal-port-description-pressurize = Faz com que o dispositivo começe a soltar ar até atingir uma pressão alvo.
+
+signal-port-name-depressurize = Despressurizar
+signal-port-description-depressurize = Faz com que o dispositivo começe a puxar ar até atingir uma pressão alvo.
+
+signal-port-name-pod-sender = Pod de Clonagem
+signal-port-description-pod-sender = Emissor de sinal do pod de clonagem
+
+signal-port-name-pod-receiver = Pod de Clonagem
+signal-port-description-pod-receiver = Receptor de sinal do pod de clonagem
+
+signal-port-name-med-scanner-sender = Escâner médico
+signal-port-description-med-scanner-sender = Emissor de sinal do escâner médico
+
+signal-port-name-med-scanner-receiver = Escâner médico
+signal-port-description-med-scanner-receiver = Receptor de sinal do escâner médico
+
+signal-port-name-hold-open = Segurar
+signal-port-description-hold-open = Desativa o fechamento automático.
+
+signal-port-name-artifact-analyzer-sender = Console
+signal-port-description-artifact-analyzer-sender = Remetente do sinal do console de análise
+
+signal-port-name-artifact-analyzer-receiver = Pad
+signal-port-description-artifact-analyzer-receiver = Receptor de sinal do analisador de artefatos
+
+signal-port-name-set-particle-delta = Definir tipo de partícula: delta
+signal-port-description-set-particle-delta = Define o tipo de partícula que este dispositivo emite para delta.
+
+signal-port-name-set-particle-epsilon = Definir tipo de partícula: epsilon
+signal-port-description-set-particle-epsilon = Define o tipo de partícula que este dispositivo emite para epsilon.
+
+signal-port-name-set-particle-zeta = Definir tipo de partícula: zeta
+signal-port-description-set-particle-zeta = Define o tipo de partícula que este dispositivo emite para zeta.
+
+signal-port-name-logic-input-a = Entrada A
+signal-port-description-logic-input-a = Primeira entrada de uma porta lógica.
+
+signal-port-name-logic-input-b = Entrada B
+signal-port-description-logic-input-b = Segunda entrada de uma porta lógica.
+
+signal-port-name-logic-input = Entrada
+signal-port-description-logic-input = Entrada no detector de borda, não pode ser um sinal de pulso.

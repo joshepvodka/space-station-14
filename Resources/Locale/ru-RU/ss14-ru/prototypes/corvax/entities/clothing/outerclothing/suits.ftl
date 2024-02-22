@@ -1,4 +1,4 @@
-ent-ClothingOuterAerostaticBomberJacket = аэростатическая куртка-бомбер
-    .desc = Куртка, которую носили революционные воздушные бригады во время Мировой революции. Внутри довольно много карманов, в основном для хранения блокнотов и компасов.
-ent-ClothingOuterDiscoAssBlazer = стильный диско-блейзер
-    .desc = Выглядит как шкура давно вымершего диско-зверя. На правом рукаве и на спине непонятные белые прямоугольники.
+ent-ClothingOuterAerostaticBomberJacket = aerostatic bomber jacket
+    .desc = A jacket once worn by the revolutionary air brigades during the Antecentennial Revolution. There are quite a few pockets on the inside, mostly for storing notebooks and compasses.
+ent-ClothingOuterDiscoAssBlazer = disco ass blazer
+    .desc = Looks like someone skinned this blazer off some long extinct disco-animal. It has an enigmatic white rectangle on the back and the right sleeve.

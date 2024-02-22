@@ -1,2 +1,2 @@
-ent-BaseFoldable = складной
+ent-BaseFoldable = foldable
     .desc = { "" }

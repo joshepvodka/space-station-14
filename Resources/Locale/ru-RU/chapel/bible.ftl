@@ -1,15 +1,18 @@
-bible-heal-success-self = Вы ударяете { $target } с помощью { $bible }, и его раны закрываются во вспышке святого света!
-bible-heal-success-others = { CAPITALIZE($user) } ударяет { $target } с помощью { $bible }, и его раны закрываются во вспышке святого света!
-bible-heal-success-none-self = Вы ударяете { $target } с помощью { $bible }, но раны которые можно излечить отсутствуют!
-bible-heal-success-none-others = { CAPITALIZE($user) } ударяет { $target } с помощью { $bible }!
-bible-heal-fail-self = Вы ударяете { $target } с помощью { $bible }, и { $bible }, с печальным стуком, оказывает ошеломляющий эффект!
-bible-heal-fail-others = { CAPITALIZE($user) } ударяет { $target } с помощью { $bible }, и { $bible }, с печальным стуком, оказывает ошеломляющий эффект!
-bible-sizzle = Книга шипит в ваших руках!
-bible-summon-verb = Призвать фамильяра
-bible-summon-verb-desc = Призовите фамильяра, который станет помогать вам и обретёт человекоподобный интеллект после вселения в него души.
-bible-summon-requested = Ваш фамильяр явится, как только появится желающая душа.
-bible-summon-respawn-ready = { CAPITALIZE($book) } наполняется неземной энергией. Обитатель { CAPITALIZE($book) } вернулся домой.
-necro-heal-success-self = Вы ударяете { $target } с помощью { $bible }, и кожа { $target } начинает кукожиться и плавиться!
-necro-heal-success-others = { CAPITALIZE($user) } ударяет { $target } с помощью { $bible }, и кожа { $target } начинает кукожиться и плавиться!
-necro-heal-fail-self = Вы ударяете { $target } с помощью { $bible }, но удар отдаётся печальным стуком, не сумев поразить { $target }.
-necro-heal-fail-others = { CAPITALIZE($user) } ударяет { $target } с помощью { $bible }, но удар отдаётся печальным стуком, не сумев поразить { $target }.
+bible-heal-success-self = Você acerta {THE($target)} com {THE($bible)}, e os ferimentos dele(a) fecham num clarão de luz divina!
+bible-heal-success-others = {CAPITALIZE(THE($user))} acerta {THE($target)} com {THE($bible)}, e os ferimentos dele(a) fecham num clarão de luz divina!
+bible-heal-success-none-self = Você acerta {THE($target)} com {THE($bible)} e ele não tem ferimentos que você possa curar!
+bible-heal-success-none-others = {CAPITALIZE(THE($user))} acerta {THE($target)} com {THE($bible)}!
+
+bible-heal-fail-self = Você acerta {THE($target)} com {THE($bible)}, em uma paulada triste, atordoando {OBJECT($target)}!
+bible-heal-fail-others = {CAPITALIZE(THE($user))} acerta {THE($target)} com {THE($bible)}, em uma paulada triste, atordoando {OBJECT($target)}!
+bible-sizzle = O Livro treme em sua mão!
+
+bible-summon-verb = Convocar familiar
+bible-summon-verb-desc = Convoque um familiar que irá ajudá-lo e ganhar inteligência humana, uma vez habitado por uma alma.
+bible-summon-requested = O seu familiar irá chegar assim que uma alma disposta se voluntariar.
+bible-summon-respawn-ready = {CAPITALIZE(THE($book))} surge com poder etéreo. O seu residente está em casa denovo.
+
+necro-heal-success-self = Você acerta {THE($target)} com {THE($bible)}, e a carne dele(a) deforma enquanto derrete!
+necro-heal-success-others = {CAPITALIZE(THE($user))} acerta {THE($target)} com {THE($bible)}, e a carne dele(a) deforma enquanto derrete!
+necro-heal-fail-self = Você acerta {THE($target)} com {THE($bible)}, em uma paulada triste, falhando em castigar {OBJECT($target)}.
+necro-heal-fail-others = {CAPITALIZE(THE($user))} acerta {THE($target)} com {THE($bible)}, em uma paulada triste, falhando em castigar {OBJECT($target)}.

@@ -1,3 +1,1 @@
-advertisement-chemdrobe-1 = Наша одежда на 0,5% более устойчива к разлитым кислотам! Получите свою прямо сейчас!
-advertisement-chemdrobe-2 = Профессиональная лабораторная одежда, разработанная компанией NanoTrasen!
-advertisement-chemdrobe-3 = Я почти уверен, что она защитит вас от пролитой кислоты!
+advertisement-chemdrobe-1 = Nossas roupas são 0.5% mais resistentes à respingos de ácido! Pegue a sua já!

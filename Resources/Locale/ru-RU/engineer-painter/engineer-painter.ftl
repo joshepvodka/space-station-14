@@ -1,12 +1,14 @@
-spray-painter-window-title = Краскопульт
-spray-painter-style-not-available = Невозможно применить выбранный стиль к данному типу шлюза
-spray-painter-selected-style = Выбранный стиль:
-spray-painter-selected-color = Выбранный цвет:
-spray-painter-color-red = красный
-spray-painter-color-yellow = жёлтый
-spray-painter-color-brown = коричневый
-spray-painter-color-green = зелёный
-spray-painter-color-cyan = голубой
-spray-painter-color-blue = синий
-spray-painter-color-white = белый
-spray-painter-color-black = чёрный
+spray-painter-window-title = Spray de Tinta
+
+spray-painter-not-available = Não é possível aplicar o estilo neste tipo de porta
+spray-painter-selected-style = Estilo selecionado:
+
+spray-painter-selected-color = Cor selecionada:
+spray-painter-selected-red = vermelho
+spray-painter-selected-yellow = amarelo
+spray-painter-selected-brown = marrom
+spray-painter-selected-green = verde
+spray-painter-selected-cyan = ciano
+spray-painter-selected-blue = azul
+spray-painter-selected-white = branco
+spray-painter-selected-black = preto

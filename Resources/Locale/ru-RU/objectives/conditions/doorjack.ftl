@@ -1,12 +1,2 @@
-objective-condition-doorjack-title =
-    Взломайте { $count } { $count ->
-        [one] дверь
-        [few] двери
-       *[other] дверей
-    } на станции.
-objective-condition-doorjack-description =
-    Ваши перчатки могут взламывать шлюзы. Сделайте это с { $count } { $count ->
-        [one] дверью
-        [few] дверьми
-       *[other] дверьми
-    }.
+objective-condition-doorjack-title = Hackeia {$count} portas da estação.
+objective-condition-doorjack-description = Suas luvas podem dar emag nas airlocks. Faça isso para {$count} portas da estação.

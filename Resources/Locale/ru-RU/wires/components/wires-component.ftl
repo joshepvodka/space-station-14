@@ -1,12 +1,12 @@
-wires-component-ui-on-receive-message-no-hands = У вас нет рук.
-wires-component-ui-on-receive-message-cannot-reach = Вы не можете туда достать!
-wires-component-ui-on-receive-message-need-wirecutters = Вы должны держать в активной руке кусачки!
-wires-component-ui-on-receive-message-need-multitool = Вы должны держать в активной руке мультитул!
-wires-component-ui-on-receive-message-cannot-pulse-cut-wire = Вы не можете прозвонить перерезанный провод!
-wires-component-ui-on-receive-message-cannot-cut-cut-wire = Вы не можете перерезать уже перерезанный провод!
-wires-component-ui-on-receive-message-cannot-mend-uncut-wire = Вы не можете соединить уже соединённый провод!
+wires-component-ui-on-receive-message-no-hands = Você não tem mãos.
+wires-component-ui-on-receive-message-cannot-reach = Você não alcança!
+wires-component-ui-on-receive-message-need-wirecutters = Você precisa segurar um wirecutter em sua mão!
+wires-component-ui-on-receive-message-need-multitool = Você precisa segurar um multitool em sua mão!
+wires-component-ui-on-receive-message-cannot-pulse-cut-wire = Você não pode pulsar um fio que foi cortado!
+wires-component-ui-on-receive-message-cannot-cut-cut-wire = Você não pode cortar um fio que já foi cortado!
+wires-component-ui-on-receive-message-cannot-mend-uncut-wire = Você não pode remendar um fio que já foi remendado!
 
 ## UI
 
-wires-menu-name-label = Провода
+wires-menu-name-label = Fios
 wires-menu-dead-beef-text = DEAD-BEEF

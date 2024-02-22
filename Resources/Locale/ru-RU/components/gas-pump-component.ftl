@@ -1,8 +1,12 @@
-comp-gas-pump-ui-pump-status = Статус:
-comp-gas-pump-ui-status-enabled = Вкл
-comp-gas-pump-ui-status-disabled = Выкл
-comp-gas-pump-ui-pump-set-rate = Установить
-comp-gas-pump-ui-pump-set-max = Максимум
-comp-gas-pump-ui-pump-output-pressure = Выходное давление (кПа):
-comp-gas-pump-ui-pump-transfer-rate = Скорость подачи (Л/сек):
-comp-gas-pump-ui-needs-anchor = Сначала закрепите его!
+comp-gas-pump-ui-pump-status = Status:
+comp-gas-pump-ui-status-enabled = Ligado
+comp-gas-pump-ui-status-disabled = Desligado
+
+comp-gas-pump-ui-pump-set-rate = Definir
+comp-gas-pump-ui-pump-set-max = Máximo
+
+comp-gas-pump-ui-pump-output-pressure = Saída de Pressão (kPa):
+
+comp-gas-pump-ui-pump-transfer-rate = Taxa de Transferência (L/s):
+
+comp-gas-pump-ui-needs-anchor = Fixe-o no chão primeiro!

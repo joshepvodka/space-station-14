@@ -1,9 +1,9 @@
-ent-filingCabinet = картотечный шкаф
-    .desc = Шкаф для хранения документов.
+ent-filingCabinet = filing cabinet
+    .desc = A cabinet for all your filing needs.
     .suffix = { "" }
-ent-filingCabinetTall = высокий шкаф
+ent-filingCabinetTall = tall cabinet
     .desc = { ent-filingCabinet.desc }
     .suffix = { "" }
-ent-filingCabinetDrawer = комод
-    .desc = Маленький шкафчик для хранения предметов. Теперь на колёсиках!
+ent-filingCabinetDrawer = chest drawer
+    .desc = A small drawer for all your filing needs, Now with wheels!
     .suffix = { "" }

@@ -1,2 +1,2 @@
-health-examinable-verb-text = Здоровье
-health-examinable-verb-disabled = Проведите базовое медицинское обследование на небольшом расстоянии.
+health-examinable-verb-text = Saúde
+health-examinable-verb-disabled = Realize o exame básico de saúde mais de perto.

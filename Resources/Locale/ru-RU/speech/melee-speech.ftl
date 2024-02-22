@@ -1,2 +1,2 @@
-melee-speech-current-battlecry = Боевой клич:
-melee-speech-menu-title = Установка боевого клича
+melee-speech-current-battlecry = Grito de guerra:
+melee-speech-menu-title = Definir grito de guerra

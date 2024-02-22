@@ -1,5 +1,13 @@
 ent-BaseDionaOrgan = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
+<<<<<<< HEAD
+ent-OrganDionaBrain = brain
+    .desc = The source of incredible, unending intelligence. Honk.
+ent-OrganDionaEyes = eyes
+    .desc = I see you!
+ent-OrganDionaStomach = stomach
+    .desc = Gross. This is hard to stomach.
+=======
 ent-OrganDionaBrain = мозг
     .desc = Источник невероятного, бесконечного интеллекта. Хонк.
 ent-OrganDionaEyes = глаза
@@ -23,3 +31,4 @@ ent-OrganDionaNymphStomach = нимфа дионы
 ent-OrganDionaNymphLungs = нимфа дионы
     .desc = Содержит лёгкие дионы, которая ещё недавно была полностью сформированной. Дух захватывает.
     .suffix = Лёгкие
+>>>>>>> space-station-14/master

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+ent-AirlockAssembly = airlock assembly
+    .desc = It opens, it closes, and maybe crushes you.
+=======
 ent-AirlockAssemblyAtmospherics = { ent-AirlockAssembly }
     .suffix = Атмосферный
     .desc = { ent-AirlockAssembly.desc }
@@ -97,3 +101,4 @@ ent-AirlockAssemblyShuttleSyndicateGlass = { ent-AirlockAssembly }
 ent-AirlockAssemblyHighSec = { ent-AirlockAssembly }
     .suffix = Бронированная дверь
     .desc = { ent-AirlockAssembly.desc }
+>>>>>>> space-station-14/master

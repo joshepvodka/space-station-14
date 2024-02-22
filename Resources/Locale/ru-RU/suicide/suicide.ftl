@@ -1,1 +1,1 @@
-suicide-prevented = Вы попытались покончить жизнь самоубийством, но смогли только испустить дух.
+﻿suicide-prevented = Você tenta o suicídio, mas apenas o seu espírito escapa.

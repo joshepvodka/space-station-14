@@ -1,5 +1,5 @@
-ent-CrateEmptySpawner = спавнер пустой ящик
+ent-CrateEmptySpawner = Empty Crate Spawner
     .desc = { ent-MarkerBase.desc }
-ent-CrateFilledSpawner = спавнер полный ящик
-    .suffix = Низкая ценность
+ent-CrateFilledSpawner = Filled Crate Spawner
+    .suffix = Low Value
     .desc = { ent-MarkerBase.desc }

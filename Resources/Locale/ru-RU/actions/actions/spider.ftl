@@ -1,4 +1,5 @@
-spider-web-action-nogrid = Под вами нет пола!
-spider-web-action-success = Вы развешиваете паутину вокруг себя.
-spider-web-action-fail = Вы не можете разместить паутину здесь! На основных направлениях вокруг вас уже есть паутина!
-sericulture-failure-hunger = Ваш желудок слишком пуст для плетения паутины!
+spider-web-action-nogrid = Não tem chão embaixo de você!
+spider-web-action-success = Você coloca teias a sua volta.
+spider-web-action-fail = Você não pode colocar teias aqui! Todas as 4 direções cardinais já tem teias!
+
+sericulture-failure-hunger = Seu estômago está muito vazio para fazer mais teias!

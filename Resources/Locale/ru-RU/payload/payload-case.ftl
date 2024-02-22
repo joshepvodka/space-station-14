@@ -1,3 +1,3 @@
-payload-case-not-close-enough = Вам нужно подойти ближе, чтобы определить, содержит ли { $ent } заряд.
-payload-case-has-payload = В { CAPITALIZE($ent) } установлен заряд!
-payload-case-does-not-have-payload = { CAPITALIZE($ent) } не содержит заряд.
+payload-case-not-close-enough = Você precisa chegar mais perto para determinar se {THE($ent)} tem uma carga útil desinstalada.
+payload-case-has-payload = {CAPITALIZE(THE($ent))} tem uma carga útil instalada!
+payload-case-does-not-have-payload = {CAPITALIZE(THE($ent))} não tem uma carga útil instalada.

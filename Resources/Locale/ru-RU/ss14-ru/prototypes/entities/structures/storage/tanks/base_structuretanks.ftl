@@ -1,2 +1,2 @@
-ent-StorageTank = резервуар
-    .desc = Резервуар для хранения жидкостей.
+ent-StorageTank = storage tank
+    .desc = A liquids storage tank.

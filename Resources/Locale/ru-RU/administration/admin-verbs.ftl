@@ -1,16 +1,15 @@
-delete-verb-get-data-text = Удалить
-edit-solutions-verb-get-data-text = Редактировать растворы
-explode-verb-get-data-text = Взорвать
-ahelp-verb-get-data-text = Написать
-admin-verbs-admin-logs-entity = Логи сущности
-admin-verbs-teleport-to = Телепортироваться к
-admin-verbs-teleport-here = Телепортировать сюда
-admin-verbs-freeze = Заморозить
-admin-verbs-unfreeze = Разморозить
-admin-verbs-erase = Стереть
-admin-verbs-erase-description =
-    Удаляет игрока из раунда и манифеста членов экипажа, а также удаляет все его сообщения в чате.
-    Их вещи упадут на землю.
-    Игроки увидят всплывающее окно, указывающее им играть как будто исчезнувшего никогда не существовало.
-toolshed-verb-mark = Отметить
-toolshed-verb-mark-description = Помещает данную сущность в переменную $marked, заменяя ее предыдущее значение.
+delete-verb-get-data-text = Deletar
+edit-solutions-verb-get-data-text = Editar soluções
+explode-verb-get-data-text = Explodir
+ahelp-verb-get-data-text = Mensagem
+admin-verbs-admin-logs-entity = Logs de Entidade
+admin-verbs-teleport-to = Teleportar-se para
+admin-verbs-teleport-here = Teleportá-la pra cá
+admin-verbs-freeze = Congelar
+admin-verbs-unfreeze = Descongelar
+admin-verbs-erase = Apagar
+admin-verbs-erase-description = Remove o jogador da rodada, do manifesto da tripulação e exclui suas mensagens de bate-papo.
+    Seus itens são jogados no chão.
+    Os jogadores veem um pop-up indicando que no jogo é como se nunca tivessem existido.
+toolshed-verb-mark = Marcar
+toolshed-verb-mark-description = Coloca essa entidade na variável $marked, uma lista de entidades, substituindo seu valor anterior.

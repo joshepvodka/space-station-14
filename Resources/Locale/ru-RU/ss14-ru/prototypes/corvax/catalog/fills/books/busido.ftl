@@ -1,2 +1,2 @@
-ent-BookBusido = Бусидо. Избранные главы
-    .desc = Настольная книга самураев, виабу, и диванных экспертов.
+ent-BookBusido = Busido. Selected chapters
+    .desc = Handbook for samurai, weaboos, and armchair generals.

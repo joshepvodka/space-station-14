@@ -1,7 +1,9 @@
-construction-presenter-to-craft = Чтобы создать этот предмет, вам необходимо:
-construction-presenter-to-build = Чтобы построить это, сначала вам необходимо:
-construction-presenter-step-wrapper = { $step-number }. { $text }
-construction-presenter-tool-step = Используйте { LOC($tool) }.
-construction-presenter-material-step = Добавьте { $amount }ед { LOC($material) }.
-construction-presenter-arbitrary-step = Добавьте { LOC($name) }.
-construction-presenter-temperature-step = Нагрейте до { $temperature }.
+﻿construction-presenter-to-craft = Para criar esse item, você precisa:
+construction-presenter-to-build = Para construir isso, primeiro você precisa:
+
+construction-presenter-step-wrapper = {$step-number}. {$text}
+
+construction-presenter-tool-step = Use {LOC($tool)}.
+construction-presenter-material-step = Adicione {$amount}x {LOC($material)}.
+construction-presenter-arbitrary-step = Adicione {LOC($name)}.
+construction-presenter-temperature-step = Aquecer para {$temperature}.

@@ -1,3 +1,3 @@
-ent-APCElectronics = микросхема ЛКП
-    .desc = Микросхема, используемая в строительстве ЛКП.
+ent-APCElectronics = APC electronics
+    .desc = An electronics board used in APC construction.
     .suffix = { "" }

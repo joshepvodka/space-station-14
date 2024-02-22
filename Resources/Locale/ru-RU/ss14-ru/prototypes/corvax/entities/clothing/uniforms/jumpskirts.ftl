@@ -1,8 +1,8 @@
-ent-ClothingUniformJumpskirtCentcomOfficial = юбка-костюм офицера Центком
-    .desc = Это костюм с юбкой, который носят офицеры Центком высшего звена.
-ent-ClothingUniformJumpskirtCentcomOfficer = водолазка с юбкой Центком
-    .desc = Версия водолазки Центком с юбкой, более редкая и востребованная, чем оригинал.
-ent-ClothingUniformColorJumpskirtRainbow = радужная юбка-комбинезон
-    .desc = Разноцветная юбка-комбинезон!
-ent-ClothingUniformJumpskirtPsychologist = юбка-костюм психолога
-    .desc = Я не теряю вещи. Я кладу вещи в места, которые потом ускользают от меня.
+ent-ClothingUniformJumpskirtCentcomOfficial = CentCom officer's suitskirt
+    .desc = It's a suitskirt worn by CentCom's highest-tier Commanders.
+ent-ClothingUniformJumpskirtCentcomOfficer = CentCom turtleneck skirt
+    .desc = A skirt version of the CentCom turtleneck, rarer and more sought after than the original.
+ent-ClothingUniformColorJumpskirtRainbow = rainbow jumpskirt
+    .desc = A multi-colored jumpskirt!
+ent-ClothingUniformJumpskirtPsychologist = psychologist suitskirt
+    .desc = I don't lose things. I place things in locations which later elude me.

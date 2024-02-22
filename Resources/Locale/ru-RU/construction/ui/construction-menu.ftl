@@ -1,8 +1,8 @@
 ## ConstructionMenu.xaml.cs
 
-construction-menu-title = Строительство
-construction-menu-place-ghost = Разместить призрак конструкции
-construction-menu-clear-all = Очистить все
-construction-menu-eraser-mode = Режим ластика
-construction-menu-title = Строительство
-construction-menu-craft = Создание
+construction-menu-title = Construção
+construction-menu-place-ghost = Colocar fanstasma de construção
+construction-menu-clear-all = Limpar Tudo
+construction-menu-eraser-mode = Modo Borracha
+construction-menu-title = Construção
+construction-menu-craft = Criar

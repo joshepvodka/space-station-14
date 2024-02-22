@@ -1,8 +1,9 @@
 # Bomb planting strings
 
-comp-sticky-start-stick-bomb = Вы начинаете прикреплять бомбу...
-comp-sticky-success-stick-bomb = Вы прикрепили бомбу
-comp-sticky-start-unstick-bomb = Вы начинаете аккуратно откреплять бомбу...
-comp-sticky-success-unstick-bomb = Вы открепили бомбу
+comp-sticky-start-stick-bomb = Você começa a plantar a bomba...
+comp-sticky-success-stick-bomb = Você plantou a bomba
+comp-sticky-start-unstick-bomb = Você começa a cuidadosamente remover a bomba...
+comp-sticky-success-unstick-bomb = Você removeu a bomba
+
 # General strings
-comp-sticky-unstick-verb-text = Открепить
+comp-sticky-unstick-verb-text = Desgrudar

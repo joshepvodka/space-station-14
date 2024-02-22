@@ -1,4 +1,4 @@
-ent-ClothingBackpackDuffelMilitary = армейский вещмешок
-    .desc = Большой вещмешок для хранения любого армейского снаряжения.
-ent-ClothingBackpackDuffelCE = вещмешок старшего инженера
-    .desc = Большой вещмешок, который может хранить все инструменты для создания сингулярности.
+ent-ClothingBackpackDuffelMilitary = army duffel bag
+    .desc = A large duffel bag for holding any army goods.
+ent-ClothingBackpackDuffelCE = chief engineer duffel bag
+    .desc = A large duffel bag for all instruments you need to create singularity.

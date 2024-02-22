@@ -1,33 +1,29 @@
 # Glass
-materials-glass = стекло
-materials-reinforced-glass = бронестекло
-materials-plasma-glass = плазменное стекло
-materials-reinforced-plasma-glass = плазменное бронестекло
+materials-glass = vidro
+materials-reinforced-glass = vidro reforçado
+materials-plasma-glass = vidro de plasma
+materials-reinforced-plasma-glass = vidro de plasma reforçado
+
 # Metals
-materials-steel = сталь
-materials-gold = золото
-materials-silver = серебро
-materials-plasteel = пласталь
+materials-steel = aço
+materials-gold = ouro
+materials-silver = prata
+materials-plasteel = plastiaço
+
 # Other
-materials-biomass = биомасса
-materials-cardboard = картон
-materials-cloth = ткань
-materials-durathread = дюраткань
-materials-plasma = плазма
-materials-plastic = пластик
-materials-wood = дерево
-materials-paper = бумага
-materials-uranium = уран
-materials-bananium = бананиум
-materials-meat = мясо
-materials-web = шёлк
-materials-bones = кости
-materials-coal = уголь
-# Ores
-materials-raw-iron = руда железа
-materials-raw-quartz = руда кварца
-materials-raw-gold = руда золота
-materials-raw-silver = руда серебра
-materials-raw-plasma = руда плазмы
-materials-raw-uranium = руда урана
-materials-raw-bananium = руда бананиума
+materials-biomass = biomassa
+materials-cardboard = papelão
+materials-cloth = tecido
+materials-durathread = durathread
+materials-plasma = plasma
+materials-plastic = plástico
+materials-wood = madeira
+materials-paper = papel
+materials-uranium = urânio
+materials-bananium = bananium
+materials-meat = carne
+materials-web = seda
+materials-bones = osso
+
+# Material Reclaimer
+material-reclaimer-upgrade-process-rate = taxa de processo

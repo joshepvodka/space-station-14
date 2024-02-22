@@ -1,8 +1,12 @@
-bwoink-user-title = Сообщение от администратора
-bwoink-system-starmute-message-no-other-users = *Система: Никто не доступен для получения вашего сообщения. Попробуйте обратиться к администраторам игры в Discord.
-bwoink-system-messages-being-relayed-to-discord = Ваше сообщение было передано администраторам в Discord. Оно может остаться без ответа.
-bwoink-system-typing-indicator =
-    { $players } { $count ->
-        [one] печатает
-       *[other] печатают
-    }...
+bwoink-user-title = Admin
+
+bwoink-system-starmute-message-no-other-users = *Sistema: Ninguém está ativo para responder sua mensagem. Tente pingar um admin no Discord.
+
+bwoink-system-messages-being-relayed-to-discord = 
+    Sua mensagem foi mandada para admins do pirata pelo discord.
+    Problemas podem ser resolvidos sem uma resposta por uma razão ou outra.
+
+bwoink-system-typing-indicator = {$players} {$count ->
+[one] está
+*[other] estão
+} digitando...

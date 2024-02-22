@@ -1,29 +1,53 @@
+
 ### UI
 
 # For the PDA screen
-comp-pda-ui = ID: [color=white]{ $owner }[/color], [color=yellow]{ CAPITALIZE($jobTitle) }[/color]
+comp-pda-ui = ID: [color=white]{$owner}[/color], [color=yellow]{$jobTitle}[/color]
+
 comp-pda-ui-blank = ID:
-comp-pda-ui-owner = Владелец: [color=white]{ $actualOwnerName }[/color]
-comp-pda-io-program-list-button = Программы
-comp-pda-io-settings-button = Настройки
-comp-pda-io-program-fallback-title = Программа
-comp-pda-io-no-programs-available = Нет доступных программ
-pda-bound-user-interface-show-uplink-title = Открыть аплинк
-pda-bound-user-interface-show-uplink-description = Получите доступ к своему аплинку
-pda-bound-user-interface-lock-uplink-title = Закрыть аплинк
-pda-bound-user-interface-lock-uplink-description = Предотвратите доступ к вашему аплинку персон без кода
-comp-pda-ui-menu-title = КПК
-comp-pda-ui-footer = Карманный Персональный Компьютер
-comp-pda-ui-station = Станция: [color=white]{ $station }[/color]
-comp-pda-ui-station-alert-level = Уровень угрозы: [color={ $color }]{ $level }[/color]
-comp-pda-ui-station-alert-level-instructions = Инструкции: [color=white]{ $instructions }[/color]
-comp-pda-ui-station-time = Продолжительность смены: [color=white]{ $time }[/color]
-comp-pda-ui-eject-id-button = Извлечь ID
-comp-pda-ui-eject-pen-button = Извлечь ручку
-comp-pda-ui-ringtone-button-description = Измените рингтон вашего КПК
-comp-pda-ui-ringtone-button = Рингтон
-comp-pda-ui-toggle-flashlight-button = Переключить фонарик
-pda-bound-user-interface-music-button-description = Слушайте музыку на своём КПК
-pda-bound-user-interface-music-button = Музыкальный инструмент
-comp-pda-ui-unknown = Неизвестно
-comp-pda-ui-unassigned = Не назначено
+
+comp-pda-ui-owner = Dono: [color=white]{$actualOwnerName}[/color]
+
+comp-pda-io-program-list-button = Programas
+
+comp-pda-io-settings-button = Configurações
+
+comp-pda-io-program-fallback-title = Program
+
+comp-pda-io-no-programs-available = Nenhum programa disponível
+
+pda-bound-user-interface-show-uplink-title = Abrir Uplink
+pda-bound-user-interface-show-uplink-description = Acessa seu uplink
+
+pda-bound-user-interface-lock-uplink-title = Bloquear Uplink
+pda-bound-user-interface-lock-uplink-description = Evite que alguém acesse seu uplink sem o código
+
+comp-pda-ui-menu-title = PDA
+
+comp-pda-ui-station = Estação: [color=white]{$station}[/color]
+
+comp-pda-ui-station-alert-level = Nível de Alerta: [color={ $color }]{ $level }[/color]
+
+comp-pda-ui-station-alert-level-instructions = Instruções: [color=white]{ $instructions }[/color]
+
+comp-pda-ui-station-time = Duração do Turno: [color=white]{ $time }[/color]
+
+comp-pda-ui-station-date = Data da Estação: [color=white]{ $date }[/color]
+
+comp-pda-ui-eject-id-button = Ejetar ID
+
+comp-pda-ui-eject-pen-button = Ejetar Caneta
+
+comp-pda-ui-ringtone-button = Ringtone
+
+comp-pda-ui-ringtone-button-description = Troque o toque do seu PDA
+
+comp-pda-ui-toggle-flashlight-button = Ligar Lanterna
+
+pda-bound-user-interface-music-button = Instrumento Musical
+
+pda-bound-user-interface-music-button-description = Toque música no seu PDA
+
+comp-pda-ui-unknown = Desconhecido
+
+comp-pda-ui-unassigned = Não atribuído

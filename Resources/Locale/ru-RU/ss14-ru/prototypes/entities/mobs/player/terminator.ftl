@@ -1,6 +1,6 @@
 ent-MobTerminatorBase = { "" }
     .desc = { "" }
-ent-MobHumanTerminator = экстерминатор
+ent-MobHumanTerminator = exterminator
     .desc = { ent-MobHuman.desc }
-ent-MobTerminatorEndoskeleton = эндоскелет NT-800 "Экстерминатор"
-    .desc = Хребет андроидов-диверсантов корпорации SusNet. Невероятно твёрдый сплав внутри, непритязательная плоть снаружи.
+ent-MobTerminatorEndoskeleton = nt-800 "exterminator" endoskeleton
+    .desc = The inner powerhouse of Susnet's infiltrator androids. Ridiculously hard alloy on the inside, unassuming flesh on the outside.

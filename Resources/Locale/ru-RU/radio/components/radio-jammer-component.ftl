@@ -1,5 +1,6 @@
-radio-jammer-component-on-use = Глушитель связи { $state }.
-radio-jammer-component-on-state = включён
-radio-jammer-component-off-state = выключен
-radio-jammer-component-examine-on-state = Индикатор работы [color=darkgreen]горит[/color].
-radio-jammer-component-examine-off-state = Индикатор работы [color=darkred]не горит[/color].
+radio-jammer-component-on-use = O bloqueador de rádio agora está {$state}.
+radio-jammer-component-on-state = ligado
+radio-jammer-component-off-state = desligado
+
+radio-jammer-component-examine-on-state = O led está [color=darkgreen]ligado[/color].
+radio-jammer-component-examine-off-state = O led está [color=darkred]desligado[/color].

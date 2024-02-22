@@ -1,4 +1,4 @@
-ent-ActionRevertPolymorph = Вернуться
-    .desc = Вернитесь в свою изначальную форму.
+ent-ActionRevertPolymorph = Revert
+    .desc = Revert back into your original form.
 ent-ActionPolymorph = { "" }
     .desc = { "" }

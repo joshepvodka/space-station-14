@@ -1,2 +1,2 @@
-nuke-ops-no-more-threat-announcement-shuttle-call = Согласно данным наших сенсоров дальнего действия, ядерная угроза была устранена. Мы вызовем аварийный шаттл, который прибудет в ближайшее время. Расчётное время прибытия: { $time } { $units }. Вы можете отозвать шаттл чтобы продлить смену.
-nuke-ops-no-more-threat-announcement = Согласно данным наших сенсоров дальнего действия, ядерная угроза была устранена. Шаттл уже вызван.
+nuke-ops-no-more-threat-announcement-shuttle-call = Com base nas varreduras dos nossos sensores de longo alcance, a ameaça nuclear está agora eliminada. Chamaremos a nave de emergência que chegará em breve.  ETA: {$time} {$units}. Você pode chamar a nave de volta para estender o turno.
+nuke-ops-no-more-threat-announcement = Com base nas varreduras dos nossos sensores de longo alcance, a ameaça nuclear está agora eliminada. A nave de emergência já foi chamado.

@@ -1,8 +1,7 @@
-server-info-rules-button = Правила
-server-info-guidebook-button = Руководство
+server-info-rules-button = Regras
+server-info-guidebook-button = Livro guia
 server-info-discord-button = Discord
-server-info-website-button = Сайт
+server-info-website-button = Website
 server-info-wiki-button = Wiki
-server-info-forum-button = Форум
-server-info-report-button = Сообщить об ошибке
-server-info-credits-button = Авторы
+server-info-report-button = Reportar Erro
+server-info-credits-button = Créditos

@@ -1,2 +1,2 @@
-marking-CatEars = Кошачьи уши
-marking-CatTail = Кошачий хвост
+marking-CatEars = Orelhas de Gato
+marking-CatTail = Rabo de Gato

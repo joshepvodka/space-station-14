@@ -1,18 +1,21 @@
-comp-gas-canister-ui-canister-status = Статус канистры
-comp-gas-canister-ui-canister-relabel = Перемаркировать
-comp-gas-canister-ui-canister-pressure = Давление в канистре:
-comp-gas-canister-ui-port-status = Статус порта:
-comp-gas-canister-ui-port-connected = Подключено
-comp-gas-canister-ui-port-disconnected = Отключено
-comp-gas-canister-ui-holding-tank-status = Статус вставленного баллона
-comp-gas-canister-ui-holding-tank-label = Тип баллона:
-comp-gas-canister-ui-holding-tank-label-empty = Отсутствует
-comp-gas-canister-ui-holding-tank-pressure = Давление баллона:
-comp-gas-canister-ui-holding-tank-eject = Извлечь
-comp-gas-canister-ui-release-valve-status = Состояние выпускного клапана
-comp-gas-canister-ui-release-pressure = Выпускное давление:
-comp-gas-canister-ui-release-valve = Выпускной клапан:
-comp-gas-canister-ui-release-valve-open = Открыт
-comp-gas-canister-ui-release-valve-close = Закрыт
-comp-gas-canister-ui-pressure = { $pressure } кПа
-comp-gas-canister-slot-name-gas-tank = Баллон
+comp-gas-canister-ui-canister-status = Status do Tanque
+comp-gas-canister-ui-canister-relabel = Relegendar
+comp-gas-canister-ui-canister-pressure = Pressão do Tanque:
+
+comp-gas-canister-ui-port-status = Status da Porta:
+comp-gas-canister-ui-port-connected = Conectado
+comp-gas-canister-ui-port-disconnected = Desconectado
+
+comp-gas-canister-ui-holding-tank-status = Status do Tanque de Mão
+comp-gas-canister-ui-holding-tank-label = Legenda do Tanque de Mão:
+comp-gas-canister-ui-holding-tank-label-empty = Vazio
+comp-gas-canister-ui-holding-tank-pressure = Pressão do Tanque de Mão:
+comp-gas-canister-ui-holding-tank-eject = Ejetar
+
+comp-gas-canister-ui-release-valve-status = Status da Válvula de Saída
+comp-gas-canister-ui-release-pressure = Saída de Pressão (kPa):
+comp-gas-canister-ui-release-valve = Válvula de Saída:
+comp-gas-canister-ui-release-valve-open = Aberta
+comp-gas-canister-ui-release-valve-close = Fechada
+
+comp-gas-canister-ui-pressure = {$pressure} kPa

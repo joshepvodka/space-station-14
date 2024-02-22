@@ -1,28 +1,35 @@
-reagent-name-desoxyephedrine = дезоксиэфедрин
-reagent-desc-desoxyephedrine = Более эффективный Эфедрин, имеющий более выраженные побочные эффекты. Требует меньшей дозы для профилактики нарколепсии.
-reagent-name-ephedrine = эфедрин
-reagent-desc-ephedrine = Кофеиновый адреналиновый стимулятор, который делает вас быстрее и устойчивее на ногах. Также помогает противостоять нарколепсии в дозах выше 30, но ценой сильного нервного стресса.
-reagent-name-stimulants = стимулятор
-reagent-desc-stimulants = Химический коктейль, разработанный компанией Donk Co., который позволяет агентам быстрее оправляться от оглушения, быстрее передвигаться, и легко излечивает в критическом состоянии. Из-за комплексной природы этого вещества организму гораздо труднее вывести его из организма естественным путем.
-reagent-name-experimental-stimulants = экспериментальный стимулятор
-reagent-desc-experimental-stimulants = Опытная, усиленная версия стимулятора. Её использование даёт практически полную невосприимчивость к оглушающему оружию, ускоренную регенерацию ран, огромную скорость передвижения за счёт понижения выработки молочной кислоты и общее чувство эйфории. Среди побочных эффектов можно выделить низкую свёртываемость крови, тоннельное зрение, сильное скопление токсинов в кровеносной системе и быстрое отмирание печени. Беречь от животных.
-reagent-name-thc = ТГК
-reagent-desc-thc = Он же тетрагидроканнабинол. Основное психоактивное вещество в конопле.
-reagent-name-thc-oil = масло ТГК
-reagent-desc-thc-oil = Чистое масло ТГК, полученное из листьев конопли. Оно намного сильнее, чем в натуральной форме, и может использоваться для снятия хронической боли у пациентов.
-reagent-name-bananadine = бананадин
-reagent-desc-bananadine = Слабый психоделик, который содержится в небольших количествах в банановой кожуре.
-reagent-name-nicotine = никотин
-reagent-desc-nicotine = Опасен и вызывает сильное привыкание, но так утверждает пропаганда.
-reagent-name-impedrezene = импедризин
-reagent-desc-impedrezene = Наркотик, который лишает человека дееспособности, замедляя высшие функции клеток мозга.
-reagent-name-space-drugs = космические наркотики
-reagent-desc-space-drugs = Запрещенное вещество, вызывающее ряд таких эффектов, как потеря равновесия и нарушения зрения.
-reagent-name-nocturine = ноктюрин
-reagent-desc-nocturine = Высокоэффективное снотворное и гипнотическое средство, разработанное Синдикатом для тайных операций. Билет в один конец в хонкоград.
-reagent-name-mute-toxin = токсин немоты
-reagent-desc-mute-toxin = Густой препарат, воздействующий на голосовые связки и лишающий пользователя возможности говорить пока усваивается организмом.
-reagent-name-norepinephric-acid = норэпинефриновая кислота
-reagent-desc-norepinephric-acid = Мягкое химическое вещество, которое блокирует оптические рецепторы, делая употребившего слепым пока усваивается организмом.
-reagent-name-tear-gas = слезоточивый газ
-reagent-desc-tear-gas = Химическое вещество, вызывающее слёзы и сильное раздражение, обычно используется для подавления массовых беспорядков.
+reagent-name-desoxyephedrine = desoxyephedrine
+reagent-desc-desoxyephedrine = Uma efedrina mais eficaz, com desvantagens mais ativas. Requer menos doses para curar a narcolepsia.
+
+reagent-name-ephedrine = ephedrine
+reagent-desc-ephedrine = Um estimulador de adrenalina com cafeína que o torna mais rápido e mais difícil de derrubar. Também ajuda a combater a narcolepsia em doses acima de trinta, ao custo de estresse dental grave.
+
+reagent-name-stimulants = estimulantes
+reagent-desc-stimulants = Um coquetel químico desenvolvido pela Donk Co. que permite que os agentes se recuperem de atordoamentos mais rápido, se movam mais rapidamente e concedem uma pequena cura enquanto perto de condições críticas. Devido à natureza complexa do produto químico, é muito mais difícil para o corpo purgar naturalmente.
+
+reagent-name-experimental-stimulants = estimulantes experimentais
+reagent-desc-experimental-stimulants = Uma versão protótipo da mistura química estimulante. O uso concede imunidade virtual à armamento de atordoamento, regeneração rápida de tecidos, velocidade de corrida extrema, reduz o acúmulo de ácido láctico e uma sensação geral de euforia. Os efeitos colaterais podem incluir níveis extremos de anticoagulação, visão de túnel, acúmulo extremo de toxinas na corrente sanguínea e morte rápida do fígado. Não dê aos animais.
+
+reagent-name-thc = THC
+reagent-desc-thc = O principal composto psicoativo da cannabis.
+
+reagent-name-thc-oil = THC oil
+reagent-desc-thc-oil = Óleo de THC puro, extraído das folhas da planta de cannabis. Muito mais forte do que em sua forma natural e pode ser usado para anestesiar a dor crônica em pacientes.
+
+reagent-name-nicotine = Nicotine
+reagent-desc-nicotine = Perigoso e altamente viciante, mas é o que a propaganda diz.
+
+reagent-name-impedrezene = impedrezene
+reagent-desc-impedrezene = Um narcótico que impede a capacidade de uma pessoa, diminuindo as funções das células cerebrais superiores.
+
+reagent-name-space-drugs = space drugs
+reagent-desc-space-drugs = Um composto ilegal que induz uma série de efeitos, como perda de equilíbrio e artefatos visuais.
+
+reagent-name-nocturine = nocturine
+reagent-desc-nocturine = Um sedativo e hipnótico altamente eficaz, desenvolvido pelo Sindicato para operações furtivas. Bilhete de ida para [censurado] town.
+
+reagent-name-mute-toxin = mute toxin
+reagent-desc-mute-toxin = Um produto químico espesso que impreguina as cordas vocais, tornando o usuário incapaz de falar durante a metabolização.
+
+reagent-name-norepinephric-acid = norepinephric acid
+reagent-desc-norepinephric-acid = Um produto químico liso que bloqueia os receptores ópticos, deixando o usuário cego durante a metabolização.

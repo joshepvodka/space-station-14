@@ -1,4 +1,4 @@
-ent-ClothingNeckCloakCentcomBlack = плащ офицера специальных операций
-    .desc = Вышитый золотом логотип компании Nanotrasen говорит сам за себя.
-ent-ClothingNeckCloakCentcomAdmiral = плащ адмирала
-    .desc = Яркий зеленый плащ с золотым шитьем, который носят адмиралы флота Nanotrasen.
+ent-ClothingNeckCloakCentcomBlack = special operations officer cloak
+    .desc = The NanoTrasen logo embroidered in gold speaks for itself.
+ent-ClothingNeckCloakCentcomAdmiral = admiral's cape
+    .desc = A vibrant green cape with gold stitching, worn by Nanotrasen Navy Admirals.

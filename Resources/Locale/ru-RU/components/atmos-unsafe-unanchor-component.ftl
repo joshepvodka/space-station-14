@@ -1,4 +1,4 @@
 ### AtmosUnsafeUnanchorComponent
 
 # Examine text showing pressure in tank.
-comp-atmos-unsafe-unanchor-warning = Струя воздуха дует вам в лицо... Возможно, вам стоит передумать?
+comp-atmos-unsafe-unanchor-warning = Uma rajada de vento bate na sua cara... Talvez você deva reconsiderar?

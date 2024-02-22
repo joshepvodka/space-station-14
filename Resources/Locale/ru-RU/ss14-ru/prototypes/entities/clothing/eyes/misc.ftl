@@ -1,4 +1,4 @@
-ent-ClothingEyesEyepatch = глазная повязка
-    .desc = Яррр.
-ent-ClothingEyesBlindfold = повязка на глаза
-    .desc = Полоса непроницаемого материала.
+ent-ClothingEyesEyepatch = eyepatch
+    .desc = Yarr.
+ent-ClothingEyesBlindfold = blindfold
+    .desc = The bind leading the blind.
