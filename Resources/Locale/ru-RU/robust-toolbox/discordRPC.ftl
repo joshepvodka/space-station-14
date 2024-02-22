@@ -1,4 +1,4 @@
-discord-rpc-in-main-menu = В главном меню
-discord-rpc-character = Пользователь: { $username }
-discord-rpc-on-server = На сервере: { $servername }
-discord-rpc-players = Игроки: { $players }/{ $maxplayers }
+discord-rpc-in-main-menu = No menu principal
+discord-rpc-character = Usuário: { $username }
+discord-rpc-on-server = No servidor: { $servername }
+discord-rpc-players = Jogadores: { $players }/{ $maxplayers }
