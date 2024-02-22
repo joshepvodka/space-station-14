@@ -1,2 +1,2 @@
-reagent-name-kvass = квас
-reagent-desc-kvass = Прохладный освежающий напиток со вкусом социализма.
+reagent-name-kvass = Kvass
+reagent-desc-kvass = Bebida refrescante e fresca com sabor de comunismo.

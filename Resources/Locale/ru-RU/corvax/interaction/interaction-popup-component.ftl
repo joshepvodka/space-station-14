@@ -1,2 +1,2 @@
-petting-success-gorilla = Вы гладите { $target } по { POSS-ADJ($target) } массивной голове.
-petting-failure-gorilla = Вы тянетесь погладить { $target }, но { $target } встает в полный рост, затрудняя такую возможность.
+petting-success-gorilla = Você está acariciando { $target } na { POSS-ADJ($target) } cabeça maciça.
+petting-failure-gorilla = Você tenta acariciar { $target }, mas { $target } se levanta, dificultando essa oportunidade.

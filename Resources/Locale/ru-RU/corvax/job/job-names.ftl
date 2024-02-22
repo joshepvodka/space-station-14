@@ -1,2 +1,2 @@
-job-name-iaa = агент внутренних дел
-JobIAA = агент внутренних дел
+job-name-iaa = Agente de Assuntos Internos
+JobIAA = Agente de Assuntos Internos

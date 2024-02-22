@@ -1,64 +1,64 @@
-station-goal-fax-paper-name = Цель станции
+station-goal-fax-paper-name = Meta da Estação
 station-goal-shuttle =
-    Цель вашей смены построить пилотируемый шаттл в космосе и обеспечить его всем необходимым для выживания.
-    Чтобы её выполнить отделу снабжения нужно заказать все необходимые ресурсы для инженерного и научного отделов.
-    Инженерному отделу необходимо построить его, а научный отдел должен предоставить инженерному отделу и шаттлу всю необходимую экипировку.
+    A meta da sua troca é construir uma nave pilotada no espaço e fornecer tudo o que ela precisa para sobreviver.
+    Para alcançar isso, o departamento de suprimentos precisa encomendar todos os recursos necessários para os departamentos de engenharia e ciência.
+    O departamento de engenharia precisa construí-lo, e o departamento de ciência deve fornecer equipamentos para ambos, engenharia e a nave.
 station-goal-singularity =
-    Цель вашей смены построить генератор основанный на сверхмассивной Сингулярности.
-    Чтобы её выполнить инженерному отделу понадобится построить сдерживающую клетку, отделу снабжения потребуется заказать все необходимые материалы.
-    Сдерживающая клетка должна быть способна сдержать сингулярность третьего класса.
+    A meta da sua troca é construir um gerador baseado em uma Singularidade supermassiva.
+    Para isso, o departamento de engenharia precisará construir uma célula de contenção, e o departamento de suprimentos deverá encomendar todos os materiais necessários.
+    A célula de contenção deve ser capaz de conter uma singularidade de terceira classe.
 station-goal-solar-panels =
-    Цель вашей смены организовать систему запасного питания для станции на основе солнечных панелей.
-    Для этого вам понадобится заказать все необходимые материалы в отделе снабжения и после построить 2 новые ветки солнечных панелей инженерным отделом.
-    А так же обеспечить изолированность производимой ими энергии в новые 3 СМЭСа не подключенные к общей сети станции.
+    A meta da sua troca é organizar um sistema de energia de backup para a estação com base em painéis solares.
+    Para fazer isso, você precisará encomendar todos os materiais necessários no departamento de suprimentos e, em seguida, construir 2 novos ramos de painéis solares com o departamento de engenharia.
+    Além disso, certifique-se de isolar a energia gerada por eles em 3 novos SMESs não conectados à rede principal da estação.
 station-goal-artifacts =
-    Цель вашей смены обнаружить, исследовать и доставить космические артефакты.
-    Для её выполнения будет необходима работа утилизаторов для поиска и доставки артефактов с обломков вокруг станции.
-    После доставки их необходимо передать в специальном контейнере отделу исследования для изучения и документирования их свойств.
-    Необходимо доставить на шаттле эвакуации в специальных контейнерах как минимум 2 полностью изученных и задокументированных артефакта.
-    Рекомендуемые пункты документа с описанием артефакта:
-    - Наименование объекта
-    - Описание внешнего вида объекта
-    - Свойства объекта
-    - Примечания
-    - ФИ и должность ответственного
-    Документ должен быть удостоверен печатью научного руководителя.
+    A meta da sua troca é descobrir, pesquisar e entregar artefatos espaciais.
+    Para alcançar isso, será necessário o trabalho dos recicladores para procurar e entregar artefatos dos destroços ao redor da estação.
+    Após a entrega, eles devem ser entregues em um contêiner especial ao departamento de pesquisa para estudo e documentação de suas propriedades.
+    Você precisa entregar no mínimo 2 artefatos totalmente estudados e documentados no ônibus de evacuação em contêineres especiais.
+    Itens recomendados para documentação sobre o artefato:
+    - Nome do objeto
+    - Descrição visual do objeto
+    - Propriedades do objeto
+    - Notas
+    - Nome e cargo do responsável
+    O documento deve ser autenticado com o selo do diretor de pesquisa.
 station-goal-bank =
-    Цель вашей смены постройка орбитального хранилища с припасами и технологиями.
-    Хранилище должно быть размещено в космосе отдельно от основной станции, проследите за прочностью его конструкции, случайный метеорит не должен повредить его.
-    В хранилище необходимо разместить 4 ящика:
-    - ящик с продвинутыми медикаментами
-    - ящик с запасами лучших семян
-    - ящик-холодильник еды с высокой питательной ценностью
-    - ящик с ценными, но не уникальными платами
-    Проследите за сохранностью содержимого в хранилище до окончания смены.
+    A meta da sua troca é construir um depósito orbital com suprimentos e tecnologias.
+    O depósito deve ser colocado no espaço separado da estação principal; certifique-se de monitorar a resistência de sua construção para que um meteorito acidental não o danifique.
+    No depósito, você deve colocar 4 caixas:
+    - caixa com medicamentos avançados
+    - caixa com as melhores sementes
+    - caixa de comida rica em nutrientes com refrigerador
+    - caixa com placas valiosas, mas não únicas
+    Certifique-se de manter o conteúdo do depósito seguro até o final do turno.
 station-goal-zoo =
-    Цель вашей смены улучшить рекреацию персонала на станции.
-    Инженерному отделу необходимо построить зоопарк в недалекой доступности от дорматориев с как минимум тремя вольерами разных видов животных заказанных в отделе снабжения.
-    Обеспечьте животных пищей, как минимум одним роботом уборщиком в каждый вольер и всем необходимым для жизни в зависимости от вида животного.
+    A meta da sua troca é melhorar a recreação da equipe na estação.
+    O departamento de engenharia precisa construir um zoológico próximo aos dormitórios com pelo menos três recintos para diferentes tipos de animais encomendados no departamento de suprimentos.
+    Forneça alimentos para os animais, pelo menos um robô de limpeza em cada recinto e tudo mais que for necessário para a vida, dependendo do tipo de animal.
 station-goal-mining-outpost =
-    Цель вашей смены постройка орбитального шахтерского аванпоста для добычи руды и ресурсов с астероидов.
-    Аванпост должен быть размещен в космосе отдельно от основной станции.
-    Проследите за прочностью его конструкции, случайный метеорит не должен повредить его.
-    Аванпост должен иметь следующее:
-    - автономный, бесперебойный источник электроэнергии
-    - генератор гравитации
-    - оборудование для проведения работ, в частности кирки, сумки для руды и 2 шахтерских скафандра
-    - комнаты для проживания 2 человек, с атмосферой, освещением и окнами
-    - склад для добытых ресурсов и необходимых для жизни продуктов
-    - Минимум 500 единиц пива и ящик-холодильник закусок
-    - 4 набора медикаментов от механического урона
-    - 4 набора медикаментов от физического урона
-    Проследите за сохранностью аванпоста до окончания смены.
+    A meta da sua troca é construir um posto de mineração orbital para extrair minérios e recursos de asteroides.
+    O posto deve ser colocado no espaço separado da estação principal.
+    Certifique-se de monitorar a resistência de sua construção para que um meteorito acidental não o danifique.
+    O posto deve ter o seguinte:
+    - fonte de energia autônoma e ininterrupta
+    - gerador de gravidade
+    - equipamento para realizar trabalhos, incluindo picaretas, bolsas para minério e 2 trajes de mineiro
+    - quartos para acomodar 2 pessoas, com atmosfera, iluminação e janelas
+    - armazém para recursos extraídos e produtos necessários para a vida
+    - Pelo menos 500 unidades de cerveja e uma caixa refrigerada de petiscos
+    - 4 conjuntos de medicamentos para danos mecânicos
+    - 4 conjuntos de medicamentos para danos físicos
+    Certifique-se de manter a segurança do posto até o final do turno.
 station-goal-containment =
-    Цель вашей смены постройка камеры для содержания и исследования опасного существа.
-    Существо не должно сбежать во время исследований. Камера обязана быть размещена на окраине станции во избежание жертв.
-    Неподалеку должна быть подходящая для кормления существа пища.
-    Для упрощения работ можно использовать утилизационные блоки, камеры видеонаблюдения, транквилизаторы и другие устройства.
-    Отдел службы безопасности обязан обеспечить защиту во время проведения работ.
-    После постройки камеры, необходимо поймать в нее живой образец внестанционной фауны и задокументировать его внешний вид.
-    Далее нужно провести и задокументировать минимум 5 экспериментов над ним в следующем формате:
-    - Описание эксперимента
-    - Последствия и реакция образца
-    В случае безвозвратной гибели образца следует поймать новый и продолжить опыты.
-    Документ должен быть удостоверен печатью научного руководителя.
+    A meta da sua troca é construir uma câmara para conter e pesquisar uma criatura perigosa.
+    A criatura não deve escapar durante a pesquisa. A câmara deve ser colocada na borda da estação para evitar vítimas.
+    Perto dela, deve haver comida adequada para alimentar a criatura.
+    Para facilitar o trabalho, você pode usar blocos de reciclagem, câmeras de vigilância, tranquilizantes e outros dispositivos.
+    O departamento de segurança deve garantir a proteção durante a execução dos trabalhos.
+    Após a construção da câmara, é necessário capturar um espécime vivo da fauna extrastacionária e documentar sua aparência.
+    Em seguida, conduza e documente no mínimo 5 experimentos com ele no seguinte formato:
+    - Descrição do experimento
+    - Consequências e reação do espécime
+    Em caso de morte irreversível do espécime, capture um novo e continue os experimentos.
+    O documento deve ser autenticado com o selo do diretor de pesquisa.

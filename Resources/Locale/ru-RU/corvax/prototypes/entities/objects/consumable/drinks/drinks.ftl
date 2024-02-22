@@ -1,41 +1,41 @@
-ent-DrinkYorshGlass = стакан ёрша
-    .desc = Вкус беззаботного детства.
+ent-DrinkYorshGlass = copo Yorsh
+    .desc = O sabor da infância despreocupada.
 
-ent-DrinkAlexanderGlass = бокал Александра
-    .desc = В ходе производства ни один Александр не пострадал. Наверное...
+ent-DrinkAlexanderGlass = taça Alexander
+    .desc = Durante a produção, nenhum Alexander foi prejudicado. Provavelmente...
 
-ent-DrinkCampariGlass = стакан кампари
-    .desc = Настойка на основе ароматических трав и цитрусовых. Без ГМО!
+ent-DrinkCampariGlass = copo de Campari
+    .desc = Infusão de ervas aromáticas e cítricos. Sem OMG!
 
-ent-DrinkDaiquiriGlass = бокал дайкири
-    .desc = Хотите почувствовать себя шахтёром из 19-го века? Шахтёр не хотел, поэтому предпочел забыться в алкоголе.
+ent-DrinkDaiquiriGlass = taça de Daiquiri
+    .desc = Quer se sentir como um mineiro do século XIX? O mineiro não quis, então preferiu se perder na bebida.
 
-ent-DrinkNegroniGlass = стакан негрони
-    .desc = Американо для алкоголиков.
+ent-DrinkNegroniGlass = copo de Negroni
+    .desc = Americano para alcoólatras.
 
-ent-DrinkEspressoMartiniGlass = бокал эспрессо мартини
-    .desc = Разбуди меня и тра... Э-э-э... Ладно, просто разбуди.
+ent-DrinkEspressoMartiniGlass = taça de Espresso Martini
+    .desc = Acorde-me e... Uh... Ok, apenas me acorde.
 
-ent-DrinkOldFashionedGlass = стакан олд фэшена
-    .desc = Как сказал величайший классик: "Это классика".
+ent-DrinkOldFashionedGlass = copo de Old Fashioned
+    .desc = Como disse o maior clássico: "Isso é clássico".
 
-ent-DrinkBadTouchGlass = стакан проникновения
-    .desc = Входит... И выходит... И входит... Замечательно выходит!
+ent-DrinkBadTouchGlass = copo de Toque Ruim
+    .desc = Entra... E sai... E entra... Sai maravilhosamente!
 
-ent-DrinkDarkAndStormyGlass = стакан тьмы и бури
-    .desc = Прямиком с Бермудских Островов! Пират слева говорит, что именно поэтому напиток и пропадает с барной стойки.
+ent-DrinkDarkAndStormyGlass = copo de Escuro e Tempestuoso
+    .desc = Direto das Ilhas Bermudas! O pirata à esquerda diz que é por isso que a bebida some do balcão.
 
-ent-DrinkBrambleGlass = стакан брамбла
-    .desc = Ягодки, джин, и довольно стрёмный вид.
+ent-DrinkBrambleGlass = copo de Bramble
+    .desc = Bagas, gin, e uma aparência bastante estranha.
 
-ent-DrinkMaiTaiGlass = стакан май тай
-    .desc = Первый человек, попробовавший этот коктейль, воскликнул: ”Mai tai — roa ae!”. Что в переводе с тайского означает... Да откуда мне знать? Звучит круто!
+ent-DrinkMaiTaiGlass = copo de Mai Tai
+    .desc = A primeira pessoa a experimentar este coquetel exclamou: "Mai tai — roa ae!". O que significa em tailandês... Como vou saber? Parece legal!
 
-ent-DrinkMoscowMuleGlass = стакан московского мула
-    .desc = Коктейль из США. Почему Московский? Потому что водка. Водка Московская? Нет. Так почему Московский? ВОДКА!
+ent-DrinkMoscowMuleGlass = copo de Mula de Moscou
+    .desc = Coquetel dos EUA. Por que Moscovita? Porque vodka. Vodka Moscovita? Não. Então por que Moscovita? VODKA!
 
-ent-DrinkPalomaGlass = стакан паломы
-    .desc = Сверху ковбои. Снизу маракасы. Что же выбрать?
+ent-DrinkPalomaGlass = copo de Paloma
+    .desc = Cowboys no topo. Maracas na parte inferior. Qual escolher?
 
-ent-DrinkBoyarskyGlass = стакан Боярского
-    .desc = Что делать, если ты устал от жизни? СМЕШИВАТЬ ВОДКУ!
+ent-DrinkBoyarskyGlass = copo de Boyarsky
+    .desc = O que fazer se você está cansado da vida? MISTURE VODKA!

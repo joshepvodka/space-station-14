@@ -1,41 +1,41 @@
-reagent-name-yorsh = ёрш
-reagent-desc-yorsh = Вкус беззаботного детства.
+reagent-name-yorsh = Yorsh
+reagent-desc-yorsh = Sabor da infância despreocupada.
 
-reagent-name-alexander = Александр
-reagent-desc-alexander = В ходе производства ни один Александр не пострадал. Наверное...
+reagent-name-alexander = Alexander
+reagent-desc-alexander = Durante a produção, nenhum Alexander foi prejudicado. Provavelmente...
 
-reagent-name-daiquiri = дайкири
-reagent-desc-daiquiri = Хотите почувствовать себя шахтёром из 19-го века? Шахтёр не хотел, поэтому предпочел забыться в алкоголе.
+reagent-name-daiquiri = Daiquiri
+reagent-desc-daiquiri = Quer se sentir como um mineiro do século XIX? O mineiro não quis, então preferiu se perder na bebida.
 
-reagent-name-campari = кампари
-reagent-desc-campari = Настойка на основе ароматических трав и цитрусовых. Без ГМО!
+reagent-name-campari = Campari
+reagent-desc-campari = Infusão à base de ervas aromáticas e cítricos. Sem organismos geneticamente modificados (OGM)!
 
-reagent-name-negroni = негрони
-reagent-desc-negroni = Американо для алкоголиков.
+reagent-name-negroni = Negroni
+reagent-desc-negroni = Americano para alcoólatras.
 
-reagent-name-espressoMartini = эспрессо мартини
-reagent-desc-espressoMartini = Разбуди меня и тра... Э-э-э... Ладно, просто разбуди.
+reagent-name-espressoMartini = Espresso Martini
+reagent-desc-espressoMartini = Acorde-me e... Uh... Ok, apenas me acorde.
 
-reagent-name-oldFashioned = олд фэшен
-reagent-desc-oldFashioned = Как сказал величайший классик: "Это классика".
+reagent-name-oldFashioned = Old Fashioned
+reagent-desc-oldFashioned = Como disse o maior clássico: "Isso é clássico".
 
-reagent-name-badTouch = проникновение
-reagent-desc-badTouch = Входит... И выходит... И входит... Замечательно выходит!
+reagent-name-badTouch = Toque Ruim
+reagent-desc-badTouch = Entra... E sai... E entra... Sai maravilhosamente!
 
-reagent-name-darkAndStormy = тьма и буря
-reagent-desc-darkAndStormy = Прямиком с Бермудских Островов! Пират слева говорит, что именно поэтому напиток и пропадает с барной стойки.
+reagent-name-darkAndStormy = Escuro e Tempestuoso
+reagent-desc-darkAndStormy = Direto das Ilhas Bermudas! O pirata à esquerda diz que é por isso que a bebida some do balcão.
 
-reagent-name-bramble = брамбл
-reagent-desc-bramble = Ягодки, джин, и довольно стрёмный вид.
+reagent-name-bramble = Bramble
+reagent-desc-bramble = Bagas, gin, e uma aparência bastante estranha.
 
-reagent-name-maiTai = май тай
-reagent-desc-maiTai = Первый человек, попробовавший этот коктейль, воскликнул: ”Mai tai — roa ae!”. Что в переводе с тайского означает... Да откуда мне знать? Звучит круто!
+reagent-name-maiTai = Mai Tai
+reagent-desc-maiTai = A primeira pessoa a experimentar este coquetel exclamou: "Mai tai — roa ae!". O que significa em tailandês... Como vou saber? Parece legal!
 
-reagent-name-moscowMule = московский мул
-reagent-desc-moscowMule = Коктейль из США. Почему Московский? Потому что водка. Водка Московская? Нет. Так почему Московский? ВОДКА!
+reagent-name-moscowMule = Mula de Moscou
+reagent-desc-moscowMule = Coquetel dos EUA. Por que Moscovita? Porque vodka. Vodka Moscovita? Não. Então por que Moscovita? VODKA!
 
-reagent-name-paloma = палома
-reagent-desc-paloma = Сверху ковбои. Снизу маракасы. Что же выбрать?
+reagent-name-paloma = Paloma
+reagent-desc-paloma = Cowboys no topo. Maracas na parte inferior. Qual escolher?
 
-reagent-name-boyarsky = Боярский
-reagent-desc-boyarsky = Что делать, если ты устал от жизни? СМЕШИВАТЬ ВОДКУ!
+reagent-name-boyarsky = Boyarsky
+reagent-desc-boyarsky = O que fazer se você está cansado da vida? MISTURE VODKA!
