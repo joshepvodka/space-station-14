@@ -1,8 +1,4 @@
-swab-already-used = Você já usou esse cotonete.
-swab-swabbed = Você passa o cotonete pela boca de {THE($target)}.
-swab-mask-blocked = {CAPITALIZE(THE($target))} precisa remover {THE($mask)}.
-swab-used = Isso parece que foi usado.
-swab-unused = Está pronto e preparado para o uso.
-
-botany-swab-from = Você coleta cuidadosamente o pólen da planta.
-botany-swab-to = Você cuidadosamente espana o pólen na planta.
+botany-swab-from = You carefully collect pollen from the plant.
+botany-swab-to = You carefully dust pollen on the plant.
+swab-used = This swab has been used to collect something.
+swab-unused = This swab is clean and ready to be used.

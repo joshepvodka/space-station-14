@@ -1,6 +1,7 @@
 ent-BaseHumanOrganUnGibbable = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-<<<<<<< HEAD
+ent-BaseHumanOrgan = { ent-BaseHumanOrganUnGibbable }
+    .desc = { ent-BaseHumanOrganUnGibbable.desc }
 ent-OrganHumanBrain = brain
     .desc = The source of incredible, unending intelligence. Honk.
 ent-OrganHumanEyes = eyes
@@ -8,17 +9,6 @@ ent-OrganHumanEyes = eyes
 ent-OrganHumanTongue = tongue
     .desc = A fleshy muscle mostly used for lying.
 ent-OrganHumanAppendix = appendix
-=======
-ent-BaseHumanOrgan = { ent-BaseHumanOrganUnGibbable }
-    .desc = { ent-BaseHumanOrganUnGibbable.desc }
-ent-OrganHumanBrain = мозг
-    .desc = Источник невероятного, бесконечного интеллекта. Хонк.
-ent-OrganHumanEyes = глаза
-    .desc = Я тебя вижу!
-ent-OrganHumanTongue = язык
-    .desc = Мясистая мышца, используемая в основном для обмана.
-ent-OrganHumanAppendix = аппендикс
->>>>>>> space-station-14/master
     .desc = { ent-BaseHumanOrgan.desc }
 ent-OrganHumanEars = ears
     .desc = There are three parts to the ear. Inner, middle and outer. Only one of these parts should normally be visible.

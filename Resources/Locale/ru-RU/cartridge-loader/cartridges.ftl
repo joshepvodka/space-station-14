@@ -1,33 +1,21 @@
-<<<<<<< HEAD
-﻿default-program-name = Programa
-notekeeper-program-name = Bloco de notas
-news-read-program-name = Boletim da estação
+device-pda-slot-component-slot-name-cartridge = Cartridge
 
-crew-manifest-program-name = Manifesto da tripulação
-crew-manifest-cartridge-loading = Carregando ...
+default-program-name = Program
+notekeeper-program-name = Notekeeper
+news-read-program-name = Station news
+
+crew-manifest-program-name = Crew manifest
+crew-manifest-cartridge-loading = Loading ...
 
 net-probe-program-name = NetProbe
-net-probe-scan = Escaneado {$device}!
-net-probe-label-name = Nome
-net-probe-label-address = Endereço
-net-probe-label-frequency = Frequência
-net-probe-label-network = Rede
-=======
-device-pda-slot-component-slot-name-cartridge = Картридж
-default-program-name = Программа
-notekeeper-program-name = Заметки
-news-read-program-name = Новости станции
-crew-manifest-program-name = Манифест экипажа
-crew-manifest-cartridge-loading = Загрузка...
-net-probe-program-name = Зонд сетей
-net-probe-scan = Просканирован { $device }!
-net-probe-label-name = Название
-net-probe-label-address = Адрес
-net-probe-label-frequency = Частота
-net-probe-label-network = Сеть
-log-probe-program-name = Зонд логов
-log-probe-scan = Загружены логи устройства { $device }!
-log-probe-label-time = Время
-log-probe-label-accessor = Использовано:
+net-probe-scan = Scanned {$device}!
+net-probe-label-name = Name
+net-probe-label-address = Address
+net-probe-label-frequency = Frequency
+net-probe-label-network = Network
+
+log-probe-program-name = LogProbe
+log-probe-scan = Downloaded logs from {$device}!
+log-probe-label-time = Time
+log-probe-label-accessor = Accessed by
 log-probe-label-number = #
->>>>>>> space-station-14/master

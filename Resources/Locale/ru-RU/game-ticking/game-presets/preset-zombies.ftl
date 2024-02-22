@@ -1,32 +1,32 @@
-﻿zombie-title = Zumbis
-zombie-description = Os mortos-vivos foram soltos na estação! Trabalhe com seus colegas para contem o surto e sobreviver.
+﻿zombie-title = Zombies
+zombie-description = The undead have been unleashed on the station! Work with the crew to survive the outbreak and secure the station.
 
-zombie-not-enough-ready-players = Jogadores prontos insuficientes! Tinham {$readyPlayersCount} jogadores prontos de {$minimumPlayers} necessários. Não pode começar o modo Zumbis.
-zombie-no-one-ready = Nenhum jogador pronto! Não pode começar o modo Zumbis.
+zombie-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Zombies.
+zombie-no-one-ready = No players readied up! Can't start Zombies.
 
-zombie-patientzero-role-greeting = Você é um primeiro infectado. Obtenha suprimentos e prepare-se para sua eventual transformação. Seu objetivo é ultrapassar a estação enquanto infecta o maior número possível de pessoas.
-zombie-healing = Você sente a sua carne se agitar
-zombie-infection-warning = Você sente que o vírus zumbi toma conta
-zombie-infection-underway = Seu sangue começa a engrossar
+zombie-patientzero-role-greeting = You are an initial infected. Get supplies and prepare for your eventual transformation. Your goal is to overtake the station while infecting as many people as possible.
+zombie-healing = You feel a stirring in your flesh
+zombie-infection-warning = You feel the zombie virus take hold
+zombie-infection-underway = Your blood begins to thicken
 
-zombie-alone = Você se sente completamente sozinho.
+zombie-alone = You feel entirely alone.
 
-zombie-shuttle-call = Detectamos que os mortos-vivos já tomaram a estação. Despachando um ônibus de emergência para recolher o pessoal restante.
+zombie-shuttle-call = We have detected that the undead have overtaken the station. Dispatching an emergency shuttle to collect remaining personnel.
 
 zombie-round-end-initial-count = {$initialCount ->
-    [one] Teve um infectado inicial:
-    *[other] Tiveram {$initialCount} infectados iniciais:
+    [one] There was one initial infected:
+    *[other] There were {$initialCount} initial infected:
 }
-zombie-round-end-user-was-initial = - [color=plum]{$name}[/color] ([color=gray]{$username}[/color]) foi um dos infectados inciais.
+zombie-round-end-user-was-initial = - [color=plum]{$name}[/color] ([color=gray]{$username}[/color]) was one of the initial infected.
 
-zombie-round-end-amount-none = [color=green]Todos os zumbis foram erradicados![/color]
-zombie-round-end-amount-low = [color=green]Quase todos os zumbis foram erradicados.[/color]
-zombie-round-end-amount-medium = [color=yellow]{$percent}% da tripulação virou zumbi.[/color]
-zombie-round-end-amount-high = [color=crimson]{$percent}% da tripulação virou zumbi.[/color]
-zombie-round-end-amount-all = [color=darkred]A população toda virou zumbi![/color]
+zombie-round-end-amount-none = [color=green]All of the zombies were eradicated![/color]
+zombie-round-end-amount-low = [color=green]Almost all of the zombies were exterminated.[/color]
+zombie-round-end-amount-medium = [color=yellow]{$percent}% of the crew were turned into zombies.[/color]
+zombie-round-end-amount-high = [color=crimson]{$percent}% of the crew were turned into zombies.[/color]
+zombie-round-end-amount-all = [color=darkred]The entire crew became zombies![/color]
 
 zombie-round-end-survivor-count = {$count ->
-    [one] Teve apenas um sobrevivente restante:
-    *[other] Tiveram apena {$count} sobreviventes restantes:
+    [one] There was only one survivor left:
+    *[other] There were only {$count} survivors left:
 }
-zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]) sobreviveu o surto.
+zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]) survived the outbreak.

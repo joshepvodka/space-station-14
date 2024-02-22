@@ -1,2 +1,2 @@
-objective-carp-rifts-title = Abra {$count} fendas de carpa
-objective-carp-rifts-description = Use a ação rift para abrir {$count} fendas e garantir que elas não sejam destruídas. Se você não abrir uma fenda após 5 minutos, você será morto.
+objective-carp-rifts-title = Open {$count} carp rifts
+objective-carp-rifts-description = Use the rift action to open {$count} rifts and ensure they do not get destroyed. If you don't open a rift after 5 minutes, you get killed.

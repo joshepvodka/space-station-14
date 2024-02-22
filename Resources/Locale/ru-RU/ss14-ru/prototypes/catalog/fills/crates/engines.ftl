@@ -16,7 +16,6 @@ ent-CrateEngineeringParticleAccelerator = PA crate
     .desc = Complex to setup, but rewarding as fuck.
 ent-CrateEngineeringGenerator = generator crate
     .suffix = DEBUG
-<<<<<<< HEAD
     .desc = { ent-CrateEngineering.desc }
 ent-CrateEngineeringSolar = solar assembly crate
     .desc = Parts for constructing solar panels and trackers.
@@ -28,15 +27,3 @@ ent-CrateEngineeringTeslaCoil = tesla coil crate
     .desc = Tesla coil. Attracts lightning and generates energy from it.
 ent-CrateEngineeringTeslaGroundingRod = tesla grounding rod crate
     .desc = Grounding rod, best for lightning protection.
-=======
-ent-CrateEngineeringSolar = ящик сборных солнечных панелей
-    .desc = Детали для создания солнечных панелей и трекеров.
-ent-CrateEngineeringShuttle = ящик электропитания шаттла
-    .desc = Ящик, содержащий все необходимое для обеспечения шаттла электропитанием.
-ent-CrateEngineeringTeslaGenerator = ящик с генератором Теслы
-    .desc = Генератор Теслы. Храни вас Господь.
-ent-CrateEngineeringTeslaCoil = ящик с катушкой Теслы
-    .desc = Катушка Теслы. Притягивает молнии и вырабатывает из них энергию.
-ent-CrateEngineeringTeslaGroundingRod = ящик с заземляющим стержнем Теслы
-    .desc = Заземляющий стержень, идеально для защиты от молний.
->>>>>>> space-station-14/master

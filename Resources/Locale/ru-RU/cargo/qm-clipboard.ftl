@@ -1,1 +1,1 @@
-qm-clipboard-computer-verb-text = Alternar solicitações
+qm-clipboard-computer-verb-text = Toggle Requests

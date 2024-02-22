@@ -1,17 +1,17 @@
 apc-menu-title = APC
-apc-menu-breaker-label = Disjuntor Principal
-apc-menu-breaker-button = Alternar
-apc-menu-power-label = Carga
-apc-menu-external-label = Potência Externa
-apc-menu-charge-label = {$percent} Carregado
+apc-menu-breaker-label = Main Breaker
+apc-menu-breaker-button = Toggle
+apc-menu-power-label = Load
+apc-menu-external-label = External Power
+apc-menu-charge-label = {$percent} Charged
 
 # For the power state label
 
-apc-menu-power-state-good = Bom
-apc-menu-power-state-low = Baixo
-apc-menu-power-state-none = Nenhum
+apc-menu-power-state-good = Good
+apc-menu-power-state-low = Low
+apc-menu-power-state-none = None
 
 # For the flavor text on the footer
 
-apc-menu-flavor-left = Entre em contato com um engenheiro para assistência.
+apc-menu-flavor-left = Contact an engineer for assistance.
 apc-menu-flavor-right = v1.1

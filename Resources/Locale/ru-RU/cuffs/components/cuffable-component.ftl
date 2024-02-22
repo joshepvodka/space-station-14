@@ -1,17 +1,17 @@
-cuffable-component-cannot-interact-message = Você não pode fazer isso!
-cuffable-component-cannot-remove-cuffs-too-far-message = Você está muito longe para remover as algemas.
+cuffable-component-cannot-interact-message = You can't do that!
+cuffable-component-cannot-remove-cuffs-too-far-message = You are too far away to remove the restraints.
 
-cuffable-component-start-uncuffing-self = Você começa a dolorosamente se contorcer de suas algemas.
-cuffable-component-start-uncuffing-observer = {$user} começa a desalgemar {$target}!
-cuffable-component-start-uncuffing-target-message = Você começa desalgemar de {$targetName}.
-cuffable-component-start-uncuffing-by-other-message = {$otherName} começa a desalgemar você!
+cuffable-component-start-uncuffing-self = You start to painfully wriggle out of your restraints.
+cuffable-component-start-uncuffing-observer = {$user} starts unrestraining {$target}!
+cuffable-component-start-uncuffing-target-message = You start unrestraining {$targetName}.
+cuffable-component-start-uncuffing-by-other-message = {$otherName} starts unrestraining you!
 
-cuffable-component-remove-cuffs-success-message = Você removeu as algemas com sucesso.
-cuffable-component-remove-cuffs-by-other-success-message = {$otherName} desalgema suas mãos.
-cuffable-component-remove-cuffs-to-other-partial-success-message = Você remove uma algema. {$cuffedHandCount} das mãos do(a) {$otherName}'s continuam algemadas.
-cuffable-component-remove-cuffs-by-other-partial-success-message = {$otherName} remove uma algema. {$cuffedHandCount} das suas mãos continuam algemadas.
-cuffable-component-remove-cuffs-partial-success-message = Você remove uma algema. {$cuffedHandCount} mão continua algemada.
-cuffable-component-remove-cuffs-fail-message = Você falha em remover as algemas.
+cuffable-component-remove-cuffs-success-message = You successfully remove the restraints.
+cuffable-component-remove-cuffs-by-other-success-message = {$otherName} unrestrains your hands.
+cuffable-component-remove-cuffs-to-other-partial-success-message = You successfully remove the restraints. {$cuffedHandCount} of {$otherName}'s hands remain restrained.
+cuffable-component-remove-cuffs-by-other-partial-success-message = {$otherName} removes your restraints. {$cuffedHandCount} of your hands remain restrained.
+cuffable-component-remove-cuffs-partial-success-message = You successfully remove the restraints. {$cuffedHandCount} of your hands remain restrained.
+cuffable-component-remove-cuffs-fail-message = You fail to remove the restraints.
 
-# UncuffVerb
-uncuff-verb-get-data-text = Desalgemar
+# UnrestrainVerb
+uncuff-verb-get-data-text = Unrestrain

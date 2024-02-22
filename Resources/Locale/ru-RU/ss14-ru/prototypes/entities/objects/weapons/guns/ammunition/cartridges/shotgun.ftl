@@ -2,11 +2,7 @@ ent-BaseShellShotgun = shell (.50)
     .desc = { ent-BaseCartridge.desc }
 ent-ShellShotgunBeanbag = shell (.50 beanbag)
     .desc = { ent-BaseShellShotgun.desc }
-<<<<<<< HEAD
 ent-ShellShotgunSlug = shell (.50 slug)
-=======
-ent-ShellShotgunSlug = ружейный патрон (.50 пуля)
->>>>>>> space-station-14/master
     .desc = { ent-BaseShellShotgun.desc }
 ent-ShellShotgunFlare = shell (.50 flare)
     .desc = { ent-BaseShellShotgun.desc }

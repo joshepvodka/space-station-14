@@ -14,13 +14,9 @@ ent-CabbageSeeds = packet of cabbage seeds
     .desc = { ent-SeedBase.desc }
 ent-GarlicSeeds = packet of garlic seeds
     .desc = { ent-SeedBase.desc }
-<<<<<<< HEAD
+ent-LaughinPeaSeeds = packet of laughin' pea pods
+    .desc = These seeds give off a very soft purple glow.. they should grow into Laughin' Peas.
 ent-LemonSeeds = packet of lemon seeds
-=======
-ent-LaughinPeaSeeds = пакет семян (смешной горошек)
-    .desc = Эти семена излучают очень мягкое фиолетовое свечение... Из них должен вырасти смешной горошек.
-ent-LemonSeeds = пакет семян (лимон)
->>>>>>> space-station-14/master
     .desc = { ent-SeedBase.desc }
 ent-LemoonSeeds = packet of lemoon seeds
     .desc = { ent-SeedBase.desc }

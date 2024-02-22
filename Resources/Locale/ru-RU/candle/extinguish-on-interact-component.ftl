@@ -1,1 +1,1 @@
-candle-extinguish-failed = A chama pisca, mas não se apaga
+candle-extinguish-failed = The flame flickers, but it doesn't go out

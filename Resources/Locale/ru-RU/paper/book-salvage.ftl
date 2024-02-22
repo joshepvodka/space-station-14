@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 book-text-demonomicon1 = How To Summon a Demon
           - by J.G. Wizgerald
 
@@ -9,29 +8,6 @@ book-text-demonomicon2 = How To Summon a Lemon
 
           1. todo finish writing lemon summoning guide
           2. WAit. Typo. Oh shit. Sorry guys
-=======
-book-text-demonomicon1 = Как Вызвать Демона
-    - автор Дж.Дж. Визджеральд
-
-    1. закончить написание руководства по вызову демона
-book-text-demonomicon2 = Как Вызвать Димона
-    - автор Дж.Дж. Визджеральд
-
-    1. закончить написание руководства по вызову димона
-    2. СТоп. Опечатка. Чёрт. Простите чуваки
-book-text-demonomicon3 = Найденные Мною Крутые Имена Демонов
-    - автор мисс Моссрок
-
-    Абраксас
-    Нефилим
-    Баал
-    Левиафан
-    Гэри
-    Молох
-    Сцилла
-    Фенекс
-book-text-chemistry-insane = РУКОВОДСТВО ПО ХИМИИ ИГОРЯ ХИМИКА
->>>>>>> space-station-14/master
 
 book-text-demonomicon3 = Cool Demon Names I Found
       - by Ms. Mossrock
@@ -69,13 +45,8 @@ book-text-botanics = ** Applications of Botanical Specimens Found In Nanotrasen 
       Many plants, when ground, yield useful chemicals. S. (spessmens) papaver and S. aloe vera
       are known for their basic healing properties.
 
-<<<<<<< HEAD
       S. lucidum, or lingzhi, is known for its potent ability to save those near death from toxins. Eating too much
       is known to cause adverse effects.
-=======
-    - авторы Джеймс Алакастер и Голзук Амарант
-book-text-gnome = Да Здравствует Гномий Король
->>>>>>> space-station-14/master
 
       S. amanita, a powerfully poisonous specimen (Rest In Peace Sir Alacaster), and S. galactica, a
       seemingly ordinary antitoxin, appear to have some sort of relation to eachother.
@@ -84,12 +55,7 @@ book-text-gnome = Да Здравствует Гномий Король
 
       ----
 
-<<<<<<< HEAD
       - penned by James Alacaster and Golzuk Amaranth
-=======
-    Наша месть свершится сполна! Он восстанет вновь! Хии хуу!
-book-text-fishing = Когда я вырасту, я хочу стать одним из собирателей космического моря!
->>>>>>> space-station-14/master
 
 book-text-gnome = All Hail Our Gnome King
 
@@ -97,12 +63,7 @@ book-text-gnome = All Hail Our Gnome King
 
       He who loves those with the largest of Hats!
 
-<<<<<<< HEAD
       Struck down by the evildoers who cannot appreciate our kind!
-=======
-    - Сержант Джон Бейкер Аклополи
-book-text-detective = ГЛАВА 1: МАЛЕНЬКИЙ ПЕРЕПОЛОХ НА БОЛЬШОЙ СТАНЦИИ
->>>>>>> space-station-14/master
 
       Our revenge will be dealt in full! He will Rise once more! hee Hoo!
 

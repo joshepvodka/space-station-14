@@ -1,25 +1,25 @@
-﻿## Implanter Attempt Messages
+## Implanter Attempt Messages
 
-implanter-component-implanting-target = {$user} está tentando implantar algo em você!
-implanter-component-implant-failed = O {$implant} não pode ser dado a {$target}!
-implanter-draw-failed-permanent = O {$implant} em {$target} está engastado neles e não pode ser removido!
-implanter-draw-failed = Você tentou remover um implante mas não encontrou nada.
+implanter-component-implanting-target = {$user} is trying to implant you with something!
+implanter-component-implant-failed = The {$implant} cannot be given to {$target}!
+implanter-draw-failed-permanent = The {$implant} in {$target} is fused with them and cannot be removed!
+implanter-draw-failed = You tried to remove an implant but found nothing.
 
 ## UI
-implanter-draw-text = Sacar
-implanter-inject-text = Injetar
+implanter-draw-text = Draw
+implanter-inject-text = Inject
 
-implanter-empty-text = Nenhum
+implanter-empty-text = None
 
-implanter-label = Implante: [color=green]{$implantName}[/color] | [color=white]{$modeString}[/color]{$lineBreak}{$implantDescription}
+implanter-label = Implant: [color=green]{$implantName}[/color] | [color=white]{$modeString}[/color]{$lineBreak}{$implantDescription}
 
 implanter-contained-implant-text = [color=green]{$desc}[/color]
 
 ## Implant Popups
 
-scramble-implant-activated-popup = Você sente na pele sua aparência se alterar por completo
+scramble-implant-activated-popup = Your appearance shifts and changes!
 
 ## Implant Messages
 
-deathrattle-implant-dead-message = {$user} morreu em {$position}.
-deathrattle-implant-critical-message = Sinais de vida do {$user} estão críticos, assistência imediata necessária em {$position}.
+deathrattle-implant-dead-message = {$user} has died at {$position}.
+deathrattle-implant-critical-message = {$user} life signs critical, immediate assistance required at {$position}.

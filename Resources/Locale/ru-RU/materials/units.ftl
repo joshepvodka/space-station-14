@@ -1,20 +1,22 @@
 # sheets of steel
-materials-unit-sheet = folha
+materials-unit-sheet = sheet
 # bars of gold
-materials-unit-bar = barra
+materials-unit-bar = bar
 # planks of wood
-materials-unit-plank = prancha
+materials-unit-plank = plank
 # rolls of cloth
-materials-unit-roll = rolo
+materials-unit-roll = roll
 # pieces of biomass
-materials-unit-piece = pedaço
+materials-unit-piece = piece
 # bunches of bananium
-materials-unit-bunch = cacho
+materials-unit-bunch = bunch
 # slabs of meat
-materials-unit-slab = pedaços
+materials-unit-slab = slab
 # webs of silk
-materials-unit-web = teias
+materials-unit-web = web
+# chunks of ore
+materials-unit-chunk = chunk
 
 # bills of spesos... not very good but they are not (yet?) used for crafting anything
 # also the lathe/atm would need bigger denominations to output...
-materials-unit-bill = conta
+materials-unit-bill = bill

@@ -1,9 +1,9 @@
-shared-solution-container-component-on-examine-empty-container = Contém nenhum químico.
-shared-solution-container-component-on-examine-main-text = Contem uma {INDEFINITE($desc)} [color={$color}]{$desc}[/color] {$wordedAmount}
-shared-solution-container-component-on-examine-worded-amount-one-reagent = substância
-shared-solution-container-component-on-examine-worded-amount-multiple-reagents = mistura
+shared-solution-container-component-on-examine-empty-container = Contains no chemicals.
+shared-solution-container-component-on-examine-main-text = It contains {INDEFINITE($desc)} [color={$color}]{$desc}[/color] {$wordedAmount}
+shared-solution-container-component-on-examine-worded-amount-one-reagent = chemical.
+shared-solution-container-component-on-examine-worded-amount-multiple-reagents = mixture of chemicals.
 
-examinable-solution-has-recognizable-chemicals = Você pode reconhecer {$recognizedString} na solução.
+examinable-solution-has-recognizable-chemicals = You can recognize {$recognizedString} in the solution.
 examinable-solution-recognized-first = [color={$color}]{$chemical}[/color]
 examinable-solution-recognized-next = , [color={$color}]{$chemical}[/color]
-examinable-solution-recognized-last = e [color={$color}]{$chemical}[/color]
+examinable-solution-recognized-last = and [color={$color}]{$chemical}[/color]

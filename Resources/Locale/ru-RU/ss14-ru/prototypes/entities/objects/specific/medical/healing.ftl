@@ -9,64 +9,38 @@ ent-Ointment1 = { ent-Ointment }
 ent-Ointment10Lingering = { ent-Ointment }
     .suffix = 10, Lingering
     .desc = { ent-Ointment.desc }
-<<<<<<< HEAD
 ent-RegenerativeMesh = regenerative mesh
     .desc = Used to treat even the nastiest burns. Also effective against caustic burns.
+    .suffix = Full
 ent-OintmentAdvanced1 = { ent-RegenerativeMesh }
+    .suffix = Single
     .desc = { ent-RegenerativeMesh.desc }
 ent-Brutepack = bruise pack
     .desc = A therapeutic gel pack and bandages designed to treat blunt-force trauma.
     .suffix = Full
-=======
-ent-RegenerativeMesh = регенеративная сеть
-    .desc = Применяется для лечения даже самых неприятных ожогов. Эффективна также при кислотных ожогах.
-    .suffix = Полный
-ent-OintmentAdvanced1 = { ent-RegenerativeMesh }
-    .desc = { ent-RegenerativeMesh.desc }
-    .suffix = Один
-ent-Brutepack = набор для ушибов
-    .desc = Терапевтический набор гелей и пластырей, предназначенных для лечения ушибов.
-    .suffix = Полный
->>>>>>> space-station-14/master
 ent-Brutepack1 = { ent-Brutepack }
     .suffix = Single
     .desc = { ent-Brutepack.desc }
 ent-Brutepack10Lingering = { ent-Brutepack }
     .suffix = 10, Lingering
     .desc = { ent-Brutepack.desc }
-<<<<<<< HEAD
 ent-MedicatedSuture = medicated suture
     .desc = A suture soaked in medicine, treats blunt-force trauma effectively and closes wounds.
+    .suffix = Full
 ent-BrutepackAdvanced1 = { ent-MedicatedSuture }
+    .suffix = Single
     .desc = { ent-MedicatedSuture.desc }
 ent-Bloodpack = blood pack
     .desc = Contains a groundbreaking universal blood replacement created by Nanotrasen's advanced medical science.
     .suffix = Full
-=======
-ent-MedicatedSuture = медицинская нить
-    .desc = Нить, пропитанная лекарством, эффективно лечит механические травмы и закрывает раны.
-    .suffix = Полный
-ent-BrutepackAdvanced1 = { ent-MedicatedSuture }
-    .desc = { ent-MedicatedSuture.desc }
-    .suffix = Один
-ent-Bloodpack = пакет крови
-    .desc = Содержит новый инновационный универсальный кровезаменитель, разработанный передовыми учёными компании Nanotrasen.
-    .suffix = Полный
->>>>>>> space-station-14/master
 ent-Bloodpack10Lingering = { ent-Bloodpack }
     .suffix = 10, Lingering
     .desc = { ent-Bloodpack.desc }
-<<<<<<< HEAD
+ent-Tourniquet = tourniquet
+    .desc = Stops bleeding! Hopefully.
 ent-Gauze = roll of gauze
     .desc = Some sterile gauze to wrap around bloody stumps.
     .suffix = Full
-=======
-ent-Tourniquet = жгут
-    .desc = Остановит кровотечение! Надеемся.
-ent-Gauze = марлевый бинт
-    .desc = Несколько стерильных марлевых полосок для оборачивания кровоточащих культей.
-    .suffix = Полный
->>>>>>> space-station-14/master
 ent-Gauze1 = { ent-Gauze }
     .suffix = Single
     .desc = { ent-Gauze.desc }

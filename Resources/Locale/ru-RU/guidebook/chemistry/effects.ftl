@@ -33,9 +33,9 @@ reagent-effect-guidebook-explosion-reaction-effect =
 
 reagent-effect-guidebook-emp-reaction-effect =
     { $chance ->
-        [1] Causa
-        *[other] causam
-    } um pulso eletromagnético
+        [1] Causes
+        *[other] cause
+    } an electromagnetic pulse
 
 reagent-effect-guidebook-foam-area-reaction-effect =
     { $chance ->
@@ -272,7 +272,7 @@ reagent-effect-guidebook-make-polymorph =
         [1] Polymorphs
         *[other] polymorph
     } the metabolizer into a { $entityname }
-    
+
 reagent-effect-guidebook-modify-bleed-amount =
     { $chance ->
         [1] { $deltasign ->
@@ -338,7 +338,6 @@ reagent-effect-guidebook-innoculate-zombie-infection =
         [1] Cures
         *[other] cure
     } an ongoing zombie infection, and provides immunity to future infections
-
 
 reagent-effect-guidebook-missing =
     { $chance ->

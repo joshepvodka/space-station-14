@@ -139,11 +139,7 @@ ent-DefaultStationBeaconTEG = { ent-DefaultStationBeaconEngineering }
     .suffix = TEG
     .desc = { ent-DefaultStationBeaconEngineering.desc }
 ent-DefaultStationBeaconTechVault = { ent-DefaultStationBeaconEngineering }
-<<<<<<< HEAD
     .suffix = Tech Vault
-=======
-    .suffix = Технологическое хранилище
->>>>>>> space-station-14/master
     .desc = { ent-DefaultStationBeaconEngineering.desc }
 ent-DefaultStationBeaconService = { ent-DefaultStationBeacon }
     .suffix = Service
@@ -200,5 +196,5 @@ ent-DefaultStationBeaconCryosleep = { ent-DefaultStationBeacon }
     .suffix = Cryosleep
     .desc = { ent-DefaultStationBeacon.desc }
 ent-DefaultStationBeaconEscapePod = { ent-DefaultStationBeacon }
-    .suffix = Спасательная капсула
+    .suffix = Escape Pod
     .desc = { ent-DefaultStationBeacon.desc }

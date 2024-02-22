@@ -1,4 +1,4 @@
-power-cell-component-examine-details = A carga indica estar {$currentCharge} % cheia.
-power-cell-component-examine-details-no-battery = Não há bateria inserida.
-power-cell-no-battery = Nenhuma célula de energia encontrada
-power-cell-insufficient = Energia insuficiente
+power-cell-component-examine-details = The charge indicator reads [color=#5E7C16]{$currentCharge}[/color] %.
+power-cell-component-examine-details-no-battery = There is no power cell inserted.
+power-cell-no-battery = No power cell found
+power-cell-insufficient = Insufficient power

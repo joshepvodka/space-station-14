@@ -1,23 +1,23 @@
 reagent-name-e-z-nutrient = EZ nutrient
-reagent-desc-e-z-nutrient = Dê às suas plantas alguns desses nutrientes EZ!
+reagent-desc-e-z-nutrient = Give your plants some of those EZ nutrients! Dionas find this delicious.
 
 reagent-name-left4-zed = left-4-zed
-reagent-desc-left4-zed = Um coquetel de compostos mutagênicos, que tornam a vida vegetal altamente instável.
+reagent-desc-left4-zed = A cocktail of mutagenic compounds that gives nutrients, harms and affects plant life's genome.
 
 reagent-name-pest-killer = pest killer
-reagent-desc-pest-killer = Uma mistura que tem como alvo as pragas.
+reagent-desc-pest-killer = A mixture that targets pests. While useful it slowly poisons plants with toxins, be careful when using it.
 
 reagent-name-plant-b-gone = plant-B-gone
-reagent-desc-plant-b-gone = Uma mistura tóxica nociva para matar vida vegetal. Muito eficaz contra Kudzu.
+reagent-desc-plant-b-gone = A harmful toxic mixture to kill plantlife. Very effective against kudzu.
 
 reagent-name-robust-harvest = robust harvest
-reagent-desc-robust-harvest = Hormônios que melhoram as plantas, bons para aumentar a potência. Dionas acham delicioso.
+reagent-desc-robust-harvest = A highly effective fertilizer, with a limited potency-boosting effect on plants. Be careful with it's usage since using too much has a chance to reduce the plant yield. It has a positive effect on dionas.
 
 reagent-name-weed-killer = weed killer
-reagent-desc-weed-killer = Uma mistura que tem como alvo as ervas daninhas. Muito eficaz contra Kudzu.
+reagent-desc-weed-killer = A mixture that targets weeds. Very effective against kudzu. While useful it slowly poisons plants with toxins, be careful when using it.
 
 reagent-name-ammonia = ammonia
-reagent-desc-ammonia = Um fertilizante eficaz.
+reagent-desc-ammonia = An effective fertilizer, it gives your plants some nutrients.
 
 reagent-name-diethylamine = diethylamine
-reagent-desc-diethylamine = Um fertilizante muito potente.
+reagent-desc-diethylamine = A very potent fertilizer, treats plants with nutrients, eliminates pests, and sometimes it can even speed up growth.

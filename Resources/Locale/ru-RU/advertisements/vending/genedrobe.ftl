@@ -1,1 +1,3 @@
-advertisement-genedrobe-1 = Perfeito para o cientista louco em você!
+advertisement-genedrobe-1 = Perfect for the mad scientist in you!
+advertisement-genedrobe-2 = Experimenting with monkeys is more fun than you think!
+

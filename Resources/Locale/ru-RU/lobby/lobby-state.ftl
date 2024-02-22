@@ -1,16 +1,16 @@
-lobby-state-paused = Pausado
-lobby-state-soon = Em breve
-lobby-state-right-now-question = Agora?
-lobby-state-right-now-confirmation = Agora
-lobby-state-round-start-countdown-text = A rodada começa em: {$timeLeft}
-lobby-state-ready-button-join-state = Entrar
-lobby-state-ready-button-ready-up-state = Pronto
-lobby-state-player-status-not-ready = Não Pronto
-lobby-state-player-status-ready = Pronto
-lobby-state-player-status-observer = Observador
-lobby-state-player-status-round-not-started = A rodada ainda não começou
-lobby-state-player-status-round-time =  O tempo do round é: {$hours} horas e {$minutes} minutos
-lobby-state-song-text = Tocando: [color=white]{$songTitle}[/color] por [color=white]{$songArtist}[/color]
-lobby-state-song-no-song-text = Nenhuma música de lobby tocando.
-lobby-state-song-unknown-title = [color=dimgray]Título desconhecido[/color]
-lobby-state-song-unknown-artist = [color=dimgray]Artista desconhecido[/color]
+lobby-state-paused = Paused
+lobby-state-soon = Round starting soon
+lobby-state-right-now-question = Right Now?
+lobby-state-right-now-confirmation = Right Now
+lobby-state-round-start-countdown-text = Round starts In: {$timeLeft}
+lobby-state-ready-button-join-state = Join
+lobby-state-ready-button-ready-up-state = Ready Up
+lobby-state-player-status-not-ready = Not Ready
+lobby-state-player-status-ready = Ready
+lobby-state-player-status-observer = Observer
+lobby-state-player-status-round-not-started = The round hasn't started yet
+lobby-state-player-status-round-time =  The round time is: {$hours} hours and {$minutes} minutes
+lobby-state-song-text = Playing: [color=white]{$songTitle}[/color] by [color=white]{$songArtist}[/color]
+lobby-state-song-no-song-text = No lobby song playing.
+lobby-state-song-unknown-title = [color=dimgray]Unknown title[/color]
+lobby-state-song-unknown-artist = [color=dimgray]Unknown artist[/color]

@@ -1,22 +1,23 @@
-admin-logs-title = Admin Logs
-admin-logs-count = Mostrando {$showing}/{$total}
-admin-logs-pop-out = Abrir fora
+﻿admin-logs-title = Admin Logs Panel
+admin-logs-count = Showing {$showing}/{$total} of {$round}
+admin-logs-pop-out = Pop Out
 
 # Round
-admin-logs-round = Rodada {$showing}/{$total} de {$round}
-admin-logs-reset = Resetar
-admin-logs-reset-with-id = Reiniciar Rodada (#{$id})
+admin-logs-round = Round{" "}
+admin-logs-reset = Reset
+admin-logs-reset-with-id = Reset Round (#{$id})
 
 # Types
-admin-logs-search-types-placeholder = Procurar Tipos (OR)
-admin-logs-select-all = Tudo
-admin-logs-select-none = Nenhum
+admin-logs-search-types-placeholder = Search Types (OR)
+admin-logs-select-all = All
+admin-logs-select-none = None
 
 # Players
-admin-logs-search-players-placeholder = Procurar Jogadores (OR)
-admin-logs-select-none = Nenhum
+admin-logs-search-players-placeholder = Search Players (OR)
+admin-logs-select-none = None
+admin-logs-include-non-player = Include Non-players
 
 # Logs
-admin-logs-search-logs-placeholder = Procurar Logs
-admin-logs-refresh = Recarregar
-admin-logs-next = Próximo
+admin-logs-search-logs-placeholder = Search Logs
+admin-logs-refresh = Refresh
+admin-logs-next = Next

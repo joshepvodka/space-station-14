@@ -1,2 +1,2 @@
-war-ops-infiltrator-unavailable = ERRO: Recálculo de viagem FTL em andamento. Tempo estimado: {$minutes} minutos e {$seconds} segundos
-war-ops-shuttle-call-unavailable = Evacuation shuttle is currently unavailable. Por favor, aguarde
+war-ops-infiltrator-unavailable = ERROR: FTL Travel recalculation in progress. Estimated time: {$minutes} minutes and {$seconds} seconds
+war-ops-shuttle-call-unavailable = Evacuation shuttle is currently unavailable. Please wait

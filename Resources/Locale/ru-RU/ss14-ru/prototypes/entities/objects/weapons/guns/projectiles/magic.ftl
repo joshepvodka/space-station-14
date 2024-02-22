@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 ent-ProjectileFireball = fireball
     .desc = You better GITTAH WEIGH.
-=======
-ent-ProjectileFireball = огненный шар
-    .desc = По мнению волшебников явлется средством от всех проблем.
-ent-ProjectileAnomalyFireball = огненный шар
-    .desc = Парящий сгусток пламени.
->>>>>>> space-station-14/master
+ent-ProjectileAnomalyFireball = fireball
+    .desc = Hovering blob of flame.
 ent-ProjectilePolyboltBase = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
 ent-ProjectilePolyboltCarp = carp polybolt

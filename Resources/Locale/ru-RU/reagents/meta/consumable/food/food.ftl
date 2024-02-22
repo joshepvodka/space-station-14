@@ -1,17 +1,20 @@
 reagent-name-nutriment = nutriment
-reagent-desc-nutriment = Todas as vitaminas, minerais e carboidratos que o corpo precisa em sua forma pura.
+reagent-desc-nutriment = All the vitamins, minerals, and carbohydrates the body needs in pure form.
 
-reagent-name-glucose = glicose
-reagent-desc-glucose = Um açucar simples encontrado em muitas comidas.
+reagent-name-glucose = glucose
+reagent-desc-glucose = A simple sugar found in many foods.
 
-reagent-name-vitamin = vitamina
-reagent-desc-vitamin = Encontrado em saudáveis e completas refeições.
+reagent-name-vitamin = vitamin
+reagent-desc-vitamin = Found in healthy, complete meals.
 
-reagent-name-protein = proteina
-reagent-desc-protein = Encontrado em certas refeiçoes, bom para a saúde corporal.
+reagent-name-protein = protein
+reagent-desc-protein = Found in certain meals, good for bodily health.
 
-reagent-name-cocoapowder = cacau em pó
-reagent-desc-cocoapowder = Das melhores variantes de grãos de cacau
+reagent-name-cocoapowder = сocoa powder
+reagent-desc-cocoapowder = From the best varieties of cocoa beans
 
-reagent-name-pumpkin-flesh = carne de abóbora
-reagent-desc-pumpkin-flesh = Os restos moles e doces de uma abóbora.
+reagent-name-butter = butter
+reagent-desc-butter = You can believe it!
+
+reagent-name-pumpkin-flesh = pumpkin flesh
+reagent-desc-pumpkin-flesh = The mushy, sweet remains of a pumpkin.

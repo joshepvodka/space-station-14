@@ -1,13 +1,6 @@
 ent-OxygenTankFilled = { ent-OxygenTank }
     .suffix = Filled
     .desc = { ent-OxygenTank.desc }
-<<<<<<< HEAD
-ent-YellowOxygenTankFilled = { ent-YellowOxygenTank }
-    .suffix = Filled
-    .desc = { ent-YellowOxygenTank.desc }
-=======
-    .suffix = Заполненный
->>>>>>> space-station-14/master
 ent-EmergencyOxygenTankFilled = { ent-EmergencyOxygenTank }
     .suffix = Filled
     .desc = { ent-EmergencyOxygenTank.desc }

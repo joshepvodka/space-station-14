@@ -1,1 +1,1 @@
-stamina-resist = Resistido
+melee-stamina = Not enough stamina

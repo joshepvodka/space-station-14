@@ -1,9 +1,9 @@
-examine-trigger-voice = A tela mostra "{$keyphrase}"
-trigger-voice-uninitialized = A tela mostra: Uninitialized...
+examine-trigger-voice = The display reads: "{$keyphrase}"
+trigger-voice-uninitialized = The display reads: Uninitialized...
 
-verb-trigger-voice-record = Gravar
-verb-trigger-voice-clear = Apagar gravação
+verb-trigger-voice-record = Record
+verb-trigger-voice-clear = Clear recording
 
-popup-trigger-voice-start-recording = Começou a gravar
-popup-trigger-voice-stop-recording = Parou de gravar
-popup-trigger-voice-recorded = Gravou
+popup-trigger-voice-start-recording = Started recording
+popup-trigger-voice-stop-recording = Stopped recording
+popup-trigger-voice-recorded = Recorded

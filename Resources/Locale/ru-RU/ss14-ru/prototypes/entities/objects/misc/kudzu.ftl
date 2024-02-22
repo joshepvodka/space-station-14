@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-ent-Kudzu = kudzu
-    .desc = A rapidly growing, dangerous plant. WHY ARE YOU STOPPING TO LOOK AT IT?!
-=======
 ent-BaseKudzu = { "" }
     .desc = { "" }
-ent-Kudzu = кудзу
-    .desc = Быстрорастущее, опасное растение. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НЕГО?!
->>>>>>> space-station-14/master
+ent-Kudzu = kudzu
+    .desc = A rapidly growing, dangerous plant. WHY ARE YOU STOPPING TO LOOK AT IT?!
 ent-WeakKudzu = { ent-Kudzu }
     .suffix = Weak
     .desc = { ent-Kudzu.desc }
@@ -16,14 +11,9 @@ ent-KudzuFlowerFriendly = floral carpet
 ent-KudzuFlowerAngry = { ent-KudzuFlowerFriendly }
     .suffix = Angry, Floral Anomaly
     .desc = { ent-KudzuFlowerFriendly.desc }
-<<<<<<< HEAD
 ent-FleshKudzu = tendons
     .desc = A rapidly growing cluster of meaty tendons. WHY ARE YOU STOPPING TO LOOK AT IT?!
-=======
-ent-FleshKudzu = сухожилия
-    .desc = Быстрорастущее скопление мясистых сухожилий. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НИХ?!
-ent-ShadowKudzu = тёмная дымка
+ent-ShadowKudzu = dark haze
   .desc = { ent-BaseKudzu.desc }
-ent-ShadowKudzuWeak = дымка
+ent-ShadowKudzuWeak = Haze
     .desc = { ent-ShadowKudzu.desc }
->>>>>>> space-station-14/master

@@ -1,14 +1,14 @@
-﻿# Command
-cmd-faxui-desc = Abre janela admin para mandar faxes
-cmd-faxui-help = Uso: faxui
+# Command
+cmd-faxui-desc = Open admin window for sending faxes
+cmd-faxui-help = Usage: faxui
 
 # Window
-admin-fax-title = Gerenciador de Fax Admin
+admin-fax-title = Admin Fax Manager
 admin-fax-fax = Fax:
-admin-fax-follow = Seguir
-admin-fax-title-placeholder = Nome do papel...
-admin-fax-from-placeholder = Carimbado por...
-admin-fax-message-placeholder = Escreva aqui - se eu nao falasse você não saberia né? ;3
-admin-fax-stamp = Ícone do carimbo:
-admin-fax-stamp-color = Cor do carimbo:
-admin-fax-send = Enviar
+admin-fax-follow = Follow
+admin-fax-title-placeholder = Paper name...
+admin-fax-from-placeholder = Stamped by...
+admin-fax-message-placeholder = Your message here...
+admin-fax-stamp = Stamp icon:
+admin-fax-stamp-color = Stamp color:
+admin-fax-send = Send

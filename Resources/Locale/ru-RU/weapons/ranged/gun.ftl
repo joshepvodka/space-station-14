@@ -1,60 +1,50 @@
-<<<<<<< HEAD
 
-gun-selected-mode-examine = O modo de disparo é [color={$color}]{$mode}[/color].
-gun-fire-rate-examine = A taxa de tiro é [color={$color}]{$fireRate}[/color] por segundo.
-gun-selector-verb = Mudar para {$mode}
-gun-selected-mode = Modo {$mode}
-gun-disabled = Você não pode usar armas!
-gun-clumsy = A arma explodiu na sua cara!
-gun-set-fire-mode = Setado para {$mode}
+gun-selected-mode-examine = Current selected fire mode is [color={$color}]{$mode}[/color].
+gun-fire-rate-examine = Fire rate is [color={$color}]{$fireRate}[/color] per second.
+gun-selector-verb = Change to {$mode}
+gun-selected-mode = Selected {$mode}
+gun-disabled = You can't use guns!
+gun-clumsy = The gun blows up in your face!
+gun-set-fire-mode = Set to {$mode}
 
-=======
-gun-selected-mode-examine = Выбран режим огня [color={ $color }]{ $mode }[/color].
-gun-fire-rate-examine = Скорострельность [color={ $color }]{ $fireRate }[/color] в секунду.
-gun-selector-verb = Изменить на { $mode }
-gun-selected-mode = Выбран { $mode }
-gun-disabled = Вы не можете использовать оружие!
-gun-clumsy = Оружие взрывается вам в лицо!
-gun-set-fire-mode = Выбран режим { $mode }
->>>>>>> space-station-14/master
 # SelectiveFire
-gun-SemiAuto = semi-automático
-gun-Burst = rajada
-gun-FullAuto = automático
+gun-SemiAuto = semi-auto
+gun-Burst = burst
+gun-FullAuto = full-auto
 
 # BallisticAmmoProvider
-gun-ballistic-cycle = Carregar
-gun-ballistic-cycled = Carregado
-gun-ballistic-cycled-empty = Vazio
-gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} não vai caber dentro {THE($targetEntity)}!
-gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} está vazio.
-gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} já está totalmente carregado.
+gun-ballistic-cycle = Cycle
+gun-ballistic-cycled = Cycled
+gun-ballistic-cycled-empty = Cycled (empty)
+gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} won't fit inside {THE($targetEntity)}!
+gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} is empty.
+gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} is already fully loaded.
 
 # CartridgeAmmo
-gun-cartridge-spent = Ele [color=red]está gasto[/color].
-gun-cartridge-unspent = Ele [color=lime]não está gasto[/color].
+gun-cartridge-spent = It is [color=red]spent[/color].
+gun-cartridge-unspent = It is [color=lime]not spent[/color].
 
 # BatteryAmmoProvider
-gun-battery-examine = Há carga suficiente para [color={$color}]{$count} tiros.
+gun-battery-examine = It has enough charge for [color={$color}]{$count}[/color] shots.
 
 # CartridgeAmmoProvider
-gun-chamber-bolt-ammo = Arma não acionada
-gun-chamber-bolt = A ação está [color={$color}]{$bolt}[/color].
-gun-chamber-bolt-closed = Ação fechada
-gun-chamber-bolt-opened = Ação aberta
-gun-chamber-bolt-close = Fechar Ação
-gun-chamber-bolt-open = Abrir Ação
-gun-chamber-bolt-closed-state = aberto
-gun-chamber-bolt-open-state = fechado
-gun-chamber-rack = Rack (destravar)
+gun-chamber-bolt-ammo = Gun not bolted
+gun-chamber-bolt = The bolt is [color={$color}]{$bolt}[/color].
+gun-chamber-bolt-closed = Closed bolt
+gun-chamber-bolt-opened = Opened bolt
+gun-chamber-bolt-close = Close bolt
+gun-chamber-bolt-open = Open bolt
+gun-chamber-bolt-closed-state = open
+gun-chamber-bolt-open-state = closed
+gun-chamber-rack = Rack
 
 # MagazineAmmoProvider
-gun-magazine-examine = Há [color={$color}]{$count}[/color] tiros restantes.
+gun-magazine-examine = It has [color={$color}]{$count}[/color] shots remaining.
 
 # RevolverAmmoProvider
-gun-revolver-empty = Revólver vazio
-gun-revolver-full = Revólver carregado
-gun-revolver-insert = Inserido
-gun-revolver-spin = Girar revólver
-gun-revolver-spun = Girou
-gun-speedloader-empty = Carregador rapido vazio
+gun-revolver-empty = Empty revolver
+gun-revolver-full = Revolver full
+gun-revolver-insert = Inserted
+gun-revolver-spin = Spin revolver
+gun-revolver-spun = Spun
+gun-speedloader-empty = Speedloader empty

@@ -1,3 +1,3 @@
-glue-success = {THE($target)} está coberto de cola!
-glued-name-prefix = Colou {$target}
-glue-failure = Não dá pra cobrir {THE($target)} de cola.
+glue-success = {THE($target)} has been covered in glue!
+glued-name-prefix = Glued {$target}
+glue-failure = Can't cover {THE($target)} in glue!

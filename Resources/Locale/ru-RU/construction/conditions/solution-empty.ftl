@@ -1,3 +1,3 @@
 # SolutionEmpty
-construction-examine-condition-solution-empty = Primeiro, esvazie o conteúdo.
-construction-guide-condition-solution-empty = Esvazie o conteúdo.
+construction-examine-condition-solution-empty = First, empty the contents.
+construction-guide-condition-solution-empty = Empty the contents.

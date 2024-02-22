@@ -1,6 +1,6 @@
-flavor-profile = Tem gosto {$flavor}.
-flavor-profile-multiple = Tem gosto {$flavors} e {$lastFlavor}.
-flavor-profile-unknown = Tem um gosto indescritível.
+flavor-profile = Tastes {$flavor}.
+flavor-profile-multiple = Tastes {$flavors} and {$lastFlavor}.
+flavor-profile-unknown = Tastes indescribable.
 
 # Base flavors. Use these when you can't think of anything.
 # These are specifically flavors that are placed in front
@@ -8,284 +8,246 @@ flavor-profile-unknown = Tem um gosto indescritível.
 # will go in front so you don't get this like "Tastes like tomatoes, sweet and spicy",
 # instead, you get "Tastes sweet, spicy and like tomatoes".
 
-flavor-base-savory = salgado
-flavor-base-sweet = doce
-flavor-base-salty = salgado demais
-flavor-base-sour = azedo
-flavor-base-bitter = amargo
-flavor-base-spicy = picante
-flavor-base-metallic = metálico
-flavor-base-meaty = carnudo
-flavor-base-fishy = de peixe
-flavor-base-crabby = ranzinza
-flavor-base-cheesy = de queijo
-flavor-base-funny = engraçado
-flavor-base-tingly = formigante
-flavor-base-acid = ácido
-flavor-base-leafy = de folhas
-flavor-base-minty = de menta
-flavor-base-nutty = de nozes
-flavor-base-chalky = de giz
-flavor-base-oily = gorduroso
-flavor-base-peppery = apimentado
-flavor-base-slimy = viscoso
-flavor-base-magical = mágico
-flavor-base-fiber = fibroso
-flavor-base-cold = frio
-flavor-base-spooky = assustador
-flavor-base-smokey = fumacento
-flavor-base-fruity = de frutas
-flavor-base-creamy = cremoso
-flavor-base-fizzy = espumante
-flavor-base-shocking = chocante
-flavor-base-cheap = barato
-flavor-base-piquant = picante
-flavor-base-sharp = intenso
-flavor-base-syrupy = xaroposo
-flavor-base-spaceshroom = misterioso
-flavor-base-clean = limpo
+flavor-base-savory = savory
+flavor-base-sweet = sweet
+flavor-base-salty = salty
+flavor-base-sour = sour
+flavor-base-bitter = bitter
+flavor-base-spicy = spicy
+flavor-base-metallic = metallic
+flavor-base-meaty = meaty
+flavor-base-fishy = fishy
+flavor-base-crabby = crabby
+flavor-base-cheesy = cheesy
+flavor-base-funny = funny
+flavor-base-tingly = tingly
+flavor-base-acid = acidic
+flavor-base-leafy = leafy
+flavor-base-minty = minty
+flavor-base-nutty = nutty
+flavor-base-chalky = chalky
+flavor-base-oily = oily
+flavor-base-peppery = peppery
+flavor-base-slimy = slimy
+flavor-base-magical = magical
+flavor-base-fiber = fibrous
+flavor-base-cold = cold
+flavor-base-spooky = spooky
+flavor-base-smokey = smokey
+flavor-base-fruity = fruity
+flavor-base-creamy = creamy
+flavor-base-fizzy = fizzy
+flavor-base-shocking = shocking
+flavor-base-cheap = cheap
+flavor-base-piquant = piquant
+flavor-base-sharp = sharp
+flavor-base-syrupy = syrupy
+flavor-base-spaceshroom = mysterious
+flavor-base-clean = clean
+flavor-base-alkaline = alkaline
+flavor-base-holy = holy
+flavor-base-horrible = horrible
 
 # lmao
-flavor-base-terrible = terrível
+flavor-base-terrible = terrible
 
 # Complex flavors. Put a flavor here when you want something that's more
 # specific.
 
-flavor-complex-nothing = de nada
-flavor-complex-honey = de mel
+flavor-complex-nothing = like nothing
+flavor-complex-honey = like honey
+
+# Condiments
+
+flavor-complex-ketchunaise = like tomatoes and mayonnaise
+flavor-complex-mayonnaise = like mayonnaise
+flavor-complex-mustard = like mustard
+
 
 # Food-specific flavors.
 
 ## Food chemicals. In case you get something that has this inside.
-flavor-complex-nutriment = nutritivo
-flavor-complex-vitamin = de vitaminas
-flavor-complex-protein = de proteínas
+flavor-complex-nutriment = like nutrition
+flavor-complex-vitamin = like vitamins
+flavor-complex-protein = like protein
 
 ## Generic food taste. This should be replaced with an actual flavor profile,
 ## if you have food that looks like this.
-flavor-complex-food = de comida
+flavor-complex-food = like food
 
 ## Basic foodstuffs (ingredients, generic flavors)
-flavor-complex-bun = de pãozinho
-flavor-complex-bread = de pão
-flavor-complex-batter = de massa de bolo
-flavor-complex-butter = de manteiga
-flavor-complex-egg = de ovo
-flavor-complex-raw-egg = de ovo cru
-flavor-complex-bacon = de bacon
-flavor-complex-chicken = de frango
-flavor-complex-duck = de pato
-flavor-complex-chocolate = de chocolate
-flavor-complex-pasta = de macarrão
-flavor-complex-rice = de arroz
-flavor-complex-oats = de aveia
-flavor-complex-jelly = de geleia
-flavor-complex-soy = de soja
-flavor-complex-ice-cream = de sorvete
-flavor-complex-dough = de massa de pão
-flavor-complex-sweet-dough = de massa doce
-flavor-complex-tofu = de tofu
-flavor-complex-miso = como missô
-flavor-complex-muffin = de um muffin
-flavor-complex-peas = de ervilhas
-flavor-complex-pineapple = de abacaxi
-flavor-complex-onion = de cebola
-flavor-complex-eggplant = de beringela
-flavor-complex-carrot = de cenoura
-flavor-complex-cabbage = de repolho
-flavor-complex-potatoes = de batata
-flavor-complex-pumpkin = de abóboras
-flavor-complex-mushroom = de cogumelo
-flavor-complex-tomato = de tomate
-flavor-complex-corn = de milho
-flavor-complex-banana = de banana
-flavor-complex-apple = de maça
-flavor-complex-cotton = como algodões
-flavor-complex-bungo = de bungo
-flavor-complex-raisins = de uva passa
-flavor-complex-orange = de laranja
-flavor-complex-watermelon = de melancia
-flavor-complex-garlic = de alho
-flavor-complex-grape = de uva
-flavor-complex-berry = de bagas
-flavor-complex-meatballs = de almôndegas
-flavor-complex-nettles = de urtigas
-flavor-complex-jungle = de selva
-flavor-complex-vegetables = de vegetais
+flavor-complex-bun = like bun
+flavor-complex-bread = like bread
+flavor-complex-batter = like batter
+flavor-complex-butter = like butter
+flavor-complex-egg = like egg
+flavor-complex-raw-egg = like raw egg
+flavor-complex-bacon = like bacon
+flavor-complex-chicken = like chicken
+flavor-complex-duck = like duck
+flavor-complex-chocolate = like chocolate
+flavor-complex-pasta = like pasta
+flavor-complex-rice = like rice
+flavor-complex-oats = like oats
+flavor-complex-jelly = like jelly
+flavor-complex-soy = like soy
+flavor-complex-ice-cream = like ice cream
+flavor-complex-dough = like dough
+flavor-complex-sweet-dough = like sweet dough
+flavor-complex-tofu = like tofu
+flavor-complex-miso = like miso
+flavor-complex-lemoon = like laurel
+flavor-complex-muffin = like a muffin
+flavor-complex-peas = like peas
+flavor-complex-pineapple = like pineapple
+flavor-complex-onion = like onion
+flavor-complex-eggplant = like eggplant
+flavor-complex-carrot = like carrots
+flavor-complex-cabbage = like cabbages
+flavor-complex-potatoes = like potatoes
+flavor-complex-pumpkin = like pumpkins
+flavor-complex-mushroom = like mushrooms
+flavor-complex-tomato = like tomatoes
+flavor-complex-corn = like corn
+flavor-complex-banana = like bananas
+flavor-complex-apple = like apples
+flavor-complex-cotton = like cottons
+flavor-complex-bungo = like bungo
+flavor-complex-raisins = like dried grapes
+flavor-complex-orange = like oranges
+flavor-complex-watermelon = like watermelon
+flavor-complex-garlic = like garlic
+flavor-complex-grape = like grapes
+flavor-complex-berry = like berries
+flavor-complex-meatballs = like meatballs
+flavor-complex-nettles = like nettles
+flavor-complex-jungle = like jungle
+flavor-complex-vegetables = like vegetables
 # use it when there multiple types of veggies
 
 ## Complex foodstuffs (cooked foods, joke flavors, etc)
 
-flavor-complex-pink = rosa
-flavor-complex-curry = de curry
-flavor-complex-borsch-1 = de borsch
-flavor-complex-borsch-2 = de borscht
-flavor-complex-borsch-3 = de borche
-flavor-complex-borsch-4 = de borshtch
-flavor-complex-borsch-5 = de borsche
-flavor-complex-mre-brownie = de um brownie barato
-flavor-complex-fortune-cookie = de aleatoriedade
-flavor-complex-nutribrick = de que você está em uma missão na selva
-flavor-complex-cheap-noodles = de miojo barato
-flavor-complex-syndi-cakes = de um caloroso bolo de frutas
-flavor-complex-sus-jerky = sus
-flavor-complex-boritos = de gaming
-flavor-complex-nachos = de nachos
-flavor-complex-donk = de pizza barata
-flavor-complex-copypasta = de uma piada repetitiva
-flavor-complex-bad-joke = de uma piada ruim
-flavor-complex-memory-leek = de a fork bomb
-flavor-complex-gunpowder = de pólvora
-flavor-complex-validhunting = de caça-antag
-flavor-complex-people = de pessoas
-flavor-complex-cat = de gato
-flavor-complex-homerun = de um home run
-flavor-complex-grass = de grama
-flavor-complex-flare = de um sinalizador fumegante
-flavor-complex-cobwebs = de teias de aranha
-flavor-complex-sadness = de tristeza
-flavor-complex-hope = de esperança
-flavor-complex-chaos = de o caos
-flavor-complex-squirming = de se contorcer
-flavor-complex-electrons = de elétrons
-flavor-complex-parents = de os pais de alguém
-flavor-complex-plastic = de plástico
-flavor-complex-glue = de cola
-flavor-complex-spaceshroom = como umami espacial
-flavor-complex-lost-friendship = como amizade perdida
+flavor-complex-pink = like pink
+flavor-complex-curry = like curry
+flavor-complex-borsch-1 = like borsch
+flavor-complex-borsch-2 = like bortsch
+flavor-complex-borsch-3 = like borstch
+flavor-complex-borsch-4 = like borsh
+flavor-complex-borsch-5 = like borscht
+flavor-complex-mre-brownie = like a cheap brownie
+flavor-complex-fortune-cookie = like random chance
+flavor-complex-nutribrick = like you're operating in a jungle
+flavor-complex-cheap-noodles = like cheap noodles
+flavor-complex-syndi-cakes = like a hearty fruit cake
+flavor-complex-sus-jerky = like sus
+flavor-complex-boritos = like gaming
+flavor-complex-nachos = like nachos
+flavor-complex-donk = like cheap pizza
+flavor-complex-copypasta = like a repetitive joke
+flavor-complex-bad-joke = like a bad joke
+flavor-complex-memory-leek = like a fork bomb
+flavor-complex-gunpowder = like gunpowder
+flavor-complex-validhunting = like validhunting
+flavor-complex-people = like people
+flavor-complex-cat = like cat
+flavor-complex-homerun = like a home run
+flavor-complex-grass = like grass
+flavor-complex-flare = like a smoking flare
+flavor-complex-cobwebs = like cobwebs
+flavor-complex-sadness = like sadness
+flavor-complex-hope = like hope
+flavor-complex-chaos = like chaos
+flavor-complex-squirming = like squirming
+flavor-complex-electrons = like electrons
+flavor-complex-parents = like someone's parents
+flavor-complex-plastic = like plastic
+flavor-complex-glue = like glue
+flavor-complex-spaceshroom-cooked = like space umami
+flavor-complex-lost-friendship = like lost friendship
+flavor-complex-light = like a light gone out
+flavor-complex-profits = like profits
+flavor-complex-fishops = like the dreaded fishops
 
 # Drink-specific flavors.
 
 ## Generic alcohol/soda taste. This should be replaced with an actual flavor profile.
-<<<<<<< HEAD
-flavor-complex-alcohol = de álcool
-flavor-complex-soda = de refrigerante
-flavor-complex-juice = de suco
-flavor-complex-rocksandstones = de pedra e rocha
+flavor-complex-alcohol = like alcohol
+flavor-complex-soda = like soda
+flavor-complex-juice = like juice
+flavor-complex-rocksandstones = like rocks and stones
 
 ## Basic drinks
-flavor-complex-water = de água
-flavor-complex-beer = de cerveja
-flavor-complex-ale = de pão
-flavor-complex-cola = de cola
-flavor-complex-vodka = de grãos fermentados
-flavor-complex-tequila = de bebida fermentada
-flavor-complex-sake = de doce e alcoólico arroz
-flavor-complex-rum = de açucar fermentado
-flavor-complex-coffee-liquor = de forte e amargo café
-flavor-complex-whiskey = de whisky
-flavor-complex-shitty-wine = de cascas de uva
-flavor-complex-champagne = como pão bem fresco
-flavor-complex-iced-tea = de chá gelado
-flavor-complex-coffee = de café
-flavor-complex-milk = de leite
-flavor-complex-tea = de chá
-flavor-complex-ice = de gelo
+flavor-complex-water = like water
+flavor-complex-beer = like piss
+flavor-complex-cognac = like dry spicy alcohol
+flavor-complex-mead = like fermented honey
+flavor-complex-vermouth = like herbal grape rinds
+flavor-complex-ale = like bread
+flavor-complex-tonic-water = like angry water
+flavor-complex-cola = like cola
+flavor-complex-energy-drink = like battery acid
+flavor-complex-dr-gibb = like malpractice
+flavor-complex-grape-soda = like grape soda
+flavor-complex-lemon-lime-soda = like lemon-lime soda
+flavor-complex-pwr-game-soda = like gaming
+flavor-complex-root-beer-soda = like root beer
+flavor-complex-citrus-soda = like citrus soda
+flavor-complex-space-up-soda = like space
+flavor-complex-starkist-soda = like orange soda
+flavor-complex-fourteen-loko-soda = like sweet malt
+flavor-complex-vodka = like fermented grain
+flavor-complex-tequila = like fermented death
+flavor-complex-sake = like sweet, alcoholic rice
+flavor-complex-rum = like fermented sugar
+flavor-complex-coffee-liquor = like strong, bitter coffee
+flavor-complex-whiskey = like molasses
+flavor-complex-shitty-wine = like grape rinds
+flavor-complex-champagne = like freshly baked bread
+flavor-complex-iced-tea = like iced tea
+flavor-complex-coffee = like coffee
+flavor-complex-milk = like milk
+flavor-complex-tea = like tea
+flavor-complex-ice = like ice
+flavor-complex-mopwata = like stagnant, dirty water
 
 ## Cocktails
-flavor-complex-long-island = suspeitosamente de chá gelado
-flavor-complex-three-mile-island = de chá feito em chernobyl
-flavor-complex-whiskey-cola = de whisky carbonatado
-flavor-complex-singulo = de um poço sem fundo
-flavor-complex-syndie-bomb = de whisky amargo
-flavor-complex-tequila-sunrise = de uma manhã mexicana
-flavor-complex-irish-coffee = de um despertador alcoólico
-flavor-complex-iced-beer = de cerveja fria como gelo
-flavor-complex-gargle-blaster = como se alguém tivesse esmagado a sua cabeça com um tijolo de ouro coberto de limão
-flavor-complex-bloody-mary = de um rolê ruim
-flavor-complex-beepsky = de óleo e whisky
-flavor-complex-banana-honk = de milkshake de banana
-flavor-complex-atomic-bomb = de chernobyl
-flavor-complex-atomic-cola = de tampinha de garrafa
-flavor-complex-cuba-libre = de cola drogada
-flavor-complex-gin-tonic = de refrigerante lima-limão drogado
-flavor-complex-screwdriver = de suco de laranja drogado
-flavor-complex-themartinez = como violetas e limão vodka
-flavor-complex-cogchamp = como bronze
-flavor-complex-white-gilgamesh = como creme levemente adocicado
-flavor-complex-antifreeze = quente
-=======
-
-flavor-complex-profits = как прибыль
-flavor-complex-fishops = как страшная рыбья операция
-flavor-complex-alcohol = как алкоголь
-flavor-complex-soda = как газировка
-flavor-complex-juice = как сок
-
-## Basic drinks
-
-flavor-complex-rocksandstones = как скалы и камни
-flavor-complex-water = как вода
-flavor-complex-beer = как моча
-flavor-complex-ale = как хлеб
-flavor-complex-cola = как кола
-flavor-complex-cognac = как сухой пряный алкоголь
-flavor-complex-mead = как забродивший мёд
-flavor-complex-vermouth = как виноградная мякоть
-flavor-complex-vodka = как забродившее зерно
-flavor-complex-tonic-water = как озлобленная вода
-flavor-complex-tequila = как забродившая смерть
-flavor-complex-energy-drink = как аккумуляторная кислота
-flavor-complex-dr-gibb = как халатность
-flavor-complex-grape-soda = как виноградная газировка
-flavor-complex-lemon-lime-soda = как лимонно-лаймовая газировка
-flavor-complex-pwr-game-soda = как гейминг
-flavor-complex-root-beer-soda = как рутбир
-flavor-complex-citrus-soda = как цитрусовая газировка
-flavor-complex-space-up-soda = как космос
-flavor-complex-starkist-soda = как апельсиновая газировка
-flavor-complex-fourteen-loko-soda = как сладкий солод
-flavor-complex-sake = как сладкий, алкогольный рис
-flavor-complex-rum = как забродивший сахар
-flavor-complex-coffee-liquor = как крепкий, горький кофе
-flavor-complex-whiskey = как патока
-flavor-complex-shitty-wine = как виноградная кожура
-flavor-complex-iced-tea = как холодный чай
-flavor-complex-champagne = как свежеиспечённый хлеб
-flavor-complex-coffee = как кофе
-flavor-complex-milk = как молоко
-flavor-complex-tea = как чай
-flavor-complex-ice = как лёд
-
-## Cocktails
-
-flavor-complex-mopwata = как застоявшаяся грязная вода
-flavor-complex-long-island = подозрительно похож на холодный чай
-flavor-complex-three-mile-island = как чай, заваренный в ядерных отходах
-flavor-complex-whiskey-cola = как газированная патока
-flavor-complex-singulo = как бездонная дыра
-flavor-complex-syndie-bomb = как горький виски
-flavor-complex-root-beer-float = как мороженое в рутбире
-flavor-complex-black-russian = как алкогольный кофе
-flavor-complex-white-russian = как подслащенный алкогольный кофе
-flavor-complex-moonshine = как чистый алкоголь
-flavor-complex-tequila-sunrise = как мексиканское утро
-flavor-complex-irish-coffee = как пробуждение алкоголика
-flavor-complex-iced-beer = как ледяная моча
-flavor-complex-gargle-blaster = как будто кто-то ударил вас по голове золотым слитком, покрытым лимоном.
-flavor-complex-bloody-mary = как тяжелое похмелье
-flavor-complex-beepsky = как нефть и виски
-flavor-complex-banana-honk = как банановый милкшейк
-flavor-complex-atomic-bomb = как ядерная пустошь
-flavor-complex-atomic-cola = как накопление бутылочных крышек
-flavor-complex-cuba-libre = как крепкая кола
-flavor-complex-gin-tonic = как крепкая газировка с лимоном и лаймом
-flavor-complex-screwdriver = как крепкий апельсиновый сок
-flavor-complex-cogchamp = как латунь
-flavor-complex-themartinez = как фиалки и лимонная водка
-flavor-complex-irish-car-bomb = как шипучая пенка колы
->>>>>>> space-station-14/master
+flavor-complex-long-island = suspiciously like iced tea
+flavor-complex-three-mile-island = like tea brewed in nuclear runoff
+flavor-complex-whiskey-cola = like carbonated molasses
+flavor-complex-root-beer-float = like ice cream in root beer
+flavor-complex-black-russian = like alcoholic coffee
+flavor-complex-white-russian = like alcoholic sweetened coffee
+flavor-complex-moonshine = like pure alcohol
+flavor-complex-singulo = like a bottomless hole
+flavor-complex-syndie-bomb = like bitter whiskey
+flavor-complex-tequila-sunrise = like a mexican morning
+flavor-complex-irish-coffee = like an alcoholic wakeup call
+flavor-complex-iced-beer = like ice cold piss
+flavor-complex-gargle-blaster = like somebody smashed your head with a lemon-covered brick of gold
+flavor-complex-bloody-mary = like a bad hangover
+flavor-complex-beepsky = like oil and whiskey
+flavor-complex-banana-honk = like a banana milkshake
+flavor-complex-atomic-bomb = like a nuclear wasteland
+flavor-complex-atomic-cola = like hoarding bottle caps
+flavor-complex-cuba-libre = like spiked cola
+flavor-complex-gin-tonic = like spiked lemon-lime soda
+flavor-complex-screwdriver = like spiked orange juice
+flavor-complex-irish-car-bomb = like a spiked cola float
+flavor-complex-themartinez = like violets and lemon vodka
+flavor-complex-cogchamp = like brass
+flavor-complex-white-gilgamesh = like lightly carbonated cream
+flavor-complex-antifreeze = warm
 
 ### This is exactly what pilk tastes like. I'm not even joking. I might've been a little drunk though
-flavor-complex-pilk = de leite doce
+flavor-complex-pilk = like sweet milk
 
 # Medicine/chemical-specific flavors.
 
 ## Generic flavors.
-flavor-complex-medicine = de remédio
+flavor-complex-medicine = like medicine
 
-flavor-complex-carpet = de pelo
-flavor-complex-bee = inacreditável
-flavor-complex-sax = de jazz
-flavor-complex-bottledlightning = como um relâmpago engarrafado
-flavor-complex-punishment = de punição
+flavor-complex-carpet = like a handful of fur
+flavor-complex-bee = unbeelievable
+flavor-complex-sax = like jazz
+flavor-complex-bottledlightning = like lightning in a bottle
+flavor-complex-punishment = like punishment

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ent-PelletShotgunSlug = pellet (.50 slug)
-=======
-ent-PelletShotgunSlug = дробина (.50 пуля)
->>>>>>> space-station-14/master
     .desc = { ent-BaseBullet.desc }
 ent-PelletShotgunBeanbag = beanbag (.50)
     .desc = { ent-BaseBullet.desc }

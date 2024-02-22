@@ -1,12 +1,8 @@
 ent-BaseAnimalOrganUnGibbable = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-<<<<<<< HEAD
-ent-OrganAnimalLungs = lungs
-=======
 ent-BaseAnimalOrgan = { ent-BaseAnimalOrganUnGibbable }
     .desc = { ent-BaseAnimalOrganUnGibbable.desc }
-ent-OrganAnimalLungs = лёгкие
->>>>>>> space-station-14/master
+ent-OrganAnimalLungs = lungs
     .desc = { ent-BaseAnimalOrgan.desc }
 ent-OrganAnimalStomach = stomach
     .desc = { ent-BaseAnimalOrgan.desc }

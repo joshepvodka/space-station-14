@@ -1,36 +1,23 @@
-<<<<<<< HEAD
-marking-SlimeGradientLeftArm-gradient_left_arm = Braço esquerdo de Slime (Gradiente)
-marking-SlimeGradientLeftArm = Braço esquerdo de Slime (Gradiente)
+marking-SlimeGradientLeftArm-gradient_l_arm = Slime Left Arm (Gradient)
+marking-SlimeGradientLeftArm = Slime Left Arm (Gradient)
 
-marking-SlimeGradientRightArm-gradient_right_arm = Braço direito de Slime (Gradiente)
-marking-SlimeGradientRightArm = Braço direito de Slime (Gradiente)
+marking-SlimeGradientRightArm-gradient_r_arm = Slime Right Arm (Gradient)
+marking-SlimeGradientRightArm = Slime Right Arm (Gradient)
 
-marking-SlimeGradientLeftLeg-gradient_left_leg = Perna esquerda de Slime (Gradiente)
-marking-SlimeGradientLeftLeg = Perna esquerda de Slime (Gradiente)
+marking-SlimeGradientLeftFoot-gradient_l_foot = Slime Left Foot (Gradient)
+marking-SlimeGradientLeftFoot = Slime Left Foot (Gradient)
 
-marking-SlimeGradientRightLeg-gradient_right_leg = Perna direita de Slime (Gradiente)
-marking-SlimeGradientRightLeg = Perna direita de Slime (Gradiente)
+marking-SlimeGradientRightFoot-gradient_r_foot = Slime Right Foot (Gradient)
+marking-SlimeGradientRightFoot = Slime Right Foot (Gradient)
 
-marking-SlimeGradientLeftHand-gradient_left_hand = Mão esquerda de Slime (Gradiente)
-marking-SlimeGradientLeftHand = Mão esquerda de Slime (Gradiente)
+marking-SlimeGradientLeftLeg-gradient_l_leg = Slime Left Leg (Gradient)
+marking-SlimeGradientLeftLeg = Slime Left Leg (Gradient)
 
-marking-SlimeGradientRightHand-gradient_Right_hand = Mão direita de Slime (Gradiente)
-marking-SlimeGradientRightHand = Mão direita de Slime (Gradiente)
-=======
-marking-SlimeGradientLeftArm-gradient_l_arm = Слаймолюд, левая рука (Градиент)
-marking-SlimeGradientRightArm-gradient_r_arm = Слаймолюд, правая рука (Градиент)
-marking-SlimeGradientLeftArm = Слаймолюд, левая рука (Градиент)
-marking-SlimeGradientLeftLeg-gradient_l_leg = Слаймолюд, левая нога (Градиент)
-marking-SlimeGradientLeftFoot-gradient_l_foot = Слаймолюд, левая стопа (Градиент)
-marking-SlimeGradientLeftFoot = Слаймолюд, левая стопа (Градиент)
-marking-SlimeGradientRightFoot-gradient_r_foot = Слаймолюд, правая стопа (Градиент)
-marking-SlimeGradientRightFoot = Слаймолюд, правая стопа (Градиент)
-marking-SlimeGradientRightLeg-gradient_r_leg = Слаймолюд, правая нога (Градиент)
-marking-SlimeGradientRightArm = Слаймолюд, правая рука (Градиент)
-marking-SlimeGradientLeftHand-gradient_l_hand = Слаймолюд, кисть левой руки (Градиент)
-marking-SlimeGradientRightHand-gradient_r_hand = Слаймолюд, кисть правой руки (Градиент)
-marking-SlimeGradientLeftLeg = Слаймолюд, левая нога (Градиент)
-marking-SlimeGradientRightLeg = Слаймолюд, правая нога (Градиент)
-marking-SlimeGradientLeftHand = Слаймолюд, кисть левой руки (Градиент)
-marking-SlimeGradientRightHand = Слаймолюд, кисть правой руки (Градиент)
->>>>>>> space-station-14/master
+marking-SlimeGradientRightLeg-gradient_r_leg = Slime Right Leg (Gradient)
+marking-SlimeGradientRightLeg = Slime Right Leg (Gradient)
+
+marking-SlimeGradientLeftHand-gradient_l_hand = Slime Left Hand (Gradient)
+marking-SlimeGradientLeftHand = Slime Left Hand (Gradient)
+
+marking-SlimeGradientRightHand-gradient_r_hand = Slime Right Hand (Gradient)
+marking-SlimeGradientRightHand = Slime Right Hand (Gradient)

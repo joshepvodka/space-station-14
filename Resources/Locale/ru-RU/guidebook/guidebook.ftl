@@ -1,7 +1,7 @@
-guidebook-window-title = Livro guia
-guidebook-placeholder-text = Selecione uma entrada.
-guidebook-placeholder-text-2 = Se você é novo, selecione a entrada do topo pra to começar.
-guidebook-filter-placeholder-text = Filtrar itens
+guidebook-window-title = Guidebook
+guidebook-placeholder-text = Select an entry.
+guidebook-placeholder-text-2 = If you're new, select the topmost entry to get started.
+guidebook-filter-placeholder-text = Filter items
 
 
 guidebook-monkey-unspin = Unspin Monkey

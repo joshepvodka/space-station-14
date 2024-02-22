@@ -16,15 +16,9 @@ ent-ClothingBeltJanitorFilled = { ent-ClothingBeltJanitor }
 ent-ClothingBeltMedicalFilled = { ent-ClothingBeltMedical }
     .suffix = Filled
     .desc = { ent-ClothingBeltMedical.desc }
-<<<<<<< HEAD
-ent-ClothingBeltParamedicFilled = EMT belt
-    .suffix = Paramedic,Filled
-    .desc = { ent-ClothingBeltMedical.desc }
-=======
 ent-ClothingBeltMedicalEMTFilled = { ent-ClothingBeltMedicalEMT }
-    .suffix = Заполненный, Парамедик
+    .suffix = Paramedic,Filled
     .desc = { ent-ClothingBeltMedicalEMT.desc }
->>>>>>> space-station-14/master
 ent-ClothingBeltPlantFilled = { ent-ClothingBeltPlant }
     .suffix = Filled
     .desc = { ent-ClothingBeltPlant.desc }

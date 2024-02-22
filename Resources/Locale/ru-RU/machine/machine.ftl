@@ -1,4 +1,4 @@
-machine-insert-item = Você insere {THE($item)} na {THE($machine)}.
+machine-insert-item = {THE($user)} inserted {THE($item)} into {THE($machine)}.
 
 machine-upgrade-examinable-verb-text = Upgrades
 machine-upgrade-examinable-verb-message = Examine the machine upgrades.
@@ -13,13 +13,10 @@ machine-part-name-manipulator = Manipulator
 machine-part-name-matter-bin = Matter Bin
 machine-part-name-power-cell = Power Cell
 
-upgrade-power-draw = consumo de energia
-upgrade-max-charge = carga máxima
-upgrade-power-supply = fonte de energia
-upgrade-power-supply-ramping = taxa de rampa de potência
+two-way-lever-left = push left
+two-way-lever-right = push right
+two-way-lever-cant = can't push the lever that way!
 
-two-way-lever-left = empurrar para esquerda
-two-way-lever-right = empurrar para a direita
-two-way-lever-cant = não se pode empurrar a alavanca nessa direção!
+recycler-count-items = Recycled {$items} objects.
 
-recycler-count-items = Reciclou {$items} objetos.
+machine-already-in-use = {CAPITALIZE(THE($machine))} is already in use.

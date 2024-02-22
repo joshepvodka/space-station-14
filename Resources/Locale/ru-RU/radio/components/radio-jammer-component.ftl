@@ -1,6 +1,6 @@
-radio-jammer-component-on-use = O bloqueador de rádio agora está {$state}.
-radio-jammer-component-on-state = ligado
-radio-jammer-component-off-state = desligado
+radio-jammer-component-on-use = The jammer is now {$state}.
+radio-jammer-component-on-state = on
+radio-jammer-component-off-state = off
 
-radio-jammer-component-examine-on-state = O led está [color=darkgreen]ligado[/color].
-radio-jammer-component-examine-off-state = O led está [color=darkred]desligado[/color].
+radio-jammer-component-examine-on-state = The light is currently [color=darkgreen]on[/color].
+radio-jammer-component-examine-off-state = The light is currently [color=darkred]off[/color].

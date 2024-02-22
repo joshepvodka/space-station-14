@@ -1,3 +1,3 @@
-construction-examine-condition-any-conditions = Qualquer uma dessas condições deve ser verdade:
-construction-guide-condition-any-conditions = Qualquer uma das condições abaixo deve ser verdade
-construction-guide-condition-part-assembly = Todas as partes necessárias devem ser inseridas.
+construction-examine-condition-any-conditions = Any of these conditions must be true:
+construction-guide-condition-any-conditions = Any of the conditions below must be true
+construction-guide-condition-part-assembly = All of the required parts must be inserted.

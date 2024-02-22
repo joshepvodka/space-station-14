@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+ent-ClothingHeadBandBase = { ent-ClothingHeadBaseButcherable }
+  .desc = { ent-ClothingHeadBaseButcherable.desc }
 ent-ClothingHeadBandBlack = black bandana
     .desc = A black bandana to make you look cool.
 ent-ClothingHeadBandBlue = blue bandana
@@ -19,27 +20,3 @@ ent-ClothingHeadBandMerc = mercenary bandana
     .desc = To protect the head from the sun, insects and other dangers of the higher path.
 ent-ClothingHeadBandBrown = brown bandana
     .desc = A brown bandana to make you look cool.
-=======
-ent-ClothingHeadBandBase = { ent-ClothingHeadBaseButcherable }
-    .desc = { ent-ClothingHeadBaseButcherable.desc }
-ent-ClothingHeadBandBlack = чёрная бандана
-    .desc = Чёрная бандана, чтобы выглядеть круто.
-ent-ClothingHeadBandBlue = синяя бандана
-    .desc = Синяя бандана, чтобы выглядеть круто.
-ent-ClothingHeadBandBotany = ботаническая бандана
-    .desc = Ботаническая бандана из натуральных волокон, чтобы выглядеть круто.
-ent-ClothingHeadBandGold = золотая бандана
-    .desc = Золотая бандана, чтобы выглядеть круто.
-ent-ClothingHeadBandGreen = зелёная бандана
-    .desc = Зелёная бандана, чтобы выглядеть круто.
-ent-ClothingHeadBandGrey = серая бандана
-    .desc = Серая бандана, чтобы выглядеть круто.
-ent-ClothingHeadBandRed = красная бандана
-    .desc = Красная бандана, чтобы выглядеть круто.
-ent-ClothingHeadBandSkull = бандана с черепом
-    .desc = Бандана с черепом, чтобы выглядеть ещё круче.
-ent-ClothingHeadBandMerc = бандана наёмника
-    .desc = Для защиты головы от солнца, насекомых и других угроз сверху.
-ent-ClothingHeadBandBrown = коричневая бандана
-    .desc = Коричневая бандана, чтобы выглядеть круто.
->>>>>>> space-station-14/master

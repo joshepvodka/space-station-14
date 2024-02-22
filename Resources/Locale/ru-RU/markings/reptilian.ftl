@@ -1,47 +1,50 @@
-marking-LizardFrillsShort-frills_short = Babados de Lagarto (Curto)
-marking-LizardFrillsShort = Babados de Lagarto (Curto)
+marking-LizardFrillsShort-frills_short = Lizard Frills (Short)
+marking-LizardFrillsShort = Lizard Frills (Short)
 
-marking-LizardFrillsSimple-frills_simple = Babados de Lagarto (Simples)
-marking-LizardFrillsSimple = Babados de Lagarto (Simples)
+marking-LizardFrillsSimple-frills_simple = Lizard Frills (Simple)
+marking-LizardFrillsSimple = Lizard Frills (Simple)
 
-marking-LizardFrillsAquatic-frills_aquatic = Babados de Lagarto (Aquatico)
-marking-LizardFrillsAquatic = Babados de Lagarto (Aquatico)
+marking-LizardFrillsAquatic-frills_aquatic = Lizard Frills (Aquatic)
+marking-LizardFrillsAquatic = Lizard Frills (Aquatic)
 
-marking-LizardHornsAngler-horns_angler = Chifres de Lagarto (Angular)
-marking-LizardHornsAngler = Chifres de Lagarto (Angular)
+marking-LizardHornsAngler-horns_angler = Lizard Horns (Angler)
+marking-LizardHornsAngler = Lizard Horns (Angler)
 
-marking-LizardHornsCurled-horns_curled = Chifres de Lagarto (Enrolado)
-marking-LizardHornsCurled = Chifres de Lagarto (Enrolado)
+marking-LizardHornsCurled-horns_curled = Lizard Horns (Curled)
+marking-LizardHornsCurled = Lizard Horns (Curled)
 
-marking-LizardHornsRam-horns_ram = Chifres de Lagarto (Carneiro)
-marking-LizardHornsRam = Chifres de Lagarto (Carneiro)
+marking-LizardHornsRam-horns_ram = Lizard Horns (Ram)
+marking-LizardHornsRam = Lizard Horns (Ram)
 
-marking-LizardHornsShort-horns_short = Chifres de Lagarto (Curto)
-marking-LizardHornsShort = Chifres de Lagarto (Curto)
+marking-LizardHornsShort-horns_short = Lizard Horns (Short)
+marking-LizardHornsShort = Lizard Horns (Short)
 
-marking-LizardHornsSimple-horns_simple = Chifres de Lagarto
-marking-LizardHornsSimple = Chifres de Lagarto
+marking-LizardHornsSimple-horns_simple = Lizard Horns
+marking-LizardHornsSimple = Lizard Horns
 
-marking-LizardTailSmooth-tail_smooth = Rabo de Lagarto (Suave)
-marking-LizardTailSmooth = Rabo de Lagarto (Suave)
+marking-LizardTailSmooth-tail_smooth = Lizard Tail (Smooth)
+marking-LizardTailSmooth = Lizard Tail (Smooth)
 
-marking-LizardTailSpikes-tail_spikes = Rabo de Lagarto (Espetado)
-marking-LizardTailSpikes = Rabo de Lagarto (Espetado)
+marking-LizardTailLarge-tail_large = Lizard Tail (Large)
+marking-LizardTailLarge = Lizard Tail (Large)
 
-marking-LizardTailLTiger-tail_ltiger = Rabo de Lagarto (Listras de tigre claras)
-marking-LizardTailLTiger = Rabo de Lagarto (Listras de tigre claras)
+marking-LizardTailSpikes-tail_spikes = Lizard Tail (Spiky)
+marking-LizardTailSpikes = Lizard Tail (Spiky)
 
-marking-LizardTailDTiger-tail_dtiger = Rabo de Lagarto (Listras de tigre escuras)
-marking-LizardTailDTiger = Rabo de Lagarto (Listras de tigre escuras)
+marking-LizardTailLTiger-tail_ltiger = Lizard Tail (Light Tiger Stripes)
+marking-LizardTailLTiger = Lizard Tail (Light Tiger Stripes)
 
-marking-LizardSnoutRound-snout_round = Nariz de Lagarto (Redondo)
-marking-LizardSnoutRound = Nariz de Lagarto (Redondo)
+marking-LizardTailDTiger-tail_dtiger = Lizard Tail (Dark Tiger Stripes)
+marking-LizardTailDTiger = Lizard Tail (Dark Tiger Stripes)
 
-marking-LizardSnoutSharp-snout_sharp = Nariz de Lagarto (Afiado)
-marking-LizardSnoutSharp = Nariz de Lagarto (Afiado)
+marking-LizardSnoutRound-snout_round = Lizard Snout (Round)
+marking-LizardSnoutRound = Lizard Snout (Round)
 
-marking-LizardChestTiger-chest_tiger = Peito de Lagarto (Tigre)
-marking-LizardChestTiger = Peito de Lagarto (Tigre)
+marking-LizardSnoutSharp-snout_sharp = Lizard Snout (Sharp)
+marking-LizardSnoutSharp = Lizard Snout (Sharp)
+
+marking-LizardChestTiger-body_tiger = Lizard Chest (Tiger)
+marking-LizardChestTiger = Lizard Chest (Tiger)
 
 marking-LizardHeadTiger-head_tiger = Lizard Head (Tiger)
 marking-LizardHeadTiger = Lizard Head (Tiger)
@@ -58,19 +61,20 @@ marking-LizardRArmTiger = Lizard Right Arm (Tiger)
 marking-LizardRLegTiger-r_leg_tiger = Lizard Right Leg (Tiger)
 marking-LizardRLegTiger = Lizard Right Leg (Tiger)
 
-marking-LizardFrillsDivinity-frills_divinity = Babados de Lagarto (Divindade)
-marking-LizardFrillsDivinity = Babados de Lagarto (Divindade)
+marking-LizardFrillsDivinity-frills_divinity = Lizard Frills (Divinity)
+marking-LizardFrillsDivinity = Lizard Frills (Divinity)
 
-marking-LizardFrillsBig-frills_big = Babados de Lagarto (Grandes)
-marking-LizardFrillsBig = Babados de Lagarto (Grandes)
+marking-LizardFrillsBig-frills_big = Lizard Frills (Big)
+marking-LizardFrillsBig = Lizard Frills (Big)
 
-marking-LizardHornsDouble-horns_double = Chifres de Lagarto (Duplos)
-marking-LizardHornsDouble = Chifres de Lagarto (Duplos)
+marking-LizardHornsDouble-horns_double = Lizard Horns (Double)
+marking-LizardHornsDouble = Lizard Horns (Double)
 
 marking-LizardFrillsAxolotl-frills_axolotl = Lizard Frills (Axolotl)
 marking-LizardFrillsAxolotl = Lizard Frills (Axolotl)
 
-marking-LizardFrillsHood-frills_hood = Lizard Frills (Hood)
+marking-LizardFrillsHood-frills_hood_primary = Outer Hood
+marking-LizardFrillsHood-frills_hood_secondary = Inner Hood
 marking-LizardFrillsHood = Lizard Frills (Hood)
 
 marking-LizardHornsArgali-horns_argali = Lizard Horns (Argali)
@@ -90,3 +94,9 @@ marking-LizardHornsKoboldEars = Lizard Ears (Kobold)
 
 marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Lizard Ears (Floppy Kobold)
 marking-LizardHornsFloppyKoboldEars = Lizard Ears (Floppy Kobold)
+
+marking-LizardChestUnderbelly-body_underbelly = Lizard Chest (Underbelly)
+marking-LizardChestUnderbelly = Lizard Chest (Underbelly)
+
+marking-LizardChestBackspikes-body_backspikes = Lizard Back spikes (Four)
+marking-LizardChestBackspikes = Lizard Back spikes (Four)

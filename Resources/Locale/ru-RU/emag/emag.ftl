@@ -1,2 +1,2 @@
-emag-success = O cartão ativa alguma coisa na {THE($target)}.
-emag-no-charges = Sem mais cargas!
+emag-success = The card zaps something in {THE($target)}.
+emag-no-charges = No charges left!

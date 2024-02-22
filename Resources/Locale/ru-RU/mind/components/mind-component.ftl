@@ -1,11 +1,11 @@
-# MindComponentComponent localization
+# MindContainerComponent localization
 
-comp-mind-ghosting-prevented = Você não é capaz de dar ghost agora.
+comp-mind-ghosting-prevented = You are not able to ghost right now.
 
 ## Messages displayed when a body is examined and in a certain state
 
-comp-mind-examined-catatonic = { CAPITALIZE(SUBJECT($ent)) } está totalmente catatônico. O estresse da vida no espaço deve ter sido demais. Qualquer recuperação é improvável.
-comp-mind-examined-dead = { CAPITALIZE(SUBJECT($ent)) } está morto.
-comp-mind-examined-ssd = { CAPITALIZE(SUBJECT($ent)) } tem um vazio, distraído olhar e parece completamente indiferente a qualquer coisa. { CAPITALIZE(SUBJECT($ent)) } talvez saia dessa daqui um tempo.
-comp-mind-examined-dead-and-ssd = A alma {POSS-PRONOUN($ent)} está adormecida e pode voltar em breve.
-comp-mind-examined-dead-and-irrecoverable = A alma {POSS-PRONOUN($ent)} partiu e seguiu em frente. Qualquer recuperação é improvável.
+comp-mind-examined-catatonic = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } totally catatonic. The stresses of life in deep-space must have been too much for { OBJECT($ent) }. Any recovery is unlikely.
+comp-mind-examined-dead = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } dead.
+comp-mind-examined-ssd = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-HAVE($ent) } a blank, absent-minded stare and appears completely unresponsive to anything. { CAPITALIZE(SUBJECT($ent)) } may snap out of it soon.
+comp-mind-examined-dead-and-ssd = { CAPITALIZE(POSS-ADJ($ent)) } soul lies dormant and may return soon.
+comp-mind-examined-dead-and-irrecoverable = { CAPITALIZE(POSS-ADJ($ent)) } soul has departed and moved on. Any recovery is unlikely.

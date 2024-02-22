@@ -20,13 +20,9 @@ ent-FoodBoxDonkpocketTeriyaki = box of teriyaki-flavoured donk-pockets
     .desc = { ent-FoodBoxDonkpocket.desc }
 ent-FoodBoxDonkpocketPizza = box of pizza-flavoured donk-pockets
     .desc = { ent-FoodBoxDonkpocket.desc }
-<<<<<<< HEAD
-ent-FoodBoxDonkpocketGondola = box of gondola-flavoured donk-pockets
-=======
-ent-FoodBoxDonkpocketStonk = коробка ограниченной серии стонк-покетов
+ent-FoodBoxDonkpocketStonk = box of limited edition stonk-pockets
     .desc = { ent-FoodBoxDonkpocket.desc }
-ent-FoodBoxDonkpocketCarp = коробка карп-покетов
->>>>>>> space-station-14/master
+ent-FoodBoxDonkpocketCarp = box of carp-pockets
     .desc = { ent-FoodBoxDonkpocket.desc }
 ent-FoodBoxDonkpocketBerry = box of berry-flavoured donk-pockets
     .desc = { ent-FoodBoxDonkpocket.desc }

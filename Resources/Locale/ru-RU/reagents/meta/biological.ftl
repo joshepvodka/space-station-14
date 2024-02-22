@@ -1,41 +1,26 @@
-<<<<<<< HEAD
-reagent-name-blood = sangue
-reagent-desc-blood = Espero que seja ketchup.
+reagent-name-blood = blood
+reagent-desc-blood = I hope this is ketchup.
+
+reagent-name-insect-blood = insect blood
+reagent-desc-insect-blood = Okay, this is really gross. It almost looks.. alive?
 
 reagent-name-slime = slime
-reagent-desc-slime = Você pensou que isso era sangue gradiente no início, mas você estava enganado.
+reagent-desc-slime = You thought this was gradient blood at first, but you were mistaken.
 
-reagent-name-hemocyanin-blood = sangue azul
-reagent-desc-hemocyanin-blood = Contém cobre em oposição ao ferro, o que lhe confere uma cor azul distinta.
+reagent-name-hemocyanin-blood = blue blood
+reagent-desc-hemocyanin-blood = Contains copper as opposed to iron which gives it a distinct blue color.
 
-reagent-name-zombie-blood = sangue de zumbi
-reagent-desc-zombie-blood = Não aconselharia comer. Pode ser usado para criar uma inoculação contra a infecção.
+reagent-name-ammonia-blood = anaerobic blood
+reagent-desc-ammonia-blood = Nothing else in the entire galaxy smells quite so appalling.
+
+reagent-name-zombie-blood = zombie blood
+reagent-desc-zombie-blood = Would not advise eating. Can be used to create an inoculation against the infection.
 
 reagent-name-ichor = ichor
-reagent-desc-ichor = Um químico regenerativo extremamente potente, aperfeiçoado pela evolução da fauna espacial. Produzido no sistema digestivo do dragão, é visto como uma mercadoria exótica devido ao gigantesco esforço de sua caça.
+reagent-desc-ichor = An extremely potent regenerative chemical, perfected by space fauna evolution. Produced in the dragon's digestive system, it is seen as an exotic commodity due to the gargantuan effort of hunting for it.
 
-reagent-name-fat = gordura
-reagent-desc-fat = Não importa como foi obtido, sua aplicação é importante.
+reagent-name-fat = fat
+reagent-desc-fat = No matter how it was obtained, its application is important.
 
-reagent-name-vomit = vomito
-reagent-desc-vomit = Você pode ver alguns pedaços da última refeição de alguém nele.
-=======
-reagent-name-blood = кровь
-reagent-desc-blood = Я надеюсь, что это кетчуп.
-reagent-name-insect-blood = кровь насекомого
-reagent-desc-insect-blood = Окей, а это реально мерзко. Она выглядит почти... живой?
-reagent-name-slime = слизь
-reagent-desc-slime = Сначала вам показалось, что это градиент крови, но вы ошиблись.
-reagent-name-hemocyanin-blood = голубая кровь
-reagent-desc-hemocyanin-blood = Содержит медь, а не железо, что придаёт ей ярко выраженный голубой цвет.
-reagent-name-ammonia-blood = анаэробная кровь
-reagent-desc-ammonia-blood = Ничто другое во всей галактике не пахнет так отвратительно.
-reagent-name-zombie-blood = кровь зомби
-reagent-desc-zombie-blood = Не рекомендуется употреблять в пищу. Может быть использована для создания прививки от инфекции.
-reagent-name-ichor = ихор
-reagent-desc-ichor = Чрезвычайно мощное регенеративное химическое вещество, доведенное до совершенства эволюцией космической фауны. Производится в пищеварительной системе дракона и считается экзотическим товаром, поскольку охота на него требует огромных усилий.
-reagent-name-fat = жир
-reagent-desc-fat = Независимо от того, как он был получен, его применение важно.
-reagent-name-vomit = рвота
-reagent-desc-vomit = Вы можете увидеть в ней несколько кусков чьей-то последней еды.
->>>>>>> space-station-14/master
+reagent-name-vomit = vomit
+reagent-desc-vomit = You can see a few chunks of someone's last meal in it.

@@ -86,15 +86,11 @@ ent-FloorTileItemShuttlePurple = purple shuttle floor
     .desc = { ent-FloorTileItemBase.desc }
 ent-FloorTileItemShuttleRed = red shuttle floor
     .desc = { ent-FloorTileItemBase.desc }
-<<<<<<< HEAD
+ent-FloorTileItemShuttleGrey = grey shuttle floor
+    .desc = { ent-FloorTileItemBase.desc }
+ent-FloorTileItemShuttleBlack = black shuttle floor
+    .desc = { ent-FloorTileItemBase.desc }
 ent-FloorTileItemGold = gold floor
-=======
-ent-FloorTileItemShuttleGrey = серый пол шаттла
-    .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemShuttleBlack = чёрный пол шаттла
-    .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemGold = золотая плитка
->>>>>>> space-station-14/master
     .desc = { ent-FloorTileItemBase.desc }
 ent-FloorTileItemSilver = silver tile
     .desc = { ent-FloorTileItemBase.desc }

@@ -1,33 +1,34 @@
-salvage-expedition-structure-examine = Isto é um objetivo de [color=#B02E26]destruição[/color]
+salvage-expedition-structure-examine = This is a [color=#B02E26]destruction[/color] objective
 salvage-expedition-structure-remaining = {$count ->
-    [one] {$count} estrutura restante.
-    *[other] {$count} estruturas restantes.
+    [one] {$count} structure remaining.
+    *[other] {$count} structures remaining.
 }
 
-salvage-expedition-type = Missão
-salvage-expedition-window-title = Expedições de salvamento
-salvage-expedition-window-difficulty = Dificuldade:
-salvage-expedition-window-details = Detalhes:
-salvage-expedition-window-hostiles = Hostis:
-salvage-expedition-window-duration = Duração:
-salvage-expedition-window-biome = Bioma:
-salvage-expedition-window-modifiers = Modificadores:
-salvage-expedition-window-claimed = Reivindicado
-salvage-expedition-window-claim = Reivindicar
+salvage-expedition-type = Mission
+salvage-expedition-window-title = Salvage expeditions
+salvage-expedition-window-difficulty = Difficulty:
+salvage-expedition-window-details = Details:
+salvage-expedition-window-hostiles = Hostiles:
+salvage-expedition-window-duration = Duration:
+salvage-expedition-window-biome = Biome:
+salvage-expedition-window-modifiers = Modifiers:
 
-salvage-expedition-window-next = Próxima oferta
+offering-window-claimed = Claimed
+offering-window-claim = Claim
 
-salvage-expedition-difficulty-Moderate = Moderada
-salvage-expedition-difficulty-Hazardous = Perigosa
-salvage-expedition-difficulty-Extreme = Extrema
+salvage-expedition-window-next = Next offer
 
-salvage-expedition-difficulty-players = Salvadores recomendados:
+salvage-expedition-difficulty-Moderate = Moderate
+salvage-expedition-difficulty-Hazardous = Hazardous
+salvage-expedition-difficulty-Extreme = Extreme
+
+salvage-expedition-difficulty-players = Recommended salvagers:
 
 # Runner
-salvage-expedition-not-all-present = Nem todos os expedicionários estão a bordo da nave!
+salvage-expedition-not-all-present = Not all salvagers are aboard the shuttle!
 
-salvage-expedition-announcement-countdown-minutes = {$duration} minutos restantes para completar a expedição.
-salvage-expedition-announcement-countdown-seconds = {$duration} segundos restantes para completar a expedição.
-salvage-expedition-announcement-dungeon = A masmorra está localizada {$direction}.
-salvage-expedition-completed = A expedição está concluída.
-salvage-expedition-reward-description = Recompensa de conclusão da missão
+salvage-expedition-announcement-countdown-minutes = {$duration} minutes remaining to complete the expedition.
+salvage-expedition-announcement-countdown-seconds = {$duration} seconds remaining to complete the expedition.
+salvage-expedition-announcement-dungeon = Dungeon is located {$direction}.
+salvage-expedition-completed = Expedition is completed.
+salvage-expedition-reward-description = Mission completion reward

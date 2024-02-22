@@ -1,10 +1,10 @@
-role-timer-department-insufficient = Você precisa de mais [color=yellow]{TOSTRING($time, "0")}[/color] minutos no departamento de [color={$departmentColor}]{$department}[/color] para jogar nessa função.
-role-timer-department-too-high = Você precisa de menos [color=yellow]{TOSTRING($time, "0")}[/color] minutos no departamento de [color={$departmentColor}]{$department}[/color] para jogar nessa função. (Você está tentando desempenhar um papel de trainee?)
-role-timer-overall-insufficient = Você precisa de mais [color=yellow]{TOSTRING($time, "0")}[/color] minutos de tempo de jogo para jogar nessa função.
-role-timer-overall-too-high = Você precisa de menos [color=yellow]{TOSTRING($time, "0")}[/color] minutos de tempo de jogo para jogar nessa função. (Você está tentando desempenhar um papel de trainee?)
-role-timer-role-insufficient = Você precisa de mais [color=yellow]{TOSTRING($time, "0")}[/color] minutos como [color={$departmentColor}]{$job}[/color] para jogar nessa função.
-role-timer-role-too-high = Você precisa de menos [color=yellow]{TOSTRING($time, "0")}[/color] minutos para jogar nessa função. (Você está tentando desempenhar um papel de trainee?)
+﻿role-timer-department-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of [color={$departmentColor}]{$department}[/color] department playtime to play this role.
+role-timer-department-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes in [color={$departmentColor}]{$department}[/color] department to play this role. (Are you trying to play a trainee role?)
+role-timer-overall-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of playtime to play this role.
+role-timer-overall-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes of playtime to play this role. (Are you trying to play a trainee role?)
+role-timer-role-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes with [color={$departmentColor}]{$job}[/color] to play this role.
+role-timer-role-too-high = You require[color=yellow] {TOSTRING($time, "0")}[/color] fewer minutes with [color={$departmentColor}]{$job}[/color] to play this role. (Are you trying to play a trainee role?)
 
-role-timer-locked = Trancado (passe o mouse para mais detalhes)
+role-timer-locked = Locked (hover for details)
 
-role-ban = Você foi banido desta função.
+role-ban = You have been banned from this role.

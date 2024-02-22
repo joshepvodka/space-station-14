@@ -1,12 +1,12 @@
-wires-component-ui-on-receive-message-no-hands = Você não tem mãos.
-wires-component-ui-on-receive-message-cannot-reach = Você não alcança!
-wires-component-ui-on-receive-message-need-wirecutters = Você precisa segurar um wirecutter em sua mão!
-wires-component-ui-on-receive-message-need-multitool = Você precisa segurar um multitool em sua mão!
-wires-component-ui-on-receive-message-cannot-pulse-cut-wire = Você não pode pulsar um fio que foi cortado!
-wires-component-ui-on-receive-message-cannot-cut-cut-wire = Você não pode cortar um fio que já foi cortado!
-wires-component-ui-on-receive-message-cannot-mend-uncut-wire = Você não pode remendar um fio que já foi remendado!
+wires-component-ui-on-receive-message-no-hands = You have no hands.
+wires-component-ui-on-receive-message-cannot-reach = You can't reach there!
+wires-component-ui-on-receive-message-need-wirecutters = You need to hold a wirecutter in your hand!
+wires-component-ui-on-receive-message-need-multitool = You need to hold a multitool in your hand!
+wires-component-ui-on-receive-message-cannot-pulse-cut-wire = You can't pulse a wire that's been cut!
+wires-component-ui-on-receive-message-cannot-cut-cut-wire = You can't cut a wire that's been cut!
+wires-component-ui-on-receive-message-cannot-mend-uncut-wire = You can't mend a wire that's been mended!
 
 ## UI
 
-wires-menu-name-label = Fios
+wires-menu-name-label = Wires
 wires-menu-dead-beef-text = DEAD-BEEF

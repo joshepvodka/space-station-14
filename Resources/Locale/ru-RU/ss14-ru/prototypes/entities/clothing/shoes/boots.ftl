@@ -26,22 +26,15 @@ ent-ClothingShoesBootsWinterSci = science winter boots
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 ent-ClothingShoesBootsWinterSec = security winter boots
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
-<<<<<<< HEAD
 ent-ClothingShoesBootsWinterSyndicate = syndicate's winter boots
     .desc = Durable heavy boots, looks like merch from "Syndieland"
 ent-ClothingShoesBootsWinterWeb = web winter boots
     .desc = Boots made out of dense webbing to help survive even the coldest of winters.
-=======
-ent-ClothingShoesBootsWinterSyndicate = зимние ботинки синдиката
-    .desc = Прочные тяжелые ботинки, выглядят как мерч из "Синдиленда".
-ent-ClothingShoesBootsWinterWeb = зимние ботинки из паутины
-    .desc = Ботинки из плотной паутины, которые помогут пережить даже самую холодную зиму.
-ent-ClothingShoesBootsCowboyBrown = коричневые ковбойские ботинки
-    .desc = На них шпоры, которые звенят и/или бренчат.
-ent-ClothingShoesBootsCowboyBlack = чёрные ковбойские ботинки
+ent-ClothingShoesBootsCowboyBrown = brown cowboy boots
+    .desc = They got spurs that jingle and/or jangle.
+ent-ClothingShoesBootsCowboyBlack = black cowboy boots
     .desc = { ent-ClothingShoesBootsCowboyBrown.desc }
-ent-ClothingShoesBootsCowboyWhite = белые ковбойские ботинки
+ent-ClothingShoesBootsCowboyWhite = white cowboy boots
     .desc = { ent-ClothingShoesBootsCowboyBrown.desc }
-ent-ClothingShoesBootsCowboyFancy = модные ковбойские ботинки
+ent-ClothingShoesBootsCowboyFancy = fancy cowboy boots
     .desc = { ent-ClothingShoesBootsCowboyBrown.desc }
->>>>>>> space-station-14/master

@@ -1,18 +1,18 @@
 objectives-round-end-result = {$count ->
-    [one] Havia um {$agent}.
-    *[other] Haviam {$count} {MAKEPLURAL($agent)}.
+    [one] There was one {$agent}.
+    *[other] There were {$count} {MAKEPLURAL($agent)}.
 }
 
-objectives-round-end-result-in-custody = {$custody} fora de {$count} {MAKEPLURAL($agent)} estavam sob custódia.
+objectives-round-end-result-in-custody = {$custody} out of {$count} {MAKEPLURAL($agent)} were in custody.
 
 objectives-player-user-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color])
 objectives-player-user = [color=gray]{$user}[/color]
 objectives-player-named = [color=White]{$name}[/color]
 
-objectives-no-objectives = [bold][color=red]{$custody}[/color]{$title} era um {$agent}.
-objectives-with-objectives = [bold][color=red]{$custody}[/color]{$title} era um {$agent} que tinha os seguintes objetivos:
+objectives-no-objectives = {$custody}{$title} was a {$agent}.
+objectives-with-objectives = {$custody}{$title} was a {$agent} who had the following objectives:
 
-objectives-objective-success = {$objective} | [color={$markupColor}]Sucesso![/color]
-objectives-objective-fail = {$objective} | [color={$markupColor}]Falha![/color] ({$progress}%)
+objectives-objective-success = {$objective} | [color={$markupColor}]Success![/color]
+objectives-objective-fail = {$objective} | [color={$markupColor}]Failure![/color] ({$progress}%)
 
-objectives-in-custody = | EM CUSTÓDIA |
+objectives-in-custody = [bold][color=red]| IN CUSTODY | [/color][/bold]

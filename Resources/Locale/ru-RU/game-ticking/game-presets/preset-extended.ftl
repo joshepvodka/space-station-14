@@ -1,2 +1,2 @@
-extended-title = Extendido
-extended-description = Sem antagonistas, se divirta!
+extended-title = Extended
+extended-description = A calm experience. Admin intervention required.
