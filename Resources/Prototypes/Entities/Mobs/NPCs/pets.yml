@@ -30,6 +30,9 @@
     - id: FoodMeatCorgi
       amount: 2
     - id: MaterialHideCorgi
+  - type: Inventory
+    speciesId: Ian
+    templateId: Ian
   - type: Tag
     tags:
     - CannotSuicide

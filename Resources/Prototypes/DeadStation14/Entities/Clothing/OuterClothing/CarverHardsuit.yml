@@ -1,0 +1,53 @@
+- type: entity
+  parent: ClothingHeadHardsuitWithLightBase
+  id: ClothingHeadHelmetHardsuitForçasEspeciais
+  noSpawn: true
+  name: Elmo de Forças Especiais
+  description: Os capacetes retráteis da CEC são estranhamentes confortaveis e não prejudicam a visão do individuo graças aos sensores integrados... Apesar de seu design simples a tecnologia é avançada.
+  components:
+  - type: Sprite
+    sprite: DeadStation14/Clothing/Head/Hardsuits/CarverHardsuit.rsi
+  - type: Clothing
+    sprite: DeadStation14/Clothing/Head/Hardsuits/CarverHardsuit.rsi
+  - type: PointLight
+    color: "#d4464b"
+  - type: PressureProtection
+    highPressureMultiplier: 0.45
+    lowPressureMultiplier: 1000
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.9
+        Slash: 0.9
+        Piercing: 0.9
+        Radiation: 0.9
+        Caustic: 0.9
+
+- type: entity
+  parent: ClothingOuterHardsuitSecurity
+  id: ClothingOuterHardsuitForçasEspeciais
+  name: Hardsuit de Forças Especiais
+  description: Feito pela CEC para exterminio de pragas alienigênas. Apesar de toda proteção, nem todas missões deram certo, o que explica a armadura ser encontrado em alguns destroços.
+  components:
+  - type: Sprite
+    sprite: DeadStation14/Clothing/OuterClothing/Hardsuit/CarverHardsuit.rsi
+  - type: Clothing
+    sprite: DeadStation14/Clothing/OuterClothing/Hardsuit/CarverHardsuit.rsi
+  - type: PressureProtection
+    highPressureMultiplier: 0.45
+    lowPressureMultiplier: 1000
+  - type: ExplosionResistance
+    damageCoefficient: 0.6
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.6
+        Slash: 0.5
+        Piercing: 0.5
+        Radiation: 0.5
+        Caustic: 0.6
+  - type: ClothingSpeedModifier
+    walkModifier: 0.8
+    sprintModifier: 0.8
+  - type: ToggleableClothing
+    clothingPrototype: ClothingHeadHelmetHardsuitForçasEspeciais
