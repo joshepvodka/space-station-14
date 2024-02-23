@@ -1,0 +1,12 @@
+- type: entity
+  parent: ClothingEyesBase
+  id: ClothingEyesHudSecurityAgent
+  name: 1337 Agent Glasses
+  description: A pair of very stylish red glasses, has an inbuilt hud system.
+  components:
+  - type: Sprite
+    sprite: Tucano/Clothing/Eyes/Hud/agent_glasses.rsi
+  - type: Clothing
+    sprite: Tucano/Clothing/Eyes/Hud/agent_glasses.rsi
+  - type: ShowSyndicateIcons
+  - type: ShowSecurityIcons

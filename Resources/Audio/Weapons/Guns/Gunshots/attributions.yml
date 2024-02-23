@@ -32,3 +32,13 @@
   license: "CC-BY-SA-3.0"
   copyright: "Taken from tgstation"
   source: "https://github.com/tgstation/tgstation/blob/5736656139713c802033b9457a2a9d058211bd85/sound/weapons/gun/shotgun/shot.ogg"
+
+- files: ["big_revolver.ogg"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Taken from Septic Shock"
+  source: "Bobstation ReIgnited - Escape From Nevado"
+
+- files: ["grenade_launcher_2.ogg"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Taken from Septic Shock"
+  source: "Bobstation ReIgnited - Escape From Nevado"

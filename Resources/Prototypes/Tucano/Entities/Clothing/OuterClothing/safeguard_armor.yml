@@ -1,0 +1,30 @@
+- type: entity
+  parent: ClothingOuterHardsuitBase
+  id: ClothingOuterHardsuitSafeguard
+  name: NanoTrasen's "Safeguard-Type" Hardsuit
+  description: To compete directly with Cybersun's Juggernaut Suit, NanoTrasen has gathered the most genius minds in the 14th Sector. The result? The Safeguard Suit.
+  components:
+  - type: Sprite
+    sprite: Tucano/Clothing/OuterClothing/Hardsuits/safeguard_hardsuit.rsi
+  - type: Clothing
+    sprite: Tucano/Clothing/OuterClothing/Hardsuits/safeguard_hardsuit.rsi
+  - type: PressureProtection
+    highPressureMultiplier: 0.2
+    lowPressureMultiplier: 1000
+  - type: ExplosionResistance
+    damageCoefficient: 0.1
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.7
+        Slash: 0.7
+        Piercing: 0.6
+        Heat: 0.5
+        Radiation: 0.4
+        Caustic: 0.3
+  - type: ClothingSpeedModifier
+    walkModifier: 0.5
+    sprintModifier: 0.55
+  - type: HeldSpeedModifier
+  - type: ToggleableClothing
+    clothingPrototype: ClothingHeadHelmetHardsuitSafeguard

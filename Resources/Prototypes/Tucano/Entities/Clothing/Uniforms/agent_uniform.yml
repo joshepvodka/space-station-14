@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitSecurityAgent
+  name: Agent Suit
+  description: A fancy black suit, with a white shirt underneath, and a fancy red tie. Completes the 'Agent Uniform'
+  components:
+  - type: Sprite
+    sprite: Tucano/Clothing/Uniforms/Jumpsuit/agent_jumpsuit.rsi
+  - type: Clothing
+    sprite: Tucano/Clothing/Uniforms/Jumpsuit/agent_jumpsuit.rsi
