@@ -1343,3 +1343,18 @@
   id: zombiecocktail
   flavorType: Complex
   description: flavor-complex-zombiecocktail
+
+- type: flavor
+  id: krumpari
+  flavorType: Complex
+  description: flavor-complex-krumpari
+
+- type: flavor
+  id: jagermann
+  flavorType: Complex
+  description: flavor-complex-jagermann
+
+- type: flavor
+  id: gingerbeer
+  flavorType: Complex
+  description: flavor-complex-gingerbeer

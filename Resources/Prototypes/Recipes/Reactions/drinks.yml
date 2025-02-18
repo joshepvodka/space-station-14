@@ -1231,3 +1231,136 @@
       amount: 1
   products:
     ZombieCocktail: 4
+
+- type: reaction
+  id: ZombieCocktail
+  reactants:
+    Rum:
+      amount: 2
+    Grenadine:
+      amount: 1
+    ZombieBlood:
+      amount: 1
+  products:
+    ZombieCocktail: 4
+
+- type: reaction
+  id: Negroni
+  requiredMixerCategories:
+  - Stir
+  reactants:
+    Gin:
+      amount: 1
+    Krumpari:
+      amount: 1
+    Vermuth:
+      amount: 1
+  products:
+    Negroni: 3
+
+- type: reaction
+  id: Americano
+  requiredMixerCategories:
+  - Stir
+  reactants:
+    SodaWater:
+      amount: 1
+    Krumpari:
+      amount: 1
+    Vermuth:
+      amount: 1
+  products:
+    Americano: 3
+
+- type: reaction
+  id: CampariSpritz
+  reactants:
+    SodaWater:
+      amount: 1
+    Krumpari:
+      amount: 2
+    Champagne:
+      amount: 3
+  products:
+    Americano: 6
+
+- type: reaction
+  id: Napoleon
+  requiredMixerCategories:
+  - Shake
+  reactants:
+    Whiskey:
+      amount: 3
+    Krumpari:
+      amount: 1
+    Vermuth:
+      amount: 1
+    Egg:
+      amount: 1
+  products:
+    Napoleon: 6
+
+- type: reaction
+  id: JagerRedBool
+  reactants:
+    Jagermann:
+      amount: 2
+    EnergyDrink:
+      amount: 1
+  products:
+    JagerRedBool: 3
+
+- type: reaction
+  id: JagerMule
+  reactants:
+    Jagermann:
+      amount: 2
+    GingerBeer:
+      amount: 3
+    LimeJuice:
+      amount: 1
+  products:
+    JagerMule: 6
+
+- type: reaction
+  id: TrueJager
+  minTemp: 253,15
+  reactants:
+    Jagermann:
+      amount: 1
+  products:
+    TrueJager: 1
+
+- type: reaction
+  id: JagerNuke
+  reactants:
+    Jagermann:
+      amount: 1
+    EnergyDrink:
+      amount: 1
+    Uranium:
+      amount: 1
+  products:
+    JagerMule: 6
+
+- type: reaction
+  id: MoscowMule
+  reactants:
+    Vodka:
+      amount: 2
+    GingerBeer:
+      amount: 3
+    LimeJuice:
+      amount: 1
+  products:
+    JagerMule: 6
+
+- type: reaction
+  id: DarkStormy
+  reactants:
+    GingerBeer:
+      amount: 2
+    Rum:
+      amount: 1
+  products:
+    DarkStormy: 6

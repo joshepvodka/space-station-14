@@ -462,6 +462,55 @@
         amount: 0.3
   fizziness: 0.8
 
+- type: reagent
+  id: Krumpari
+  name: reagent-name-krumpari
+  parent: BaseAlcohol
+  desc: reagent-desc-krumpari
+  physicalDesc: reagent-physical-desc-translucent
+  flavor: krumpari
+  color: "#FF2929"
+  recognizable: true
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/thin_glass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: true
+
+- type: reagent
+  id: Jagermann
+  name: reagent-name-jagermann
+  parent: BaseAlcohol
+  desc: reagent-desc-jagermann
+  physicalDesc: reagent-physical-desc-syrupy
+  flavor: jagermann
+  color: "#241400"
+  recognizable: true
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/thin_glass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: true
+
+- type: reagent
+  id: GingerBeer
+  name: reagent-name-gingerbeer
+  parent: BaseAlcohol
+  desc: reagent-desc-gingerbeer
+  physicalDesc: reagent-physical-desc-fizzy
+  flavor: gingerbeer
+  color: "#FEFFC4"
+  recognizable: true
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/beerglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: true
+  fizziness: 0.6
+
 # Mixed Alcohol
 
 - type: reagent
@@ -1976,3 +2025,188 @@
         - !type:AdjustReagent
           reagent: Ethanol
           amount: 0.25
+
+- type: reagent
+  id: Negroni
+  name: reagent-name-negroni
+  parent: BaseAlcohol
+  desc: reagent-desc-negroni
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: negroni
+  color: "#ff4747"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/negroniglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+
+- type: reagent
+  id: Americano
+  name: reagent-name-americano
+  parent: BaseAlcohol
+  desc: reagent-desc-americano
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: americano
+  color: "#ff4747"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/americanoglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+
+- type: reagent
+  id: CampariSpritz
+  name: reagent-name-campari-spritz
+  parent: BaseAlcohol
+  desc: reagent-desc-campari-spritz
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: campari-spritz
+  color: "#ff7070"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/camparispritzglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+  fizziness: 0.8
+
+- type: reagent
+  id: Napoleon
+  name: reagent-name-napoleon
+  parent: BaseAlcohol
+  desc: reagent-desc-napoleon
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: napoleon
+  color: "#ff4060"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/napoleonglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+
+- type: reagent
+  id: JagerRedBool
+  name: reagent-name-jager-red-bool
+  parent: BaseAlcohol
+  desc: reagent-desc-jager-red-bool
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: jager-red-bool
+  color: "#9c6b10"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/jagerredboolglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+  fizziness: 0.4
+
+- type: reagent
+  id: JagerMule
+  name: reagent-name-jager-mule
+  parent: BaseAlcohol
+  desc: reagent-desc-jager-mule
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: jager-mule
+  color: "#ffcf4a"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/jagermuleglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+  fizziness: 0.6
+
+- type: reagent
+  id: TrueJager
+  name: reagent-name-true-jager
+  parent: BaseAlcohol
+  desc: reagent-desc-true-jager
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: true-jager
+  color: "#241400"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/truejagerglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+
+- type: reagent
+  id: JagerNuke
+  name: reagent-name-jager-nuke
+  parent: BaseAlcohol
+  desc: reagent-desc-jager-nuke
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: jager-nuke
+  color: "#134000"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/jagernukeglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+  plantMetabolism:
+  - !type:PlantAdjustMutationLevel
+    amount: 0.6
+  - !type:PlantAdjustToxins
+    amount: 4
+  - !type:PlantAdjustHealth
+    amount: -1.5
+  - !type:PlantAdjustMutationMod
+    probability: 0.2
+    amount: 0.1
+  metabolisms:
+  Drink:
+    effects:
+    - !type:SatiateThirst
+      factor: 2
+    - !type:AdjustReagent
+      reagent: Ethanol
+      amount: 0.06
+    effects:
+      - !type:HealthChange
+        damage:
+          types:
+            Radiation: 2
+  reactiveEffects:
+    Flammable:
+      methods: [ Touch ]
+      effects:
+      - !type:FlammableReaction
+  tileReactions:
+  - !type:FlammableTileReaction
+    temperatureMultiplier: 1.35
+
+
+- type: reagent
+  id: MoscowMule
+  name: reagent-name-moscow-mule
+  parent: BaseAlcohol
+  desc: reagent-desc-moscow-mule
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: moscow-mule
+  color: "#f0ffbf"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/moscowmuleglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false
+
+- type: reagent
+  id: DarkStormy
+  name: reagent-name-dark-stormy
+  parent: BaseAlcohol
+  desc: reagent-desc-dark-stormy
+  physicalDesc: reagent-physical-desc-strong-smelling
+  flavor: dark-stormy
+  color: "#ffc078"
+  metamorphicSprite:
+    sprite: Objects/Consumable/Drinks/darkstormyglass.rsi
+    state: icon_empty
+  metamorphicMaxFillLevels: 5
+  metamorphicFillBaseName: fill-
+  metamorphicChangeColor: false

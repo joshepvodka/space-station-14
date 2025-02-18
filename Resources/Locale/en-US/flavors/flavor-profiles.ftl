@@ -225,6 +225,9 @@ flavor-complex-tea = like tea
 flavor-complex-ice = like ice
 flavor-complex-mopwata = like stagnant, dirty water
 flavor-complex-gin = like fermented grain with juniper berries
+flavor-complex-krumpari = like bitter, spicy citrus peel
+flavor-complex-jagermann= like sweet, herbal medicine
+flavor-complex-gingerbeer= like spicy ginger
 
 ## Cocktails
 flavor-complex-arnold-palmer = like a hole-in-one

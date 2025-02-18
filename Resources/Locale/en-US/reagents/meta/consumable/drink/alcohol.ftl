@@ -288,3 +288,12 @@ reagent-desc-rubberneck = A popular drink amongst those adhering to an all synth
 
 reagent-name-zombiecocktail = Zombie
 reagent-desc-zombiecocktail = It gets in your head. Your he-eyeh-ead.
+
+reagent-name-krumpari = Krumpari
+reagent-desc-krumpari = Red, spicy, citrusy, and most of all, bitter.
+
+reagent-name-jagermann = Jagermann
+reagent-desc-jagermann = Sweet, sweet herbal goodness.
+
+reagent-name-gingerbeer = Ginger Beer
+reagent-desc-gingerbeer = If root beer was made only with ginger, but also alchoholic... actually, completely different beverages.

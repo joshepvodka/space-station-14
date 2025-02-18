@@ -531,6 +531,42 @@
     - Wine
     - DrinkBottle
 
+- type: entity
+  parent: [DrinkBottleVisualsAll, DrinkBottleGlassBaseFull]
+  id: DrinkKrumpariBottleFull
+  name: krumpari bottle
+  description: Da red makes it bittah.
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        reagents:
+        - ReagentId: Krumpari
+          Quantity: 100
+  - type: Label
+    currentLabel: reagent-name-krumpari
+  - type: Sprite
+    sprite: Objects/Consumable/Drinks/krumparibottle.rsi
+  - type: Sealable
+
+- type: entity
+  parent: [DrinkBottleVisualsAll, DrinkBottleGlassBaseFull]
+  id: DrinkJagermannBottleFull
+  name: jagermann bottle
+  description: German inspired herb infused alchoholic beverage. Best served encased in a block of ice.
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        reagents:
+        - ReagentId: Jagermann
+          Quantity: 100
+  - type: Label
+    currentLabel: reagent-name-jagermann
+  - type: Sprite
+    sprite: Objects/Consumable/Drinks/jagermannbottle.rsi
+  - type: Sealable
+
 # Small Bottles
 
 - type: entity
@@ -708,6 +744,25 @@
   - type: Sprite
     sprite: Objects/Consumable/Drinks/sakebottle.rsi
   - type: Sealable
+
+- type: entity
+  parent: [DrinkBottleVisualsOpenable, DrinkBottleGlassBaseFull]
+  id: DrinkGingerBeerBottleFull
+  name: ginger beer bottle
+  description: Not to be confused with ginger ale.
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        reagents:
+        - ReagentId: GingerBeer
+          Quantity: 50
+  - type: Label
+    currentLabel: reagent-name-gingerbeer
+  - type: Sprite
+    sprite: Objects/Consumable/Drinks/gingerbeerbottle.rsi
+  - type: Openable
+    closeable: false
 
 # Cartons, TODO: this needs to be moved elsewhere eventually, since cartons shouldnt smash into glass shards
 
